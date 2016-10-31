@@ -64,8 +64,7 @@ for subdirectory in os.listdir("libraries"):
             with open(package_init, 'a'):
                 pass
             print(output_directory, 512)
-            print(package_init, 512)
-            total_size = 1024
+            total_size += 512
 
         for filename in py_files:
             full_path = os.path.join(library_path, filename)
@@ -75,14 +74,6 @@ for subdirectory in os.listdir("libraries"):
                 print("mpy-cross failed on", full_path)
                 success = False
                 continue
-            file_size = os.stat(output_file).st_size
-            file_sector_size = file_size
-            if file_size % 512 != 0:
-                file_sector_size = (file_size // 512 + 1) * 512
-            total_size += file_sector_size
-            print(output_file, file_size, file_sector_size)
-
-print(total_size, "B", total_size / 1024, "kiB", total_size / 1024 / 1024, "MiB")
 
 version = None
 tag = subprocess.run(shlex.split("git describe --tags --exact-match"), stdout=subprocess.PIPE, stderr=subprocess.PIPE)
@@ -108,13 +99,29 @@ with open("build/lib/VERSIONS.txt", "w") as f:
 
 zip_filename = 'build/adafruit-micropython-bundle-' + version.decode("utf-8", "strict") + '.zip'
 
+def add_file(bundle, src_file, zip_name):
+    global total_size
+    bundle.write(src_file, zip_name)
+    file_size = os.stat(src_file).st_size
+    file_sector_size = file_size
+    if file_size % 512 != 0:
+     file_sector_size = (file_size // 512 + 1) * 512
+    total_size += file_sector_size
+    print(zip_name, file_size, file_sector_size)
+
+
 with zipfile.ZipFile(zip_filename, 'w') as bundle:
+    for filename in os.listdir("update_scripts"):
+        src_file = os.path.join("update_scripts", filename)
+        add_file(bundle, src_file, os.path.join("lib", filename))
     for root, dirs, files in os.walk("build/lib"):
         ziproot = root[len("build/"):].replace("-", "_")
         for filename in files:
-            bundle.write(os.path.join(root, filename),
-                         os.path.join(ziproot, filename.replace("-", "_")))
+            add_file(bundle, os.path.join(root, filename),
+                     os.path.join(ziproot, filename.replace("-", "_")))
 
+print()
+print(total_size, "B", total_size / 1024, "kiB", total_size / 1024 / 1024, "MiB")
 print("Bundled in", zip_filename)
 if not success:
     sys.exit(2)
