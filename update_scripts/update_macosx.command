@@ -10,7 +10,7 @@ fi
 if [ $current == $tag ]
 then echo "Already updated to the latest."; exit 0
 fi
-$save_to=~/Downloads/$(basename $download_link)
+save_to=~/Downloads/$(basename $download_link)
 echo "Downloading to " $save_to
 curl -sL $download_link > $save_to
 unzip -o $save_to -d ..
