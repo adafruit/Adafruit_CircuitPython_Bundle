@@ -109,8 +109,8 @@ def add_file(bundle, src_file, zip_name):
     total_size += file_sector_size
     print(zip_name, file_size, file_sector_size)
 
-
 with zipfile.ZipFile(zip_filename, 'w') as bundle:
+    add_file(bundle, "README.txt", "lib/README.txt")
     for filename in os.listdir("update_scripts"):
         src_file = os.path.join("update_scripts", filename)
         add_file(bundle, src_file, os.path.join("lib", filename))
