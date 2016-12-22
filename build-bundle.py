@@ -52,8 +52,15 @@ for subdirectory in os.listdir("libraries"):
         library_path = os.path.join("libraries", subdirectory, library)
 
         py_files = []
+        package_files = []
         for filename in os.listdir(library_path):
-            if filename.endswith(".py") and filename != "setup.py":
+            full_path = os.path.join(library_path, filename)
+            if os.path.isdir(full_path) and os.path.isfile(os.path.join(full_path, "__init__.py")):
+                files = os.listdir(full_path)
+                files = filter(lambda x: x.endswith(".py"), files)
+                files = map(lambda x: os.path.join(filename, x), files)
+                package_files.extend(files)
+            if filename.endswith(".py") and filename != "setup.py" and filename != "conf.py":
                 py_files.append(filename)
 
         output_directory = os.path.join("build", "lib")
@@ -66,6 +73,14 @@ for subdirectory in os.listdir("libraries"):
             print(output_directory, 512)
             total_size += 512
 
+        if len(package_files) > 1:
+            for fn in package_files:
+                base_dir = os.path.join(output_directory, os.path.dirname(fn))
+                if not os.path.isdir(base_dir):
+                    os.makedirs(base_dir)
+                    print(base_dir, 512)
+                    total_size += 512
+
         for filename in py_files:
             full_path = os.path.join(library_path, filename)
             output_file = os.path.join(output_directory, filename.replace(".py", ".mpy"))
@@ -74,6 +89,19 @@ for subdirectory in os.listdir("libraries"):
                 print("mpy-cross failed on", full_path)
                 success = False
                 continue
+
+        for filename in package_files:
+            full_path = os.path.join(library_path, filename)
+            if os.stat(full_path).st_size == 0 or filename.endswith("__init__.py"):
+                output_file = os.path.join(output_directory, filename)
+                shutil.copyfile(full_path, output_file)
+            else:
+                output_file = os.path.join(output_directory, filename.replace(".py", ".mpy"))
+                mpy_success = subprocess.call([mpy_cross, "-o", output_file, full_path])
+                if mpy_success != 0:
+                    print("mpy-cross failed on", full_path)
+                    success = False
+                    continue
 
 version = None
 tag = subprocess.run(shlex.split("git describe --tags --exact-match"), stdout=subprocess.PIPE, stderr=subprocess.PIPE)

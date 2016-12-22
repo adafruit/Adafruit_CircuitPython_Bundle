@@ -28,3 +28,12 @@
 [submodule "libraries/drivers/tcs34725"]
 	path = libraries/drivers/tcs34725
 	url = git@github.com:adafruit/micropython-adafruit-tcs34725.git
+[submodule "libraries/register"]
+	path = libraries/helpers/register
+	url = git@github.com:adafruit/Adafruit_MicroPython_Register.git
+[submodule "libraries/bus_device"]
+	path = libraries/helpers/bus_device
+	url = git@github.com:adafruit/Adafruit_MicroPython_BusDevice.git
+[submodule "libraries/drivers/neopixel"]
+	path = libraries/drivers/neopixel
+	url = git@github.com:adafruit/Adafruit_MicroPython_NeoPixel.git
