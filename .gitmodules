@@ -37,3 +37,6 @@
 [submodule "libraries/drivers/neopixel"]
 	path = libraries/drivers/neopixel
 	url = git@github.com:adafruit/Adafruit_MicroPython_NeoPixel.git
+[submodule "libraries/helpers/simpleio"]
+	path = libraries/helpers/simpleio
+	url = git@github.com:adafruit/Adafruit_CircuitPython_SimpleIO.git
