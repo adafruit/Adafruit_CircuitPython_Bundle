@@ -1,6 +1,6 @@
-[submodule "micropython"]
-	path = micropython
-	url = https://github.com/adafruit/micropython
+[submodule "circuitpython"]
+	path = circuitpython
+	url = https://github.com/adafruit/circuitpython
 [submodule "libraries/drivers/pca9685"]
 	path = libraries/drivers/pca9685
 	url = git@github.com:adafruit/micropython-adafruit-pca9685.git
@@ -30,10 +30,10 @@
 	url = git@github.com:adafruit/micropython-adafruit-tcs34725.git
 [submodule "libraries/register"]
 	path = libraries/helpers/register
-	url = git@github.com:adafruit/Adafruit_MicroPython_Register.git
+	url = git@github.com:adafruit/Adafruit_CircuitPython_Register.git
 [submodule "libraries/bus_device"]
 	path = libraries/helpers/bus_device
-	url = git@github.com:adafruit/Adafruit_MicroPython_BusDevice.git
+	url = git@github.com:adafruit/Adafruit_CircuitPython_BusDevice.git
 [submodule "libraries/drivers/neopixel"]
 	path = libraries/drivers/neopixel
 	url = git@github.com:adafruit/Adafruit_MicroPython_NeoPixel.git

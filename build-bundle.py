@@ -29,7 +29,7 @@ import sys
 import subprocess
 import zipfile
 
-os.chdir("micropython/mpy-cross")
+os.chdir("circuitpython/mpy-cross")
 make = subprocess.run(["make"])
 os.chdir("../../")
 
@@ -37,7 +37,7 @@ if make.returncode != 0:
     print("Unable to make mpy-cross.")
     sys.exit(1)
 
-mpy_cross = "micropython/mpy-cross/mpy-cross"
+mpy_cross = "circuitpython/mpy-cross/mpy-cross"
 
 if "build" in os.listdir("."):
     print("Deleting existing build.")
@@ -125,7 +125,7 @@ with open("build/lib/VERSIONS.txt", "w") as f:
         else:
             f.write(repo.decode("utf-8", "strict") + "/releases/tag/" + line.strip().decode("utf-8", "strict") + "\r\n")
 
-zip_filename = 'build/adafruit-micropython-bundle-' + version.decode("utf-8", "strict") + '.zip'
+zip_filename = 'build/adafruit-circuitpython-bundle-' + version.decode("utf-8", "strict") + '.zip'
 
 def add_file(bundle, src_file, zip_name):
     global total_size

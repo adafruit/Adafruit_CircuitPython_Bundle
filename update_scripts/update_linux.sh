@@ -1,5 +1,5 @@
 #! /bin/bash
-latest_release=$(curl -s  "https://api.github.com/repos/adafruit/micropython-adafruit-bundle/releases/latest")
+latest_release=$(curl -s  "https://api.github.com/repos/adafruit/Adafruit_CircuitPython_Bundle/releases/latest")
 download_link=$(echo $latest_release | grep -o "\"browser_download_url\": \"[^\"]*" | cut -d \" -f 4)
 tag=$(echo $latest_release | grep -o "\"tag_name\": \"[^\"]*" | cut -d \" -f 4)
 current=$(head -n 1 VERSIONS.txt | tr -d '[:space:]')
