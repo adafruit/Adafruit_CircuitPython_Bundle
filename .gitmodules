@@ -40,3 +40,6 @@
 [submodule "libraries/helpers/simpleio"]
 	path = libraries/helpers/simpleio
 	url = git@github.com:adafruit/Adafruit_CircuitPython_SimpleIO.git
+[submodule "libraries/drivers/mcp9808"]
+	path = libraries/drivers/mcp9808
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MCP9808.git
