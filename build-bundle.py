@@ -116,7 +116,7 @@ with open("build/lib/VERSIONS.txt", "w") as f:
     versions = subprocess.run(shlex.split("git submodule foreach \"git remote get-url origin && git describe --tags\""), stdout=subprocess.PIPE)
     repo = None
     for line in versions.stdout.split(b"\n"):
-        if line.startswith(b"Entering"):
+        if line.startswith(b"Entering") or not line:
             continue
         if line.startswith(b"git@"):
             repo = b"https://github.com/" + line.split(b":")[1][:-len(".git")]
