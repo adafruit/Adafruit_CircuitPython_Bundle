@@ -7,7 +7,8 @@ download zip file. CircuitPython boards can ship with the contents of the zip to
 make it easy to provide a lot of libraries by default.
 
 # Use
-To use the bundle download the zip (not source zip) from the latest release,
+To use the bundle download the zip (not source zip) from the
+[latest release](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest),
 unzip it and copy over the subfolders, such as `lib`, into the root of your
 CircuitPython device.
 
