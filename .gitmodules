@@ -43,3 +43,6 @@
 [submodule "libraries/drivers/mcp9808"]
 	path = libraries/drivers/mcp9808
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MCP9808.git
+[submodule "libraries/drivers/thermistor"]
+	path = libraries/drivers/thermistor
+	url = git@github.com:adafruit/Adafruit_CircuitPython_Thermistor.git
