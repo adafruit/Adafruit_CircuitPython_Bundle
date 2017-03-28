@@ -46,3 +46,21 @@
 [submodule "libraries/drivers/thermistor"]
 	path = libraries/drivers/thermistor
 	url = git@github.com:adafruit/Adafruit_CircuitPython_Thermistor.git
+[submodule "libraries/drivers/mpr121"]
+	path = libraries/drivers/mpr121
+	url = git@github.com:adafruit/Adafruit_CircuitPython_MPR121.git
+[submodule "libraries/drivers/si7021"]
+	path = libraries/drivers/si7021
+	url = git@github.com:adafruit/Adafruit_CircuitPython_SI7021.git
+[submodule "libraries/drivers/max31855"]
+	path = libraries/drivers/max31855
+	url = git@github.com:adafruit/Adafruit_CircuitPython_MAX31855.git
+[submodule "libraries/drivers/bno055"]
+	path = libraries/drivers/bno055
+	url = git@github.com:adafruit/Adafruit_CircuitPython_BNO055.git
+[submodule "libraries/drivers/lis3dh"]
+	path = libraries/drivers/lis3dh
+	url = git@github.com:adafruit/Adafruit_CircuitPython_LIS3DH.git
+[submodule "libraries/helpers/hid"]
+	path = libraries/helpers/hid
+	url = git@github.com:adafruit/Adafruit_CircuitPython_HID.git
