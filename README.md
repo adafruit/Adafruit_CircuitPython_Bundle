@@ -29,6 +29,12 @@ Determine the best location within `libraries` for the new library and then run:
 The target directory should omit any MicroPython or CircuitPython specific
 prefixes such as `adafruit-micropython` to simplify the listing.
 
+## Removing a library
+Only do this if you are replacing the module with an equivalent:
+
+    git submodule deinit libraries/<target directory>
+    git rm libraries/<target directory>
+
 ## Building the bundle
 To build the bundle run `build-bundle.py` it requires Python 3.5+ and will
 produce a zip file in `build`. The file structure of the zip will not be

@@ -1,27 +1,15 @@
 [submodule "circuitpython"]
 	path = circuitpython
 	url = https://github.com/adafruit/circuitpython
-[submodule "libraries/drivers/pca9685"]
-	path = libraries/drivers/pca9685
-	url = git@github.com:adafruit/micropython-adafruit-pca9685.git
-[submodule "libraries/drivers/ssd1306"]
-	path = libraries/drivers/ssd1306
-	url = git@github.com:adafruit/micropython-adafruit-ssd1306.git
 [submodule "libraries/drivers/max7219"]
 	path = libraries/drivers/max7219
 	url = git@github.com:adafruit/micropython-adafruit-max7219.git
 [submodule "libraries/drivers/is31fl3731"]
 	path = libraries/drivers/is31fl3731
 	url = git@github.com:adafruit/micropython-adafruit-is31fl3731.git
-[submodule "libraries/drivers/ht16k33"]
-	path = libraries/drivers/ht16k33
-	url = git@github.com:adafruit/micropython-adafruit-ht16k33.git
 [submodule "libraries/drivers/ads1015"]
 	path = libraries/drivers/ads1015
 	url = git@github.com:adafruit/micropython-adafruit-ads1015.git
-[submodule "libraries/drivers/rgb-display"]
-	path = libraries/drivers/rgb-display
-	url = git@github.com:adafruit/micropython-adafruit-rgb-display.git
 [submodule "libraries/drivers/tsl2561"]
 	path = libraries/drivers/tsl2561
 	url = git@github.com:adafruit/micropython-adafruit-tsl2561.git
@@ -34,9 +22,6 @@
 [submodule "libraries/bus_device"]
 	path = libraries/helpers/bus_device
 	url = git@github.com:adafruit/Adafruit_CircuitPython_BusDevice.git
-[submodule "libraries/drivers/neopixel"]
-	path = libraries/drivers/neopixel
-	url = git@github.com:adafruit/Adafruit_MicroPython_NeoPixel.git
 [submodule "libraries/helpers/simpleio"]
 	path = libraries/helpers/simpleio
 	url = git@github.com:adafruit/Adafruit_CircuitPython_SimpleIO.git
