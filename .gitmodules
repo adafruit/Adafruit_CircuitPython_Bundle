@@ -49,3 +49,18 @@
 [submodule "libraries/helpers/hid"]
 	path = libraries/helpers/hid
 	url = git@github.com:adafruit/Adafruit_CircuitPython_HID.git
+[submodule "cipy_pca9685"]
+	path = libraries/drivers/pca9685
+	url = git@github.com:adafruit/Adafruit_CircuitPython_PCA9685.git
+[submodule "cipy_ht16k33"]
+	path = libraries/drivers/ht16k33
+	url = git@github.com:adafruit/Adafruit_CircuitPython_HT16K33.git
+[submodule "rgb_display"]
+	path = libraries/drivers/rgb-display
+	url = git@github.com:adafruit/Adafruit_CircuitPython_RGB_Display.git
+[submodule "cipy_neopixel"]
+	path = libraries/drivers/neopixel
+	url = git@github.com:adafruit/Adafruit_CircuitPython_NeoPixel.git
+[submodule "cipy_ssd1306"]
+	path = libraries/drivers/ssd1306
+	url = git@github.com:adafruit/Adafruit_CircuitPython_SSD1306.git
