@@ -64,3 +64,6 @@
 [submodule "cipy_ssd1306"]
 	path = libraries/drivers/ssd1306
 	url = git@github.com:adafruit/Adafruit_CircuitPython_SSD1306.git
+[submodule "libraries/drivers/pcf8523"]
+	path = libraries/drivers/pcf8523
+	url = git@github.com:adafruit/Adafruit_CircuitPython_PCF8523.git
