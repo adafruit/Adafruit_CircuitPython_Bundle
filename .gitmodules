@@ -1,15 +1,6 @@
 [submodule "circuitpython"]
 	path = circuitpython
 	url = https://github.com/adafruit/circuitpython
-[submodule "libraries/drivers/ads1015"]
-	path = libraries/drivers/ads1015
-	url = git@github.com:adafruit/micropython-adafruit-ads1015.git
-[submodule "libraries/drivers/tsl2561"]
-	path = libraries/drivers/tsl2561
-	url = git@github.com:adafruit/micropython-adafruit-tsl2561.git
-[submodule "libraries/drivers/tcs34725"]
-	path = libraries/drivers/tcs34725
-	url = git@github.com:adafruit/micropython-adafruit-tcs34725.git
 [submodule "libraries/register"]
 	path = libraries/helpers/register
 	url = git@github.com:adafruit/Adafruit_CircuitPython_Register.git
