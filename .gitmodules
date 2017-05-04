@@ -55,3 +55,9 @@
 [submodule "is31fl3731_2"]
 	path = libraries/drivers/is31fl3731
 	url = https://github.com/adafruit/Adafruit_CircuitPython_IS31FL3731.git
+[submodule "libraries/helpers/rtttl"]
+	path = libraries/helpers/rtttl
+	url = https://github.com/adafruit/Adafruit_CircuitPython_RTTTL.git
+[submodule "libraries/helpers/waveform"]
+	path = libraries/helpers/waveform
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Waveform.git
