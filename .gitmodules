@@ -61,3 +61,6 @@
 [submodule "libraries/helpers/waveform"]
 	path = libraries/helpers/waveform
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Waveform.git
+[submodule "libraries/drivers/dotstar"]
+	path = libraries/drivers/dotstar
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DotStar.git

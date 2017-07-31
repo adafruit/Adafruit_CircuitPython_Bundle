@@ -10,7 +10,8 @@ make it easy to provide a lot of libraries by default.
 To use the bundle download the zip (not source zip) from the
 [latest release](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest),
 unzip it and copy over the subfolders, such as `lib`, into the root of your
-CircuitPython device.
+CircuitPython device. Make sure to indicate that it should be merged with the
+existing folder when it exists.
 
 # Development
 
