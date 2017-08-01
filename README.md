@@ -1,6 +1,7 @@
 # Adafruit CircuitPython Library Bundle
 
 [![Doc Status](https://readthedocs.org/projects/circuitpython/badge/?version=latest)](https://circuitpython.readthedocs.io/en/latest/docs/drivers.html) [![Gitter](https://badges.gitter.im/adafruit/circuitpython.svg)](https://gitter.im/adafruit/circuitpython?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Discord](https://img.shields.io/discord/327254708534116352.svg)](https://discord.gg/nBQh6qu)
 
 This repo bundles a bunch of useful CircuitPython libraries into an easy to
 download zip file. CircuitPython boards can ship with the contents of the zip to
