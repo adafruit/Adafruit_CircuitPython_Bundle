@@ -64,3 +64,6 @@
 [submodule "libraries/drivers/dotstar"]
 	path = libraries/drivers/dotstar
 	url = https://github.com/adafruit/Adafruit_CircuitPython_DotStar.git
+[submodule "libraries/drivers/circuitplayground"]
+	path = libraries/drivers/circuitplayground
+	url = https://github.com/adafruit/Adafruit_CircuitPython_CircuitPlayground.git
