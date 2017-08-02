@@ -121,7 +121,7 @@ with open("build/lib/VERSIONS.txt", "w") as f:
         if line.startswith(b"git@"):
             repo = b"https://github.com/" + line.split(b":")[1][:-len(".git")]
         elif line.startswith(b"https:"):
-            repo = line.strip()
+            repo = line.strip()[:-len(".git")]
         else:
             f.write(repo.decode("utf-8", "strict") + "/releases/tag/" + line.strip().decode("utf-8", "strict") + "\r\n")
 
