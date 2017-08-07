@@ -67,3 +67,6 @@
 [submodule "libraries/drivers/circuitplayground"]
 	path = libraries/drivers/circuitplayground
 	url = https://github.com/adafruit/Adafruit_CircuitPython_CircuitPlayground.git
+[submodule "libraries/drivers/sdcard"]
+	path = libraries/drivers/sdcard
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SD.git
