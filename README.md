@@ -16,8 +16,8 @@ existing folder when it exists.
 
 # Development
 
-After you clone this repository you must run `git submodule --init` on update
-also do `git submodule update`.
+After you clone this repository you must run `git submodule init`
+and then `git submodule update`.
 
 ## Updating libraries
 To update the libraries run `update-submodules.sh`. The script will fetch the
@@ -42,3 +42,11 @@ To build the bundle run `build-bundle.py` it requires Python 3.5+ and will
 produce a zip file in `build`. The file structure of the zip will not be
 identical to the source `libraries` directory in order to save space. Libraries
 with a single source will not be placed in their own directory.
+
+Note that `adafruit/circuitpython` is one of the submodules that is included.
+It is used to build `mpy-cross` to compile the `.py` files to `.mpy`.
+It is updated to the latest available tag when you run `update-submodules.sh`.
+
+If you don't want to use the latest tagged version, make sure you checkout
+an appropriate branch or tag of `circuitpython` to match the bundle version
+you want to build.
