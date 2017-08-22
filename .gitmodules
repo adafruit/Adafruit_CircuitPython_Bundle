@@ -73,3 +73,6 @@
 [submodule "libraries/drivers/ds3231"]
 	path = libraries/drivers/ds3231
 	url = https://github.com/adafruit/Adafruit_CircuitPython_DS3231.git
+[submodule "libraries/drivers/max7219"]
+	path = libraries/drivers/max7219
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MAX7219.git
