@@ -23,6 +23,10 @@ and then `git submodule update`.
 To update the libraries run `update-submodules.sh`. The script will fetch the
 latest code and update to the newest tag (not master).
 
+To find libraries with commits that haven't been included in a release do:
+
+    git submodule foreach "git log --oneline HEAD...origin/master"
+
 ## Adding a library
 Determine the best location within `libraries` for the new library and then run:
 
