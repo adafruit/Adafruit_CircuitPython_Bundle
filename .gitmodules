@@ -3,55 +3,55 @@
 	url = https://github.com/adafruit/circuitpython
 [submodule "libraries/register"]
 	path = libraries/helpers/register
-	url = git@github.com:adafruit/Adafruit_CircuitPython_Register.git
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Register.git
 [submodule "libraries/bus_device"]
 	path = libraries/helpers/bus_device
-	url = git@github.com:adafruit/Adafruit_CircuitPython_BusDevice.git
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BusDevice.git
 [submodule "libraries/helpers/simpleio"]
 	path = libraries/helpers/simpleio
-	url = git@github.com:adafruit/Adafruit_CircuitPython_SimpleIO.git
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SimpleIO.git
 [submodule "libraries/drivers/mcp9808"]
 	path = libraries/drivers/mcp9808
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MCP9808.git
 [submodule "libraries/drivers/thermistor"]
 	path = libraries/drivers/thermistor
-	url = git@github.com:adafruit/Adafruit_CircuitPython_Thermistor.git
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Thermistor.git
 [submodule "libraries/drivers/mpr121"]
 	path = libraries/drivers/mpr121
-	url = git@github.com:adafruit/Adafruit_CircuitPython_MPR121.git
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MPR121.git
 [submodule "libraries/drivers/si7021"]
 	path = libraries/drivers/si7021
-	url = git@github.com:adafruit/Adafruit_CircuitPython_SI7021.git
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SI7021.git
 [submodule "libraries/drivers/max31855"]
 	path = libraries/drivers/max31855
-	url = git@github.com:adafruit/Adafruit_CircuitPython_MAX31855.git
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MAX31855.git
 [submodule "libraries/drivers/bno055"]
 	path = libraries/drivers/bno055
-	url = git@github.com:adafruit/Adafruit_CircuitPython_BNO055.git
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BNO055.git
 [submodule "libraries/drivers/lis3dh"]
 	path = libraries/drivers/lis3dh
-	url = git@github.com:adafruit/Adafruit_CircuitPython_LIS3DH.git
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LIS3DH.git
 [submodule "libraries/helpers/hid"]
 	path = libraries/helpers/hid
-	url = git@github.com:adafruit/Adafruit_CircuitPython_HID.git
+	url = https://github.com/adafruit/Adafruit_CircuitPython_HID.git
 [submodule "cipy_pca9685"]
 	path = libraries/drivers/pca9685
-	url = git@github.com:adafruit/Adafruit_CircuitPython_PCA9685.git
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PCA9685.git
 [submodule "cipy_ht16k33"]
 	path = libraries/drivers/ht16k33
-	url = git@github.com:adafruit/Adafruit_CircuitPython_HT16K33.git
+	url = https://github.com/adafruit/Adafruit_CircuitPython_HT16K33.git
 [submodule "rgb_display"]
 	path = libraries/drivers/rgb-display
-	url = git@github.com:adafruit/Adafruit_CircuitPython_RGB_Display.git
+	url = https://github.com/adafruit/Adafruit_CircuitPython_RGB_Display.git
 [submodule "cipy_neopixel"]
 	path = libraries/drivers/neopixel
-	url = git@github.com:adafruit/Adafruit_CircuitPython_NeoPixel.git
+	url = https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel.git
 [submodule "cipy_ssd1306"]
 	path = libraries/drivers/ssd1306
-	url = git@github.com:adafruit/Adafruit_CircuitPython_SSD1306.git
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1306.git
 [submodule "libraries/drivers/pcf8523"]
 	path = libraries/drivers/pcf8523
-	url = git@github.com:adafruit/Adafruit_CircuitPython_PCF8523.git
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PCF8523.git
 [submodule "is31fl3731_2"]
 	path = libraries/drivers/is31fl3731
 	url = https://github.com/adafruit/Adafruit_CircuitPython_IS31FL3731.git
