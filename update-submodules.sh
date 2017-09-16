@@ -23,6 +23,8 @@
 # THE SOFTWARE.
 
 # This script updates all submodules to the latest tag (hopefully release).
+# 'init' to make sure any new libraries are incorporated.
+git submodule init
 git submodule update
 git submodule foreach git fetch
 git submodule foreach "tag=\$(git rev-list --tags --max-count=1); git checkout -q \$tag"
