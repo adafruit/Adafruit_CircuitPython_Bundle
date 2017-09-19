@@ -76,3 +76,6 @@
 [submodule "libraries/drivers/max7219"]
 	path = libraries/drivers/max7219
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MAX7219.git
+[submodule "libraries/drivers/dht"]
+	path = libraries/drivers/dht
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DHT.git
