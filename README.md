@@ -42,7 +42,7 @@ Only do this if you are replacing the module with an equivalent:
     git rm libraries/<target directory>
 
 ## Building the bundle
-To build the bundle run `build-bundle.py` it requires Python 3.5+ and will
+To build the bundle run `build-bundles.py` it requires Python 3.5+ and will
 produce a zip file in `build`. The file structure of the zip will not be
 identical to the source `libraries` directory in order to save space. Libraries
 with a single source will not be placed in their own directory.
