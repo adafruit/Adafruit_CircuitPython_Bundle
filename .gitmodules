@@ -79,3 +79,6 @@
 [submodule "libraries/drivers/dht"]
 	path = libraries/drivers/dht
 	url = https://github.com/adafruit/Adafruit_CircuitPython_DHT.git
+[submodule "libraries/drivers/charlcd"]
+	path = libraries/drivers/charlcd
+	url = https://github.com/adafruit/Adafruit_CircuitPython_CharLCD.git
