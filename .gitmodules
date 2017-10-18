@@ -79,6 +79,3 @@
 [submodule "libraries/drivers/dht"]
 	path = libraries/drivers/dht
 	url = https://github.com/adafruit/Adafruit_CircuitPython_DHT.git
-[submodule "libraries/drivers/CCS811"]
-	path = libraries/drivers/CCS811
-	url = https://github.com/adafruit/Adafruit_CircuitPython_CCS811.git
