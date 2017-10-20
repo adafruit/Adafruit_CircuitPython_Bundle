@@ -173,5 +173,5 @@ if __name__ == "__main__":
         print("Go ahead and tag. I'll wait.")
         sys.exit(3)
     build_bundle("1.0.0")
-    build_bundle("2.0.0")
+    build_bundle("2.1.0")
 
