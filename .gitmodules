@@ -91,3 +91,6 @@
 [submodule "libraries/drivers/bme680"]
 	path = libraries/drivers/bme680
 	url = https://github.com/adafruit/Adafruit_CircuitPython_BME680.git
+[submodule "libraries/drivers/tsl2561"]
+	path = libraries/drivers/tsl2561
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TSL2561.git
