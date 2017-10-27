@@ -82,3 +82,6 @@
 [submodule "libraries/drivers/ccs811"]
 	path = libraries/drivers/ccs811
 	url = https://github.com/adafruit/Adafruit_CircuitPython_CCS811.git
+[submodule "libraries/drivers/bmp280"]
+	path = libraries/drivers/bmp280
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BMP280
