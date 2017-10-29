@@ -84,4 +84,10 @@
 	url = https://github.com/adafruit/Adafruit_CircuitPython_CCS811.git
 [submodule "libraries/drivers/bmp280"]
 	path = libraries/drivers/bmp280
-	url = https://github.com/adafruit/Adafruit_CircuitPython_BMP280
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BMP280.git
+[submodule "libraries/drivers/bme280"]
+	path = libraries/drivers/bme280
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BME280.git
+[submodule "libraries/drivers/bme680"]
+	path = libraries/drivers/bme680
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BME680.git
