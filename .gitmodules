@@ -94,3 +94,6 @@
 [submodule "libraries/drivers/tsl2561"]
 	path = libraries/drivers/tsl2561
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TSL2561.git
+[submodule "libraries/drivers/ads1x15"]
+	path = libraries/drivers/ads1x15
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ADS1x15.git
