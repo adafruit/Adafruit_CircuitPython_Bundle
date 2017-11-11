@@ -97,3 +97,9 @@
 [submodule "libraries/drivers/ads1x15"]
 	path = libraries/drivers/ads1x15
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ADS1x15.git
+[submodule "libraries/drivers/gps"]
+	path = libraries/drivers/gps
+	url = https://github.com/adafruit/Adafruit_CircuitPython_GPS.git
+[submodule "libraries/drivers/vc0706"]
+	path = libraries/drivers/vc0706
+	url = https://github.com/adafruit/Adafruit_CircuitPython_VC0706.git
