@@ -18,4 +18,4 @@ deploy:
   on:
     tags: true
 
-script: circuitpython-build-bundles . bundles adafruit-circuitpython-bundle
+script: circuitpython-build-bundles --filename_prefix adafruit-circuitpython-bundle --library_location libraries --library_depth 2
