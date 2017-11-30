@@ -103,3 +103,6 @@
 [submodule "libraries/drivers/vc0706"]
 	path = libraries/drivers/vc0706
 	url = https://github.com/adafruit/Adafruit_CircuitPython_VC0706.git
+[submodule "libraries/drivers/charlcd"]
+	path = libraries/drivers/charlcd
+	url = https://github.com/adafruit/Adafruit_CircuitPython_CharLCD.git
