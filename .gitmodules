@@ -106,3 +106,9 @@
 [submodule "libraries/drivers/charlcd"]
 	path = libraries/drivers/charlcd
 	url = https://github.com/adafruit/Adafruit_CircuitPython_CharLCD.git
+[submodule "libraries/drivers/amg88xx"]
+	path = libraries/drivers/amg88xx
+	url = https://github.com/adafruit/Adafruit_CircuitPython_AMG88xx
+[submodule "libraries/drivers/seesaw"]
+	path = libraries/drivers/seesaw
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Seesaw
