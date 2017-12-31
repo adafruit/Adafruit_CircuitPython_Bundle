@@ -112,3 +112,6 @@
 [submodule "libraries/drivers/seesaw"]
 	path = libraries/drivers/seesaw
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Seesaw
+[submodule "libraries/drivers/fingerprint"]
+	path = libraries/drivers/fingerprint
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Fingerprint
