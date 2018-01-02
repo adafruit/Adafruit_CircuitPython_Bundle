@@ -151,3 +151,6 @@
 [submodule "libraries/drivers/vl530l0x"]
 	path = libraries/drivers/vl530l0x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_VL53L0X.git
+[submodule "libraries/drivers/apds9960"]
+	path = libraries/drivers/apds9960
+	url = https://github.com/adafruit/Adafruit_CircuitPython_APDS9960
