@@ -115,3 +115,39 @@
 [submodule "libraries/drivers/fingerprint"]
 	path = libraries/drivers/fingerprint
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Fingerprint
+[submodule "libraries/drivers/max31865"]
+	path = libraries/drivers/max31865
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MAX31865.git
+[submodule "libraries/drivers/ina219"]
+	path = libraries/drivers/ina219
+	url = https://github.com/adafruit/Adafruit_CircuitPython_INA219.git
+[submodule "libraries/drivers/ds1307"]
+	path = libraries/drivers/ds1307
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DS1307.git
+[submodule "libraries/drivers/irremote"]
+	path = libraries/drivers/irremote
+	url = https://github.com/adafruit/Adafruit_CircuitPython_IRRemote.git
+[submodule "libraries/drivers/fxos8700"]
+	path = libraries/drivers/fxos8700
+	url = https://github.com/adafruit/Adafruit_CircuitPython_FXOS8700.git
+[submodule "libraries/drivers/vcnl4010"]
+	path = libraries/drivers/vcnl4010
+	url = https://github.com/adafruit/Adafruit_CircuitPython_VCNL4010.git
+[submodule "libraries/drivers/drv2605"]
+	path = libraries/drivers/drv2605
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DRV2605.git
+[submodule "libraries/drivers/tcs34725"]
+	path = libraries/drivers/tcs34725
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TCS34725.git
+[submodule "libraries/drivers/lsm9ds0"]
+	path = libraries/drivers/lsm9ds0
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS0.git
+[submodule "libraries/drivers/lsm9ds1"]
+	path = libraries/drivers/lsm9ds1
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS1.git
+[submodule "libraries/drivers/fxas21002c"]
+	path = libraries/drivers/fxas21002c
+	url = https://github.com/adafruit/Adafruit_CircuitPython_FXAS21002C.git
+[submodule "libraries/drivers/vl530l0x"]
+	path = libraries/drivers/vl530l0x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_VL53L0X.git
