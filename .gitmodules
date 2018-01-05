@@ -1,6 +1,3 @@
-[submodule "circuitpython"]
-	path = circuitpython
-	url = https://github.com/adafruit/circuitpython
 [submodule "libraries/register"]
 	path = libraries/helpers/register
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Register.git

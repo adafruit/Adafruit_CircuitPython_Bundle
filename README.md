@@ -32,8 +32,8 @@ Determine the best location within `libraries` for the new library and then run:
 
     git submodule add <git url> libraries/<target directory>
 
-The target directory should omit any MicroPython or CircuitPython specific
-prefixes such as `adafruit-micropython` to simplify the listing.
+The target directory should omit any CircuitPython specific prefixes such as
+`adafruit-circuitpython` to simplify the listing.
 
 ## Removing a library
 Only do this if you are replacing the module with an equivalent:
@@ -42,15 +42,17 @@ Only do this if you are replacing the module with an equivalent:
     git rm libraries/<target directory>
 
 ## Building the bundle
-To build the bundle run `build-bundles.py` it requires Python 3.5+ and will
-produce a zip file in `build`. The file structure of the zip will not be
-identical to the source `libraries` directory in order to save space. Libraries
-with a single source will not be placed in their own directory.
+To build this bundle locally you'll need to install the
+`circuitpython-build-tools <https://github.com/adafruit/circuitpython-build-tools>`_ package.
 
-Note that `adafruit/circuitpython` is one of the submodules that is included.
-It is used to build `mpy-cross` to compile the `.py` files to `.mpy`.
-It is updated to the latest available tag when you run `update-submodules.sh`.
+    python3 -m venv .env
+    source .env/bin/activate
+    pip install circuitpython-build-tools
 
-If you don't want to use the latest tagged version, make sure you checkout
-an appropriate branch or tag of `circuitpython` to match the bundle version
-you want to build.
+Once installed, make sure you are in the virtual environment:
+
+    source .env/bin/activate
+
+Then run the build:
+
+    circuitpython-build-bundles --filename_prefix adafruit-circuitpython-bundle --library_location libraries --library_depth 2
