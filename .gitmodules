@@ -151,3 +151,9 @@
 [submodule "libraries/drivers/apds9960"]
 	path = libraries/drivers/apds9960
 	url = https://github.com/adafruit/Adafruit_CircuitPython_APDS9960
+[submodule "libraries/helpers/featherwing"]
+	path = libraries/helpers/featherwing
+	url = https://github.com/adafruit/Adafruit_CircuitPython_FeatherWing.git
+[submodule "libraries/helpers/motor"]
+	path = libraries/helpers/motor
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Motor.git
