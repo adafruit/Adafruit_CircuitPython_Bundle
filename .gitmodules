@@ -157,3 +157,6 @@
 [submodule "libraries/helpers/motor"]
 	path = libraries/helpers/motor
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Motor.git
+[submodule "libraries/helpers/avrprog"]
+	path = libraries/helpers/avrprog
+	url = https://github.com/adafruit/Adafruit_CircuitPython_AVRprog.git
