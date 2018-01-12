@@ -160,3 +160,6 @@
 [submodule "libraries/helpers/avrprog"]
 	path = libraries/helpers/avrprog
 	url = https://github.com/adafruit/Adafruit_CircuitPython_AVRprog.git
+[submodule "libraries/drivers/sgp30"]
+	path = libraries/drivers/sgp30
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SGP30.git
