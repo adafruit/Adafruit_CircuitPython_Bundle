@@ -169,3 +169,6 @@
 [submodule "libraries/helpers/onewire"]
 	path = libraries/helpers/onewire
 	url = https://github.com/adafruit/Adafruit_CircuitPython_OneWire.git
+[submodule "libraries/drivers/vl6180x"]
+	path = libraries/drivers/vl6180x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_VL6180X.git
