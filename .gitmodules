@@ -172,3 +172,6 @@
 [submodule "libraries/drivers/vl6180x"]
 	path = libraries/drivers/vl6180x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_VL6180X.git
+[submodule "libraries/drivers/ds2413"]
+	path = libraries/drivers/ds2413
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DS2413.git
