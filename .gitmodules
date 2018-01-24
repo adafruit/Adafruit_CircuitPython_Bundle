@@ -175,3 +175,6 @@
 [submodule "libraries/drivers/ds2413"]
 	path = libraries/drivers/ds2413
 	url = https://github.com/adafruit/Adafruit_CircuitPython_DS2413.git
+[submodule "libraries/drivers/thermal_printer"]
+	path = libraries/drivers/thermal_printer
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Thermal_Printer.git
