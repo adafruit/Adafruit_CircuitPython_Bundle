@@ -181,3 +181,6 @@
 [submodule "libraries/drivers/rfm69"]
 	path = libraries/drivers/rfm69
 	url = https://github.com/adafruit/Adafruit_CircuitPython_RFM69.git
+[submodule "libraries/drivers/veml6070"]
+	path = libraries/drivers/veml6070
+	url = https://github.com/adafruit/Adafruit_CircuitPython_VEML6070.git
