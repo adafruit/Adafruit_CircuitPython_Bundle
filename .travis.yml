@@ -15,6 +15,7 @@ deploy:
   file_glob: true
   file: bundles/*
   skip_cleanup: true
+  overwrite: true
   on:
     tags: true
 
