@@ -184,3 +184,6 @@
 [submodule "libraries/drivers/veml6070"]
 	path = libraries/drivers/veml6070
 	url = https://github.com/adafruit/Adafruit_CircuitPython_VEML6070.git
+[submodule "libraries/helpers/fancyled"]
+	path = libraries/helpers/fancyled
+	url = https://github.com/adafruit/Adafruit_CircuitPython_FancyLED.git
