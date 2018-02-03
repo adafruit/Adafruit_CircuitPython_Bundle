@@ -187,3 +187,6 @@
 [submodule "libraries/helpers/fancyled"]
 	path = libraries/helpers/fancyled
 	url = https://github.com/adafruit/Adafruit_CircuitPython_FancyLED.git
+[submodule "libraries/drivers/tsl2591"]
+	path = libraries/drivers/tsl2591
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TSL2591.git
