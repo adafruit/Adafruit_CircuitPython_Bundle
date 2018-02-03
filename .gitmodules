@@ -190,3 +190,6 @@
 [submodule "libraries/drivers/tsl2591"]
 	path = libraries/drivers/tsl2591
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TSL2591.git
+[submodule "libraries/drivers/mcp4725"]
+	path = libraries/drivers/mcp4725
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MCP4725.git
