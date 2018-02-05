@@ -208,3 +208,6 @@
 [submodule "libraries/drivers/si5351"]
 	path = libraries/drivers/si5351
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SI5351.git
+[submodule "libraries/drivers/sht31"]
+	path = libraries/drivers/sht31
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SHT31D
