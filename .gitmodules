@@ -205,3 +205,6 @@
 [submodule "libraries/drivers/mma8451"]
 	path = libraries/drivers/mma8451
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MMA8451.git
+[submodule "libraries/drivers/si5351"]
+	path = libraries/drivers/si5351
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SI5351.git
