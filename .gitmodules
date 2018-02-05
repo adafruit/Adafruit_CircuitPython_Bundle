@@ -196,3 +196,9 @@
 [submodule "libraries/drivers/max9744"]
 	path = libraries/drivers/max9744
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MAX9744.git
+[submodule "libraries/drivers/tlc59711"]
+	path = libraries/drivers/tlc59711
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TLC59711.git
+[submodule "libraries/drivers/tlc5947"]
+	path = libraries/drivers/tlc5947
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TLC5947.git
