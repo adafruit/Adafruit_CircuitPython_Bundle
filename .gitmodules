@@ -202,3 +202,6 @@
 [submodule "libraries/drivers/tlc5947"]
 	path = libraries/drivers/tlc5947
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TLC5947.git
+[submodule "libraries/drivers/mma8451"]
+	path = libraries/drivers/mma8451
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MMA8451.git
