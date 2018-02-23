@@ -211,3 +211,6 @@
 [submodule "libraries/drivers/sht31"]
 	path = libraries/drivers/sht31
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SHT31D
+[submodule "libraries/drivers/si4713"]
+	path = libraries/drivers/si4713
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SI4713.git
