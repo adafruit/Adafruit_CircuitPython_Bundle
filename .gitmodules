@@ -214,3 +214,6 @@
 [submodule "libraries/drivers/si4713"]
 	path = libraries/drivers/si4713
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SI4713.git
+[submodule "libraries/drivers/mpl3115a2"]
+	path = libraries/drivers/mpl3115a2
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MPL3115A2.git
