@@ -163,9 +163,6 @@
 [submodule "libraries/drivers/sgp30"]
 	path = libraries/drivers/sgp30
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SGP30.git
-[submodule "libraries/drivers/ds18x20"]
-	path = libraries/drivers/ds18x20
-	url = https://github.com/adafruit/Adafruit_CircuitPython_DS18X20.git
 [submodule "libraries/helpers/onewire"]
 	path = libraries/helpers/onewire
 	url = https://github.com/adafruit/Adafruit_CircuitPython_OneWire.git
@@ -220,3 +217,6 @@
 [submodule "libraries/drivers/lsm303"]
 	path = libraries/drivers/lsm303
 	url = https://github.com/adafruit/Adafruit_CircuitPython_LSM303.git
+[submodule "libraries/drivers/ds18x20"]
+	path = libraries/drivers/ds18x20
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DS18X20.git
