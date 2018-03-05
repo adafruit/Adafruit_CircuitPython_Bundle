@@ -165,7 +165,7 @@
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SGP30.git
 [submodule "libraries/drivers/ds18x20"]
 	path = libraries/drivers/ds18x20
-	url = https://github.com/adafruit/Adafruit_CircuitPython_OneWire.git
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DS18X20.git
 [submodule "libraries/helpers/onewire"]
 	path = libraries/helpers/onewire
 	url = https://github.com/adafruit/Adafruit_CircuitPython_OneWire.git
