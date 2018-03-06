@@ -220,3 +220,6 @@
 [submodule "libraries/drivers/ds18x20"]
 	path = libraries/drivers/ds18x20
 	url = https://github.com/adafruit/Adafruit_CircuitPython_DS18X20.git
+[submodule "libraries/drivers/rfm9x"]
+	path = libraries/drivers/rfm9x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_RFM9x.git
