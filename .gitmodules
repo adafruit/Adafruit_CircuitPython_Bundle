@@ -223,3 +223,6 @@
 [submodule "libraries/drivers/rfm9x"]
 	path = libraries/drivers/rfm9x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_RFM9x.git
+[submodule "libraries/drivers/am2320"]
+	path = libraries/drivers/am2320
+	url = git@github.com:adafruit/Adafruit_CircuitPython_AM2320.git
