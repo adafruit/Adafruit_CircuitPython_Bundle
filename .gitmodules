@@ -226,3 +226,6 @@
 [submodule "libraries/drivers/am2320"]
 	path = libraries/drivers/am2320
 	url = https://github.com/adafruit/Adafruit_CircuitPython_AM2320.git
+[submodule "libraries/drivers/mcp230xx"]
+	path = libraries/drivers/mcp230xx
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MCP230xx
