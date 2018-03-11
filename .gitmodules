@@ -229,3 +229,6 @@
 [submodule "libraries/drivers/mcp230xx"]
 	path = libraries/drivers/mcp230xx
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MCP230xx
+[submodule "libraries/drivers/trellis"]
+	path = libraries/drivers/trellis
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Trellis.git
