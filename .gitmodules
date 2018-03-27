@@ -232,3 +232,12 @@
 [submodule "libraries/drivers/trellis"]
 	path = libraries/drivers/trellis
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Trellis.git
+[submodule "libraries/drivers/ws2801"]
+	path = libraries/drivers/ws2801
+	url = https://github.com/adafruit/Adafruit_CircuitPython_WS2801.git
+[submodule "libraries/drivers/focaltouch"]
+	path = libraries/drivers/focaltouch
+	url = https://github.com/adafruit/Adafruit_CircuitPython_FocalTouch.git
+[submodule "libraries/drivers/as726x"]
+	path = libraries/drivers/as726x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_AS726x.git
