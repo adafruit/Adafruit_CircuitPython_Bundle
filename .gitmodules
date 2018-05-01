@@ -241,3 +241,6 @@
 [submodule "libraries/drivers/as726x"]
 	path = libraries/drivers/as726x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_AS726x.git
+[submodule "libraries/drivers/stmpe610"]
+	path = libraries/drivers/stmpe610
+	url = https://github.com/adafruit/Adafruit_CircuitPython_STMPE610.git
