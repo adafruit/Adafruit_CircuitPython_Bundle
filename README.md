@@ -28,7 +28,8 @@ To find libraries with commits that haven't been included in a release do:
     git submodule foreach "git log --oneline HEAD...origin/master"
 
 ## Adding a library
-Determine the best location within `libraries` for the new library and then run:
+Determine the best location within `libraries` (`libraries/drivers/` or
+`libraries/helpers/`)for the new library and then run:
 
     git submodule add <git url> libraries/<target directory>
 
