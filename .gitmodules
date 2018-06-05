@@ -244,6 +244,6 @@
 [submodule "libraries/drivers/stmpe610"]
 	path = libraries/drivers/stmpe610
 	url = https://github.com/adafruit/Adafruit_CircuitPython_STMPE610.git
-[submodule "libraries/matrixkeypad"]
-	path = libraries/matrixkeypad
+[submodule "libraries/drivers/matrixkeypad"]
+	path = libraries/drivers/matrixkeypad
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MatrixKeypad
