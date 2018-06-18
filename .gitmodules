@@ -247,3 +247,6 @@
 [submodule "libraries/drivers/matrixkeypad"]
 	path = libraries/drivers/matrixkeypad
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MatrixKeypad
+[submodule "libraries/drivers/l3gd20"]
+	path = libraries/drivers/l3gd20
+	url = https://github.com/adafruit/Adafruit_CircuitPython_L3GD20.git
