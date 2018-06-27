@@ -105,13 +105,13 @@
 	url = https://github.com/adafruit/Adafruit_CircuitPython_CharLCD.git
 [submodule "libraries/drivers/amg88xx"]
 	path = libraries/drivers/amg88xx
-	url = https://github.com/adafruit/Adafruit_CircuitPython_AMG88xx
+	url = https://github.com/adafruit/Adafruit_CircuitPython_AMG88xx.git
 [submodule "libraries/drivers/seesaw"]
 	path = libraries/drivers/seesaw
-	url = https://github.com/adafruit/Adafruit_CircuitPython_Seesaw
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Seesaw.git
 [submodule "libraries/drivers/fingerprint"]
 	path = libraries/drivers/fingerprint
-	url = https://github.com/adafruit/Adafruit_CircuitPython_Fingerprint
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Fingerprint.git
 [submodule "libraries/drivers/max31865"]
 	path = libraries/drivers/max31865
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MAX31865.git
@@ -150,7 +150,7 @@
 	url = https://github.com/adafruit/Adafruit_CircuitPython_VL53L0X.git
 [submodule "libraries/drivers/apds9960"]
 	path = libraries/drivers/apds9960
-	url = https://github.com/adafruit/Adafruit_CircuitPython_APDS9960
+	url = https://github.com/adafruit/Adafruit_CircuitPython_APDS9960.git
 [submodule "libraries/helpers/featherwing"]
 	path = libraries/helpers/featherwing
 	url = https://github.com/adafruit/Adafruit_CircuitPython_FeatherWing.git
@@ -207,7 +207,7 @@
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SI5351.git
 [submodule "libraries/drivers/sht31"]
 	path = libraries/drivers/sht31
-	url = https://github.com/adafruit/Adafruit_CircuitPython_SHT31D
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SHT31D.git
 [submodule "libraries/drivers/si4713"]
 	path = libraries/drivers/si4713
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SI4713.git
@@ -228,7 +228,7 @@
 	url = https://github.com/adafruit/Adafruit_CircuitPython_AM2320.git
 [submodule "libraries/drivers/mcp230xx"]
 	path = libraries/drivers/mcp230xx
-	url = https://github.com/adafruit/Adafruit_CircuitPython_MCP230xx
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MCP230xx.git
 [submodule "libraries/drivers/trellis"]
 	path = libraries/drivers/trellis
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Trellis.git
@@ -246,7 +246,10 @@
 	url = https://github.com/adafruit/Adafruit_CircuitPython_STMPE610.git
 [submodule "libraries/drivers/matrixkeypad"]
 	path = libraries/drivers/matrixkeypad
-	url = https://github.com/adafruit/Adafruit_CircuitPython_MatrixKeypad
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MatrixKeypad.git
 [submodule "libraries/drivers/l3gd20"]
 	path = libraries/drivers/l3gd20
 	url = https://github.com/adafruit/Adafruit_CircuitPython_L3GD20.git
+[submodule "libraries/drivers/crickit"]
+	path = libraries/drivers/crickit
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Crickit.git
