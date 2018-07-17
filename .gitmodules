@@ -255,4 +255,4 @@
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Crickit.git
 [submodule "libraries/drivers/pixie"]
 	path = libraries/drivers/pixie
-	url = https://github.com/adafruit/Adafruit_CircuitPython_Pixie
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Pixie.git
