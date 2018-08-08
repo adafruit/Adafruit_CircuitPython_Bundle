@@ -259,3 +259,6 @@
 [submodule "libraries/drivers/epd"]
 	path = libraries/drivers/epd
 	url = https://github.com/adafruit/Adafruit_CircuitPython_EPD.git
+[submodule "libraries/drivers/tmp007"]
+	path = libraries/drivers/tmp007
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TMP007.git
