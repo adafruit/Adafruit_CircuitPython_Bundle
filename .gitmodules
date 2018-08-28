@@ -262,3 +262,6 @@
 [submodule "libraries/drivers/tmp007"]
 	path = libraries/drivers/tmp007
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TMP007.git
+[submodule "libraries/drivers/tca9584a"]
+	path = libraries/drivers/tca9584a
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TCA9548A.git
