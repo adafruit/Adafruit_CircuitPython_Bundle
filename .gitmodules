@@ -265,3 +265,21 @@
 [submodule "libraries/drivers/tca9584a"]
 	path = libraries/drivers/tca9584a
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TCA9548A.git
+[submodule "libraries/drivers/mcp3xxx"]
+	path = libraries/drivers/mcp3xxx
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MCP3xxx.git
+[submodule "libraries/helpers/led-animation"]
+	path = libraries/helpers/led-animation
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LED_Animation.git
+[submodule "libraries/drivers/mlx90614"]
+	path = libraries/drivers/mlx90614
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MLX90614.git
+[submodule "libraries/drivers/pn532"]
+	path = libraries/drivers/pn532
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PN532.git
+[submodule "libraries/helpers/imageload"]
+	path = libraries/helpers/imageload
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ImageLoad.git
+[submodule "libraries/drivers/hcsr04"]
+	path = libraries/drivers/hcsr04
+	url = https://github.com/adafruit/Adafruit_CircuitPython_HCSR04.git
