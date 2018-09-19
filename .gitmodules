@@ -259,3 +259,6 @@
 [submodule "libraries/drivers/epd"]
 	path = libraries/drivers/epd
 	url = https://github.com/adafruit/Adafruit_CircuitPython_EPD.git
+[submodule "libraries/drivers/neotrellis"]
+	path = libraries/drivers/neotrellis
+	url = https://github.com/adafruit/Adafruit_CircuitPython_NeoTrellis
