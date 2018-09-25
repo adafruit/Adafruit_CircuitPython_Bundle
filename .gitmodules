@@ -286,3 +286,12 @@
 [submodule "libraries/drivers/hcsr04"]
 	path = libraries/drivers/hcsr04
 	url = https://github.com/adafruit/Adafruit_CircuitPython_HCSR04.git
+[submodule "libraries/drivers/mprls"]
+	path = libraries/drivers/mprls
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MPRLS.git
+[submodule "libraries/drivers/veml6075"]
+	path = libraries/drivers/veml6075
+	url = https://github.com/adafruit/Adafruit_CircuitPython_VEML6075.git
+[submodule "libraries/helpers/miniqr"]
+	path = libraries/helpers/miniqr
+	url = https://github.com/adafruit/Adafruit_CircuitPython_miniQR.git
