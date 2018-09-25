@@ -295,3 +295,6 @@
 [submodule "libraries/helpers/miniqr"]
 	path = libraries/helpers/miniqr
 	url = https://github.com/adafruit/Adafruit_CircuitPython_miniQR.git
+[submodule "libraries/drivers/htu21d"]
+	path = libraries/drivers/htu21d
+	url = https://github.com/adafruit/Adafruit_CircuitPython_HTU21D.git
