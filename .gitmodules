@@ -298,3 +298,6 @@
 [submodule "libraries/drivers/htu21d"]
 	path = libraries/drivers/htu21d
 	url = https://github.com/adafruit/Adafruit_CircuitPython_HTU21D.git
+[submodule "libraries/drivers/lidarlite"]
+	path = libraries/drivers/lidarlite
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LIDARLite.git
