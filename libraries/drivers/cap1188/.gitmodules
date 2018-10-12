@@ -301,9 +301,3 @@
 [submodule "libraries/drivers/lidarlite"]
 	path = libraries/drivers/lidarlite
 	url = https://github.com/adafruit/Adafruit_CircuitPython_LIDARLite.git
-[submodule "libraries/cap1188"]
-	path = libraries/drivers/cap1188
-	url = https://github.com/adafruit/Adafruit_CircuitPython_Bundle.git
-[submodule "libraries/helpers/slideshow"]
-	path = libraries/helpers/slideshow
-	url = https://github.com/adafruit/Adafruit_CircuitPython_Slideshow.git

@@ -1,0 +1,22 @@
+# Travis CI configuration for automated bundle generation.
+
+dist: trusty
+sudo: false
+language: python
+python:
+    - "3.6"
+
+cache:
+    pip: true
+
+deploy:
+  provider: releases
+  api_key: $GITHUB_TOKEN
+  file_glob: true
+  file: bundles/*
+  skip_cleanup: true
+  overwrite: true
+  on:
+    tags: true
+
+script: circuitpython-build-bundles --filename_prefix adafruit-circuitpython-bundle --library_location libraries --library_depth 2
