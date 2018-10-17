@@ -307,3 +307,6 @@
 [submodule "libraries/drivers/cap1188"]
 	path = libraries/drivers/cap1188
 	url = https://github.com/adafruit/Adafruit_CircuitPython_CAP1188.git
+[submodule "libraries/drivers/max31856"]
+	path = libraries/drivers/max31856
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MAX31856.git
