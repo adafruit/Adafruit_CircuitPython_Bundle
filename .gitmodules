@@ -316,3 +316,21 @@
 [submodule "libraries/drivers/trellism4"]
 	path = libraries/drivers/trellism4
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TrellisM4.git
+[submodule "libraries/drivers/tfmini"]
+	path = libraries/drivers/tfmini
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TFmini.git
+[submodule "libraries/drivers/vs1053"]
+	path = libraries/drivers/vs1053
+	url = https://github.com/adafruit/Adafruit_CircuitPython_VS1053.git
+[submodule "libraries/drivers/fram"]
+	path = libraries/drivers/fram
+	url = https://github.com/adafruit/Adafruit_CircuitPython_FRAM.git
+[submodule "libraries/drivers/mlx90393"]
+	path = libraries/drivers/mlx90393
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MLX90393.git
+[submodule "libraries/drivers/bluefruitspi"]
+	path = libraries/drivers/bluefruitspi
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BluefruitSPI.git
+[submodule "libraries/drivers/bmp3xx"]
+	path = libraries/drivers/bmp3xx
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BMP3XX.git
