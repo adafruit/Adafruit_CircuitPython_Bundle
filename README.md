@@ -17,7 +17,7 @@ existing folder when it exists.
 ## CPython
 **DO NOT** use this to install libraries on a Linux computer, such as the Raspberry Pi, with regular Python (aka CPython). Instead, use the python3 version of `pip` to install the libraries you want to use. It will automatically install dependencies for you. For example:
 
-`pip install adafruit-circuitpython-lis3dh`
+`pip3 install adafruit-circuitpython-lis3dh`
 
 # Development
 
