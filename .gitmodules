@@ -313,3 +313,6 @@
 [submodule "libraries/drivers/adxl34x"]
 	path = libraries/drivers/adxl34x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ADXL34x.git
+[submodule "libraries/drivers/trellism4"]
+	path = libraries/drivers/trellism4
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TrellisM4.git
