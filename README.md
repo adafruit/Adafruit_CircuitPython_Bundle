@@ -1,6 +1,6 @@
 # Adafruit CircuitPython Library Bundle
 
-[![Doc Status](https://readthedocs.org/projects/circuitpython/badge/?version=latest)](https://circuitpython.readthedocs.io/en/latest/docs/drivers.html) [![Gitter](https://badges.gitter.im/adafruit/circuitpython.svg)](https://gitter.im/adafruit/circuitpython?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Doc Status](https://readthedocs.org/projects/circuitpython/badge/?version=latest)](https://circuitpython.readthedocs.io/en/latest/docs/drivers.html)
 [![Discord](https://img.shields.io/discord/327254708534116352.svg)](https://discord.gg/nBQh6qu)
 
 This repo bundles a bunch of useful CircuitPython libraries into an easy to
@@ -13,6 +13,11 @@ To use the bundle download the zip (not source zip) from the
 unzip it and copy over the subfolders, such as `lib`, into the root of your
 CircuitPython device. Make sure to indicate that it should be merged with the
 existing folder when it exists.
+
+## CPython
+**DO NOT** use this to install libraries on a Linux computer, such as the Raspberry Pi, with regular Python (aka CPython). Instead, use the python3 version of `pip` to install the libraries you want to use. It will automatically install dependencies for you. For example:
+
+`pip install adafruit-circuitpython-lis3dh`
 
 # Development
 
