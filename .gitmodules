@@ -334,3 +334,6 @@
 [submodule "libraries/drivers/bmp3xx"]
 	path = libraries/drivers/bmp3xx
 	url = https://github.com/adafruit/Adafruit_CircuitPython_BMP3XX.git
+[submodule "libraries/drivers/mpl115a2"]
+	path = libraries/drivers/mpl115a2
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MPL115A2.git
