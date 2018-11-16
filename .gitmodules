@@ -337,3 +337,6 @@
 [submodule "libraries/drivers/mpl115a2"]
 	path = libraries/drivers/mpl115a2
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MPL115A2.git
+[submodule "libraries/drivers/74hc595"]
+	path = libraries/drivers/74hc595
+	url = https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git
