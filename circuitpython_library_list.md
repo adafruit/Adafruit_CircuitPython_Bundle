@@ -4,7 +4,7 @@
 Here is a listing of current Adafruit CircuitPython Libraries. There are 114 libraries available.
 
 ## Drivers:
-* [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git)
+* [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
 * [Adafruit CircuitPython ADS1x15](https://github.com/adafruit/Adafruit_CircuitPython_ADS1x15.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ads1x15))
 * [Adafruit CircuitPython ADXL34x](https://github.com/adafruit/Adafruit_CircuitPython_ADXL34x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-adxl34x))
 * [Adafruit CircuitPython AM2320](https://github.com/adafruit/Adafruit_CircuitPython_AM2320.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-am2320))
