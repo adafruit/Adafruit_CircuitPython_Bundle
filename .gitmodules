@@ -340,3 +340,6 @@
 [submodule "libraries/drivers/74hc595"]
 	path = libraries/drivers/74hc595
 	url = https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git
+[submodule "libraries/drivers/tmp006"]
+	path = libraries/drivers/tmp006
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TMP006.git
