@@ -109,7 +109,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 115 lib
 * [Adafruit CircuitPython AVRprog](https://github.com/adafruit/Adafruit_CircuitPython_AVRprog.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-avrprog))
 * [Adafruit CircuitPython BusDevice](https://github.com/adafruit/Adafruit_CircuitPython_BusDevice.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-busdevice))
 * [Adafruit CircuitPython FancyLED](https://github.com/adafruit/Adafruit_CircuitPython_FancyLED.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fancyled))
-* [Adafruit CircuitPython FeatherWing](https://github.com/adafruit/Adafruit_CircuitPython_FeatherWing.git)
+* [Adafruit CircuitPython FeatherWing](https://github.com/adafruit/Adafruit_CircuitPython_FeatherWing.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-featherwing))
 * [Adafruit CircuitPython HID](https://github.com/adafruit/Adafruit_CircuitPython_HID.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hid))
 * [Adafruit CircuitPython ImageLoad](https://github.com/adafruit/Adafruit_CircuitPython_ImageLoad.git)
 * [Adafruit CircuitPython LED Animation](https://github.com/adafruit/Adafruit_CircuitPython_LED_Animation.git)
