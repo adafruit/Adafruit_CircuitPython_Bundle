@@ -343,3 +343,6 @@
 [submodule "libraries/drivers/tmp006"]
 	path = libraries/drivers/tmp006
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TMP006.git
+[submodule "libraries/helpers/tinylora"]
+	path = libraries/helpers/tinylora
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TinyLoRa.git
