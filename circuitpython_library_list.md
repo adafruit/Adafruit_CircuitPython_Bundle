@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 115 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 116 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -119,5 +119,6 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 115 lib
 * [Adafruit CircuitPython Register](https://github.com/adafruit/Adafruit_CircuitPython_Register.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-register))
 * [Adafruit CircuitPython SimpleIO](https://github.com/adafruit/Adafruit_CircuitPython_SimpleIO.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-simpleio))
 * [Adafruit CircuitPython Slideshow](https://github.com/adafruit/Adafruit_CircuitPython_Slideshow.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-slideshow))
+* [Adafruit CircuitPython TinyLoRa](https://github.com/adafruit/Adafruit_CircuitPython_TinyLoRa.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tinylora))
 * [Adafruit CircuitPython Waveform](https://github.com/adafruit/Adafruit_CircuitPython_Waveform.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-waveform))
 * [Adafruit CircuitPython miniQR](https://github.com/adafruit/Adafruit_CircuitPython_miniQR.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-miniqr))
