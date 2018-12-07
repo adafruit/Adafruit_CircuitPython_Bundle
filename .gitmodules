@@ -346,3 +346,6 @@
 [submodule "libraries/helpers/tinylora"]
 	path = libraries/helpers/tinylora
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TinyLoRa.git
+[submodule "libraries/helpers/motorkit"]
+	path = libraries/helpers/motorkit
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MotorKit.git
