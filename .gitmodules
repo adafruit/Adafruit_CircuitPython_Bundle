@@ -349,3 +349,9 @@
 [submodule "libraries/helpers/motorkit"]
 	path = libraries/helpers/motorkit
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MotorKit.git
+[submodule "libraries/drivers/esp-atcontrol"]
+	path = libraries/drivers/esp-atcontrol
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ESP_ATcontrol.git
+[submodule "libraries/helpers/miniesptool"]
+	path = libraries/helpers/miniesptool
+	url = https://github.com/adafruit/Adafruit_CircuitPython_miniesptool.git
