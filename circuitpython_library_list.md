@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 117 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 119 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -30,6 +30,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 117 lib
 * [Adafruit CircuitPython DS3231](https://github.com/adafruit/Adafruit_CircuitPython_DS3231.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds3231))
 * [Adafruit CircuitPython DotStar](https://github.com/adafruit/Adafruit_CircuitPython_DotStar.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-dotstar))
 * [Adafruit CircuitPython EPD](https://github.com/adafruit/Adafruit_CircuitPython_EPD.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-epd))
+* [Adafruit CircuitPython ESP ATcontrol](https://github.com/adafruit/Adafruit_CircuitPython_ESP_ATcontrol.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-esp-atcontrol))
 * [Adafruit CircuitPython FRAM](https://github.com/adafruit/Adafruit_CircuitPython_FRAM.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fram))
 * [Adafruit CircuitPython FXAS21002C](https://github.com/adafruit/Adafruit_CircuitPython_FXAS21002C.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fxas21002c))
 * [Adafruit CircuitPython FXOS8700](https://github.com/adafruit/Adafruit_CircuitPython_FXOS8700.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fxos8700))
@@ -123,3 +124,4 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 117 lib
 * [Adafruit CircuitPython TinyLoRa](https://github.com/adafruit/Adafruit_CircuitPython_TinyLoRa.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tinylora))
 * [Adafruit CircuitPython Waveform](https://github.com/adafruit/Adafruit_CircuitPython_Waveform.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-waveform))
 * [Adafruit CircuitPython miniQR](https://github.com/adafruit/Adafruit_CircuitPython_miniQR.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-miniqr))
+* [Adafruit CircuitPython miniesptool](https://github.com/adafruit/Adafruit_CircuitPython_miniesptool.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-miniesptool))
