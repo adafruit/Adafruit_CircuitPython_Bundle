@@ -355,3 +355,6 @@
 [submodule "libraries/helpers/miniesptool"]
 	path = libraries/helpers/miniesptool
 	url = https://github.com/adafruit/Adafruit_CircuitPython_miniesptool.git
+[submodule "libraries/helpers/framebuf"]
+	path = libraries/helpers/framebuf
+	url = https://github.com/adafruit/Adafruit_CircuitPython_framebuf.git
