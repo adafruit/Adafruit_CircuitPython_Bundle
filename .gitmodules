@@ -355,3 +355,18 @@
 [submodule "libraries/helpers/miniesptool"]
 	path = libraries/helpers/miniesptool
 	url = https://github.com/adafruit/Adafruit_CircuitPython_miniesptool.git
+[submodule "libraries/helpers/framebuf"]
+	path = libraries/helpers/framebuf
+	url = https://github.com/adafruit/Adafruit_CircuitPython_framebuf.git
+[submodule "libraries/drivers/sharpmemorydisplay"]
+	path = libraries/drivers/sharpmemorydisplay
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SharpMemoryDisplay.git
+[submodule "libraries/drivers/pcd8544"]
+	path = libraries/drivers/pcd8544
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PCD8544.git
+[submodule "libraries/drivers/us100"]
+	path = libraries/drivers/us100
+	url = https://github.com/adafruit/Adafruit_CircuitPython_US100.git
+[submodule "libraries/helpers/servokit"]
+	path = libraries/helpers/servokit
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ServoKit.git
