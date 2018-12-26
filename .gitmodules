@@ -364,3 +364,6 @@
 [submodule "libraries/drivers/pcd8544"]
 	path = libraries/drivers/pcd8544
 	url = https://github.com/adafruit/Adafruit_CircuitPython_PCD8544.git
+[submodule "libraries/drivers/us100"]
+	path = libraries/drivers/us100
+	url = https://github.com/adafruit/Adafruit_CircuitPython_US100.git
