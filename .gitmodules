@@ -367,3 +367,6 @@
 [submodule "libraries/drivers/us100"]
 	path = libraries/drivers/us100
 	url = https://github.com/adafruit/Adafruit_CircuitPython_US100.git
+[submodule "libraries/helpers/servokit"]
+	path = libraries/helpers/servokit
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ServoKit.git
