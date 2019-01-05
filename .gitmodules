@@ -370,3 +370,6 @@
 [submodule "libraries/helpers/servokit"]
 	path = libraries/helpers/servokit
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ServoKit.git
+[submodule "libraries/helpers/debouncer"]
+	path = libraries/helpers/debouncer
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Debouncer.git
