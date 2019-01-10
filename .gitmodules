@@ -373,3 +373,9 @@
 [submodule "libraries/helpers/debouncer"]
 	path = libraries/helpers/debouncer
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Debouncer.git
+[submodule "libraries/drivers/adt7410"]
+	path = libraries/drivers/adt7410
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ADT7410.git
+[submodule "libraries/helpers/boardtest"]
+	path = libraries/helpers/boardtest
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BoardTest.git
