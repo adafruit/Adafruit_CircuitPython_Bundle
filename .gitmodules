@@ -379,3 +379,9 @@
 [submodule "libraries/helpers/boardtest"]
 	path = libraries/helpers/boardtest
 	url = https://github.com/adafruit/Adafruit_CircuitPython_BoardTest.git
+[submodule "libraries/helpers/ble"]
+	path = libraries/helpers/ble
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE.git
+[submodule "libraries/helpers/bluefruitconnect"]
+	path = libraries/helpers/bluefruitconnect
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BluefruitConnect.git
