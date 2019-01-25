@@ -385,3 +385,6 @@
 [submodule "libraries/helpers/bluefruitconnect"]
 	path = libraries/helpers/bluefruitconnect
 	url = https://github.com/adafruit/Adafruit_CircuitPython_BluefruitConnect.git
+[submodule "libraries/helpers/midi"]
+	path = libraries/helpers/midi
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MIDI.git
