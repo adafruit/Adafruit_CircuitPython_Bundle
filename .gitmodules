@@ -388,3 +388,6 @@
 [submodule "libraries/helpers/midi"]
 	path = libraries/helpers/midi
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MIDI.git
+[submodule "libraries/drivers/ra8875"]
+	path = libraries/drivers/ra8875
+	url = https://github.com/adafruit/Adafruit_CircuitPython_RA8875.git
