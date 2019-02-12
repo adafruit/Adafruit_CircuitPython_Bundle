@@ -394,3 +394,6 @@
 [submodule "libraries/drivers/esp32spi"]
 	path = libraries/drivers/esp32spi
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ESP32SPI.git
+[submodule "libraries/drivers/touchscreen"]
+	path = libraries/drivers/touchscreen
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Touchscreen.git
