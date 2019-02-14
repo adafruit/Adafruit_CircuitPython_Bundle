@@ -1,1 +1,3 @@
 circuitpython-build-tools
+Sphinx
+sphinx-rtd-theme
