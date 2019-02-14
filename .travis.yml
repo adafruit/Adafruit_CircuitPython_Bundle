@@ -19,4 +19,6 @@ deploy:
   on:
     tags: true
 
-script: circuitpython-build-bundles --filename_prefix adafruit-circuitpython-bundle --library_location libraries --library_depth 2
+script:
+- circuitpython-build-bundles --filename_prefix adafruit-circuitpython-bundle --library_location libraries --library_depth 2
+- cd docs && sphinx-build -E -W -b html . _build/html && cd ..
