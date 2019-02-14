@@ -11,7 +11,7 @@ Table of Contents
 
 .. toctree::
     :maxdepth: 4
-    :caption: Drivers
+    :caption: Drivers & Helpers
 
     drivers
 

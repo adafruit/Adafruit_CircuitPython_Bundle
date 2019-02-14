@@ -1,30 +1,11 @@
 .. _adafruit-libndrivers:
 
-Additional Adafruit Libraries and Drivers on GitHub
+Adafruit Sponsored Libraries and Drivers on GitHub
 ===================================================
 
 These are libraries and drivers available in separate GitHub repos. They are
 designed for use with CircuitPython and may or may not work with
 `MicroPython <https://micropython.org>`_.
-
-.. _bundle_installation:
-
-Bundle
-------
-
-We provide a bundle of all our libraries to ease installation of drivers and
-their dependencies. The bundle is primarily geared to the Adafruit Express line
-of boards which feature a relatively large external flash. With Express boards,
-its easy to copy them all onto the filesystem. However, if you don't have
-enough space simply copy things over as they are needed.
-
-The bundles are available `on GitHub <https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases>`_.
-
-To install them:
-
-#. `Download <https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases>`_
-   and unzip the latest zip that's not a source zip.
-#. Copy the ``lib`` folder to the ``CIRCUITPY`` or ``MICROPYTHON``.
 
 Foundational
 ------------
@@ -209,7 +190,7 @@ These chips communicate to other's over radio.
 IO Expansion
 --------------
 
-These provide functionality similar to `analogio`, `digitalio`, `pulseio`, and `touchio`.
+These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``, and ``touchio``.
 
 .. toctree::
 
