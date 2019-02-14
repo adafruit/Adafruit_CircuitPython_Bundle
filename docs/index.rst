@@ -10,8 +10,10 @@ Table of Contents
     self
 
 .. toctree::
+    :maxdepth: 4
+    :caption: Drivers
 
-    Drivers
+    drivers
 
 .. toctree::
     :caption: Other Links
