@@ -53,6 +53,10 @@ These libraries build on top of the low level APIs to simplify common tasks.
     LED Animation <https://circuitpython.readthedocs.io/projects/led-animation/en/latest/>
     Bluetooth Low Energy (BLE)  <https://circuitpython.readthedocs.io/projects/ble/en/latest/>
     Bluefruit LE Connect App  <https://circuitpython.readthedocs.io/projects/bluefruitconnect/en/latest/>
+    Display Text <https://circuitpython.readthedocs.io/projects/display-text/en/latest/>
+    Bitmap Font <https://circuitpython.readthedocs.io/projects/bitmap-font/en/latest/>
+    ServoKit <https://circuitpython.readthedocs.io/projects/servokit/en/latest/>
+    MotorKit <https://circuitpython.readthedocs.io/projects/motorkit/en/latest/>
 
 Blinky
 --------
@@ -186,6 +190,7 @@ These chips communicate to other's over radio.
     RFM9x LoRa <https://circuitpython.readthedocs.io/projects/rfm9x/en/latest/>
     RFM69 Packet Radio <https://circuitpython.readthedocs.io/projects/rfm69/en/latest/>
     PN532 NFC/RFID <https://circuitpython.readthedocs.io/projects/pn532/en/latest/>
+    ESP32 WiFi Co-Processor over SPI <https://circuitpython.readthedocs.io/projects/esp32spi/en/latest/>
 
 IO Expansion
 --------------
