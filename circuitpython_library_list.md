@@ -75,7 +75,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 135 lib
 * [Adafruit CircuitPython PCF8523](https://github.com/adafruit/Adafruit_CircuitPython_PCF8523.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pcf8523))
 * [Adafruit CircuitPython PN532](https://github.com/adafruit/Adafruit_CircuitPython_PN532.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pn532))
 * [Adafruit CircuitPython Pixie](https://github.com/adafruit/Adafruit_CircuitPython_Pixie.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pixie))
-* [Adafruit CircuitPython RA8875](https://github.com/adafruit/Adafruit_CircuitPython_RA8875.git)
+* [Adafruit CircuitPython RA8875](https://github.com/adafruit/Adafruit_CircuitPython_RA8875.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ra8875))
 * [Adafruit CircuitPython RFM69](https://github.com/adafruit/Adafruit_CircuitPython_RFM69.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rfm69))
 * [Adafruit CircuitPython RFM9x](https://github.com/adafruit/Adafruit_CircuitPython_RFM9x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rfm9x))
 * [Adafruit CircuitPython RGB Display](https://github.com/adafruit/Adafruit_CircuitPython_RGB_Display.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rgb-display))
@@ -116,7 +116,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 135 lib
 ## Helpers:
 * [Adafruit CircuitPython AVRprog](https://github.com/adafruit/Adafruit_CircuitPython_AVRprog.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-avrprog))
 * [Adafruit CircuitPython BLE](https://github.com/adafruit/Adafruit_CircuitPython_BLE.git)
-* [Adafruit CircuitPython Bitmap Font](https://github.com/adafruit/Adafruit_CircuitPython_Bitmap_Font.git)
+* [Adafruit CircuitPython Bitmap Font](https://github.com/adafruit/Adafruit_CircuitPython_Bitmap_Font.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bitmap-font))
 * [Adafruit CircuitPython BluefruitConnect](https://github.com/adafruit/Adafruit_CircuitPython_BluefruitConnect.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bluefruitconnect))
 * [Adafruit CircuitPython BoardTest](https://github.com/adafruit/Adafruit_CircuitPython_BoardTest.git)
 * [Adafruit CircuitPython BusDevice](https://github.com/adafruit/Adafruit_CircuitPython_BusDevice.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-busdevice))
