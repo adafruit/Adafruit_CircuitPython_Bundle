@@ -403,3 +403,6 @@
 [submodule "libraries/helpers/bitmap-font"]
 	path = libraries/helpers/bitmap-font
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Bitmap_Font.git
+[submodule "libraries/drivers/pyportal"]
+	path = libraries/drivers/pyportal
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PyPortal.git
