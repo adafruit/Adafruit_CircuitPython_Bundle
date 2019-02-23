@@ -84,6 +84,8 @@ Drivers used to display information. Either pixel or segment based.
     MAX7219 LED Matrix <https://circuitpython.readthedocs.io/projects/max7219/en/latest/>
     SSD1306 OLED Driver <https://circuitpython.readthedocs.io/projects/ssd1306/en/latest/>
     E-Paper Display <https://circuitpython.readthedocs.io/projects/epd/en/latest/>
+    RA8875 Driver Board <https://circuitpython.readthedocs.io/projects/ra8875/en/latest/>
+    Sharp Memory Display <https://circuitpython.readthedocs.io/projects/sharpmemorydisplay/en/latest/>
 
 Real-time clocks
 -----------------
@@ -190,6 +192,7 @@ These chips communicate to other's over radio.
     RFM9x LoRa <https://circuitpython.readthedocs.io/projects/rfm9x/en/latest/>
     RFM69 Packet Radio <https://circuitpython.readthedocs.io/projects/rfm69/en/latest/>
     PN532 NFC/RFID <https://circuitpython.readthedocs.io/projects/pn532/en/latest/>
+    ESP WiFi Co-Processor using AT Commands <https://circuitpython.readthedocs.io/projects/esp-atcontrol/en/latest/>
     ESP32 WiFi Co-Processor over SPI <https://circuitpython.readthedocs.io/projects/esp32spi/en/latest/>
 
 IO Expansion
