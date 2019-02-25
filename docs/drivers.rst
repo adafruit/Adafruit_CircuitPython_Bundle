@@ -37,6 +37,7 @@ These libraries build on top of the low level APIs to simplify common tasks.
 
 .. toctree::
 
+    Adafruit IO <https://circuitpython.readthedocs.io/projects/adafruitio/en/latest/>
     AVR programming <https://circuitpython.readthedocs.io/projects/avrprog/en/latest/>
     Bitmap Font <https://circuitpython.readthedocs.io/projects/bitmap-font/en/latest/>
     Bluefruit LE Connect App <https://circuitpython.readthedocs.io/projects/bluefruitconnect/en/latest/>
