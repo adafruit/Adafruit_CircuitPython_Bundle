@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 136 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 137 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -128,6 +128,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 136 lib
 * [Adafruit CircuitPython HID](https://github.com/adafruit/Adafruit_CircuitPython_HID.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hid))
 * [Adafruit CircuitPython ImageLoad](https://github.com/adafruit/Adafruit_CircuitPython_ImageLoad.git)
 * [Adafruit CircuitPython LED Animation](https://github.com/adafruit/Adafruit_CircuitPython_LED_Animation.git)
+* [Adafruit CircuitPython Logger](https://github.com/adafruit/Adafruit_CircuitPython_Logger.git)
 * [Adafruit CircuitPython MIDI](https://github.com/adafruit/Adafruit_CircuitPython_MIDI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-midi))
 * [Adafruit CircuitPython MotorKit](https://github.com/adafruit/Adafruit_CircuitPython_MotorKit.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-motorkit))
 * [Adafruit CircuitPython Motor](https://github.com/adafruit/Adafruit_CircuitPython_Motor.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-motor))
