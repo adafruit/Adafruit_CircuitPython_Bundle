@@ -406,9 +406,6 @@
 [submodule "libraries/drivers/pyportal"]
 	path = libraries/drivers/pyportal
 	url = https://github.com/adafruit/Adafruit_CircuitPython_PyPortal.git
-[submodule "libraries/helpers/logger"]
-	path = libraries/helpers/logger
-	url = https://github.com/adafruit/Adafruit_CircuitPython_Logger.git
 [submodule "libraries/drivers/ina260"]
 	path = libraries/drivers/ina260
 	url = https://github.com/adafruit/Adafruit_CircuitPython_INA260.git
