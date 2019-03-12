@@ -239,6 +239,7 @@ Miscellaneous
     Fingerprint Sensor <https://circuitpython.readthedocs.io/projects/fingerprint/en/latest/>
     FRAM Non-Volatile Memory <https://circuitpython.readthedocs.io/projects/fram/en/latest/>
     INA219 High Side Current <https://circuitpython.readthedocs.io/projects/ina219/en/latest/>
+    INA260 Current and Power Monitor <https://circuitpython.readthedocs.io/projects/ina260/en/latest/>
     Matrix Keypad <https://circuitpython.readthedocs.io/projects/matrixkeypad/en/latest/>
     MAX9744 Audio Amplifier  <https://circuitpython.readthedocs.io/projects/max9744/en/latest/>
     NeoTrellis 4x4 Keypad <https://circuitpython.readthedocs.io/projects/neotrellis/en/latest/>
