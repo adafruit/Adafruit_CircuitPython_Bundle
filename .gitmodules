@@ -412,3 +412,6 @@
 [submodule "libraries/helpers/logging"]
 	path = libraries/helpers/logging
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Logger
+[submodule "libraries/helpers/adafruitio"]
+	path = libraries/helpers/adafruitio
+	url = https://github.com/adafruit/Adafruit_CircuitPython_AdafruitIO.git
