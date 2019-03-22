@@ -415,3 +415,6 @@
 [submodule "libraries/helpers/adafruitio"]
 	path = libraries/helpers/adafruitio
 	url = https://github.com/adafruit/Adafruit_CircuitPython_AdafruitIO.git
+[submodule "libraries/drivers/tpa2016"]
+	path = libraries/drivers/tpa2016
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TPA2016.git
