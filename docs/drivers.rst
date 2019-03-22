@@ -45,6 +45,8 @@ These libraries build on top of the low level APIs to simplify common tasks.
     Board Test Suite <https://circuitpython.readthedocs.io/projects/boardtest/en/latest/>
     DC Motor and Servo <https://circuitpython.readthedocs.io/projects/motor/en/latest/>
     Debouncer <https://circuitpython.readthedocs.io/projects/debouncer/en/latest/>
+    Display Button <https://circuitpython.readthedocs.io/projects/display_button/en/latest/>
+    Display Shapes <https://circuitpython.readthedocs.io/projects/display_shapes/en/latest/>
     Display Text <https://circuitpython.readthedocs.io/projects/display-text/en/latest/>
     Fancy LED (similar to FastLED) <https://circuitpython.readthedocs.io/projects/fancyled/en/latest/>
     Framebuf Module <https://circuitpython.readthedocs.io/projects/framebuf/en/latest/>
