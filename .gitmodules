@@ -418,3 +418,9 @@
 [submodule "libraries/drivers/tpa2016"]
 	path = libraries/drivers/tpa2016
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TPA2016.git
+[submodule "libraries/helpers/display-button"]
+	path = libraries/helpers/display-button
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Display_Button.git
+[submodule "libraries/helpers/display-shapes"]
+	path = libraries/helpers/display-shapes
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Display_Shapes.git
