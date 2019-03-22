@@ -249,6 +249,7 @@ Miscellaneous
     STMPE610 Resistive Touchscreen <https://circuitpython.readthedocs.io/projects/stmpe610/en/latest/>
     Thermal Printer <https://circuitpython.readthedocs.io/projects/thermal_printer/en/latest/>
     Touchscreen 4-Wire Resistive <https://circuitpython.readthedocs.io/projects/touchscreen/en/latest/>
+    TPA2016 Audio Amplifier with AGC <https://circuitpython.readthedocs.io/projects/tpa2016/en/latest/>
     Trellis 4x4 Keypad <https://circuitpython.readthedocs.io/projects/trellis/en/latest/>
     VC0706 TTL Camera <https://circuitpython.readthedocs.io/projects/vc0706/en/latest/>
     VS1053 Audio Codec <https://circuitpython.readthedocs.io/projects/vs1053/en/latest/>
