@@ -424,3 +424,6 @@
 [submodule "libraries/helpers/display-shapes"]
 	path = libraries/helpers/display-shapes
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Display_Shapes.git
+[submodule "libraries/drivers/veml7700"]
+	path = libraries/drivers/veml7700
+	url = https://github.com/adafruit/Adafruit_CircuitPython_VEML7700.git
