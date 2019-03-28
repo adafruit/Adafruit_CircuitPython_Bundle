@@ -179,6 +179,7 @@ These sensors detect light related attributes such as ``color``, ``light`` (unit
     VCNL4010 Proximity and Light <https://circuitpython.readthedocs.io/projects/vcnl4010/en/latest/>
     VEML6070 UV Index <https://circuitpython.readthedocs.io/projects/veml6070/en/latest/>
     VEML6075 UV Index <https://circuitpython.readthedocs.io/projects/veml6075/en/latest/>
+    VEML7700 High Accuracy Ambient Light Sensor <https://circuitpython.readthedocs.io/projects/veml7700/en/latest/>
 
 Distance Sensors
 ------------------
