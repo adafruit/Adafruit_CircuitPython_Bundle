@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 142 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 143 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -111,6 +111,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 142 lib
 * [Adafruit CircuitPython VCNL4010](https://github.com/adafruit/Adafruit_CircuitPython_VCNL4010.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vcnl4010))
 * [Adafruit CircuitPython VEML6070](https://github.com/adafruit/Adafruit_CircuitPython_VEML6070.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-veml6070))
 * [Adafruit CircuitPython VEML6075](https://github.com/adafruit/Adafruit_CircuitPython_VEML6075.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-veml6075))
+* [Adafruit CircuitPython VEML7700](https://github.com/adafruit/Adafruit_CircuitPython_VEML7700.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-veml7700))
 * [Adafruit CircuitPython VL53L0X](https://github.com/adafruit/Adafruit_CircuitPython_VL53L0X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vl53l0x))
 * [Adafruit CircuitPython VL6180X](https://github.com/adafruit/Adafruit_CircuitPython_VL6180X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vl6180x))
 * [Adafruit CircuitPython VS1053](https://github.com/adafruit/Adafruit_CircuitPython_VS1053.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vs1053))
