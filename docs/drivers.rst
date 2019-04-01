@@ -256,3 +256,4 @@ Miscellaneous
     Trellis 4x4 Keypad <https://circuitpython.readthedocs.io/projects/trellis/en/latest/>
     VC0706 TTL Camera <https://circuitpython.readthedocs.io/projects/vc0706/en/latest/>
     VS1053 Audio Codec <https://circuitpython.readthedocs.io/projects/vs1053/en/latest/>
+    Dymo Scale <https://circuitpython.readthedocs.io/projects/dymoscale/en/latest/>
