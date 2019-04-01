@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 143 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 144 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -30,6 +30,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 143 lib
 * [Adafruit CircuitPython DS2413](https://github.com/adafruit/Adafruit_CircuitPython_DS2413.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds2413))
 * [Adafruit CircuitPython DS3231](https://github.com/adafruit/Adafruit_CircuitPython_DS3231.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds3231))
 * [Adafruit CircuitPython DotStar](https://github.com/adafruit/Adafruit_CircuitPython_DotStar.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-dotstar))
+* [Adafruit CircuitPython DymoScale](https://github.com/adafruit/Adafruit_CircuitPython_DymoScale.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-dymoscale))
 * [Adafruit CircuitPython EPD](https://github.com/adafruit/Adafruit_CircuitPython_EPD.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-epd))
 * [Adafruit CircuitPython ESP ATcontrol](https://github.com/adafruit/Adafruit_CircuitPython_ESP_ATcontrol.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-esp-atcontrol))
 * [Adafruit CircuitPython ESP32SPI](https://github.com/adafruit/Adafruit_CircuitPython_ESP32SPI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-esp32spi))
