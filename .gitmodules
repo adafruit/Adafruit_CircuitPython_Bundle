@@ -430,3 +430,6 @@
 [submodule "libraries/drivers/dymoscale"]
 	path = libraries/drivers/dymoscale
 	url = https://github.com/adafruit/Adafruit_CircuitPython_DymoScale.git
+[submodule "libraries/helpers/itertools"]
+	path = libraries/helpers/itertools
+	url = https://github.com/adafruit/Adafruit_CircuitPython_IterTools

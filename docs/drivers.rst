@@ -52,6 +52,7 @@ These libraries build on top of the low level APIs to simplify common tasks.
     Framebuf Module <https://circuitpython.readthedocs.io/projects/framebuf/en/latest/>
     Image Load <https://circuitpython.readthedocs.io/projects/imageload/en/latest/>
     InfraRed Remote <https://circuitpython.readthedocs.io/projects/irremote/en/latest/>
+    IterTools  <https://circuitpython.readthedocs.io/projects/itertools/en/latest/>
     LED Animation <https://adafruit-circuitpython-led-animation.readthedocs.io/en/latest/>
     Logging  <https://circuitpython.readthedocs.io/projects/logging/en/latest/>
     Mini ESP Tool <https://circuitpython.readthedocs.io/projects/miniesptool/en/latest/>
