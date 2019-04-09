@@ -53,6 +53,7 @@ These libraries build on top of the low level APIs to simplify common tasks.
     Image Load <https://circuitpython.readthedocs.io/projects/imageload/en/latest/>
     InfraRed Remote <https://circuitpython.readthedocs.io/projects/irremote/en/latest/>
     LED Animation <https://adafruit-circuitpython-led-animation.readthedocs.io/en/latest/>
+    LIFX Lights <https://circuitpython.readthedocs.io/projects/lifx/en/latest/>
     Logging  <https://circuitpython.readthedocs.io/projects/logging/en/latest/>
     Mini ESP Tool <https://circuitpython.readthedocs.io/projects/miniesptool/en/latest/>
     miniQR Non-hardware QR code generator <https://circuitpython.readthedocs.io/projects/miniqr/en/latest/>
