@@ -433,3 +433,6 @@
 [submodule "libraries/helpers/itertools"]
 	path = libraries/helpers/itertools
 	url = https://github.com/adafruit/Adafruit_CircuitPython_IterTools.git
+[submodule "libraries/helpers/lifx"]
+	path = libraries/helpers/lifx
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LIFX
