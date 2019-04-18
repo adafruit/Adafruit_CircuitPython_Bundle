@@ -50,6 +50,7 @@ These libraries build on top of the low level APIs to simplify common tasks.
     Display Text <https://circuitpython.readthedocs.io/projects/display-text/en/latest/>
     Fancy LED (similar to FastLED) <https://circuitpython.readthedocs.io/projects/fancyled/en/latest/>
     Framebuf Module <https://circuitpython.readthedocs.io/projects/framebuf/en/latest/>
+    Hue Lights <https://circuitpython.readthedocs.io/projects/hue/en/latest/>
     Image Load <https://circuitpython.readthedocs.io/projects/imageload/en/latest/>
     InfraRed Remote <https://circuitpython.readthedocs.io/projects/irremote/en/latest/>
     IterTools <https://circuitpython.readthedocs.io/projects/itertools/en/latest/>
