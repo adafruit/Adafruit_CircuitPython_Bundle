@@ -436,3 +436,6 @@
 [submodule "libraries/helpers/lifx"]
 	path = libraries/helpers/lifx
 	url = https://github.com/adafruit/Adafruit_CircuitPython_LIFX
+[submodule "libraries/helpers/hue"]
+	path = libraries/helpers/hue
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Hue.git
