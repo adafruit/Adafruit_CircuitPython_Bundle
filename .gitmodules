@@ -439,3 +439,6 @@
 [submodule "libraries/helpers/hue"]
 	path = libraries/helpers/hue
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Hue.git
+[submodule "libraries/drivers/lps35hw"]
+	path = libraries/drivers/lps35hw
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LPS35HW.git
