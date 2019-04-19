@@ -1,5 +1,5 @@
 # Adafruit CircuitPython Libraries
-![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/22_1023blinka.png)
+![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
 Here is a listing of current Adafruit CircuitPython Libraries. There are 146 libraries available.
 
