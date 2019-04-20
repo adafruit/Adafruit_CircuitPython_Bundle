@@ -439,3 +439,21 @@
 [submodule "libraries/drivers/lps35hw"]
 	path = libraries/drivers/lps35hw
 	url = https://github.com/adafruit/Adafruit_CircuitPython_LPS35HW.git
+[submodule "libraries/drivers/ili9341"]
+	path = libraries/drivers/ili9341
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ILI9341.git
+[submodule "libraries/drivers/st7735r"]
+	path = libraries/drivers/st7735r
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ST7735R.git
+[submodule "libraries/drivers/st7735"]
+	path = libraries/drivers/st7735
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ST7735.git
+[submodule "libraries/drivers/hx8357"]
+	path = libraries/drivers/hx8357
+	url = https://github.com/adafruit/Adafruit_CircuitPython_HX8357.git
+[submodule "libraries/drivers/ssd1351"]
+	path = libraries/drivers/ssd1351
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1351.git
+[submodule "libraries/drivers/ssd1331"]
+	path = libraries/drivers/ssd1331
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1331.git

@@ -91,13 +91,19 @@ Drivers used to display information. Either pixel or segment based.
     Character LCD <https://circuitpython.readthedocs.io/projects/charlcd/en/latest/>
     E-Paper Display <https://circuitpython.readthedocs.io/projects/epd/en/latest/>
     HT16K33 LED Matrices and Segment Displays <https://circuitpython.readthedocs.io/projects/ht16k33/en/latest/>
+    HX8357 3.5-inch TFT Display Driver <https://circuitpython.readthedocs.io/projects/hx8357/en/latest/>
+    ILI9341 and ILI9340 TFT-LCD Display Driver <https://circuitpython.readthedocs.io/projects/ili9341/en/latest/>
     IS31FL3731 Charlieplexed LED Matrix <https://circuitpython.readthedocs.io/projects/is31fl3731/en/latest/>
     MAX7219 LED Matrix <https://circuitpython.readthedocs.io/projects/max7219/en/latest/>
     Nokia PCD8544 Display <https://circuitpython.readthedocs.io/projects/pcd8544/en/latest/>
     RA8875 40-Pin Display Driver <https://circuitpython.readthedocs.io/projects/ra8875/en/latest/>
     RGB Displays <https://circuitpython.readthedocs.io/projects/rgb_display/en/latest/>
     SSD1306 OLED Driver <https://circuitpython.readthedocs.io/projects/ssd1306/en/latest/>
+    SSD1331 OLED Display Driver <https://circuitpython.readthedocs.io/projects/ssd1331/en/latest/>
+    SSD1351 OLED Display Driver <https://circuitpython.readthedocs.io/projects/ssd1351/en/latest/>
     Sharp Memory Display <https://circuitpython.readthedocs.io/projects/sharpmemorydisplay/en/latest/>
+    ST7735 TFT-LCD displays <https://circuitpython.readthedocs.io/projects/st7735/en/latest/>
+    ST7735R TFT-LCD displays <https://circuitpython.readthedocs.io/projects/st7735r/en/latest/>
 
 Real-time clocks
 -----------------
