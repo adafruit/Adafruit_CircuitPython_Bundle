@@ -104,6 +104,7 @@ Drivers used to display information. Either pixel or segment based.
     Sharp Memory Display <https://circuitpython.readthedocs.io/projects/sharpmemorydisplay/en/latest/>
     ST7735 TFT-LCD displays <https://circuitpython.readthedocs.io/projects/st7735/en/latest/>
     ST7735R TFT-LCD displays <https://circuitpython.readthedocs.io/projects/st7735r/en/latest/>
+    ST7789 TFT-LCD displays <https://circuitpython.readthedocs.io/projects/st7789/en/latest/>
 
 Real-time clocks
 -----------------

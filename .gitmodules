@@ -457,3 +457,6 @@
 [submodule "libraries/drivers/ssd1331"]
 	path = libraries/drivers/ssd1331
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1331.git
+[submodule "libraries/drivers/st7789"]
+	path = libraries/drivers/st7789
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ST7789.git
