@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 147 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 155 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -43,6 +43,8 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 147 lib
 * [Adafruit CircuitPython HCSR04](https://github.com/adafruit/Adafruit_CircuitPython_HCSR04.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hcsr04))
 * [Adafruit CircuitPython HT16K33](https://github.com/adafruit/Adafruit_CircuitPython_HT16K33.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ht16k33))
 * [Adafruit CircuitPython HTU21D](https://github.com/adafruit/Adafruit_CircuitPython_HTU21D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-htu21d))
+* [Adafruit CircuitPython HX8357](https://github.com/adafruit/Adafruit_CircuitPython_HX8357.git)
+* [Adafruit CircuitPython ILI9341](https://github.com/adafruit/Adafruit_CircuitPython_ILI9341.git)
 * [Adafruit CircuitPython INA219](https://github.com/adafruit/Adafruit_CircuitPython_INA219.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ina219))
 * [Adafruit CircuitPython INA260](https://github.com/adafruit/Adafruit_CircuitPython_INA260.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ina260))
 * [Adafruit CircuitPython IRRemote](https://github.com/adafruit/Adafruit_CircuitPython_IRRemote.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-irremote))
@@ -90,6 +92,11 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 147 lib
 * [Adafruit CircuitPython SI5351](https://github.com/adafruit/Adafruit_CircuitPython_SI5351.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-si5351))
 * [Adafruit CircuitPython SI7021](https://github.com/adafruit/Adafruit_CircuitPython_SI7021.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-si7021))
 * [Adafruit CircuitPython SSD1306](https://github.com/adafruit/Adafruit_CircuitPython_SSD1306.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1306))
+* [Adafruit CircuitPython SSD1331](https://github.com/adafruit/Adafruit_CircuitPython_SSD1331.git)
+* [Adafruit CircuitPython SSD1351](https://github.com/adafruit/Adafruit_CircuitPython_SSD1351.git)
+* [Adafruit CircuitPython ST7735R](https://github.com/adafruit/Adafruit_CircuitPython_ST7735R.git)
+* [Adafruit CircuitPython ST7735](https://github.com/adafruit/Adafruit_CircuitPython_ST7735.git)
+* [Adafruit CircuitPython ST7789](https://github.com/adafruit/Adafruit_CircuitPython_ST7789.git)
 * [Adafruit CircuitPython STMPE610](https://github.com/adafruit/Adafruit_CircuitPython_STMPE610.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-stmpe610))
 * [Adafruit CircuitPython Seesaw](https://github.com/adafruit/Adafruit_CircuitPython_Seesaw.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-seesaw))
 * [Adafruit CircuitPython SharpMemoryDisplay](https://github.com/adafruit/Adafruit_CircuitPython_SharpMemoryDisplay.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sharpmemorydisplay))
@@ -134,6 +141,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 147 lib
 * [Adafruit CircuitPython FancyLED](https://github.com/adafruit/Adafruit_CircuitPython_FancyLED.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fancyled))
 * [Adafruit CircuitPython FeatherWing](https://github.com/adafruit/Adafruit_CircuitPython_FeatherWing.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-featherwing))
 * [Adafruit CircuitPython HID](https://github.com/adafruit/Adafruit_CircuitPython_HID.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hid))
+* [Adafruit CircuitPython Hue](https://github.com/adafruit/Adafruit_CircuitPython_Hue.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hue))
 * [Adafruit CircuitPython ImageLoad](https://github.com/adafruit/Adafruit_CircuitPython_ImageLoad.git)
 * [Adafruit CircuitPython IterTools](https://github.com/adafruit/Adafruit_CircuitPython_IterTools.git)
 * [Adafruit CircuitPython LED Animation](https://github.com/adafruit/Adafruit_CircuitPython_LED_Animation.git)
