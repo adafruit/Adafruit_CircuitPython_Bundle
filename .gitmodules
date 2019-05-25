@@ -463,3 +463,6 @@
 [submodule "libraries/drivers/st7789"]
 	path = libraries/drivers/st7789
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ST7789.git
+[submodule "libraries/helpers/azure"]
+	path = libraries/helpers/azure
+	url = https://github.com/adafruit/Adafruit_CircuitPython_AzureIoT.git
