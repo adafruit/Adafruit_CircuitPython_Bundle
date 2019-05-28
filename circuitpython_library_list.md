@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 156 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 157 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -12,6 +12,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 156 lib
 * [Adafruit CircuitPython AMG88xx](https://github.com/adafruit/Adafruit_CircuitPython_AMG88xx.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-amg88xx))
 * [Adafruit CircuitPython APDS9960](https://github.com/adafruit/Adafruit_CircuitPython_APDS9960.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-apds9960))
 * [Adafruit CircuitPython AS726x](https://github.com/adafruit/Adafruit_CircuitPython_AS726x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-as726x))
+* [Adafruit CircuitPython BD3491FS](https://github.com/adafruit/Adafruit_CircuitPython_BD3491FS.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bd3491fs))
 * [Adafruit CircuitPython BME280](https://github.com/adafruit/Adafruit_CircuitPython_BME280.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bme280))
 * [Adafruit CircuitPython BME680](https://github.com/adafruit/Adafruit_CircuitPython_BME680.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bme680))
 * [Adafruit CircuitPython BMP280](https://github.com/adafruit/Adafruit_CircuitPython_BMP280.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bmp280))
