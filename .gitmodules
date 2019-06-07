@@ -469,3 +469,6 @@
 [submodule "libraries/drivers/bd3491fs"]
 	path = libraries/drivers/bd3491fs
 	url = https://github.com/adafruit/Adafruit_CircuitPython_BD3491FS.git
+[submodule "libraries/drivers/ds3502"]
+	path = libraries/drivers/ds3502
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DS3502.git
