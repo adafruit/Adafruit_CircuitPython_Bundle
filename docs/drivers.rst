@@ -81,6 +81,7 @@ Multi-color LED drivers.
     DotStar <https://circuitpython.readthedocs.io/projects/dotstar/en/latest/>
     NeoPixel <https://circuitpython.readthedocs.io/projects/neopixel/en/latest/>
     Pixie <https://circuitpython.readthedocs.io/projects/pixie/en/latest/>
+    RGB LED <https://circuitpython.readthedocs.io/projects/rgbled/en/latest/>
     WS2801 <https://circuitpython.readthedocs.io/projects/ws2801/en/latest/>
 
 Displays
