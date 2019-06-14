@@ -472,3 +472,6 @@
 [submodule "libraries/drivers/ds3502"]
 	path = libraries/drivers/ds3502
 	url = https://github.com/adafruit/Adafruit_CircuitPython_DS3502.git
+[submodule "libraries/helpers/rgbled"]
+	path = libraries/helpers/rgbled
+	url = https://github.com/adafruit/Adafruit_CircuitPython_RGBLED.git
