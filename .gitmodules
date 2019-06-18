@@ -475,3 +475,6 @@
 [submodule "libraries/helpers/rgbled"]
 	path = libraries/helpers/rgbled
 	url = https://github.com/adafruit/Adafruit_CircuitPython_RGBLED.git
+[submodule "libraries/helpers/pyoa"]
+	path = libraries/helpers/pyoa
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PYOA.git
