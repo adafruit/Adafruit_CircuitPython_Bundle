@@ -62,6 +62,7 @@ These libraries build on top of the low level APIs to simplify common tasks.
     miniQR Non-hardware QR code generator <https://circuitpython.readthedocs.io/projects/miniqr/en/latest/>
     MotorKit <https://circuitpython.readthedocs.io/projects/motorkit/en/latest/>
     OneWire <https://circuitpython.readthedocs.io/projects/onewire/en/latest/>
+    PYOA <https://circuitpython.readthedocs.io/projects/pyoa/en/latest/>
     Ring Tone Text Transfer Language (RTTTL) <https://circuitpython.readthedocs.io/projects/rtttl/en/latest/>
     SD Card <https://circuitpython.readthedocs.io/projects/sd/en/latest/>
     ServoKit <https://circuitpython.readthedocs.io/projects/servokit/en/latest/>
