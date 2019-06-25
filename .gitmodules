@@ -478,3 +478,6 @@
 [submodule "libraries/helpers/pyoa"]
 	path = libraries/helpers/pyoa
 	url = https://github.com/adafruit/Adafruit_CircuitPython_PYOA
+[submodule "libraries/drivers/vcnl4040"]
+	path = libraries/drivers/vcnl4040
+	url = https://github.com/adafruit/Adafruit_CircuitPython_VCNL4040.git
