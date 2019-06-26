@@ -192,6 +192,7 @@ These sensors detect light related attributes such as ``color``, ``light`` (unit
     TSL2561 Light Sensor <https://circuitpython.readthedocs.io/projects/tsl2561/en/latest/>
     TSL2591 High Dynamic Range Light Sensor <https://circuitpython.readthedocs.io/projects/tsl2591/en/latest/>
     VCNL4010 Proximity and Light <https://circuitpython.readthedocs.io/projects/vcnl4010/en/latest/>
+    VCNL4040 Proximity and Light <https://circuitpython.readthedocs.io/projects/vcnl4040/en/latest/>
     VEML6070 UV Index <https://circuitpython.readthedocs.io/projects/veml6070/en/latest/>
     VEML6075 UV Index <https://circuitpython.readthedocs.io/projects/veml6075/en/latest/>
     VEML7700 High Accuracy Ambient Light Sensor <https://circuitpython.readthedocs.io/projects/veml7700/en/latest/>
