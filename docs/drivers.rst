@@ -69,6 +69,7 @@ These libraries build on top of the low level APIs to simplify common tasks.
     SimpleIO <https://circuitpython.readthedocs.io/projects/simpleio/en/latest/>
     Slideshow <https://circuitpython.readthedocs.io/projects/slideshow/en/latest/>
     TinyLoRa TTN Helper <https://circuitpython.readthedocs.io/projects/tinylora/en/latest/>
+    Turtle Graphics <https://circuitpython.readthedocs.io/projects/turtle/en/latest/>
     USB Human Interface Device (Keyboard and Mouse) <https://circuitpython.readthedocs.io/projects/hid/en/latest/>
     Waveform Generation <https://circuitpython.readthedocs.io/projects/waveform/en/latest/>
 
