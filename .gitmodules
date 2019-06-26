@@ -478,6 +478,9 @@
 [submodule "libraries/helpers/pyoa"]
 	path = libraries/helpers/pyoa
 	url = https://github.com/adafruit/Adafruit_CircuitPython_PYOA
+[submodule "libraries/helpers/turtle"]
+	path = libraries/helpers/turtle
+	url = https://github.com/adafruit/Adafruit_CircuitPython_turtle
 [submodule "libraries/drivers/vcnl4040"]
 	path = libraries/drivers/vcnl4040
 	url = https://github.com/adafruit/Adafruit_CircuitPython_VCNL4040.git
