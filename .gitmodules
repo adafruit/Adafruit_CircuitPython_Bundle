@@ -484,3 +484,6 @@
 [submodule "libraries/drivers/vcnl4040"]
 	path = libraries/drivers/vcnl4040
 	url = https://github.com/adafruit/Adafruit_CircuitPython_VCNL4040.git
+[submodule "libraries/helpers/cursorcontrol"]
+	path = libraries/helpers/cursorcontrol
+	url = https://github.com/adafruit/Adafruit_CircuitPython_CursorControl.git
