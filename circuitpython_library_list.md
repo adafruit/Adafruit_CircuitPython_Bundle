@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 162 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 163 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -138,6 +138,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 162 lib
 * [Adafruit CircuitPython BluefruitConnect](https://github.com/adafruit/Adafruit_CircuitPython_BluefruitConnect.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bluefruitconnect))
 * [Adafruit CircuitPython BoardTest](https://github.com/adafruit/Adafruit_CircuitPython_BoardTest.git)
 * [Adafruit CircuitPython BusDevice](https://github.com/adafruit/Adafruit_CircuitPython_BusDevice.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-busdevice))
+* [Adafruit CircuitPython CursorControl](https://github.com/adafruit/Adafruit_CircuitPython_CursorControl.git)
 * [Adafruit CircuitPython Debouncer](https://github.com/adafruit/Adafruit_CircuitPython_Debouncer.git)
 * [Adafruit CircuitPython Display Button](https://github.com/adafruit/Adafruit_CircuitPython_Display_Button.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-button))
 * [Adafruit CircuitPython Display Shapes](https://github.com/adafruit/Adafruit_CircuitPython_Display_Shapes.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-shapes))
