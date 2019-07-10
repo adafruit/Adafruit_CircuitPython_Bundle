@@ -487,3 +487,6 @@
 [submodule "libraries/helpers/cursorcontrol"]
 	path = libraries/helpers/cursorcontrol
 	url = https://github.com/adafruit/Adafruit_CircuitPython_CursorControl.git
+[submodule "libraries/helpers/pybadger"]
+	path = libraries/helpers/pybadger
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PyBadger.git
