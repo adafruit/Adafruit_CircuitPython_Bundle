@@ -60,6 +60,7 @@ These libraries build on top of the low level APIs to simplify common tasks.
     LIFX Lights <https://circuitpython.readthedocs.io/projects/lifx/en/latest/>
     Logging  <https://circuitpython.readthedocs.io/projects/logging/en/latest/>
     Mini ESP Tool <https://circuitpython.readthedocs.io/projects/miniesptool/en/latest/>
+    MiniMQTT <https://circuitpython.readthedocs.io/projects/minimqtt/en/latest/>
     miniQR Non-hardware QR code generator <https://circuitpython.readthedocs.io/projects/miniqr/en/latest/>
     MotorKit <https://circuitpython.readthedocs.io/projects/motorkit/en/latest/>
     OneWire <https://circuitpython.readthedocs.io/projects/onewire/en/latest/>
