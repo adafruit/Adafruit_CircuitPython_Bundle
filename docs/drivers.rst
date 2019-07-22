@@ -278,3 +278,4 @@ Miscellaneous
     VC0706 TTL Camera <https://circuitpython.readthedocs.io/projects/vc0706/en/latest/>
     VS1053 Audio Codec <https://circuitpython.readthedocs.io/projects/vs1053/en/latest/>
     Dymo Scale <https://circuitpython.readthedocs.io/projects/dymoscale/en/latest/>
+    Nunchuk <https://circuitpython.readthedocs.io/projects/nunchuk/en/latest/>
