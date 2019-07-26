@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 166 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 171 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -31,6 +31,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 166 lib
 * [Adafruit CircuitPython DS2413](https://github.com/adafruit/Adafruit_CircuitPython_DS2413.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds2413))
 * [Adafruit CircuitPython DS3231](https://github.com/adafruit/Adafruit_CircuitPython_DS3231.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds3231))
 * [Adafruit CircuitPython DS3502](https://github.com/adafruit/Adafruit_CircuitPython_DS3502.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds3502))
+* [Adafruit CircuitPython DisplayIO SSD1306](https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SSD1306.git)
 * [Adafruit CircuitPython DotStar](https://github.com/adafruit/Adafruit_CircuitPython_DotStar.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-dotstar))
 * [Adafruit CircuitPython DymoScale](https://github.com/adafruit/Adafruit_CircuitPython_DymoScale.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-dymoscale))
 * [Adafruit CircuitPython EPD](https://github.com/adafruit/Adafruit_CircuitPython_EPD.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-epd))
@@ -95,6 +96,9 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 166 lib
 * [Adafruit CircuitPython SI5351](https://github.com/adafruit/Adafruit_CircuitPython_SI5351.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-si5351))
 * [Adafruit CircuitPython SI7021](https://github.com/adafruit/Adafruit_CircuitPython_SI7021.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-si7021))
 * [Adafruit CircuitPython SSD1306](https://github.com/adafruit/Adafruit_CircuitPython_SSD1306.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1306))
+* [Adafruit CircuitPython SSD1322](https://github.com/adafruit/Adafruit_CircuitPython_SSD1322.git)
+* [Adafruit CircuitPython SSD1325](https://github.com/adafruit/Adafruit_CircuitPython_SSD1325.git)
+* [Adafruit CircuitPython SSD1327](https://github.com/adafruit/Adafruit_CircuitPython_SSD1327.git)
 * [Adafruit CircuitPython SSD1331](https://github.com/adafruit/Adafruit_CircuitPython_SSD1331.git)
 * [Adafruit CircuitPython SSD1351](https://github.com/adafruit/Adafruit_CircuitPython_SSD1351.git)
 * [Adafruit CircuitPython ST7735R](https://github.com/adafruit/Adafruit_CircuitPython_ST7735R.git)
@@ -163,6 +167,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 166 lib
 * [Adafruit CircuitPython RGBLED](https://github.com/adafruit/Adafruit_CircuitPython_RGBLED.git)
 * [Adafruit CircuitPython RTTTL](https://github.com/adafruit/Adafruit_CircuitPython_RTTTL.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rtttl))
 * [Adafruit CircuitPython Register](https://github.com/adafruit/Adafruit_CircuitPython_Register.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-register))
+* [Adafruit CircuitPython Requests](https://github.com/adafruit/Adafruit_CircuitPython_Requests.git)
 * [Adafruit CircuitPython ServoKit](https://github.com/adafruit/Adafruit_CircuitPython_ServoKit.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-servokit))
 * [Adafruit CircuitPython SimpleIO](https://github.com/adafruit/Adafruit_CircuitPython_SimpleIO.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-simpleio))
 * [Adafruit CircuitPython Slideshow](https://github.com/adafruit/Adafruit_CircuitPython_Slideshow.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-slideshow))
