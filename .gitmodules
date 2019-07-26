@@ -496,3 +496,6 @@
 [submodule "libraries/drivers/nunchuk"]
 	path = libraries/drivers/nunchuk
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Nunchuk.git
+[submodule "libraries/helpers/requests"]
+	path = libraries/helpers/requests
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Requests.git

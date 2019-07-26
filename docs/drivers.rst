@@ -66,6 +66,7 @@ These libraries build on top of the low level APIs to simplify common tasks.
     OneWire <https://circuitpython.readthedocs.io/projects/onewire/en/latest/>
     PyBadger <https://circuitpython.readthedocs.io/projects/pybadger/en/latest/>
     PYOA <https://circuitpython.readthedocs.io/projects/pyoa/en/latest/>
+    Requests <https://circuitpython.readthedocs.io/projects/requests/en/latest/>
     Ring Tone Text Transfer Language (RTTTL) <https://circuitpython.readthedocs.io/projects/rtttl/en/latest/>
     SD Card <https://circuitpython.readthedocs.io/projects/sd/en/latest/>
     ServoKit <https://circuitpython.readthedocs.io/projects/servokit/en/latest/>
