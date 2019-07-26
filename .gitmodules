@@ -499,3 +499,15 @@
 [submodule "libraries/helpers/requests"]
 	path = libraries/helpers/requests
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Requests.git
+[submodule "libraries/drivers/displayio_ssd1306"]
+	path = libraries/drivers/displayio_ssd1306
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SSD1306.git
+[submodule "libraries/drivers/ssd1322"]
+	path = libraries/drivers/ssd1322
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1322.git
+[submodule "libraries/drivers/ssd1325"]
+	path = libraries/drivers/ssd1325
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1325.git
+[submodule "libraries/drivers/ssd1327"]
+	path = libraries/drivers/ssd1327
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1327.git
