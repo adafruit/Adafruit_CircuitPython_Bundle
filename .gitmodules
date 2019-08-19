@@ -511,3 +511,6 @@
 [submodule "libraries/drivers/ssd1327"]
 	path = libraries/drivers/ssd1327
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1327.git
+[submodule "libraries/helpers/hashlib"]
+	path = libraries/helpers/hashlib
+	url = https://github.com/adafruit/Adafruit_CircuitPython_hashlib.git

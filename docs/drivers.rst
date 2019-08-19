@@ -41,6 +41,7 @@ These libraries build on top of the low level APIs to simplify common tasks.
     AVR programming <https://circuitpython.readthedocs.io/projects/avrprog/en/latest/>
     Azure IoT <https://circuitpython.readthedocs.io/projects/azureiot/en/latest/>
     Bitmap Font <https://circuitpython.readthedocs.io/projects/bitmap-font/en/latest/>
+    hashlib <https://circuitpython.readthedocs.io/projects/hashlib/en/latest/>
     Bluefruit LE Connect App <https://circuitpython.readthedocs.io/projects/bluefruitconnect/en/latest/>
     Bluetooth Low Energy (BLE) <https://circuitpython.readthedocs.io/projects/ble/en/latest/>
     Board Test Suite <https://circuitpython.readthedocs.io/projects/boardtest/en/latest/>
