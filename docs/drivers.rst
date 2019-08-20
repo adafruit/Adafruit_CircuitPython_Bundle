@@ -69,6 +69,7 @@ These libraries build on top of the low level APIs to simplify common tasks.
     PYOA <https://circuitpython.readthedocs.io/projects/pyoa/en/latest/>
     Requests <https://circuitpython.readthedocs.io/projects/requests/en/latest/>
     Ring Tone Text Transfer Language (RTTTL) <https://circuitpython.readthedocs.io/projects/rtttl/en/latest/>
+    RSA <https://circuitpython.readthedocs.io/projects/rsa/en/latest/>
     SD Card <https://circuitpython.readthedocs.io/projects/sd/en/latest/>
     ServoKit <https://circuitpython.readthedocs.io/projects/servokit/en/latest/>
     SimpleIO <https://circuitpython.readthedocs.io/projects/simpleio/en/latest/>

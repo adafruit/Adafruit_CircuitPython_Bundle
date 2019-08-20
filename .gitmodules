@@ -514,3 +514,6 @@
 [submodule "libraries/helpers/hashlib"]
 	path = libraries/helpers/hashlib
 	url = https://github.com/adafruit/Adafruit_CircuitPython_hashlib.git
+[submodule "libraries/helpers/rsa"]
+	path = libraries/helpers/rsa
+	url = https://github.com/adafruit/Adafruit_CircuitPython_RSA.git
