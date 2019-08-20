@@ -40,8 +40,8 @@ These libraries build on top of the low level APIs to simplify common tasks.
     Adafruit IO <https://circuitpython.readthedocs.io/projects/adafruitio/en/latest/>
     AVR programming <https://circuitpython.readthedocs.io/projects/avrprog/en/latest/>
     Azure IoT <https://circuitpython.readthedocs.io/projects/azureiot/en/latest/>
+    binascii <https://circuitpython.readthedocs.io/projects/binascii/en/latest/>
     Bitmap Font <https://circuitpython.readthedocs.io/projects/bitmap-font/en/latest/>
-    hashlib <https://circuitpython.readthedocs.io/projects/hashlib/en/latest/>
     Bluefruit LE Connect App <https://circuitpython.readthedocs.io/projects/bluefruitconnect/en/latest/>
     Bluetooth Low Energy (BLE) <https://circuitpython.readthedocs.io/projects/ble/en/latest/>
     Board Test Suite <https://circuitpython.readthedocs.io/projects/boardtest/en/latest/>
@@ -53,6 +53,7 @@ These libraries build on top of the low level APIs to simplify common tasks.
     Display Text <https://circuitpython.readthedocs.io/projects/display-text/en/latest/>
     Fancy LED (similar to FastLED) <https://circuitpython.readthedocs.io/projects/fancyled/en/latest/>
     Framebuf Module <https://circuitpython.readthedocs.io/projects/framebuf/en/latest/>
+    hashlib <https://circuitpython.readthedocs.io/projects/hashlib/en/latest/>
     Hue Lights <https://circuitpython.readthedocs.io/projects/hue/en/latest/>
     Image Load <https://circuitpython.readthedocs.io/projects/imageload/en/latest/>
     InfraRed Remote <https://circuitpython.readthedocs.io/projects/irremote/en/latest/>
