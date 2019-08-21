@@ -400,6 +400,9 @@
 [submodule "libraries/helpers/display-text"]
 	path = libraries/helpers/display-text
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Display_Text.git
+[submodule "libraries/helpers/binascii"]
+	path = libraries/helpers/binascii
+	url = https://github.com/adafruit/Adafruit_CircuitPython_binascii.git
 [submodule "libraries/helpers/bitmap-font"]
 	path = libraries/helpers/bitmap-font
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Bitmap_Font.git
