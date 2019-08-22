@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 173 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 174 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -165,6 +165,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 173 lib
 * [Adafruit CircuitPython PYOA](https://github.com/adafruit/Adafruit_CircuitPython_PYOA)
 * [Adafruit CircuitPython PyBadger](https://github.com/adafruit/Adafruit_CircuitPython_PyBadger.git)
 * [Adafruit CircuitPython RGBLED](https://github.com/adafruit/Adafruit_CircuitPython_RGBLED.git)
+* [Adafruit CircuitPython RSA](https://github.com/adafruit/Adafruit_CircuitPython_RSA.git)
 * [Adafruit CircuitPython RTTTL](https://github.com/adafruit/Adafruit_CircuitPython_RTTTL.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rtttl))
 * [Adafruit CircuitPython Register](https://github.com/adafruit/Adafruit_CircuitPython_Register.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-register))
 * [Adafruit CircuitPython Requests](https://github.com/adafruit/Adafruit_CircuitPython_Requests.git)
