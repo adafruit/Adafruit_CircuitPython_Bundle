@@ -523,3 +523,6 @@
 [submodule "libraries/helpers/ntp"]
 	path = libraries/helpers/ntp
 	url = https://github.com/adafruit/Adafruit_CircuitPython_NTP.git
+[submodule "libraries/helpers/jwt"]
+	path = libraries/helpers/jwt
+	url = https://github.com/adafruit/Adafruit_CircuitPython_JWT.git
