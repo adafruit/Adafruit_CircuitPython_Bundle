@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 174 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 176 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -154,6 +154,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 174 lib
 * [Adafruit CircuitPython Hue](https://github.com/adafruit/Adafruit_CircuitPython_Hue.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hue))
 * [Adafruit CircuitPython ImageLoad](https://github.com/adafruit/Adafruit_CircuitPython_ImageLoad.git)
 * [Adafruit CircuitPython IterTools](https://github.com/adafruit/Adafruit_CircuitPython_IterTools.git)
+* [Adafruit CircuitPython JWT](https://github.com/adafruit/Adafruit_CircuitPython_JWT.git)
 * [Adafruit CircuitPython LED Animation](https://github.com/adafruit/Adafruit_CircuitPython_LED_Animation.git)
 * [Adafruit CircuitPython LIFX](https://github.com/adafruit/Adafruit_CircuitPython_LIFX) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lifx))
 * [Adafruit CircuitPython Logger](https://github.com/adafruit/Adafruit_CircuitPython_Logger.git)
@@ -161,6 +162,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 174 lib
 * [Adafruit CircuitPython MiniMQTT](https://github.com/adafruit/Adafruit_CircuitPython_MiniMQTT.git)
 * [Adafruit CircuitPython MotorKit](https://github.com/adafruit/Adafruit_CircuitPython_MotorKit.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-motorkit))
 * [Adafruit CircuitPython Motor](https://github.com/adafruit/Adafruit_CircuitPython_Motor.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-motor))
+* [Adafruit CircuitPython NTP](https://github.com/adafruit/Adafruit_CircuitPython_NTP.git)
 * [Adafruit CircuitPython OneWire](https://github.com/adafruit/Adafruit_CircuitPython_OneWire.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-onewire))
 * [Adafruit CircuitPython PYOA](https://github.com/adafruit/Adafruit_CircuitPython_PYOA)
 * [Adafruit CircuitPython PyBadger](https://github.com/adafruit/Adafruit_CircuitPython_PyBadger.git)
