@@ -520,3 +520,6 @@
 [submodule "libraries/helpers/rsa"]
 	path = libraries/helpers/rsa
 	url = https://github.com/adafruit/Adafruit_CircuitPython_RSA.git
+[submodule "libraries/helpers/ntp"]
+	path = libraries/helpers/ntp
+	url = https://github.com/adafruit/Adafruit_CircuitPython_NTP.git

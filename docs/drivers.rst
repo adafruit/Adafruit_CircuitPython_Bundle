@@ -65,6 +65,7 @@ These libraries build on top of the low level APIs to simplify common tasks.
     MiniMQTT <https://circuitpython.readthedocs.io/projects/minimqtt/en/latest/>
     miniQR Non-hardware QR code generator <https://circuitpython.readthedocs.io/projects/miniqr/en/latest/>
     MotorKit <https://circuitpython.readthedocs.io/projects/motorkit/en/latest/>
+    NTP (Network time Protocol) <https://circuitpython.readthedocs.io/projects/ntp/en/latest/>
     OneWire <https://circuitpython.readthedocs.io/projects/onewire/en/latest/>
     PyBadger <https://circuitpython.readthedocs.io/projects/pybadger/en/latest/>
     PYOA <https://circuitpython.readthedocs.io/projects/pyoa/en/latest/>
