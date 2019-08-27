@@ -526,3 +526,6 @@
 [submodule "libraries/helpers/jwt"]
 	path = libraries/helpers/jwt
 	url = https://github.com/adafruit/Adafruit_CircuitPython_JWT.git
+[submodule "libraries/helpers/GC_IOT_Core"]
+	path = libraries/helpers/GC_IOT_Core
+	url = https://github.com/adafruit/Adafruit_CircuitPython_GC_IOT_Core.git

@@ -45,6 +45,7 @@ These libraries build on top of the low level APIs to simplify common tasks.
     Bluefruit LE Connect App <https://circuitpython.readthedocs.io/projects/bluefruitconnect/en/latest/>
     Bluetooth Low Energy (BLE) <https://circuitpython.readthedocs.io/projects/ble/en/latest/>
     Board Test Suite <https://circuitpython.readthedocs.io/projects/boardtest/en/latest/>
+    Google Cloud IoT Core <https://circuitpython.readthedocs.io/projects/gc_iot_core/en/latest/>
     Cursor Control <https://circuitpython.readthedocs.io/projects/cursorcontrol/en/latest/>
     DC Motor and Servo <https://circuitpython.readthedocs.io/projects/motor/en/latest/>
     Debouncer <https://circuitpython.readthedocs.io/projects/debouncer/en/latest/>
