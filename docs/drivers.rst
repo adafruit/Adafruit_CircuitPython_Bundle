@@ -94,26 +94,36 @@ Cryptography Helpers
 
 .. toctree::
 
-    hashlib <https://circuitpython.readthedocs.io/projects/hashlib/en/latest/>
     RSA <https://circuitpython.readthedocs.io/projects/rsa/en/latest/>
+
+CPython-module Helpers
+
+.. toctree::
+
+    binascii <https://circuitpython.readthedocs.io/projects/binascii/en/latest/>
+    IterTools <https://circuitpython.readthedocs.io/projects/itertools/en/latest/>
+    Logging  <https://circuitpython.readthedocs.io/projects/logging/en/latest/>
+    hashlib <https://circuitpython.readthedocs.io/projects/hashlib/en/latest/>
+
+Audio
+
+.. toctree::
+
+    Ring Tone Text Transfer Language (RTTTL) <https://circuitpython.readthedocs.io/projects/rtttl/en/latest/>
+    Waveform Generation <https://circuitpython.readthedocs.io/projects/waveform/en/latest/>
 
 Miscellaneous Helpers
 
 .. toctree::
-
     AVR programming <https://circuitpython.readthedocs.io/projects/avrprog/en/latest/>
-    binascii <https://circuitpython.readthedocs.io/projects/binascii/en/latest/>
     Board Test Suite <https://circuitpython.readthedocs.io/projects/boardtest/en/latest/>
     Debouncer <https://circuitpython.readthedocs.io/projects/debouncer/en/latest/>
     InfraRed Remote <https://circuitpython.readthedocs.io/projects/irremote/en/latest/>
-    IterTools <https://circuitpython.readthedocs.io/projects/itertools/en/latest/>
-    Logging  <https://circuitpython.readthedocs.io/projects/logging/en/latest/>
     OneWire <https://circuitpython.readthedocs.io/projects/onewire/en/latest/>
-    Ring Tone Text Transfer Language (RTTTL) <https://circuitpython.readthedocs.io/projects/rtttl/en/latest/>
     SD Card <https://circuitpython.readthedocs.io/projects/sd/en/latest/>
     SimpleIO <https://circuitpython.readthedocs.io/projects/simpleio/en/latest/>
     USB Human Interface Device (Keyboard and Mouse) <https://circuitpython.readthedocs.io/projects/hid/en/latest/>
-    Waveform Generation <https://circuitpython.readthedocs.io/projects/waveform/en/latest/>
+
 
 Blinky
 --------
