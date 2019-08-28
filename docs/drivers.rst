@@ -35,51 +35,76 @@ Helper Libraries
 
 These libraries build on top of the low level APIs to simplify common tasks.
 
-.. toctree::
+LED Helpers
 
-    Adafruit IO <https://circuitpython.readthedocs.io/projects/adafruitio/en/latest/>
-    AVR programming <https://circuitpython.readthedocs.io/projects/avrprog/en/latest/>
-    Azure IoT <https://circuitpython.readthedocs.io/projects/azureiot/en/latest/>
-    binascii <https://circuitpython.readthedocs.io/projects/binascii/en/latest/>
-    Bitmap Font <https://circuitpython.readthedocs.io/projects/bitmap-font/en/latest/>
-    Bluefruit LE Connect App <https://circuitpython.readthedocs.io/projects/bluefruitconnect/en/latest/>
-    Bluetooth Low Energy (BLE) <https://circuitpython.readthedocs.io/projects/ble/en/latest/>
-    Board Test Suite <https://circuitpython.readthedocs.io/projects/boardtest/en/latest/>
-    Google Cloud IoT Core <https://circuitpython.readthedocs.io/projects/gc_iot_core/en/latest/>
+.. toctree::
+    Fancy LED (similar to FastLED) <https://circuitpython.readthedocs.io/projects/fancyled/en/latest/>
+    LED Animation <https://adafruit-circuitpython-led-animation.readthedocs.io/en/latest/>
+
+User Interface and GFX Helpers
+
+.. toctree::
     Cursor Control <https://circuitpython.readthedocs.io/projects/cursorcontrol/en/latest/>
-    DC Motor and Servo <https://circuitpython.readthedocs.io/projects/motor/en/latest/>
-    Debouncer <https://circuitpython.readthedocs.io/projects/debouncer/en/latest/>
+    Bitmap Font <https://circuitpython.readthedocs.io/projects/bitmap-font/en/latest/>
     Display Button <https://circuitpython.readthedocs.io/projects/display_button/en/latest/>
     Display Shapes <https://circuitpython.readthedocs.io/projects/display_shapes/en/latest/>
     Display Text <https://circuitpython.readthedocs.io/projects/display-text/en/latest/>
-    Fancy LED (similar to FastLED) <https://circuitpython.readthedocs.io/projects/fancyled/en/latest/>
-    Framebuf Module <https://circuitpython.readthedocs.io/projects/framebuf/en/latest/>
-    hashlib <https://circuitpython.readthedocs.io/projects/hashlib/en/latest/>
-    Hue Lights <https://circuitpython.readthedocs.io/projects/hue/en/latest/>
-    Image Load <https://circuitpython.readthedocs.io/projects/imageload/en/latest/>
-    InfraRed Remote <https://circuitpython.readthedocs.io/projects/irremote/en/latest/>
-    IterTools <https://circuitpython.readthedocs.io/projects/itertools/en/latest/>
-    JSON Web Token (JWT) <https://circuitpython.readthedocs.io/projects/jwt/en/latest/>
-    LED Animation <https://adafruit-circuitpython-led-animation.readthedocs.io/en/latest/>
-    LIFX Lights <https://circuitpython.readthedocs.io/projects/lifx/en/latest/>
-    Logging  <https://circuitpython.readthedocs.io/projects/logging/en/latest/>
-    Mini ESP Tool <https://circuitpython.readthedocs.io/projects/miniesptool/en/latest/>
-    MiniMQTT <https://circuitpython.readthedocs.io/projects/minimqtt/en/latest/>
-    miniQR Non-hardware QR code generator <https://circuitpython.readthedocs.io/projects/miniqr/en/latest/>
-    MotorKit <https://circuitpython.readthedocs.io/projects/motorkit/en/latest/>
-    NTP (Network time Protocol) <https://circuitpython.readthedocs.io/projects/ntp/en/latest/>
-    OneWire <https://circuitpython.readthedocs.io/projects/onewire/en/latest/>
     PyBadger <https://circuitpython.readthedocs.io/projects/pybadger/en/latest/>
     PYOA <https://circuitpython.readthedocs.io/projects/pyoa/en/latest/>
-    Requests <https://circuitpython.readthedocs.io/projects/requests/en/latest/>
-    Ring Tone Text Transfer Language (RTTTL) <https://circuitpython.readthedocs.io/projects/rtttl/en/latest/>
-    RSA <https://circuitpython.readthedocs.io/projects/rsa/en/latest/>
-    SD Card <https://circuitpython.readthedocs.io/projects/sd/en/latest/>
-    ServoKit <https://circuitpython.readthedocs.io/projects/servokit/en/latest/>
-    SimpleIO <https://circuitpython.readthedocs.io/projects/simpleio/en/latest/>
-    Slideshow <https://circuitpython.readthedocs.io/projects/slideshow/en/latest/>
-    TinyLoRa TTN Helper <https://circuitpython.readthedocs.io/projects/tinylora/en/latest/>
     Turtle Graphics <https://circuitpython.readthedocs.io/projects/turtle/en/latest/>
+    Slideshow <https://circuitpython.readthedocs.io/projects/slideshow/en/latest/>
+    Framebuf Module <https://circuitpython.readthedocs.io/projects/framebuf/en/latest/>
+    miniQR Non-hardware QR code generator <https://circuitpython.readthedocs.io/projects/miniqr/en/latest/>
+    Image Load <https://circuitpython.readthedocs.io/projects/imageload/en/latest/>
+
+Motor Helpers 
+
+.. toctree::
+    DC Motor and Servo <https://circuitpython.readthedocs.io/projects/motor/en/latest/>
+    MotorKit <https://circuitpython.readthedocs.io/projects/motorkit/en/latest/>
+    ServoKit <https://circuitpython.readthedocs.io/projects/servokit/en/latest/>
+
+Internet of Things Service Helpers
+
+.. toctree::
+    Adafruit IO <https://circuitpython.readthedocs.io/projects/adafruitio/en/latest/>
+    Azure IoT <https://circuitpython.readthedocs.io/projects/azureiot/en/latest/>
+    Google Cloud IoT Core <https://circuitpython.readthedocs.io/projects/gc_iot_core/en/latest/>
+    LIFX Lights <https://circuitpython.readthedocs.io/projects/lifx/en/latest/>
+    Hue Lights <https://circuitpython.readthedocs.io/projects/hue/en/latest/>
+
+Internet-of-Things/Wireless Protocol Helpers
+
+.. toctree::
+    Bluefruit LE Connect App <https://circuitpython.readthedocs.io/projects/bluefruitconnect/en/latest/>
+    Bluetooth Low Energy (BLE) <https://circuitpython.readthedocs.io/projects/ble/en/latest/>
+    TinyLoRa TTN Helper <https://circuitpython.readthedocs.io/projects/tinylora/en/latest/>
+    Mini ESP Tool <https://circuitpython.readthedocs.io/projects/miniesptool/en/latest/>
+    MiniMQTT <https://circuitpython.readthedocs.io/projects/minimqtt/en/latest/>
+    JSON Web Token (JWT) <https://circuitpython.readthedocs.io/projects/jwt/en/latest/>
+    Requests <https://circuitpython.readthedocs.io/projects/requests/en/latest/>
+    NTP (Network time Protocol) <https://circuitpython.readthedocs.io/projects/ntp/en/latest/>
+
+Cryptography Helpers
+
+.. toctree::
+    hashlib <https://circuitpython.readthedocs.io/projects/hashlib/en/latest/>
+    RSA <https://circuitpython.readthedocs.io/projects/rsa/en/latest/>
+
+Uncategorized Helpers
+
+.. toctree::
+    AVR programming <https://circuitpython.readthedocs.io/projects/avrprog/en/latest/>
+    binascii <https://circuitpython.readthedocs.io/projects/binascii/en/latest/>
+    Board Test Suite <https://circuitpython.readthedocs.io/projects/boardtest/en/latest/>
+    Debouncer <https://circuitpython.readthedocs.io/projects/debouncer/en/latest/>
+    InfraRed Remote <https://circuitpython.readthedocs.io/projects/irremote/en/latest/>
+    IterTools <https://circuitpython.readthedocs.io/projects/itertools/en/latest/>
+    Logging  <https://circuitpython.readthedocs.io/projects/logging/en/latest/>
+    OneWire <https://circuitpython.readthedocs.io/projects/onewire/en/latest/>
+    Ring Tone Text Transfer Language (RTTTL) <https://circuitpython.readthedocs.io/projects/rtttl/en/latest/>
+    SD Card <https://circuitpython.readthedocs.io/projects/sd/en/latest/>
+    SimpleIO <https://circuitpython.readthedocs.io/projects/simpleio/en/latest/>
     USB Human Interface Device (Keyboard and Mouse) <https://circuitpython.readthedocs.io/projects/hid/en/latest/>
     Waveform Generation <https://circuitpython.readthedocs.io/projects/waveform/en/latest/>
 
