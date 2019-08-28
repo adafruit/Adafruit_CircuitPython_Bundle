@@ -97,7 +97,7 @@ Cryptography Helpers
     hashlib <https://circuitpython.readthedocs.io/projects/hashlib/en/latest/>
     RSA <https://circuitpython.readthedocs.io/projects/rsa/en/latest/>
 
-Uncategorized Helpers
+Miscellaneous Helpers
 
 .. toctree::
 
