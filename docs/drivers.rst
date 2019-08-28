@@ -38,12 +38,14 @@ These libraries build on top of the low level APIs to simplify common tasks.
 LED Helpers
 
 .. toctree::
+
     Fancy LED (similar to FastLED) <https://circuitpython.readthedocs.io/projects/fancyled/en/latest/>
     LED Animation <https://adafruit-circuitpython-led-animation.readthedocs.io/en/latest/>
 
 User Interface and GFX Helpers
 
 .. toctree::
+
     Cursor Control <https://circuitpython.readthedocs.io/projects/cursorcontrol/en/latest/>
     Bitmap Font <https://circuitpython.readthedocs.io/projects/bitmap-font/en/latest/>
     Display Button <https://circuitpython.readthedocs.io/projects/display_button/en/latest/>
@@ -60,6 +62,7 @@ User Interface and GFX Helpers
 Motor Helpers 
 
 .. toctree::
+
     DC Motor and Servo <https://circuitpython.readthedocs.io/projects/motor/en/latest/>
     MotorKit <https://circuitpython.readthedocs.io/projects/motorkit/en/latest/>
     ServoKit <https://circuitpython.readthedocs.io/projects/servokit/en/latest/>
@@ -67,6 +70,7 @@ Motor Helpers
 Internet of Things Service Helpers
 
 .. toctree::
+
     Adafruit IO <https://circuitpython.readthedocs.io/projects/adafruitio/en/latest/>
     Azure IoT <https://circuitpython.readthedocs.io/projects/azureiot/en/latest/>
     Google Cloud IoT Core <https://circuitpython.readthedocs.io/projects/gc_iot_core/en/latest/>
@@ -76,6 +80,7 @@ Internet of Things Service Helpers
 Internet-of-Things/Wireless Protocol Helpers
 
 .. toctree::
+
     Bluefruit LE Connect App <https://circuitpython.readthedocs.io/projects/bluefruitconnect/en/latest/>
     Bluetooth Low Energy (BLE) <https://circuitpython.readthedocs.io/projects/ble/en/latest/>
     TinyLoRa TTN Helper <https://circuitpython.readthedocs.io/projects/tinylora/en/latest/>
@@ -88,12 +93,14 @@ Internet-of-Things/Wireless Protocol Helpers
 Cryptography Helpers
 
 .. toctree::
+
     hashlib <https://circuitpython.readthedocs.io/projects/hashlib/en/latest/>
     RSA <https://circuitpython.readthedocs.io/projects/rsa/en/latest/>
 
 Uncategorized Helpers
 
 .. toctree::
+
     AVR programming <https://circuitpython.readthedocs.io/projects/avrprog/en/latest/>
     binascii <https://circuitpython.readthedocs.io/projects/binascii/en/latest/>
     Board Test Suite <https://circuitpython.readthedocs.io/projects/boardtest/en/latest/>
