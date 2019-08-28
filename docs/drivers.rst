@@ -37,12 +37,16 @@ These libraries build on top of the low level APIs to simplify common tasks.
 
 LED Helpers
 
+Helpers for animating LEDs.
+
 .. toctree::
 
     Fancy LED (similar to FastLED) <https://circuitpython.readthedocs.io/projects/fancyled/en/latest/>
     LED Animation <https://adafruit-circuitpython-led-animation.readthedocs.io/en/latest/>
 
 User Interface and GFX Helpers
+
+Helpers for building graphical interfaces using the displayio core module.
 
 .. toctree::
 
@@ -61,13 +65,17 @@ User Interface and GFX Helpers
 
 Motor Helpers 
 
+Helpers for driving motors, servos, and steppers.
+
 .. toctree::
 
     DC Motor and Servo <https://circuitpython.readthedocs.io/projects/motor/en/latest/>
     MotorKit <https://circuitpython.readthedocs.io/projects/motorkit/en/latest/>
     ServoKit <https://circuitpython.readthedocs.io/projects/servokit/en/latest/>
 
-Internet of Things Service Helpers
+Internet of Things Web Service Helpers
+
+Helpers for connecting with hosted and self-hosted internet-of-things web services.
 
 .. toctree::
 
@@ -78,6 +86,8 @@ Internet of Things Service Helpers
     Hue Lights <https://circuitpython.readthedocs.io/projects/hue/en/latest/>
 
 Internet-of-Things/Wireless Protocol Helpers
+
+Helpers for interfacing with the internet or wireless communication.
 
 .. toctree::
 
@@ -92,11 +102,16 @@ Internet-of-Things/Wireless Protocol Helpers
 
 Cryptography Helpers
 
+Helpers for secure communication.
+
 .. toctree::
 
     RSA <https://circuitpython.readthedocs.io/projects/rsa/en/latest/>
 
 CPython-module Helpers
+
+Pure-Python implementations of standard CPython libraries. Some of these
+modules may have a CircuitPython Core API implementation too.
 
 .. toctree::
 
@@ -105,7 +120,9 @@ CPython-module Helpers
     Logging  <https://circuitpython.readthedocs.io/projects/logging/en/latest/>
     hashlib <https://circuitpython.readthedocs.io/projects/hashlib/en/latest/>
 
-Audio
+Audio Helpers
+
+Music, noisemakers, and more.
 
 .. toctree::
 
