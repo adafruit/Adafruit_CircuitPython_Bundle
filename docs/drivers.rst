@@ -36,6 +36,7 @@ Helper Libraries
 These libraries build on top of the low level APIs to simplify common tasks.
 
 LED Helpers
+^^^^^^^^^^^^
 
 Helpers for animating LEDs.
 
@@ -45,6 +46,7 @@ Helpers for animating LEDs.
     LED Animation <https://adafruit-circuitpython-led-animation.readthedocs.io/en/latest/>
 
 User Interface and GFX Helpers
+^^^^^^^^^^^^
 
 Helpers for building graphical interfaces using the displayio core module.
 
@@ -63,7 +65,8 @@ Helpers for building graphical interfaces using the displayio core module.
     miniQR Non-hardware QR code generator <https://circuitpython.readthedocs.io/projects/miniqr/en/latest/>
     Image Load <https://circuitpython.readthedocs.io/projects/imageload/en/latest/>
 
-Motor Helpers 
+Motor Helpers
+^^^^^^^^^^^^^^
 
 Helpers for driving motors, servos, and steppers.
 
@@ -74,6 +77,7 @@ Helpers for driving motors, servos, and steppers.
     ServoKit <https://circuitpython.readthedocs.io/projects/servokit/en/latest/>
 
 Internet of Things Web Service Helpers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Helpers for connecting with hosted and self-hosted internet-of-things web services.
 
@@ -86,6 +90,7 @@ Helpers for connecting with hosted and self-hosted internet-of-things web servic
     Hue Lights <https://circuitpython.readthedocs.io/projects/hue/en/latest/>
 
 Internet-of-Things/Wireless Protocol Helpers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Helpers for interfacing with the internet or wireless communication.
 
@@ -101,6 +106,7 @@ Helpers for interfacing with the internet or wireless communication.
     NTP (Network time Protocol) <https://circuitpython.readthedocs.io/projects/ntp/en/latest/>
 
 Cryptography Helpers
+^^^^^^^^^^^^^^^^^^^^^
 
 Helpers for secure communication.
 
@@ -109,6 +115,7 @@ Helpers for secure communication.
     RSA <https://circuitpython.readthedocs.io/projects/rsa/en/latest/>
 
 CPython-module Helpers
+^^^^^^^^^^^^^^^^^^^^^^^
 
 Pure-Python implementations of standard CPython libraries. Some of these
 modules may have a CircuitPython Core API implementation too.
@@ -121,6 +128,7 @@ modules may have a CircuitPython Core API implementation too.
     hashlib <https://circuitpython.readthedocs.io/projects/hashlib/en/latest/>
 
 Audio Helpers
+^^^^^^^^^^^^^^^
 
 Music, noisemakers, and more.
 
@@ -130,8 +138,10 @@ Music, noisemakers, and more.
     Waveform Generation <https://circuitpython.readthedocs.io/projects/waveform/en/latest/>
 
 Miscellaneous Helpers
+^^^^^^^^^^^^^^^^^^^^^^^
 
 .. toctree::
+
     AVR programming <https://circuitpython.readthedocs.io/projects/avrprog/en/latest/>
     Board Test Suite <https://circuitpython.readthedocs.io/projects/boardtest/en/latest/>
     Debouncer <https://circuitpython.readthedocs.io/projects/debouncer/en/latest/>
