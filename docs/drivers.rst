@@ -46,7 +46,7 @@ Helpers for animating LEDs.
     LED Animation <https://adafruit-circuitpython-led-animation.readthedocs.io/en/latest/>
 
 User Interface and GFX Helpers
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Helpers for building graphical interfaces using the displayio core module.
 
