@@ -438,7 +438,7 @@
 	url = https://github.com/adafruit/Adafruit_CircuitPython_IterTools.git
 [submodule "libraries/helpers/lifx"]
 	path = libraries/helpers/lifx
-	url = https://github.com/adafruit/Adafruit_CircuitPython_LIFX
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LIFX.git
 [submodule "libraries/helpers/hue"]
 	path = libraries/helpers/hue
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Hue.git
@@ -480,10 +480,10 @@
 	url = https://github.com/adafruit/Adafruit_CircuitPython_RGBLED.git
 [submodule "libraries/helpers/pyoa"]
 	path = libraries/helpers/pyoa
-	url = https://github.com/adafruit/Adafruit_CircuitPython_PYOA
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PYOA.git
 [submodule "libraries/helpers/turtle"]
 	path = libraries/helpers/turtle
-	url = https://github.com/adafruit/Adafruit_CircuitPython_turtle
+	url = https://github.com/adafruit/Adafruit_CircuitPython_turtle.git
 [submodule "libraries/drivers/vcnl4040"]
 	path = libraries/drivers/vcnl4040
 	url = https://github.com/adafruit/Adafruit_CircuitPython_VCNL4040.git
