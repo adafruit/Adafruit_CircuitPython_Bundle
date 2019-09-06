@@ -438,7 +438,7 @@
 	url = https://github.com/adafruit/Adafruit_CircuitPython_IterTools.git
 [submodule "libraries/helpers/lifx"]
 	path = libraries/helpers/lifx
-	url = https://github.com/adafruit/Adafruit_CircuitPython_LIFX
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LIFX.git
 [submodule "libraries/helpers/hue"]
 	path = libraries/helpers/hue
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Hue.git
@@ -480,10 +480,10 @@
 	url = https://github.com/adafruit/Adafruit_CircuitPython_RGBLED.git
 [submodule "libraries/helpers/pyoa"]
 	path = libraries/helpers/pyoa
-	url = https://github.com/adafruit/Adafruit_CircuitPython_PYOA
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PYOA.git
 [submodule "libraries/helpers/turtle"]
 	path = libraries/helpers/turtle
-	url = https://github.com/adafruit/Adafruit_CircuitPython_turtle
+	url = https://github.com/adafruit/Adafruit_CircuitPython_turtle.git
 [submodule "libraries/drivers/vcnl4040"]
 	path = libraries/drivers/vcnl4040
 	url = https://github.com/adafruit/Adafruit_CircuitPython_VCNL4040.git
@@ -532,3 +532,24 @@
 [submodule "libraries/drivers/pct2075"]
 	path = libraries/drivers/pct2075
 	url = https://github.com/adafruit/Adafruit_CircuitPython_PCT2075.git
+[submodule "libraries/drivers/tlv493d"]
+	path = libraries/drivers/tlv493d
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TLV493D.git
+[submodule "libraries/helpers/bitmapsaver"]
+	path = libraries/helpers/bitmapsaver
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BitmapSaver.git
+[submodule "libraries/drivers/il91874"]
+	path = libraries/drivers/il91874
+	url = https://github.com/adafruit/Adafruit_CircuitPython_IL91874.git
+[submodule "libraries/drivers/il0373"]
+	path = libraries/drivers/il0373
+	url = https://github.com/adafruit/Adafruit_CircuitPython_IL0373.git
+[submodule "libraries/drivers/il0398"]
+	path = libraries/drivers/il0398
+	url = https://github.com/adafruit/Adafruit_CircuitPython_IL0398.git
+[submodule "libraries/drivers/ssd1608"]
+	path = libraries/drivers/ssd1608
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1608.git
+[submodule "libraries/drivers/ssd1675"]
+	path = libraries/drivers/ssd1675
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1675.git

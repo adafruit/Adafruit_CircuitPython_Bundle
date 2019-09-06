@@ -29,59 +29,133 @@ specific boards.
 
     Adafruit CircuitPlayground Express <https://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/>
     Adafruit FeatherWings <https://circuitpython.readthedocs.io/projects/featherwing/en/latest/>
+    PyBadger (PyBadge and PyGamer) <https://circuitpython.readthedocs.io/projects/pybadger/en/latest/>
+    Adafruit PyPortal <https://circuitpython.readthedocs.io/projects/pyportal/en/latest/>
 
 Helper Libraries
 -----------------
 
 These libraries build on top of the low level APIs to simplify common tasks.
 
+LED Helpers
+^^^^^^^^^^^^
+
+Helpers for animating LEDs.
+
 .. toctree::
 
-    Adafruit IO <https://circuitpython.readthedocs.io/projects/adafruitio/en/latest/>
-    AVR programming <https://circuitpython.readthedocs.io/projects/avrprog/en/latest/>
-    Azure IoT <https://circuitpython.readthedocs.io/projects/azureiot/en/latest/>
-    binascii <https://circuitpython.readthedocs.io/projects/binascii/en/latest/>
-    Bitmap Font <https://circuitpython.readthedocs.io/projects/bitmap-font/en/latest/>
-    Bluefruit LE Connect App <https://circuitpython.readthedocs.io/projects/bluefruitconnect/en/latest/>
-    Bluetooth Low Energy (BLE) <https://circuitpython.readthedocs.io/projects/ble/en/latest/>
-    Board Test Suite <https://circuitpython.readthedocs.io/projects/boardtest/en/latest/>
-    Google Cloud IoT Core <https://circuitpython.readthedocs.io/projects/gc_iot_core/en/latest/>
+    Fancy LED (similar to FastLED) <https://circuitpython.readthedocs.io/projects/fancyled/en/latest/>
+    LED Animation <https://adafruit-circuitpython-led-animation.readthedocs.io/en/latest/>
+
+User Interface and GFX Helpers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Helpers for building graphical interfaces using the displayio core module.
+
+.. toctree::
+
     Cursor Control <https://circuitpython.readthedocs.io/projects/cursorcontrol/en/latest/>
-    DC Motor and Servo <https://circuitpython.readthedocs.io/projects/motor/en/latest/>
-    Debouncer <https://circuitpython.readthedocs.io/projects/debouncer/en/latest/>
+    Bitmap Font <https://circuitpython.readthedocs.io/projects/bitmap-font/en/latest/>
     Display Button <https://circuitpython.readthedocs.io/projects/display_button/en/latest/>
     Display Shapes <https://circuitpython.readthedocs.io/projects/display_shapes/en/latest/>
     Display Text <https://circuitpython.readthedocs.io/projects/display-text/en/latest/>
-    Fancy LED (similar to FastLED) <https://circuitpython.readthedocs.io/projects/fancyled/en/latest/>
+    PYOA <https://circuitpython.readthedocs.io/projects/pyoa/en/latest/>
+    Turtle Graphics <https://circuitpython.readthedocs.io/projects/turtle/en/latest/>
+    Slideshow <https://circuitpython.readthedocs.io/projects/slideshow/en/latest/>
     Framebuf Module <https://circuitpython.readthedocs.io/projects/framebuf/en/latest/>
-    hashlib <https://circuitpython.readthedocs.io/projects/hashlib/en/latest/>
-    Hue Lights <https://circuitpython.readthedocs.io/projects/hue/en/latest/>
+    miniQR Non-hardware QR code generator <https://circuitpython.readthedocs.io/projects/miniqr/en/latest/>
     Image Load <https://circuitpython.readthedocs.io/projects/imageload/en/latest/>
-    InfraRed Remote <https://circuitpython.readthedocs.io/projects/irremote/en/latest/>
-    IterTools <https://circuitpython.readthedocs.io/projects/itertools/en/latest/>
-    JSON Web Token (JWT) <https://circuitpython.readthedocs.io/projects/jwt/en/latest/>
-    LED Animation <https://adafruit-circuitpython-led-animation.readthedocs.io/en/latest/>
+    Bitmap Saver <https://circuitpython.readthedocs.io/projects/bitmapsaver/en/latest/>
+    GFX (framebuf) <https://circuitpython.readthedocs.io/projects/gfx/en/latest/>
+
+Motor Helpers
+^^^^^^^^^^^^^^
+
+Helpers for driving motors, servos, and steppers.
+
+.. toctree::
+
+    DC Motor and Servo <https://circuitpython.readthedocs.io/projects/motor/en/latest/>
+    MotorKit <https://circuitpython.readthedocs.io/projects/motorkit/en/latest/>
+    ServoKit <https://circuitpython.readthedocs.io/projects/servokit/en/latest/>
+
+Internet of Things Web Service Helpers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Helpers for connecting with hosted and self-hosted internet-of-things web services.
+
+.. toctree::
+
+    Adafruit IO <https://circuitpython.readthedocs.io/projects/adafruitio/en/latest/>
+    Azure IoT <https://circuitpython.readthedocs.io/projects/azureiot/en/latest/>
+    Google Cloud IoT Core <https://circuitpython.readthedocs.io/projects/gc_iot_core/en/latest/>
     LIFX Lights <https://circuitpython.readthedocs.io/projects/lifx/en/latest/>
-    Logging  <https://circuitpython.readthedocs.io/projects/logging/en/latest/>
+    Hue Lights <https://circuitpython.readthedocs.io/projects/hue/en/latest/>
+
+Internet-of-Things/Wireless Protocol Helpers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Helpers for interfacing with the internet or wireless communication.
+
+.. toctree::
+
+    Bluefruit LE Connect App <https://circuitpython.readthedocs.io/projects/bluefruitconnect/en/latest/>
+    Bluetooth Low Energy (BLE) <https://circuitpython.readthedocs.io/projects/ble/en/latest/>
+    TinyLoRa TTN Helper <https://circuitpython.readthedocs.io/projects/tinylora/en/latest/>
     Mini ESP Tool <https://circuitpython.readthedocs.io/projects/miniesptool/en/latest/>
     MiniMQTT <https://circuitpython.readthedocs.io/projects/minimqtt/en/latest/>
-    miniQR Non-hardware QR code generator <https://circuitpython.readthedocs.io/projects/miniqr/en/latest/>
-    MotorKit <https://circuitpython.readthedocs.io/projects/motorkit/en/latest/>
-    NTP (Network time Protocol) <https://circuitpython.readthedocs.io/projects/ntp/en/latest/>
-    OneWire <https://circuitpython.readthedocs.io/projects/onewire/en/latest/>
-    PyBadger <https://circuitpython.readthedocs.io/projects/pybadger/en/latest/>
-    PYOA <https://circuitpython.readthedocs.io/projects/pyoa/en/latest/>
+    JSON Web Token (JWT) <https://circuitpython.readthedocs.io/projects/jwt/en/latest/>
     Requests <https://circuitpython.readthedocs.io/projects/requests/en/latest/>
-    Ring Tone Text Transfer Language (RTTTL) <https://circuitpython.readthedocs.io/projects/rtttl/en/latest/>
+    NTP (Network time Protocol) <https://circuitpython.readthedocs.io/projects/ntp/en/latest/>
+
+Cryptography Helpers
+^^^^^^^^^^^^^^^^^^^^^
+
+Helpers for secure communication.
+
+.. toctree::
+
     RSA <https://circuitpython.readthedocs.io/projects/rsa/en/latest/>
-    SD Card <https://circuitpython.readthedocs.io/projects/sd/en/latest/>
-    ServoKit <https://circuitpython.readthedocs.io/projects/servokit/en/latest/>
-    SimpleIO <https://circuitpython.readthedocs.io/projects/simpleio/en/latest/>
-    Slideshow <https://circuitpython.readthedocs.io/projects/slideshow/en/latest/>
-    TinyLoRa TTN Helper <https://circuitpython.readthedocs.io/projects/tinylora/en/latest/>
-    Turtle Graphics <https://circuitpython.readthedocs.io/projects/turtle/en/latest/>
-    USB Human Interface Device (Keyboard and Mouse) <https://circuitpython.readthedocs.io/projects/hid/en/latest/>
+
+CPython-module Helpers
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Pure-Python implementations of standard CPython libraries. Some of these
+modules may have a CircuitPython Core API implementation too.
+
+.. toctree::
+
+    binascii <https://circuitpython.readthedocs.io/projects/binascii/en/latest/>
+    IterTools <https://circuitpython.readthedocs.io/projects/itertools/en/latest/>
+    Logging  <https://circuitpython.readthedocs.io/projects/logging/en/latest/>
+    hashlib <https://circuitpython.readthedocs.io/projects/hashlib/en/latest/>
+
+Audio Helpers
+^^^^^^^^^^^^^^^
+
+Music, noisemakers, and more.
+
+.. toctree::
+
+    MIDI <https://circuitpython.readthedocs.io/projects/midi/en/latest/>
+    Ring Tone Text Transfer Language (RTTTL) <https://circuitpython.readthedocs.io/projects/rtttl/en/latest/>
     Waveform Generation <https://circuitpython.readthedocs.io/projects/waveform/en/latest/>
+
+Miscellaneous Helpers
+^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+
+    AVR programming <https://circuitpython.readthedocs.io/projects/avrprog/en/latest/>
+    Board Test Suite <https://circuitpython.readthedocs.io/projects/boardtest/en/latest/>
+    Debouncer <https://circuitpython.readthedocs.io/projects/debouncer/en/latest/>
+    InfraRed Remote <https://circuitpython.readthedocs.io/projects/irremote/en/latest/>
+    OneWire <https://circuitpython.readthedocs.io/projects/onewire/en/latest/>
+    SD Card <https://circuitpython.readthedocs.io/projects/sd/en/latest/>
+    SimpleIO <https://circuitpython.readthedocs.io/projects/simpleio/en/latest/>
+    USB Human Interface Device (Keyboard and Mouse) <https://circuitpython.readthedocs.io/projects/hid/en/latest/>
+    Test Repo <https://circuitpython.readthedocs.io/projects/testrepo/en/latest/>
+
 
 Blinky
 --------
@@ -101,25 +175,63 @@ Displays
 
 Drivers used to display information. Either pixel or segment based.
 
+Pixel based displays are implemented in two different ways. The original method called "framebuf"
+uses a traditional frame buffer model where all pixels are stored in the microcontroller's ram. The
+newer method called "displayio" generates the pixels on the fly and relies on the display's ram to
+store the final pixels. "displayio" drivers will also work with CircuitPython to display error
+messages and other output to the display when the user code is not using it.
+
+The "displayio" drivers are recommended.
+
+Color TFT-LCD
+^^^^^^^^^^^^^^^
+
+.. toctree::
+
+    HX8357 (displayio) <https://circuitpython.readthedocs.io/projects/hx8357/en/latest/>
+    ILI9341 and ILI9340 (displayio) <https://circuitpython.readthedocs.io/projects/ili9341/en/latest/>
+    ST7735 (displayio) <https://circuitpython.readthedocs.io/projects/st7735/en/latest/>
+    ST7735R (displayio) <https://circuitpython.readthedocs.io/projects/st7735r/en/latest/>
+    ST7789 (displayio) <https://circuitpython.readthedocs.io/projects/st7789/en/latest/>
+    RGB Displays (framebuf) <https://circuitpython.readthedocs.io/projects/rgb_display/en/latest/>
+
+OLED
+^^^^^^^^^^^^^^^
+
+.. toctree::
+
+    SSD1306 OLED (displayio) <https://circuitpython.readthedocs.io/projects/displayio_ssd1306/en/latest/>
+    SSD1306 OLED (framebuf) <https://circuitpython.readthedocs.io/projects/ssd1306/en/latest/>
+    SSD1322 OLED (displayio) <https://circuitpython.readthedocs.io/projects/ssd1322/en/latest/>
+    SSD1325 OLED (displayio) <https://circuitpython.readthedocs.io/projects/ssd1325/en/latest/>
+    SSD1327 OLED (displayio) <https://circuitpython.readthedocs.io/projects/ssd1327/en/latest/>
+    SSD1331 OLED (displayio) <https://circuitpython.readthedocs.io/projects/ssd1331/en/latest/>
+    SSD1351 OLED (displayio) <https://circuitpython.readthedocs.io/projects/ssd1351/en/latest/>
+
+E-Paper / E-Ink
+^^^^^^^^^^^^^^^
+
+.. toctree::
+
+    E-Paper Display (framebuf) <https://circuitpython.readthedocs.io/projects/epd/en/latest/>
+    IL0373 (displayio) <https://circuitpython.readthedocs.io/projects/il0373/en/latest/>
+    IL0398 (displayio) <https://circuitpython.readthedocs.io/projects/il0398/en/latest/>
+    IL91874 (displayio) <https://circuitpython.readthedocs.io/projects/il91874/en/latest/>
+    SSD1608 (displayio) <https://circuitpython.readthedocs.io/projects/ssd1608/en/latest/>
+    SSD1675 (displayio) <https://circuitpython.readthedocs.io/projects/ssd1675/en/latest/>
+
+Other
+^^^^^^^^^^^^^^^
+
 .. toctree::
 
     Character LCD <https://circuitpython.readthedocs.io/projects/charlcd/en/latest/>
-    E-Paper Display <https://circuitpython.readthedocs.io/projects/epd/en/latest/>
     HT16K33 LED Matrices and Segment Displays <https://circuitpython.readthedocs.io/projects/ht16k33/en/latest/>
-    HX8357 3.5-inch TFT Display Driver <https://circuitpython.readthedocs.io/projects/hx8357/en/latest/>
-    ILI9341 and ILI9340 TFT-LCD Display Driver <https://circuitpython.readthedocs.io/projects/ili9341/en/latest/>
     IS31FL3731 Charlieplexed LED Matrix <https://circuitpython.readthedocs.io/projects/is31fl3731/en/latest/>
     MAX7219 LED Matrix <https://circuitpython.readthedocs.io/projects/max7219/en/latest/>
     Nokia PCD8544 Display <https://circuitpython.readthedocs.io/projects/pcd8544/en/latest/>
     RA8875 40-Pin Display Driver <https://circuitpython.readthedocs.io/projects/ra8875/en/latest/>
-    RGB Displays <https://circuitpython.readthedocs.io/projects/rgb_display/en/latest/>
-    SSD1306 OLED Driver <https://circuitpython.readthedocs.io/projects/ssd1306/en/latest/>
-    SSD1331 OLED Display Driver <https://circuitpython.readthedocs.io/projects/ssd1331/en/latest/>
-    SSD1351 OLED Display Driver <https://circuitpython.readthedocs.io/projects/ssd1351/en/latest/>
     Sharp Memory Display <https://circuitpython.readthedocs.io/projects/sharpmemorydisplay/en/latest/>
-    ST7735 TFT-LCD displays <https://circuitpython.readthedocs.io/projects/st7735/en/latest/>
-    ST7735R TFT-LCD displays <https://circuitpython.readthedocs.io/projects/st7735r/en/latest/>
-    ST7789 TFT-LCD displays <https://circuitpython.readthedocs.io/projects/st7789/en/latest/>
 
 Real-time clocks
 -----------------
@@ -151,7 +263,9 @@ Motion relating sensing including ``acceleration``, ``magnetic``, ``gyro``, and 
     LSM9DS0 Accelerometer, Magnetometer, Gyroscope and Temperature <https://circuitpython.readthedocs.io/projects/lsm9ds0/en/latest/>
     LSM9DS1 Accelerometer, Magnetometer, Gyroscope and Temperature <https://circuitpython.readthedocs.io/projects/lsm9ds1/en/latest/>
     MLX90390 3 Axis Magnetometer <https://circuitpython.readthedocs.io/projects/mlx90393/en/latest/>
-    MMA8451 3 axis accelerometer <https://circuitpython.readthedocs.io/projects/mma8451/en/latest/>
+    MMA8451 3 Axis Accelerometer <https://circuitpython.readthedocs.io/projects/mma8451/en/latest/>
+    MSA301 3 Axis Accelerometer <https://circuitpython.readthedocs.io/projects/msa301/en/latest/>
+    TLV493D 3 Axis Magnetometer <https://circuitpython.readthedocs.io/projects/tlv493d/en/latest/>
 
 Environmental Sensors
 ----------------------
@@ -217,6 +331,7 @@ These sensors measure the ``distance`` to another object and may also measure li
 
     Garmin LIDARLite I2C <https://circuitpython.readthedocs.io/projects/lidarlite/en/latest/>
     HC-SR04 Ultrasonic Range Sensors <https://circuitpython.readthedocs.io/projects/hcsr04/en/latest/>
+    Slamtech RPLidar <https://circuitpython.readthedocs.io/projects/rplidar/en/latest/>
     TFmini IR Time of Flight ~30cm - 12m <https://circuitpython.readthedocs.io/projects/tfmini/en/latest/>
     US-100 Ultrasonic Distance Sensor <https://circuitpython.readthedocs.io/projects/us100/en/latest/>
     VL6180x 5 - 100 mm <https://circuitpython.readthedocs.io/projects/vl6180x/en/latest/>
@@ -276,6 +391,7 @@ Miscellaneous
     MAX9744 Audio Amplifier  <https://circuitpython.readthedocs.io/projects/max9744/en/latest/>
     NeoTrellis 4x4 Keypad <https://circuitpython.readthedocs.io/projects/neotrellis/en/latest/>
     NeoTrellis M4 4x8 Keypad <https://circuitpython.readthedocs.io/projects/trellism4/en/latest/>
+    PyPixelbuf <https://circuitpython.readthedocs.io/projects/pypixelbuf/en/latest/>
     Si4713 Stereo FM Transmitter <https://circuitpython.readthedocs.io/projects/si4713/en/latest/>
     Si5351 Clock Generator <https://circuitpython.readthedocs.io/projects/si5351/en/latest/>
     STMPE610 Resistive Touchscreen <https://circuitpython.readthedocs.io/projects/stmpe610/en/latest/>
