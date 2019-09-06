@@ -26,7 +26,7 @@
 # 'init' to make sure any new libraries are incorporated.
 git submodule init
 git submodule update
-git submodule foreach git fetch
+git submodule foreach git fetch --all
 
 # Regular release tags are 'x.x.x'. Exclude tags that are alpha or beta releases
 # They will contain a '-' in the tag, such as '3.0.0-beta.5'

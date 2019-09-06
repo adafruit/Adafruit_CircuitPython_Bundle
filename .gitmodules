@@ -535,3 +535,18 @@
 [submodule "libraries/helpers/bitmapsaver"]
 	path = libraries/helpers/bitmapsaver
 	url = https://github.com/adafruit/Adafruit_CircuitPython_BitmapSaver.git
+[submodule "libraries/drivers/il91874"]
+	path = libraries/drivers/il91874
+	url = https://github.com/adafruit/Adafruit_CircuitPython_IL91874.git
+[submodule "libraries/drivers/il0373"]
+	path = libraries/drivers/il0373
+	url = https://github.com/adafruit/Adafruit_CircuitPython_IL0373.git
+[submodule "libraries/drivers/il0398"]
+	path = libraries/drivers/il0398
+	url = https://github.com/adafruit/Adafruit_CircuitPython_IL0398.git
+[submodule "libraries/drivers/ssd1608"]
+	path = libraries/drivers/ssd1608
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1608.git
+[submodule "libraries/drivers/ssd1675"]
+	path = libraries/drivers/ssd1675
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1675.git
