@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 184 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 185 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -85,6 +85,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 184 lib
 * [Adafruit CircuitPython PCA9685](https://github.com/adafruit/Adafruit_CircuitPython_PCA9685.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pca9685))
 * [Adafruit CircuitPython PCD8544](https://github.com/adafruit/Adafruit_CircuitPython_PCD8544.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pcd8544))
 * [Adafruit CircuitPython PCF8523](https://github.com/adafruit/Adafruit_CircuitPython_PCF8523.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pcf8523))
+* [Adafruit CircuitPython PCT2075](https://github.com/adafruit/Adafruit_CircuitPython_PCT2075.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pct2075))
 * [Adafruit CircuitPython PN532](https://github.com/adafruit/Adafruit_CircuitPython_PN532.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pn532))
 * [Adafruit CircuitPython Pixie](https://github.com/adafruit/Adafruit_CircuitPython_Pixie.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pixie))
 * [Adafruit CircuitPython PyPortal](https://github.com/adafruit/Adafruit_CircuitPython_PyPortal.git)
