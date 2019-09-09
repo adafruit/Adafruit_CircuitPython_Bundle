@@ -529,6 +529,9 @@
 [submodule "libraries/helpers/GC_IOT_Core"]
 	path = libraries/helpers/GC_IOT_Core
 	url = https://github.com/adafruit/Adafruit_CircuitPython_GC_IOT_Core.git
+[submodule "libraries/drivers/pct2075"]
+	path = libraries/drivers/pct2075
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PCT2075.git
 [submodule "libraries/drivers/tlv493d"]
 	path = libraries/drivers/tlv493d
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TLV493D.git
