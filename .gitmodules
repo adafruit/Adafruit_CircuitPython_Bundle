@@ -553,3 +553,6 @@
 [submodule "libraries/drivers/ssd1675"]
 	path = libraries/drivers/ssd1675
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1675.git
+[submodule "libraries/drivers/msa301"]
+	path = libraries/drivers/msa301
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MSA301.git
