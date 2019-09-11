@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 185 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 186 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -78,6 +78,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 185 lib
 * [Adafruit CircuitPython MPL3115A2](https://github.com/adafruit/Adafruit_CircuitPython_MPL3115A2.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mpl3115a2))
 * [Adafruit CircuitPython MPR121](https://github.com/adafruit/Adafruit_CircuitPython_MPR121.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mpr121))
 * [Adafruit CircuitPython MPRLS](https://github.com/adafruit/Adafruit_CircuitPython_MPRLS.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mprls))
+* [Adafruit CircuitPython MSA301](https://github.com/adafruit/Adafruit_CircuitPython_MSA301.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-msa301))
 * [Adafruit CircuitPython MatrixKeypad](https://github.com/adafruit/Adafruit_CircuitPython_MatrixKeypad.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-matrixkeypad))
 * [Adafruit CircuitPython NeoPixel](https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-neopixel))
 * [Adafruit CircuitPython NeoTrellis](https://github.com/adafruit/Adafruit_CircuitPython_NeoTrellis) ([PyPi](https://pypi.org/project/adafruit-circuitpython-neotrellis))
