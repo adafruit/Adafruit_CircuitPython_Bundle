@@ -378,6 +378,7 @@ Miscellaneous
 .. toctree::
 
     74HC595 Shift Register <https://circuitpython.readthedocs.io/projects/74hc595/en/latest/>
+    ATECCx08 Cryptographic Co-Processor <https://circuitpython.readthedocs.io/projects/atecc/en/latest/>
     AMG88xx Grid-Eye IR Camera <https://circuitpython.readthedocs.io/projects/amg88xx/en/latest/>
     BD3491FS Audio Processor  <https://circuitpython.readthedocs.io/projects/bd3491fs/en/latest/>
     CAP1188 8-Key Capacitive Touch <https://circuitpython.readthedocs.io/projects/cap1188/en/latest/>

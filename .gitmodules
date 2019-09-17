@@ -556,3 +556,6 @@
 [submodule "libraries/drivers/msa301"]
 	path = libraries/drivers/msa301
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MSA301.git
+[submodule "libraries/drivers/atecc"]
+	path = libraries/drivers/atecc
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ATECC.git
