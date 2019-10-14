@@ -559,3 +559,6 @@
 [submodule "libraries/drivers/atecc"]
 	path = libraries/drivers/atecc
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ATECC.git
+[submodule "libraries/helpers/AWS_IOT"]
+	path = libraries/helpers/AWS_IOT
+	url = https://github.com/adafruit/Adafruit_CircuitPython_AWS_IOT.git

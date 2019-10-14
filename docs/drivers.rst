@@ -87,6 +87,7 @@ Helpers for connecting with hosted and self-hosted internet-of-things web servic
 .. toctree::
 
     Adafruit IO <https://circuitpython.readthedocs.io/projects/adafruitio/en/latest/>
+    Amazon AWS IoT <https://circuitpython.readthedocs.io/projects/aws_iot/en/latest/>
     Azure IoT <https://circuitpython.readthedocs.io/projects/azureiot/en/latest/>
     Google Cloud IoT Core <https://circuitpython.readthedocs.io/projects/gc_iot_core/en/latest/>
     LIFX Lights <https://circuitpython.readthedocs.io/projects/lifx/en/latest/>
