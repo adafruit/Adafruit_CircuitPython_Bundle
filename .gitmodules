@@ -562,3 +562,12 @@
 [submodule "libraries/helpers/AWS_IOT"]
 	path = libraries/helpers/AWS_IOT
 	url = https://github.com/adafruit/Adafruit_CircuitPython_AWS_IOT.git
+[submodule "libraries/drivers/lsm303-accel"]
+	path = libraries/drivers/lsm303-accel
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LSM303_Accel.git
+[submodule "libraries/drivers/lsm303agr-mag"]
+	path = libraries/drivers/lsm303agr-mag
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LSM303AGR_Mag.git
+[submodule "libraries/drivers/lsm303dlh-mag"]
+	path = libraries/drivers/lsm303dlh-mag
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LSM303DLH_Mag.git
