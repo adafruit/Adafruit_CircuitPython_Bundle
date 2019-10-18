@@ -268,6 +268,7 @@ Motion relating sensing including ``acceleration``, ``magnetic``, ``gyro``, and 
     LSM9DS1 Accelerometer, Magnetometer, Gyroscope and Temperature <https://circuitpython.readthedocs.io/projects/lsm9ds1/en/latest/>
     MLX90390 3 Axis Magnetometer <https://circuitpython.readthedocs.io/projects/mlx90393/en/latest/>
     MMA8451 3 Axis Accelerometer <https://circuitpython.readthedocs.io/projects/mma8451/en/latest/>
+    MPU6050 Accelerometer, Gyroscope, and Temperature Sensor <https://circuitpython.readthedocs.io/projects/mpu6050/en/latest/>
     MSA301 3 Axis Accelerometer <https://circuitpython.readthedocs.io/projects/msa301/en/latest/>
     TLV493D 3 Axis Magnetometer <https://circuitpython.readthedocs.io/projects/tlv493d/en/latest/>
 

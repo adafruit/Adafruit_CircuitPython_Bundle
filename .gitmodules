@@ -571,3 +571,6 @@
 [submodule "libraries/drivers/lsm303dlh-mag"]
 	path = libraries/drivers/lsm303dlh-mag
 	url = https://github.com/adafruit/Adafruit_CircuitPython_LSM303DLH_Mag.git
+[submodule "libraries/drivers/mpu6050"]
+	path = libraries/drivers/mpu6050
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MPU6050.git
