@@ -295,6 +295,7 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     MAX31855 Thermocouple Amplifier, Temperature <https://circuitpython.readthedocs.io/projects/max31855/en/latest/>
     MAX31856 Thermocouple Amplifier, Temperature <https://circuitpython.readthedocs.io/projects/max31856/en/latest/>
     MAX31865 Thermocouple Amplifier, Temperature <https://circuitpython.readthedocs.io/projects/max31865/en/latest/>
+    MCP9600 Thermocouple Amplifier <https://circuitpython.readthedocs.io/projects/mcp9600/en/latest/>
     MCP9808 Temperature <https://circuitpython.readthedocs.io/projects/mcp9808/en/latest/>
     MLX90614 Contactless Temperature <https://circuitpython.readthedocs.io/projects/mlx90614/en/latest/>
     MP115A2 Barometric Pressure, Temperature <https://circuitpython.readthedocs.io/projects/mpl115a2/en/latest/>
