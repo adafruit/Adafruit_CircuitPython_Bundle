@@ -574,3 +574,6 @@
 [submodule "libraries/drivers/mpu6050"]
 	path = libraries/drivers/mpu6050
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MPU6050.git
+[submodule "libraries/drivers/mcp9600"]
+	path = libraries/drivers/mcp9600
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MCP9600.git
