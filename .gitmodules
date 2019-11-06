@@ -43,6 +43,9 @@
 [submodule "cipy_neopixel"]
 	path = libraries/drivers/neopixel
 	url = https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel.git
+[submodule "cipy_ssd1305"]
+	path = libraries/drivers/ssd1305
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1305.git
 [submodule "cipy_ssd1306"]
 	path = libraries/drivers/ssd1306
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1306.git
@@ -502,6 +505,9 @@
 [submodule "libraries/helpers/requests"]
 	path = libraries/helpers/requests
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Requests.git
+[submodule "libraries/drivers/displayio_ssd1305"]
+	path = libraries/drivers/displayio_ssd1305
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SSD1305.git
 [submodule "libraries/drivers/displayio_ssd1306"]
 	path = libraries/drivers/displayio_ssd1306
 	url = https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SSD1306.git
