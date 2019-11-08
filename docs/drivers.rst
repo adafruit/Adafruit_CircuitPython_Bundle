@@ -394,6 +394,7 @@ Miscellaneous
     DS3502 I2C Potentiometer <https://circuitpython.readthedocs.io/projects/ds3502/en/latest/>
     Fingerprint Sensor <https://circuitpython.readthedocs.io/projects/fingerprint/en/latest/>
     FRAM Non-Volatile Memory <https://circuitpython.readthedocs.io/projects/fram/en/latest/>
+    Gizmo <https://circuitpython.readthedocs.io/projects/gizmo/en/latest/>
     INA219 High Side Current <https://circuitpython.readthedocs.io/projects/ina219/en/latest/>
     INA260 Current and Power Monitor <https://circuitpython.readthedocs.io/projects/ina260/en/latest/>
     Matrix Keypad <https://circuitpython.readthedocs.io/projects/matrixkeypad/en/latest/>
