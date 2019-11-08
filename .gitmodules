@@ -583,6 +583,6 @@
 [submodule "libraries/drivers/mcp9600"]
 	path = libraries/drivers/mcp9600
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MCP9600.git
-[submodule "libraries/drivers/gizmo"]
-	path = libraries/drivers/gizmo
+[submodule "libraries/helpers/gizmo"]
+	path = libraries/helpers/gizmo
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Gizmo.git
