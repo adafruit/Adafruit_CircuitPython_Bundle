@@ -165,7 +165,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 196 lib
 * [Adafruit CircuitPython Debouncer](https://github.com/adafruit/Adafruit_CircuitPython_Debouncer.git)
 * [Adafruit CircuitPython Display Button](https://github.com/adafruit/Adafruit_CircuitPython_Display_Button.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-button))
 * [Adafruit CircuitPython Display Shapes](https://github.com/adafruit/Adafruit_CircuitPython_Display_Shapes.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-shapes))
-* [Adafruit CircuitPython Display Text](https://github.com/adafruit/Adafruit_CircuitPython_Display_Text.git)
+* [Adafruit CircuitPython Display Text](https://github.com/adafruit/Adafruit_CircuitPython_Display_Text.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-text))
 * [Adafruit CircuitPython FancyLED](https://github.com/adafruit/Adafruit_CircuitPython_FancyLED.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fancyled))
 * [Adafruit CircuitPython FeatherWing](https://github.com/adafruit/Adafruit_CircuitPython_FeatherWing.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-featherwing))
 * [Adafruit CircuitPython GC IOT Core](https://github.com/adafruit/Adafruit_CircuitPython_GC_IOT_Core.git)
