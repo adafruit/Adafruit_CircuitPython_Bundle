@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 196 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 197 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -101,6 +101,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 196 lib
 * [Adafruit CircuitPython RFM69](https://github.com/adafruit/Adafruit_CircuitPython_RFM69.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rfm69))
 * [Adafruit CircuitPython RFM9x](https://github.com/adafruit/Adafruit_CircuitPython_RFM9x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rfm9x))
 * [Adafruit CircuitPython RGB Display](https://github.com/adafruit/Adafruit_CircuitPython_RGB_Display.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rgb-display))
+* [Adafruit CircuitPython RPLIDAR](https://github.com/adafruit/Adafruit_CircuitPython_RPLIDAR.git)
 * [Adafruit CircuitPython SD](https://github.com/adafruit/Adafruit_CircuitPython_SD.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sd))
 * [Adafruit CircuitPython SGP30](https://github.com/adafruit/Adafruit_CircuitPython_SGP30.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sgp30))
 * [Adafruit CircuitPython SHT31D](https://github.com/adafruit/Adafruit_CircuitPython_SHT31D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sht31d))
@@ -177,7 +178,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 196 lib
 * [Adafruit CircuitPython JWT](https://github.com/adafruit/Adafruit_CircuitPython_JWT.git)
 * [Adafruit CircuitPython LED Animation](https://github.com/adafruit/Adafruit_CircuitPython_LED_Animation.git)
 * [Adafruit CircuitPython LIFX](https://github.com/adafruit/Adafruit_CircuitPython_LIFX.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lifx))
-* [Adafruit CircuitPython Logger](https://github.com/adafruit/Adafruit_CircuitPython_Logger.git)
+* [Adafruit CircuitPython Logging](https://github.com/adafruit/Adafruit_CircuitPython_Logging.git)
 * [Adafruit CircuitPython MIDI](https://github.com/adafruit/Adafruit_CircuitPython_MIDI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-midi))
 * [Adafruit CircuitPython MiniMQTT](https://github.com/adafruit/Adafruit_CircuitPython_MiniMQTT.git)
 * [Adafruit CircuitPython MotorKit](https://github.com/adafruit/Adafruit_CircuitPython_MotorKit.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-motorkit))
