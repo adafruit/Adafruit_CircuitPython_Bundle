@@ -586,3 +586,6 @@
 [submodule "libraries/drivers/ssd1305"]
 	path = libraries/drivers/ssd1305
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1305.git
+[submodule "libraries/drivers/rplidar"]
+	path = libraries/drivers/rplidar
+	url = https://github.com/adafruit/Adafruit_CircuitPython_RPLIDAR.git
