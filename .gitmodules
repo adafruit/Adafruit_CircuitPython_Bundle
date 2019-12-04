@@ -589,3 +589,6 @@
 [submodule "libraries/drivers/rplidar"]
 	path = libraries/drivers/rplidar
 	url = https://github.com/adafruit/Adafruit_CircuitPython_RPLIDAR.git
+[submodule "libraries/drivers/neopixel_spi"]
+	path = libraries/drivers/neopixel_spi
+	url = https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel_SPI.git
