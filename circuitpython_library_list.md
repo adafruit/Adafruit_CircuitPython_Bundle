@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 198 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 201 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -49,6 +49,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 198 lib
 * [Adafruit CircuitPython HT16K33](https://github.com/adafruit/Adafruit_CircuitPython_HT16K33.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ht16k33))
 * [Adafruit CircuitPython HTU21D](https://github.com/adafruit/Adafruit_CircuitPython_HTU21D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-htu21d))
 * [Adafruit CircuitPython HX8357](https://github.com/adafruit/Adafruit_CircuitPython_HX8357.git)
+* [Adafruit CircuitPython ICM20649](https://github.com/adafruit/Adafruit_CircuitPython_ICM20649.git)
 * [Adafruit CircuitPython IL0373](https://github.com/adafruit/Adafruit_CircuitPython_IL0373.git)
 * [Adafruit CircuitPython IL0398](https://github.com/adafruit/Adafruit_CircuitPython_IL0398.git)
 * [Adafruit CircuitPython IL91874](https://github.com/adafruit/Adafruit_CircuitPython_IL91874.git)
@@ -65,6 +66,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 198 lib
 * [Adafruit CircuitPython LSM303AGR Mag](https://github.com/adafruit/Adafruit_CircuitPython_LSM303AGR_Mag.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm303agr-mag))
 * [Adafruit CircuitPython LSM303DLH Mag](https://github.com/adafruit/Adafruit_CircuitPython_LSM303DLH_Mag.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm303dlh-mag))
 * [Adafruit CircuitPython LSM303](https://github.com/adafruit/Adafruit_CircuitPython_LSM303.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm303))
+* [Adafruit CircuitPython LSM6DSOX](https://github.com/adafruit/Adafruit_CircuitPython_LSM6DSOX.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm6dsox))
 * [Adafruit CircuitPython LSM9DS0](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS0.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm9ds0))
 * [Adafruit CircuitPython LSM9DS1](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS1.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm9ds1))
 * [Adafruit CircuitPython MAX31855](https://github.com/adafruit/Adafruit_CircuitPython_MAX31855.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-max31855))
@@ -79,6 +81,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 198 lib
 * [Adafruit CircuitPython MCP9808](https://github.com/adafruit/Adafruit_CircuitPython_MCP9808.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mcp9808))
 * [Adafruit CircuitPython MLX90393](https://github.com/adafruit/Adafruit_CircuitPython_MLX90393.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mlx90393))
 * [Adafruit CircuitPython MLX90614](https://github.com/adafruit/Adafruit_CircuitPython_MLX90614.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mlx90614))
+* [Adafruit CircuitPython MLX90640](https://github.com/adafruit/Adafruit_CircuitPython_MLX90640.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mlx90640))
 * [Adafruit CircuitPython MMA8451](https://github.com/adafruit/Adafruit_CircuitPython_MMA8451.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mma8451))
 * [Adafruit CircuitPython MPL115A2](https://github.com/adafruit/Adafruit_CircuitPython_MPL115A2.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mpl115a2))
 * [Adafruit CircuitPython MPL3115A2](https://github.com/adafruit/Adafruit_CircuitPython_MPL3115A2.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mpl3115a2))
