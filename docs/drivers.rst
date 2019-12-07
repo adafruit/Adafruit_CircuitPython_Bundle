@@ -260,6 +260,7 @@ Motion relating sensing including ``acceleration``, ``magnetic``, ``gyro``, and 
     FXAS21002C Gyroscope <https://circuitpython.readthedocs.io/projects/fxas21002c/en/latest/>
     FXOS8700 Accelerometer <https://circuitpython.readthedocs.io/projects/fxos8700/en/latest/>
     GPS Global Position <https://circuitpython.readthedocs.io/projects/gps/en/latest/>
+    ISM20649 Wide-rage 6-DoF Accelerometer and Gyro <https://circuitpython.readthedocs.io/projects/ism20649/en/latest/>
     L3GD20 3-Axis Gyroscope <https://circuitpython.readthedocs.io/projects/l3gd20/en/latest/>
     LIS3DH Accelerometer <https://circuitpython.readthedocs.io/projects/lis3dh/en/latest/>
     LSM303 Accelerometer and Magnetometer <https://circuitpython.readthedocs.io/projects/lsm303/en/latest/>

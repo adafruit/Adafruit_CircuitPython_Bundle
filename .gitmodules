@@ -592,3 +592,6 @@
 [submodule "libraries/drivers/neopixel_spi"]
 	path = libraries/drivers/neopixel_spi
 	url = https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel_SPI.git
+[submodule "libraries/drivers/icm20649"]
+	path = libraries/drivers/icm20649
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ICM20649.git
