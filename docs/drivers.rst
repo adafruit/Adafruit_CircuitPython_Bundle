@@ -400,6 +400,7 @@ Miscellaneous
     INA260 Current and Power Monitor <https://circuitpython.readthedocs.io/projects/ina260/en/latest/>
     Matrix Keypad <https://circuitpython.readthedocs.io/projects/matrixkeypad/en/latest/>
     MAX9744 Audio Amplifier  <https://circuitpython.readthedocs.io/projects/max9744/en/latest/>
+    MLX90640 Thermal Camera <https://circuitpython.readthedocs.io/projects/mlx90640/en/latest/>
     NeoTrellis 4x4 Keypad <https://circuitpython.readthedocs.io/projects/neotrellis/en/latest/>
     NeoTrellis M4 4x8 Keypad <https://circuitpython.readthedocs.io/projects/trellism4/en/latest/>
     PyPixelbuf <https://circuitpython.readthedocs.io/projects/pypixelbuf/en/latest/>

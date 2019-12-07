@@ -595,3 +595,6 @@
 [submodule "libraries/drivers/icm20649"]
 	path = libraries/drivers/icm20649
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ICM20649.git
+[submodule "libraries/drivers/mlx90640"]
+	path = libraries/drivers/mlx90640
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MLX90640.git
