@@ -598,3 +598,6 @@
 [submodule "libraries/drivers/mlx90640"]
 	path = libraries/drivers/mlx90640
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MLX90640.git
+[submodule "libraries/drivers/lsm6dsox"]
+	path = libraries/drivers/lsm6dsox
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LSM6DSOX.git
