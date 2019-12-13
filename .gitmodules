@@ -601,3 +601,6 @@
 [submodule "libraries/drivers/lsm6dsox"]
 	path = libraries/drivers/lsm6dsox
 	url = https://github.com/adafruit/Adafruit_CircuitPython_LSM6DSOX.git
+[submodule "libraries/drivers/mcp4728"]
+	path = libraries/drivers/mcp4728
+	url = https://www.github.com/adafruit/Adafruit_CircuitPython_MCP4728.git
