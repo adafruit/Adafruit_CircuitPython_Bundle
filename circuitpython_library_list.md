@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 201 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 202 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -77,6 +77,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 201 lib
 * [Adafruit CircuitPython MCP230xx](https://github.com/adafruit/Adafruit_CircuitPython_MCP230xx.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mcp230xx))
 * [Adafruit CircuitPython MCP3xxx](https://github.com/adafruit/Adafruit_CircuitPython_MCP3xxx.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mcp3xxx))
 * [Adafruit CircuitPython MCP4725](https://github.com/adafruit/Adafruit_CircuitPython_MCP4725.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mcp4725))
+* [Adafruit CircuitPython MCP4728](https://www.github.com/adafruit/Adafruit_CircuitPython_MCP4728.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mcp4728))
 * [Adafruit CircuitPython MCP9600](https://github.com/adafruit/Adafruit_CircuitPython_MCP9600.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mcp9600))
 * [Adafruit CircuitPython MCP9808](https://github.com/adafruit/Adafruit_CircuitPython_MCP9808.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mcp9808))
 * [Adafruit CircuitPython MLX90393](https://github.com/adafruit/Adafruit_CircuitPython_MLX90393.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mlx90393))
@@ -90,7 +91,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 201 lib
 * [Adafruit CircuitPython MPU6050](https://github.com/adafruit/Adafruit_CircuitPython_MPU6050.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mpu6050))
 * [Adafruit CircuitPython MSA301](https://github.com/adafruit/Adafruit_CircuitPython_MSA301.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-msa301))
 * [Adafruit CircuitPython MatrixKeypad](https://github.com/adafruit/Adafruit_CircuitPython_MatrixKeypad.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-matrixkeypad))
-* [Adafruit CircuitPython NeoPixel SPI](https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel_SPI.git)
+* [Adafruit CircuitPython NeoPixel SPI](https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel_SPI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-neopixel-spi))
 * [Adafruit CircuitPython NeoPixel](https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-neopixel))
 * [Adafruit CircuitPython NeoTrellis](https://github.com/adafruit/Adafruit_CircuitPython_NeoTrellis) ([PyPi](https://pypi.org/project/adafruit-circuitpython-neotrellis))
 * [Adafruit CircuitPython Nunchuk](https://github.com/adafruit/Adafruit_CircuitPython_Nunchuk.git)
