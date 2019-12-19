@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 202 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 205 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -161,6 +161,8 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 202 lib
 * [Adafruit CircuitPython AWS IOT](https://github.com/adafruit/Adafruit_CircuitPython_AWS_IOT.git)
 * [Adafruit CircuitPython AdafruitIO](https://github.com/adafruit/Adafruit_CircuitPython_AdafruitIO.git)
 * [Adafruit CircuitPython AzureIoT](https://github.com/adafruit/Adafruit_CircuitPython_AzureIoT.git)
+* [Adafruit CircuitPython BLE Apple Notification Center](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Apple_Notification_Center.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-apple-notification-center))
+* [Adafruit CircuitPython BLE Magic Light](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Magic_Light.git)
 * [Adafruit CircuitPython BLE](https://github.com/adafruit/Adafruit_CircuitPython_BLE.git)
 * [Adafruit CircuitPython Bitmap Font](https://github.com/adafruit/Adafruit_CircuitPython_Bitmap_Font.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bitmap-font))
 * [Adafruit CircuitPython BitmapSaver](https://github.com/adafruit/Adafruit_CircuitPython_BitmapSaver.git)
@@ -170,6 +172,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 202 lib
 * [Adafruit CircuitPython CursorControl](https://github.com/adafruit/Adafruit_CircuitPython_CursorControl.git)
 * [Adafruit CircuitPython Debouncer](https://github.com/adafruit/Adafruit_CircuitPython_Debouncer.git)
 * [Adafruit CircuitPython Display Button](https://github.com/adafruit/Adafruit_CircuitPython_Display_Button.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-button))
+* [Adafruit CircuitPython Display Notification](https://github.com/adafruit/Adafruit_CircuitPython_Display_Notification.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-notification))
 * [Adafruit CircuitPython Display Shapes](https://github.com/adafruit/Adafruit_CircuitPython_Display_Shapes.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-shapes))
 * [Adafruit CircuitPython Display Text](https://github.com/adafruit/Adafruit_CircuitPython_Display_Text.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-text))
 * [Adafruit CircuitPython FancyLED](https://github.com/adafruit/Adafruit_CircuitPython_FancyLED.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fancyled))
