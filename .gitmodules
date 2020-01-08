@@ -565,9 +565,6 @@
 [submodule "libraries/drivers/lsm303-accel"]
 	path = libraries/drivers/lsm303-accel
 	url = https://github.com/adafruit/Adafruit_CircuitPython_LSM303_Accel.git
-[submodule "libraries/drivers/lsm303agr-mag"]
-	path = libraries/drivers/lsm303agr-mag
-	url = https://github.com/adafruit/Adafruit_CircuitPython_LSM303AGR_Mag.git
 [submodule "libraries/drivers/lsm303dlh-mag"]
 	path = libraries/drivers/lsm303dlh-mag
 	url = https://github.com/adafruit/Adafruit_CircuitPython_LSM303DLH_Mag.git
@@ -613,3 +610,6 @@
 [submodule "libraries/helpers/display_notification"]
 	path = libraries/helpers/display_notification
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Display_Notification.git
+[submodule "libraries/drivers/lis2mdl"]
+	path = libraries/drivers/lis2mdl
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LIS2MDL.git
