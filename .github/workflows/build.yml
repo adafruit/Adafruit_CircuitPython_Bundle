@@ -30,6 +30,7 @@ jobs:
         submodules: true
     - name: Install deps
       run: |
+        sudo apt-get install gettext
         pip install -r requirements.txt
     - name: Library version
       run: git describe --dirty --always --tags
