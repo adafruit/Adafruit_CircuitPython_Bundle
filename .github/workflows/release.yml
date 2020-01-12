@@ -1,0 +1,48 @@
+name: Release Actions
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  upload-release-assets:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Dump GitHub context
+      env:
+        GITHUB_CONTEXT: ${{ toJson(github) }}
+      run: echo "$GITHUB_CONTEXT"
+    - name: Translate Repo Name For Build Tools filename_prefix
+      id: repo-name
+      run: |
+        echo ::set-output name=repo-name::$(
+        echo ${{ github.repository }} |
+        awk -F '\/' '{ print tolower($2) }' |
+        tr '_' '-'
+        )
+    - name: Set up Python 3.6
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.6
+    - name: Versions
+      run: |
+        python3 --version
+    - uses: actions/checkout@v1
+      with:
+        submodules: true
+    - name: Install deps
+      run: |
+        pip install -r requirements.txt
+    - name: Build assets
+      run: circuitpython-build-bundles --filename_prefix ${{ steps.repo-name.outputs.repo-name }} --library_location libraries --library_depth 2
+    - name: Upload Release Assets
+      # the 'official' actions version does not yet support dynamically
+      # supplying asset names to upload. @csexton's version chosen based on
+      # discussion in the issue below, as its the simplest to implement and
+      # allows for selecting files with a pattern.
+      # https://github.com/actions/upload-release-asset/issues/4
+      #uses: actions/upload-release-asset@v1.0.1
+      uses: csexton/release-asset-action@master
+      with:
+        pattern: "bundles/*"
+        github-token: ${{ secrets.GITHUB_TOKEN }}
