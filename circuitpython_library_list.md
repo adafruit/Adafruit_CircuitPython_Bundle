@@ -163,7 +163,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 205 lib
 * [Adafruit CircuitPython AzureIoT](https://github.com/adafruit/Adafruit_CircuitPython_AzureIoT.git)
 * [Adafruit CircuitPython BLE Apple Notification Center](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Apple_Notification_Center.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-apple-notification-center))
 * [Adafruit CircuitPython BLE Magic Light](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Magic_Light.git)
-* [Adafruit CircuitPython BLE](https://github.com/adafruit/Adafruit_CircuitPython_BLE.git)
+* [Adafruit CircuitPython BLE](https://github.com/adafruit/Adafruit_CircuitPython_BLE.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble))
 * [Adafruit CircuitPython Bitmap Font](https://github.com/adafruit/Adafruit_CircuitPython_Bitmap_Font.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bitmap-font))
 * [Adafruit CircuitPython BitmapSaver](https://github.com/adafruit/Adafruit_CircuitPython_BitmapSaver.git)
 * [Adafruit CircuitPython BluefruitConnect](https://github.com/adafruit/Adafruit_CircuitPython_BluefruitConnect.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bluefruitconnect))
