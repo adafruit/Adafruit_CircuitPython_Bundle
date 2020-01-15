@@ -66,7 +66,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 205 lib
 * [Adafruit CircuitPython LSM303 Accel](https://github.com/adafruit/Adafruit_CircuitPython_LSM303_Accel.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm303-accel))
 * [Adafruit CircuitPython LSM303DLH Mag](https://github.com/adafruit/Adafruit_CircuitPython_LSM303DLH_Mag.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm303dlh-mag))
 * [Adafruit CircuitPython LSM303](https://github.com/adafruit/Adafruit_CircuitPython_LSM303.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm303))
-* [Adafruit CircuitPython LSM6DSOX](https://github.com/adafruit/Adafruit_CircuitPython_LSM6DSOX.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm6dsox))
+* [Adafruit CircuitPython LSM6DS](https://github.com/adafruit/Adafruit_CircuitPython_LSM6DS.git)
 * [Adafruit CircuitPython LSM9DS0](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS0.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm9ds0))
 * [Adafruit CircuitPython LSM9DS1](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS1.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm9ds1))
 * [Adafruit CircuitPython MAX31855](https://github.com/adafruit/Adafruit_CircuitPython_MAX31855.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-max31855))
