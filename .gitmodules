@@ -613,3 +613,6 @@
 [submodule "libraries/drivers/lis2mdl"]
 	path = libraries/drivers/lis2mdl
 	url = https://github.com/adafruit/Adafruit_CircuitPython_LIS2MDL.git
+[submodule "libraries/drivers/lis3mdl"]
+	path = libraries/drivers/lis3mdl
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LIS3MDL.git

@@ -263,6 +263,7 @@ Motion relating sensing including ``acceleration``, ``magnetic``, ``gyro``, and 
     ISM20649 Wide-rage 6-DoF Accelerometer and Gyro <https://circuitpython.readthedocs.io/projects/ism20649/en/latest/>
     L3GD20 3-Axis Gyroscope <https://circuitpython.readthedocs.io/projects/l3gd20/en/latest/>
     LIS2MDL 3-Axis Magnetometer <https://circuitpython.readthedocs.io/projects/lis2mdl/en/latest/>
+    LIS3MDL 3-Axis Magnetometer <https://circuitpython.readthedocs.io/projects/lis3mdl/en/latest/>
     LIS3DH Accelerometer <https://circuitpython.readthedocs.io/projects/lis3dh/en/latest/>
     LSM303 Accelerometer and Magnetometer <https://circuitpython.readthedocs.io/projects/lsm303/en/latest/>
     LSM303 Accelerometer Only<https://circuitpython.readthedocs.io/projects/lsm303-accel/en/latest/>
