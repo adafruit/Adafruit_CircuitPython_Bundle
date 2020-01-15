@@ -267,7 +267,7 @@ Motion relating sensing including ``acceleration``, ``magnetic``, ``gyro``, and 
     LSM303 Accelerometer and Magnetometer <https://circuitpython.readthedocs.io/projects/lsm303/en/latest/>
     LSM303 Accelerometer Only<https://circuitpython.readthedocs.io/projects/lsm303-accel/en/latest/>
     LSM303DLH Magnetometer Only<https://circuitpython.readthedocs.io/projects/lsm303dlh-mag/en/latest/>
-    LSMDSOX Accelerometer, Gyroscope and Temperature <https://circuitpython.readthedocs.io/projects/lsm6dsox/en/latest/>
+    LSM6DSOX, LSM6DS33, and ISM330DHCT  Accelerometer, Gyroscope and Temperature <https://circuitpython.readthedocs.io/projects/lsm6ds/en/latest/>
     LSM9DS0 Accelerometer, Magnetometer, Gyroscope and Temperature <https://circuitpython.readthedocs.io/projects/lsm9ds0/en/latest/>
     LSM9DS1 Accelerometer, Magnetometer, Gyroscope and Temperature <https://circuitpython.readthedocs.io/projects/lsm9ds1/en/latest/>
     MLX90390 3 Axis Magnetometer <https://circuitpython.readthedocs.io/projects/mlx90393/en/latest/>
