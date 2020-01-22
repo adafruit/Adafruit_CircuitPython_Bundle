@@ -619,3 +619,6 @@
 [submodule "libraries/helpers/pypixelbuf"]
 	path = libraries/helpers/pypixelbuf
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Pypixelbuf.git
+[submodule "libraries/helpers/ble_apple_media"]
+	path = libraries/helpers/ble_apple_media
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_Apple_Media.git
