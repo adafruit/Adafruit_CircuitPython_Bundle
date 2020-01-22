@@ -616,3 +616,6 @@
 [submodule "libraries/drivers/lis3mdl"]
 	path = libraries/drivers/lis3mdl
 	url = https://github.com/adafruit/Adafruit_CircuitPython_LIS3MDL.git
+[submodule "libraries/helpers/pypixelbuf"]
+	path = libraries/helpers/pypixelbuf
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Pypixelbuf.git
