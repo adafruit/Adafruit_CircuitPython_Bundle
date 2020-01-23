@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 207 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 208 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -162,6 +162,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 207 lib
 * [Adafruit CircuitPython AWS IOT](https://github.com/adafruit/Adafruit_CircuitPython_AWS_IOT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-aws-iot))
 * [Adafruit CircuitPython AdafruitIO](https://github.com/adafruit/Adafruit_CircuitPython_AdafruitIO.git)
 * [Adafruit CircuitPython AzureIoT](https://github.com/adafruit/Adafruit_CircuitPython_AzureIoT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-azureiot))
+* [Adafruit CircuitPython BLE Apple Media](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Apple_Media.git)
 * [Adafruit CircuitPython BLE Apple Notification Center](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Apple_Notification_Center.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-apple-notification-center))
 * [Adafruit CircuitPython BLE Magic Light](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Magic_Light.git)
 * [Adafruit CircuitPython BLE](https://github.com/adafruit/Adafruit_CircuitPython_BLE.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble))
@@ -192,7 +193,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 207 lib
 * [Adafruit CircuitPython MiniMQTT](https://github.com/adafruit/Adafruit_CircuitPython_MiniMQTT.git)
 * [Adafruit CircuitPython MotorKit](https://github.com/adafruit/Adafruit_CircuitPython_MotorKit.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-motorkit))
 * [Adafruit CircuitPython Motor](https://github.com/adafruit/Adafruit_CircuitPython_Motor.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-motor))
-* [Adafruit CircuitPython NTP](https://github.com/adafruit/Adafruit_CircuitPython_NTP.git)
+* [Adafruit CircuitPython NTP](https://github.com/adafruit/Adafruit_CircuitPython_NTP.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ntp))
 * [Adafruit CircuitPython OneWire](https://github.com/adafruit/Adafruit_CircuitPython_OneWire.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-onewire))
 * [Adafruit CircuitPython PYOA](https://github.com/adafruit/Adafruit_CircuitPython_PYOA.git)
 * [Adafruit CircuitPython PyBadger](https://github.com/adafruit/Adafruit_CircuitPython_PyBadger.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pybadger))
