@@ -294,6 +294,7 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     BMP3xx Barometric Pressure and Altimeter <https://circuitpython.readthedocs.io/projects/bmp3xx/en/latest/>
     CCS811 Air Quality <https://circuitpython.readthedocs.io/projects/ccs811/en/latest/>
     DHT Temperature and Humidity <https://circuitpython.readthedocs.io/projects/dht/en/latest/>
+    DPS310 Precision Barometric Pressure / Altitude Sensor <https://adafruit-circuitpython-dsp310.readthedocs.io/en/latest/>
     DS18x20 Temperature <https://circuitpython.readthedocs.io/projects/ds18x20/en/latest/>
     HTU21D Temperature and Humidity <https://circuitpython.readthedocs.io/projects/htu21d/en/latest/>
     LPS35HW Water Resistant Barometric Pressure, Temperature <https://circuitpython.readthedocs.io/projects/lps35hw/en/latest/>

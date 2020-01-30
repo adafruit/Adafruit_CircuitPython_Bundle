@@ -622,3 +622,6 @@
 [submodule "libraries/helpers/ble_apple_media"]
 	path = libraries/helpers/ble_apple_media
 	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_Apple_Media.git
+[submodule "libraries/drivers/dps310"]
+	path = libraries/drivers/dps310
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DPS310.git
