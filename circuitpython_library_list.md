@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 208 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 209 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -26,6 +26,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 208 lib
 * [Adafruit CircuitPython CircuitPlayground](https://github.com/adafruit/Adafruit_CircuitPython_CircuitPlayground.git)
 * [Adafruit CircuitPython Crickit](https://github.com/adafruit/Adafruit_CircuitPython_Crickit.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-crickit))
 * [Adafruit CircuitPython DHT](https://github.com/adafruit/Adafruit_CircuitPython_DHT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-dht))
+* [Adafruit CircuitPython DPS310](https://github.com/adafruit/Adafruit_CircuitPython_DPS310.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-dps310))
 * [Adafruit CircuitPython DRV2605](https://github.com/adafruit/Adafruit_CircuitPython_DRV2605.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-drv2605))
 * [Adafruit CircuitPython DS1307](https://github.com/adafruit/Adafruit_CircuitPython_DS1307.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds1307))
 * [Adafruit CircuitPython DS18X20](https://github.com/adafruit/Adafruit_CircuitPython_DS18X20.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds18x20))
