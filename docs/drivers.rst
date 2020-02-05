@@ -27,7 +27,8 @@ specific boards.
 
 .. toctree::
 
-    Adafruit CircuitPlayground Express <https://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/>
+    Adafruit CircuitPlayground <https://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/>
+    Adafruit CLUE <https://circuitpython.readthedocs.io/projects/clue/en/latest/>
     Adafruit FeatherWings <https://circuitpython.readthedocs.io/projects/featherwing/en/latest/>
     PyBadger (PyBadge and PyGamer) <https://circuitpython.readthedocs.io/projects/pybadger/en/latest/>
     Adafruit PyPortal <https://circuitpython.readthedocs.io/projects/pyportal/en/latest/>

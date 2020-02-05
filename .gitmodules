@@ -625,3 +625,6 @@
 [submodule "libraries/drivers/dps310"]
 	path = libraries/drivers/dps310
 	url = https://github.com/adafruit/Adafruit_CircuitPython_DPS310.git
+[submodule "libraries/drivers/clue"]
+	path = libraries/drivers/clue
+	url = https://github.com/adafruit/Adafruit_CircuitPython_CLUE.git
