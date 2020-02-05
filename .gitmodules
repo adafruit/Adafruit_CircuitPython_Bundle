@@ -628,3 +628,6 @@
 [submodule "libraries/drivers/clue"]
 	path = libraries/drivers/clue
 	url = https://github.com/adafruit/Adafruit_CircuitPython_CLUE.git
+[submodule "libraries/helpers/ble_heart_rate"]
+	path = libraries/helpers/ble_heart_rate
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_Heart_Rate.git
