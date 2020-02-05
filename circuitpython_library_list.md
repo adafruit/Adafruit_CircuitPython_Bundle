@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 209 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 210 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -22,6 +22,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 209 lib
 * [Adafruit CircuitPython BluefruitSPI](https://github.com/adafruit/Adafruit_CircuitPython_BluefruitSPI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bluefruitspi))
 * [Adafruit CircuitPython CAP1188](https://github.com/adafruit/Adafruit_CircuitPython_CAP1188.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-cap1188))
 * [Adafruit CircuitPython CCS811](https://github.com/adafruit/Adafruit_CircuitPython_CCS811.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ccs811))
+* [Adafruit CircuitPython CLUE](https://github.com/adafruit/Adafruit_CircuitPython_CLUE.git)
 * [Adafruit CircuitPython CharLCD](https://github.com/adafruit/Adafruit_CircuitPython_CharLCD.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-charlcd))
 * [Adafruit CircuitPython CircuitPlayground](https://github.com/adafruit/Adafruit_CircuitPython_CircuitPlayground.git)
 * [Adafruit CircuitPython Crickit](https://github.com/adafruit/Adafruit_CircuitPython_Crickit.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-crickit))
