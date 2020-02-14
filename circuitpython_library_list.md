@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 211 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 212 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -166,6 +166,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 211 lib
 * [Adafruit CircuitPython AzureIoT](https://github.com/adafruit/Adafruit_CircuitPython_AzureIoT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-azureiot))
 * [Adafruit CircuitPython BLE Apple Media](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Apple_Media.git)
 * [Adafruit CircuitPython BLE Apple Notification Center](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Apple_Notification_Center.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-apple-notification-center))
+* [Adafruit CircuitPython BLE Cycling Speed and Cadence](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Cycling_Speed_and_Cadence.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-cycling-speed-and-cadence))
 * [Adafruit CircuitPython BLE Heart Rate](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Heart_Rate.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-heart-rate))
 * [Adafruit CircuitPython BLE Magic Light](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Magic_Light.git)
 * [Adafruit CircuitPython BLE](https://github.com/adafruit/Adafruit_CircuitPython_BLE.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble))
