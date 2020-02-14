@@ -51,7 +51,7 @@ Helpers for animating LEDs.
 User Interface and GFX Helpers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Helpers for building graphical interfaces using the displayio core module.
+Helpers for building graphical interfaces using the displayio core module and framebuf code module (framebuf is deprecated).
 
 .. toctree::
 
@@ -94,21 +94,41 @@ Helpers for connecting with hosted and self-hosted internet-of-things web servic
     LIFX Lights <https://circuitpython.readthedocs.io/projects/lifx/en/latest/>
     Hue Lights <https://circuitpython.readthedocs.io/projects/hue/en/latest/>
 
-Internet-of-Things/Wireless Protocol Helpers
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Internet/Internet-of-Things Helpers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Helpers for interfacing with the internet or wireless communication.
+Helpers for interfacing with the internet, including IoT protocols.
 
 .. toctree::
 
-    Bluefruit LE Connect App <https://circuitpython.readthedocs.io/projects/bluefruitconnect/en/latest/>
-    Bluetooth Low Energy (BLE) <https://circuitpython.readthedocs.io/projects/ble/en/latest/>
-    TinyLoRa TTN Helper <https://circuitpython.readthedocs.io/projects/tinylora/en/latest/>
-    Mini ESP Tool <https://circuitpython.readthedocs.io/projects/miniesptool/en/latest/>
     MiniMQTT <https://circuitpython.readthedocs.io/projects/minimqtt/en/latest/>
     JSON Web Token (JWT) <https://circuitpython.readthedocs.io/projects/jwt/en/latest/>
     Requests <https://circuitpython.readthedocs.io/projects/requests/en/latest/>
     NTP (Network time Protocol) <https://circuitpython.readthedocs.io/projects/ntp/en/latest/>
+
+Bluetooth Low Energy Helpers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Helpers for Bluetooth Low Energy (BLE).
+
+.. toctree::
+
+    Bluefruit LE Connect App <https://circuitpython.readthedocs.io/projects/bluefruitconnect/en/latest/>
+    BLE base library<https://circuitpython.readthedocs.io/projects/ble/en/latest/>
+    BLE Apple Media Service <https://circuitpython.readthedocs.io/projects/ble_apple_media/en/latest/>
+    BLE Apple Notification Center Service <https://circuitpython.readthedocs.io/projects/ble_apple_notification_center/en/latest/>
+    BLE Cycling Speed and Cadence Service <https://circuitpython.readthedocs.io/projects/ble_cycling_speed_and_cadence/en/latest/>
+    BLE Heart Rate Service <https://circuitpython.readthedocs.io/projects/ble_heart_rate/en/latest/>
+    BLE Magic Light Service <https://circuitpython.readthedocs.io/projects/ble_magic_light/en/latest/>
+
+LoRa Wireless Helpers
+^^^^^^^^^^^^^^^^^^^^^
+
+Helpers for wireless communication via LoRa.
+
+.. toctree::
+
+    TinyLoRa TTN Helper (LoRaWAN) <https://circuitpython.readthedocs.io/projects/tinylora/en/latest/>
 
 Cryptography Helpers
 ^^^^^^^^^^^^^^^^^^^^^
@@ -151,6 +171,7 @@ Miscellaneous Helpers
     AVR programming <https://circuitpython.readthedocs.io/projects/avrprog/en/latest/>
     Board Test Suite <https://circuitpython.readthedocs.io/projects/boardtest/en/latest/>
     Debouncer <https://circuitpython.readthedocs.io/projects/debouncer/en/latest/>
+    Mini ESP Tool (ESP chips loader) <https://circuitpython.readthedocs.io/projects/miniesptool/en/latest/>
     InfraRed Remote <https://circuitpython.readthedocs.io/projects/irremote/en/latest/>
     OneWire <https://circuitpython.readthedocs.io/projects/onewire/en/latest/>
     SD Card <https://circuitpython.readthedocs.io/projects/sd/en/latest/>
