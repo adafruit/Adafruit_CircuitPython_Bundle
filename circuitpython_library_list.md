@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 212 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 213 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -65,6 +65,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 212 lib
 * [Adafruit CircuitPython LIS2MDL](https://github.com/adafruit/Adafruit_CircuitPython_LIS2MDL.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lis2mdl))
 * [Adafruit CircuitPython LIS3DH](https://github.com/adafruit/Adafruit_CircuitPython_LIS3DH.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lis3dh))
 * [Adafruit CircuitPython LIS3MDL](https://github.com/adafruit/Adafruit_CircuitPython_LIS3MDL.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lis3mdl))
+* [Adafruit CircuitPython LPS2X](https://github.com/adafruit/Adafruit_CircuitPython_LPS2X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lps2x))
 * [Adafruit CircuitPython LPS35HW](https://github.com/adafruit/Adafruit_CircuitPython_LPS35HW.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lps35hw))
 * [Adafruit CircuitPython LSM303 Accel](https://github.com/adafruit/Adafruit_CircuitPython_LSM303_Accel.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm303-accel))
 * [Adafruit CircuitPython LSM303DLH Mag](https://github.com/adafruit/Adafruit_CircuitPython_LSM303DLH_Mag.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm303dlh-mag))
