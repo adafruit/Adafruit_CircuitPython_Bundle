@@ -634,3 +634,6 @@
 [submodule "libraries/helpers/ble_cycling_speed_and_cadence"]
 	path = libraries/helpers/ble_cycling_speed_and_cadence
 	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_Cycling_Speed_and_Cadence.git
+[submodule "libraries/drivers/lps2x"]
+	path = libraries/drivers/lps2x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LPS2X.git
