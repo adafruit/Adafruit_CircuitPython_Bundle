@@ -637,3 +637,6 @@
 [submodule "libraries/drivers/lps2x"]
 	path = libraries/drivers/lps2x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_LPS2X.git
+[submodule "libraries/helpers/ble_eddystone"]
+	path = libraries/helpers/ble_eddystone
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_Eddystone.git
