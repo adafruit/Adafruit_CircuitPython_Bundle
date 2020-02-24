@@ -319,6 +319,7 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     DHT Temperature and Humidity <https://circuitpython.readthedocs.io/projects/dht/en/latest/>
     DPS310 Precision Barometric Pressure / Altitude Sensor <https://adafruit-circuitpython-dsp310.readthedocs.io/en/latest/>
     DS18x20 Temperature <https://circuitpython.readthedocs.io/projects/ds18x20/en/latest/>
+    HTS221 Temperature and Humidity Sensor <https://adafruit-circuitpython-hts221.readthedocs.io/en/latest/>
     HTU21D Temperature and Humidity <https://circuitpython.readthedocs.io/projects/htu21d/en/latest/>
     LPS2X Family of Barometric Pressure, Temperature Sensors <https://adafruit-circuitpython-lps2x.readthedocs.io/en/latest/>
     LPS35HW Water Resistant Barometric Pressure, Temperature <https://circuitpython.readthedocs.io/projects/lps35hw/en/latest/>

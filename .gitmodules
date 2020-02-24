@@ -640,3 +640,6 @@
 [submodule "libraries/helpers/ble_eddystone"]
 	path = libraries/helpers/ble_eddystone
 	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_Eddystone.git
+[submodule "libraries/drivers/hts221"]
+	path = libraries/drivers/hts221
+	url = https://github.com/adafruit/Adafruit_CircuitPython_HTS221.git
