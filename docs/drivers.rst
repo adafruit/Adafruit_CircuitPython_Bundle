@@ -57,17 +57,19 @@ Helpers for building graphical interfaces using the displayio core module and fr
 
     Cursor Control <https://circuitpython.readthedocs.io/projects/cursorcontrol/en/latest/>
     Bitmap Font <https://circuitpython.readthedocs.io/projects/bitmap-font/en/latest/>
+    Bitmap Saver <https://circuitpython.readthedocs.io/projects/bitmapsaver/en/latest/>
     Display Button <https://circuitpython.readthedocs.io/projects/display_button/en/latest/>
     Display Shapes <https://circuitpython.readthedocs.io/projects/display_shapes/en/latest/>
     Display Text <https://circuitpython.readthedocs.io/projects/display-text/en/latest/>
-    PYOA <https://circuitpython.readthedocs.io/projects/pyoa/en/latest/>
-    Turtle Graphics <https://circuitpython.readthedocs.io/projects/turtle/en/latest/>
-    Slideshow <https://circuitpython.readthedocs.io/projects/slideshow/en/latest/>
     Framebuf Module <https://circuitpython.readthedocs.io/projects/framebuf/en/latest/>
-    miniQR Non-hardware QR code generator <https://circuitpython.readthedocs.io/projects/miniqr/en/latest/>
-    Image Load <https://circuitpython.readthedocs.io/projects/imageload/en/latest/>
-    Bitmap Saver <https://circuitpython.readthedocs.io/projects/bitmapsaver/en/latest/>
     GFX (framebuf) <https://circuitpython.readthedocs.io/projects/gfx/en/latest/>
+    Image Load <https://circuitpython.readthedocs.io/projects/imageload/en/latest/>
+    miniQR Non-hardware QR code generator <https://circuitpython.readthedocs.io/projects/miniqr/en/latest/>
+    ProgressBar <https://circuitpython.readthedocs.io/projects/progressbar/en/latest/>
+    PYOA <https://circuitpython.readthedocs.io/projects/pyoa/en/latest/>
+    Slideshow <https://circuitpython.readthedocs.io/projects/slideshow/en/latest/>
+    Turtle Graphics <https://circuitpython.readthedocs.io/projects/turtle/en/latest/>
+    WSGI <https://circuitpython.readthedocs.io/projects/wsgi/en/latest/>
 
 Motor Helpers
 ^^^^^^^^^^^^^^
@@ -117,6 +119,7 @@ Helpers for Bluetooth Low Energy (BLE).
     BLE base library<https://circuitpython.readthedocs.io/projects/ble/en/latest/>
     BLE Apple Media Service <https://circuitpython.readthedocs.io/projects/ble_apple_media/en/latest/>
     BLE Apple Notification Center Service <https://circuitpython.readthedocs.io/projects/ble_apple_notification_center/en/latest/>
+    BLE BroadcastNet <https://circuitpython.readthedocs.io/projects/ble_broadcastnet/en/latest/>
     BLE Cycling Speed and Cadence Service <https://circuitpython.readthedocs.io/projects/ble_cycling_speed_and_cadence/en/latest/>
     BLE Eddystone Beacon <https://circuitpython.readthedocs.io/projects/ble_eddystone/en/latest/>
     BLE Heart Rate Service <https://circuitpython.readthedocs.io/projects/ble_heart_rate/en/latest/>
@@ -172,6 +175,7 @@ Miscellaneous Helpers
     AVR programming <https://circuitpython.readthedocs.io/projects/avrprog/en/latest/>
     Board Test Suite <https://circuitpython.readthedocs.io/projects/boardtest/en/latest/>
     Debouncer <https://circuitpython.readthedocs.io/projects/debouncer/en/latest/>
+    Debug I2C <https://circuitpython.readthedocs.io/projects/debug_i2c/en/latest/>
     Mini ESP Tool (ESP chips loader) <https://circuitpython.readthedocs.io/projects/miniesptool/en/latest/>
     InfraRed Remote <https://circuitpython.readthedocs.io/projects/irremote/en/latest/>
     OneWire <https://circuitpython.readthedocs.io/projects/onewire/en/latest/>

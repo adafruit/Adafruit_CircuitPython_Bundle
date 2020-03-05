@@ -643,3 +643,15 @@
 [submodule "libraries/drivers/hts221"]
 	path = libraries/drivers/hts221
 	url = https://github.com/adafruit/Adafruit_CircuitPython_HTS221.git
+[submodule "libraries/helpers/ble-broadcastnet"]
+	path = libraries/helpers/ble-broadcastnet
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_BroadcastNet.git
+[submodule "libraries/helpers/debug-i2c"]
+	path = libraries/helpers/debug-i2c
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Debug_I2C.git
+[submodule "libraries/helpers/wsgi"]
+	path = libraries/helpers/wsgi
+	url = https://github.com/adafruit/Adafruit_CircuitPython_WSGI.git
+[submodule "libraries/helpers/progressbar"]
+	path = libraries/helpers/progressbar
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ProgressBar.git
