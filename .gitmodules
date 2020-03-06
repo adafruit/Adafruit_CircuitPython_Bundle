@@ -655,3 +655,6 @@
 [submodule "libraries/helpers/progressbar"]
 	path = libraries/helpers/progressbar
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ProgressBar.git
+[submodule "libraries/drivers/wiznet5k"]
+	path = libraries/drivers/wiznet5k
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Wiznet5k.git

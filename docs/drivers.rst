@@ -448,3 +448,4 @@ Miscellaneous
     VS1053 Audio Codec <https://circuitpython.readthedocs.io/projects/vs1053/en/latest/>
     Dymo Scale <https://circuitpython.readthedocs.io/projects/dymoscale/en/latest/>
     Nunchuk <https://circuitpython.readthedocs.io/projects/nunchuk/en/latest/>
+    Wiznet5k Ethernet Module <https://circuitpython.readthedocs.io/projects/wiznet5k/en/latest/>
