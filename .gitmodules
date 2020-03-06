@@ -657,4 +657,4 @@
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ProgressBar.git
 [submodule "libraries/drivers/wiznet5k"]
 	path = libraries/drivers/wiznet5k
-	url = git@github.com:adafruit/Adafruit_CircuitPython_Wiznet5k.git
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Wiznet5k.git
