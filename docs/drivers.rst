@@ -378,15 +378,6 @@ These sensors measure the ``distance`` to another object and may also measure li
     VL6180x 5 - 100 mm <https://circuitpython.readthedocs.io/projects/vl6180x/en/latest/>
     VL53L0x ~30 - 1000 mm <https://circuitpython.readthedocs.io/projects/vl53l0x/en/latest/>
 
-Ethernet
-----------
-
-These chips communicate over the Ethernet networking standard.
-
-.. toctree::
-
-    Wiznet 5k Ethernet modules over SPI <https://circuitpython.readthedocs.io/projects/wiznet5k/en/latest/>
-
 Radio
 --------
 
@@ -457,3 +448,4 @@ Miscellaneous
     VS1053 Audio Codec <https://circuitpython.readthedocs.io/projects/vs1053/en/latest/>
     Dymo Scale <https://circuitpython.readthedocs.io/projects/dymoscale/en/latest/>
     Nunchuk <https://circuitpython.readthedocs.io/projects/nunchuk/en/latest/>
+    Wiznet5k Ethernet Module <https://circuitpython.readthedocs.io/projects/wiznet5k/en/latest/>
