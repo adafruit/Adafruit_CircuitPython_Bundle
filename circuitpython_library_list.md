@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 215 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 219 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -168,6 +168,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 215 lib
 * [Adafruit CircuitPython AzureIoT](https://github.com/adafruit/Adafruit_CircuitPython_AzureIoT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-azureiot))
 * [Adafruit CircuitPython BLE Apple Media](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Apple_Media.git)
 * [Adafruit CircuitPython BLE Apple Notification Center](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Apple_Notification_Center.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-apple-notification-center))
+* [Adafruit CircuitPython BLE BroadcastNet](https://github.com/adafruit/Adafruit_CircuitPython_BLE_BroadcastNet.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-broadcastnet))
 * [Adafruit CircuitPython BLE Cycling Speed and Cadence](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Cycling_Speed_and_Cadence.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-cycling-speed-and-cadence))
 * [Adafruit CircuitPython BLE Eddystone](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Eddystone.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-eddystone))
 * [Adafruit CircuitPython BLE Heart Rate](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Heart_Rate.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-heart-rate))
@@ -180,6 +181,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 215 lib
 * [Adafruit CircuitPython BusDevice](https://github.com/adafruit/Adafruit_CircuitPython_BusDevice.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-busdevice))
 * [Adafruit CircuitPython CursorControl](https://github.com/adafruit/Adafruit_CircuitPython_CursorControl.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-cursorcontrol))
 * [Adafruit CircuitPython Debouncer](https://github.com/adafruit/Adafruit_CircuitPython_Debouncer.git)
+* [Adafruit CircuitPython Debug I2C](https://github.com/adafruit/Adafruit_CircuitPython_Debug_I2C.git)
 * [Adafruit CircuitPython Display Button](https://github.com/adafruit/Adafruit_CircuitPython_Display_Button.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-button))
 * [Adafruit CircuitPython Display Notification](https://github.com/adafruit/Adafruit_CircuitPython_Display_Notification.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-notification))
 * [Adafruit CircuitPython Display Shapes](https://github.com/adafruit/Adafruit_CircuitPython_Display_Shapes.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-shapes))
@@ -203,6 +205,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 215 lib
 * [Adafruit CircuitPython NTP](https://github.com/adafruit/Adafruit_CircuitPython_NTP.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ntp))
 * [Adafruit CircuitPython OneWire](https://github.com/adafruit/Adafruit_CircuitPython_OneWire.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-onewire))
 * [Adafruit CircuitPython PYOA](https://github.com/adafruit/Adafruit_CircuitPython_PYOA.git)
+* [Adafruit CircuitPython ProgressBar](https://github.com/adafruit/Adafruit_CircuitPython_ProgressBar.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-progressbar))
 * [Adafruit CircuitPython PyBadger](https://github.com/adafruit/Adafruit_CircuitPython_PyBadger.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pybadger))
 * [Adafruit CircuitPython Pypixelbuf](https://github.com/adafruit/Adafruit_CircuitPython_Pypixelbuf.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pypixelbuf))
 * [Adafruit CircuitPython RGBLED](https://github.com/adafruit/Adafruit_CircuitPython_RGBLED.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rgbled))
@@ -214,6 +217,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 215 lib
 * [Adafruit CircuitPython SimpleIO](https://github.com/adafruit/Adafruit_CircuitPython_SimpleIO.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-simpleio))
 * [Adafruit CircuitPython Slideshow](https://github.com/adafruit/Adafruit_CircuitPython_Slideshow.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-slideshow))
 * [Adafruit CircuitPython TinyLoRa](https://github.com/adafruit/Adafruit_CircuitPython_TinyLoRa.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tinylora))
+* [Adafruit CircuitPython WSGI](https://github.com/adafruit/Adafruit_CircuitPython_WSGI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wsgi))
 * [Adafruit CircuitPython Waveform](https://github.com/adafruit/Adafruit_CircuitPython_Waveform.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-waveform))
 * [Adafruit CircuitPython binascii](https://github.com/adafruit/Adafruit_CircuitPython_binascii.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-binascii))
 * [Adafruit CircuitPython framebuf](https://github.com/adafruit/Adafruit_CircuitPython_framebuf.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-framebuf))
