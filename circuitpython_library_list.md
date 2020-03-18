@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 220 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 221 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -112,6 +112,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 220 lib
 * [Adafruit CircuitPython RFM9x](https://github.com/adafruit/Adafruit_CircuitPython_RFM9x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rfm9x))
 * [Adafruit CircuitPython RGB Display](https://github.com/adafruit/Adafruit_CircuitPython_RGB_Display.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rgb-display))
 * [Adafruit CircuitPython RPLIDAR](https://github.com/adafruit/Adafruit_CircuitPython_RPLIDAR.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rplidar))
+* [Adafruit CircuitPython RockBlock](https://github.com/adafruit/Adafruit_CircuitPython_RockBlock.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rockblock))
 * [Adafruit CircuitPython SD](https://github.com/adafruit/Adafruit_CircuitPython_SD.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sd))
 * [Adafruit CircuitPython SGP30](https://github.com/adafruit/Adafruit_CircuitPython_SGP30.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sgp30))
 * [Adafruit CircuitPython SHT31D](https://github.com/adafruit/Adafruit_CircuitPython_SHT31D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sht31d))
