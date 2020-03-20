@@ -425,6 +425,7 @@ Miscellaneous
     BD3491FS Audio Processor  <https://circuitpython.readthedocs.io/projects/bd3491fs/en/latest/>
     CAP1188 8-Key Capacitive Touch <https://circuitpython.readthedocs.io/projects/cap1188/en/latest/>
     DRV2605 Haptic Motor Controller <https://circuitpython.readthedocs.io/projects/drv2605/en/latest/>
+    DS1841 I2C Logarithmic Potentiometer <https://adafruit-circuitpython-ds1841.readthedocs.io/en/latest/>
     DS3502 I2C Potentiometer <https://circuitpython.readthedocs.io/projects/ds3502/en/latest/>
     Fingerprint Sensor <https://circuitpython.readthedocs.io/projects/fingerprint/en/latest/>
     FRAM Non-Volatile Memory <https://circuitpython.readthedocs.io/projects/fram/en/latest/>
