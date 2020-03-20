@@ -661,3 +661,6 @@
 [submodule "libraries/drivers/rockblock"]
 	path = libraries/drivers/rockblock
 	url = https://github.com/adafruit/Adafruit_CircuitPython_RockBlock.git
+[submodule "libraries/drivers/ds1841"]
+	path = libraries/drivers/ds1841
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DS1841.git
