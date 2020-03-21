@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 221 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 222 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -30,6 +30,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 221 lib
 * [Adafruit CircuitPython DPS310](https://github.com/adafruit/Adafruit_CircuitPython_DPS310.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-dps310))
 * [Adafruit CircuitPython DRV2605](https://github.com/adafruit/Adafruit_CircuitPython_DRV2605.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-drv2605))
 * [Adafruit CircuitPython DS1307](https://github.com/adafruit/Adafruit_CircuitPython_DS1307.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds1307))
+* [Adafruit CircuitPython DS1841](https://github.com/adafruit/Adafruit_CircuitPython_DS1841.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds1841))
 * [Adafruit CircuitPython DS18X20](https://github.com/adafruit/Adafruit_CircuitPython_DS18X20.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds18x20))
 * [Adafruit CircuitPython DS2413](https://github.com/adafruit/Adafruit_CircuitPython_DS2413.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds2413))
 * [Adafruit CircuitPython DS3231](https://github.com/adafruit/Adafruit_CircuitPython_DS3231.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds3231))
@@ -168,7 +169,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 221 lib
 * [Adafruit CircuitPython AWS IOT](https://github.com/adafruit/Adafruit_CircuitPython_AWS_IOT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-aws-iot))
 * [Adafruit CircuitPython AdafruitIO](https://github.com/adafruit/Adafruit_CircuitPython_AdafruitIO.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-adafruitio))
 * [Adafruit CircuitPython AzureIoT](https://github.com/adafruit/Adafruit_CircuitPython_AzureIoT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-azureiot))
-* [Adafruit CircuitPython BLE Apple Media](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Apple_Media.git)
+* [Adafruit CircuitPython BLE Apple Media](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Apple_Media.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-apple-media))
 * [Adafruit CircuitPython BLE Apple Notification Center](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Apple_Notification_Center.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-apple-notification-center))
 * [Adafruit CircuitPython BLE BroadcastNet](https://github.com/adafruit/Adafruit_CircuitPython_BLE_BroadcastNet.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-broadcastnet))
 * [Adafruit CircuitPython BLE Cycling Speed and Cadence](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Cycling_Speed_and_Cadence.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-cycling-speed-and-cadence))
