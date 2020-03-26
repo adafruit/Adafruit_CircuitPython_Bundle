@@ -664,3 +664,6 @@
 [submodule "libraries/drivers/ds1841"]
 	path = libraries/drivers/ds1841
 	url = https://github.com/adafruit/Adafruit_CircuitPython_DS1841.git
+[submodule "libraries/helpers/ble-radio"]
+	path = libraries/helpers/ble-radio
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_Radio.git
