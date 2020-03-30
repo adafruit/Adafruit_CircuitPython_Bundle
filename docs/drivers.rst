@@ -123,6 +123,7 @@ Helpers for Bluetooth Low Energy (BLE).
     BLE Cycling Speed and Cadence Service <https://circuitpython.readthedocs.io/projects/ble_cycling_speed_and_cadence/en/latest/>
     BLE Eddystone Beacon <https://circuitpython.readthedocs.io/projects/ble_eddystone/en/latest/>
     BLE Heart Rate Service <https://circuitpython.readthedocs.io/projects/ble_heart_rate/en/latest/>
+    BLE iBBQ <https://circuitpython.readthedocs.io/projects/ble_ibbq/en/latest/>
     BLE Magic Light Service <https://circuitpython.readthedocs.io/projects/ble_magic_light/en/latest/>
     BLE Radio <https://circuitpython.readthedocs.io/projects/ble-radio/en/latest/>
 
