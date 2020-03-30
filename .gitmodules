@@ -667,3 +667,6 @@
 [submodule "libraries/helpers/ble-radio"]
 	path = libraries/helpers/ble-radio
 	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_Radio.git
+[submodule "libraries/helpers/ble_ibbq"]
+	path = libraries/helpers/ble_ibbq
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_iBBQ.git
