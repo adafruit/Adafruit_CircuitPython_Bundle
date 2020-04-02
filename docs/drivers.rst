@@ -46,7 +46,7 @@ Helpers for animating LEDs.
 .. toctree::
 
     Fancy LED (similar to FastLED) <https://circuitpython.readthedocs.io/projects/fancyled/en/latest/>
-    LED Animation <https://adafruit-circuitpython-led-animation.readthedocs.io/en/latest/>
+    LED Animation <https://circuitpython.readthedocs.io/projects/led-animation/en/latest/>
 
 User Interface and GFX Helpers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -59,6 +59,7 @@ Helpers for building graphical interfaces using the displayio core module and fr
     Bitmap Font <https://circuitpython.readthedocs.io/projects/bitmap-font/en/latest/>
     Bitmap Saver <https://circuitpython.readthedocs.io/projects/bitmapsaver/en/latest/>
     Display Button <https://circuitpython.readthedocs.io/projects/display_button/en/latest/>
+    Display Notification <https://circuitpython.readthedocs.io/projects/display_notification/en/latest/>
     Display Shapes <https://circuitpython.readthedocs.io/projects/display_shapes/en/latest/>
     Display Text <https://circuitpython.readthedocs.io/projects/display-text/en/latest/>
     Framebuf Module <https://circuitpython.readthedocs.io/projects/framebuf/en/latest/>
@@ -196,6 +197,7 @@ Multi-color LED drivers.
 
     DotStar <https://circuitpython.readthedocs.io/projects/dotstar/en/latest/>
     NeoPixel <https://circuitpython.readthedocs.io/projects/neopixel/en/latest/>
+    NeoPixel SPI <https://circuitpython.readthedocs.io/projects/neopixel_spi/en/latest/>
     Pixie <https://circuitpython.readthedocs.io/projects/pixie/en/latest/>
     RGB LED <https://circuitpython.readthedocs.io/projects/rgbled/en/latest/>
     WS2801 <https://circuitpython.readthedocs.io/projects/ws2801/en/latest/>
@@ -230,7 +232,7 @@ OLED
 
 .. toctree::
 
-    SSD1305 OLED (displayio) <https://circuitpython.readthedocs.io/projects/displayio_ssd1306/en/latest/>
+    SSD1305 OLED (displayio) <https://circuitpython.readthedocs.io/projects/displayio_ssd1305/en/latest/>
     SSD1305 OLED (framebuf) <https://circuitpython.readthedocs.io/projects/ssd1305/en/latest/>
     SSD1306 OLED (displayio) <https://circuitpython.readthedocs.io/projects/displayio_ssd1306/en/latest/>
     SSD1306 OLED (framebuf) <https://circuitpython.readthedocs.io/projects/ssd1306/en/latest/>
@@ -289,7 +291,7 @@ Motion relating sensing including ``acceleration``, ``magnetic``, ``gyro``, and 
     FXAS21002C Gyroscope <https://circuitpython.readthedocs.io/projects/fxas21002c/en/latest/>
     FXOS8700 Accelerometer <https://circuitpython.readthedocs.io/projects/fxos8700/en/latest/>
     GPS Global Position <https://circuitpython.readthedocs.io/projects/gps/en/latest/>
-    ISM20649 Wide-rage 6-DoF Accelerometer and Gyro <https://circuitpython.readthedocs.io/projects/ism20649/en/latest/>
+    ICM20649 Wide-rage 6-DoF Accelerometer and Gyro <https://circuitpython.readthedocs.io/projects/icm20649/en/latest/>
     L3GD20 3-Axis Gyroscope <https://circuitpython.readthedocs.io/projects/l3gd20/en/latest/>
     LIS2MDL 3-Axis Magnetometer <https://circuitpython.readthedocs.io/projects/lis2mdl/en/latest/>
     LIS3MDL 3-Axis Magnetometer <https://circuitpython.readthedocs.io/projects/lis3mdl/en/latest/>
@@ -323,11 +325,11 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     BMP3xx Barometric Pressure and Altimeter <https://circuitpython.readthedocs.io/projects/bmp3xx/en/latest/>
     CCS811 Air Quality <https://circuitpython.readthedocs.io/projects/ccs811/en/latest/>
     DHT Temperature and Humidity <https://circuitpython.readthedocs.io/projects/dht/en/latest/>
-    DPS310 Precision Barometric Pressure / Altitude Sensor <https://adafruit-circuitpython-dsp310.readthedocs.io/en/latest/>
+    DPS310 Precision Barometric Pressure / Altitude Sensor <https://circuitpython.readthedocs.io/projects/dps310/en/latest/>
     DS18x20 Temperature <https://circuitpython.readthedocs.io/projects/ds18x20/en/latest/>
-    HTS221 Temperature and Humidity Sensor <https://adafruit-circuitpython-hts221.readthedocs.io/en/latest/>
+    HTS221 Temperature and Humidity Sensor <https://circuitpython.readthedocs.io/projects/hts221/en/latest/>
     HTU21D Temperature and Humidity <https://circuitpython.readthedocs.io/projects/htu21d/en/latest/>
-    LPS2X Family of Barometric Pressure, Temperature Sensors <https://adafruit-circuitpython-lps2x.readthedocs.io/en/latest/>
+    LPS2X Family of Barometric Pressure, Temperature Sensors <https://circuitpython.readthedocs.io/projects/lps2x/en/latest/>
     LPS35HW Water Resistant Barometric Pressure, Temperature <https://circuitpython.readthedocs.io/projects/lps35hw/en/latest/>
     MAX31855 Thermocouple Amplifier, Temperature <https://circuitpython.readthedocs.io/projects/max31855/en/latest/>
     MAX31856 Thermocouple Amplifier, Temperature <https://circuitpython.readthedocs.io/projects/max31856/en/latest/>
@@ -383,7 +385,7 @@ These sensors measure the ``distance`` to another object and may also measure li
 Radio
 --------
 
-These chips communicate to other's over radio.
+These chips communicate to others over radio.
 
 .. toctree::
 
@@ -427,7 +429,7 @@ Miscellaneous
     BD3491FS Audio Processor  <https://circuitpython.readthedocs.io/projects/bd3491fs/en/latest/>
     CAP1188 8-Key Capacitive Touch <https://circuitpython.readthedocs.io/projects/cap1188/en/latest/>
     DRV2605 Haptic Motor Controller <https://circuitpython.readthedocs.io/projects/drv2605/en/latest/>
-    DS1841 I2C Logarithmic Potentiometer <https://adafruit-circuitpython-ds1841.readthedocs.io/en/latest/>
+    DS1841 I2C Logarithmic Potentiometer <https://circuitpython.readthedocs.io/projects/ds1841/en/latest/>
     DS3502 I2C Potentiometer <https://circuitpython.readthedocs.io/projects/ds3502/en/latest/>
     Fingerprint Sensor <https://circuitpython.readthedocs.io/projects/fingerprint/en/latest/>
     FRAM Non-Volatile Memory <https://circuitpython.readthedocs.io/projects/fram/en/latest/>
@@ -440,6 +442,7 @@ Miscellaneous
     NeoTrellis 4x4 Keypad <https://circuitpython.readthedocs.io/projects/neotrellis/en/latest/>
     NeoTrellis M4 4x8 Keypad <https://circuitpython.readthedocs.io/projects/trellism4/en/latest/>
     PyPixelbuf <https://circuitpython.readthedocs.io/projects/pypixelbuf/en/latest/>
+    RockBlock Iridium Satellite Modem <https://circuitpython.readthedocs.io/projects/rockblock/en/latest/>
     Si4713 Stereo FM Transmitter <https://circuitpython.readthedocs.io/projects/si4713/en/latest/>
     Si5351 Clock Generator <https://circuitpython.readthedocs.io/projects/si5351/en/latest/>
     STMPE610 Resistive Touchscreen <https://circuitpython.readthedocs.io/projects/stmpe610/en/latest/>
