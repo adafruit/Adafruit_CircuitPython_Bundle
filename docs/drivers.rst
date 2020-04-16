@@ -126,6 +126,7 @@ Helpers for Bluetooth Low Energy (BLE).
     BLE Heart Rate Service <https://circuitpython.readthedocs.io/projects/ble_heart_rate/en/latest/>
     BLE iBBQ <https://circuitpython.readthedocs.io/projects/ble_ibbq/en/latest/>
     BLE Magic Light Service <https://circuitpython.readthedocs.io/projects/ble_magic_light/en/latest/>
+    BLE MIDI <https://circuitpython.readthedocs.io/projects/ble_midi/en/latest/>
     BLE Radio <https://circuitpython.readthedocs.io/projects/ble-radio/en/latest/>
 
 LoRa Wireless Helpers
