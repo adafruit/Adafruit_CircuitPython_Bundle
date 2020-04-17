@@ -673,3 +673,6 @@
 [submodule "libraries/helpers/ble_midi"]
 	path = libraries/helpers/ble_midi
 	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_MIDI.git
+[submodule "libraries/helpers/bitbangio"]
+	path = libraries/helpers/bitbangio
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BitbangIO.git

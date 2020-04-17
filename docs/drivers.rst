@@ -177,11 +177,12 @@ Miscellaneous Helpers
 .. toctree::
 
     AVR programming <https://circuitpython.readthedocs.io/projects/avrprog/en/latest/>
+    BitbangIO <https://circuitpython.readthedocs.io/projects/bitbangio/en/latest/>
     Board Test Suite <https://circuitpython.readthedocs.io/projects/boardtest/en/latest/>
     Debouncer <https://circuitpython.readthedocs.io/projects/debouncer/en/latest/>
     Debug I2C <https://circuitpython.readthedocs.io/projects/debug_i2c/en/latest/>
-    Mini ESP Tool (ESP chips loader) <https://circuitpython.readthedocs.io/projects/miniesptool/en/latest/>
     InfraRed Remote <https://circuitpython.readthedocs.io/projects/irremote/en/latest/>
+    Mini ESP Tool (ESP chips loader) <https://circuitpython.readthedocs.io/projects/miniesptool/en/latest/>
     OneWire <https://circuitpython.readthedocs.io/projects/onewire/en/latest/>
     SD Card <https://circuitpython.readthedocs.io/projects/sd/en/latest/>
     SimpleIO <https://circuitpython.readthedocs.io/projects/simpleio/en/latest/>
