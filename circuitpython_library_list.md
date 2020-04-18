@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 225 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 226 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -180,6 +180,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 225 lib
 * [Adafruit CircuitPython BLE Radio](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Radio.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-radio))
 * [Adafruit CircuitPython BLE iBBQ](https://github.com/adafruit/Adafruit_CircuitPython_BLE_iBBQ.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-ibbq))
 * [Adafruit CircuitPython BLE](https://github.com/adafruit/Adafruit_CircuitPython_BLE.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble))
+* [Adafruit CircuitPython BitbangIO](https://github.com/adafruit/Adafruit_CircuitPython_BitbangIO.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bitbangio))
 * [Adafruit CircuitPython Bitmap Font](https://github.com/adafruit/Adafruit_CircuitPython_Bitmap_Font.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bitmap-font))
 * [Adafruit CircuitPython BitmapSaver](https://github.com/adafruit/Adafruit_CircuitPython_BitmapSaver.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bitmapsaver))
 * [Adafruit CircuitPython BluefruitConnect](https://github.com/adafruit/Adafruit_CircuitPython_BluefruitConnect.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bluefruitconnect))
