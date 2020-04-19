@@ -600,7 +600,7 @@
 	url = https://github.com/adafruit/Adafruit_CircuitPython_LSM6DS.git
 [submodule "libraries/drivers/mcp4728"]
 	path = libraries/drivers/mcp4728
-	url = https://www.github.com/adafruit/Adafruit_CircuitPython_MCP4728.git
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MCP4728.git
 [submodule "libraries/helpers/ble_apple_notification_center"]
 	path = libraries/helpers/ble_apple_notification_center
 	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_Apple_Notification_Center.git
