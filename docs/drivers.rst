@@ -120,11 +120,12 @@ Helpers for Bluetooth Low Energy (BLE).
     BLE base library<https://circuitpython.readthedocs.io/projects/ble/en/latest/>
     BLE Apple Media Service <https://circuitpython.readthedocs.io/projects/ble_apple_media/en/latest/>
     BLE Apple Notification Center Service <https://circuitpython.readthedocs.io/projects/ble_apple_notification_center/en/latest/>
+    BLE BerryMed Pulse Oximeter Service <https://circuitpython.readthedocs.io/projects/ble_berrymed_pulse_oximeter/en/latest/>
     BLE BroadcastNet <https://circuitpython.readthedocs.io/projects/ble_broadcastnet/en/latest/>
     BLE Cycling Speed and Cadence Service <https://circuitpython.readthedocs.io/projects/ble_cycling_speed_and_cadence/en/latest/>
     BLE Eddystone Beacon <https://circuitpython.readthedocs.io/projects/ble_eddystone/en/latest/>
     BLE Heart Rate Service <https://circuitpython.readthedocs.io/projects/ble_heart_rate/en/latest/>
-    BLE iBBQ <https://circuitpython.readthedocs.io/projects/ble_ibbq/en/latest/>
+    BLE iBBQ Service <https://circuitpython.readthedocs.io/projects/ble_ibbq/en/latest/>
     BLE Magic Light Service <https://circuitpython.readthedocs.io/projects/ble_magic_light/en/latest/>
     BLE MIDI <https://circuitpython.readthedocs.io/projects/ble_midi/en/latest/>
     BLE Radio <https://circuitpython.readthedocs.io/projects/ble-radio/en/latest/>
