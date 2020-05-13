@@ -679,3 +679,6 @@
 [submodule "libraries/helpers/ble_berrymed_pulse_oximeter"]
 	path = libraries/helpers/ble_berrymed_pulse_oximeter
 	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_BerryMed_Pulse_Oximeter.git
+[submodule "libraries/drivers/fona"]
+	path = libraries/drivers/fona
+	url = https://github.com/adafruit/Adafruit_CircuitPython_FONA.git

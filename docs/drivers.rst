@@ -458,3 +458,4 @@ Miscellaneous
     Dymo Scale <https://circuitpython.readthedocs.io/projects/dymoscale/en/latest/>
     Nunchuk <https://circuitpython.readthedocs.io/projects/nunchuk/en/latest/>
     Wiznet5k Ethernet Module <https://circuitpython.readthedocs.io/projects/wiznet5k/en/latest/>
+    FONA Cellular Module <https://circuitpython.readthedocs.io/projects/fona/en/latest/>
