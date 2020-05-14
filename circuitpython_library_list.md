@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 227 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 228 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -42,6 +42,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 227 lib
 * [Adafruit CircuitPython EPD](https://github.com/adafruit/Adafruit_CircuitPython_EPD.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-epd))
 * [Adafruit CircuitPython ESP ATcontrol](https://github.com/adafruit/Adafruit_CircuitPython_ESP_ATcontrol.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-esp-atcontrol))
 * [Adafruit CircuitPython ESP32SPI](https://github.com/adafruit/Adafruit_CircuitPython_ESP32SPI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-esp32spi))
+* [Adafruit CircuitPython FONA](https://github.com/adafruit/Adafruit_CircuitPython_FONA.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fona))
 * [Adafruit CircuitPython FRAM](https://github.com/adafruit/Adafruit_CircuitPython_FRAM.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fram))
 * [Adafruit CircuitPython FXAS21002C](https://github.com/adafruit/Adafruit_CircuitPython_FXAS21002C.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fxas21002c))
 * [Adafruit CircuitPython FXOS8700](https://github.com/adafruit/Adafruit_CircuitPython_FXOS8700.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fxos8700))
