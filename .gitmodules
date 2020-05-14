@@ -682,3 +682,6 @@
 [submodule "libraries/drivers/fona"]
 	path = libraries/drivers/fona
 	url = https://github.com/adafruit/Adafruit_CircuitPython_FONA.git
+[submodule "libraries/drivers/lis331"]
+	path = libraries/drivers/lis331
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LIS331.git
