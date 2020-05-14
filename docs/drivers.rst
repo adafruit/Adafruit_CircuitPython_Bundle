@@ -117,7 +117,8 @@ Helpers for Bluetooth Low Energy (BLE).
 .. toctree::
 
     Bluefruit LE Connect App <https://circuitpython.readthedocs.io/projects/bluefruitconnect/en/latest/>
-    BLE base library<https://circuitpython.readthedocs.io/projects/ble/en/latest/>
+    BLE Base Library <https://circuitpython.readthedocs.io/projects/ble/en/latest/>
+    BLE Adafruit Services <https://circuitpython.readthedocs.io/projects/ble_adafruit/en/latest/>
     BLE Apple Media Service <https://circuitpython.readthedocs.io/projects/ble_apple_media/en/latest/>
     BLE Apple Notification Center Service <https://circuitpython.readthedocs.io/projects/ble_apple_notification_center/en/latest/>
     BLE BerryMed Pulse Oximeter Service <https://circuitpython.readthedocs.io/projects/ble_berrymed_pulse_oximeter/en/latest/>
