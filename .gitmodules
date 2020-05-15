@@ -685,3 +685,6 @@
 [submodule "libraries/drivers/lis331"]
 	path = libraries/drivers/lis331
 	url = https://github.com/adafruit/Adafruit_CircuitPython_LIS331.git
+[submodule "libraries/helpers/ble_adafruit"]
+	path = libraries/helpers/ble_adafruit
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_Adafruit.git
