@@ -688,3 +688,9 @@
 [submodule "libraries/drivers/icm20x"]
 	path = libraries/drivers/icm20x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ICM20X.git
+[submodule "libraries/drivers/pm25"]
+	path = libraries/drivers/pm25
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PM25.git
+[submodule "libraries/drivers/ahtx0"]
+	path = libraries/drivers/ahtx0
+	url = https://github.com/adafruit/Adafruit_CircuitPython_AHTx0.git
