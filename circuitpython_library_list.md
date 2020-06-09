@@ -59,7 +59,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 232 lib
 * [Adafruit CircuitPython IL0373](https://github.com/adafruit/Adafruit_CircuitPython_IL0373.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-il0373))
 * [Adafruit CircuitPython IL0398](https://github.com/adafruit/Adafruit_CircuitPython_IL0398.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-il0398))
 * [Adafruit CircuitPython IL91874](https://github.com/adafruit/Adafruit_CircuitPython_IL91874.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-il91874))
-* [Adafruit CircuitPython ILI9341](https://github.com/adafruit/Adafruit_CircuitPython_ILI9341.git)
+* [Adafruit CircuitPython ILI9341](https://github.com/adafruit/Adafruit_CircuitPython_ILI9341.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ili9341))
 * [Adafruit CircuitPython INA219](https://github.com/adafruit/Adafruit_CircuitPython_INA219.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ina219))
 * [Adafruit CircuitPython INA260](https://github.com/adafruit/Adafruit_CircuitPython_INA260.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ina260))
 * [Adafruit CircuitPython IRRemote](https://github.com/adafruit/Adafruit_CircuitPython_IRRemote.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-irremote))
