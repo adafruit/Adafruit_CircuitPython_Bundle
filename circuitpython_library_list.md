@@ -54,7 +54,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 232 lib
 * [Adafruit CircuitPython HT16K33](https://github.com/adafruit/Adafruit_CircuitPython_HT16K33.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ht16k33))
 * [Adafruit CircuitPython HTS221](https://github.com/adafruit/Adafruit_CircuitPython_HTS221.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hts221))
 * [Adafruit CircuitPython HTU21D](https://github.com/adafruit/Adafruit_CircuitPython_HTU21D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-htu21d))
-* [Adafruit CircuitPython HX8357](https://github.com/adafruit/Adafruit_CircuitPython_HX8357.git)
+* [Adafruit CircuitPython HX8357](https://github.com/adafruit/Adafruit_CircuitPython_HX8357.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hx8357))
 * [Adafruit CircuitPython ICM20X](https://github.com/adafruit/Adafruit_CircuitPython_ICM20X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-icm20x))
 * [Adafruit CircuitPython IL0373](https://github.com/adafruit/Adafruit_CircuitPython_IL0373.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-il0373))
 * [Adafruit CircuitPython IL0398](https://github.com/adafruit/Adafruit_CircuitPython_IL0398.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-il0398))
