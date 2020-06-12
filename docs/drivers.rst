@@ -350,6 +350,7 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     PM25 Air Quality Sensor <https://circuitpython.readthedocs.io/projects/pm25/en/latest/>
     SGP30 Air Quality <https://circuitpython.readthedocs.io/projects/sgp30/en/latest/>
     SHT31-D Temperature and Humidity <https://circuitpython.readthedocs.io/projects/sht31d/en/latest/>
+    SHTC3 Temperature and Humidity <https://circuitpython.readthedocs.io/projects/shtc3/en/latest/>
     Si7021 Temperature and Humidity <https://circuitpython.readthedocs.io/projects/si7021/en/latest/>
     Thermistor Temperature <https://circuitpython.readthedocs.io/projects/thermistor/en/latest/>
     TMP006 Contactless IR Thermopile Sensor <https://circuitpython.readthedocs.io/projects/tmp006/en/latest/>

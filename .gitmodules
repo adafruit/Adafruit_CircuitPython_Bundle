@@ -694,3 +694,6 @@
 [submodule "libraries/drivers/ahtx0"]
 	path = libraries/drivers/ahtx0
 	url = https://github.com/adafruit/Adafruit_CircuitPython_AHTx0.git
+[submodule "libraries/drivers/shtc3"]
+	path = libraries/drivers/shtc3
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SHTC3.git
