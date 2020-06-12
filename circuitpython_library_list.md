@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 232 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 233 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -121,6 +121,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 232 lib
 * [Adafruit CircuitPython SD](https://github.com/adafruit/Adafruit_CircuitPython_SD.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sd))
 * [Adafruit CircuitPython SGP30](https://github.com/adafruit/Adafruit_CircuitPython_SGP30.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sgp30))
 * [Adafruit CircuitPython SHT31D](https://github.com/adafruit/Adafruit_CircuitPython_SHT31D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sht31d))
+* [Adafruit CircuitPython SHTC3](https://github.com/adafruit/Adafruit_CircuitPython_SHTC3.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-shtc3))
 * [Adafruit CircuitPython SI4713](https://github.com/adafruit/Adafruit_CircuitPython_SI4713.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-si4713))
 * [Adafruit CircuitPython SI5351](https://github.com/adafruit/Adafruit_CircuitPython_SI5351.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-si5351))
 * [Adafruit CircuitPython SI7021](https://github.com/adafruit/Adafruit_CircuitPython_SI7021.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-si7021))
@@ -130,12 +131,12 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 232 lib
 * [Adafruit CircuitPython SSD1325](https://github.com/adafruit/Adafruit_CircuitPython_SSD1325.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1325))
 * [Adafruit CircuitPython SSD1327](https://github.com/adafruit/Adafruit_CircuitPython_SSD1327.git)
 * [Adafruit CircuitPython SSD1331](https://github.com/adafruit/Adafruit_CircuitPython_SSD1331.git)
-* [Adafruit CircuitPython SSD1351](https://github.com/adafruit/Adafruit_CircuitPython_SSD1351.git)
+* [Adafruit CircuitPython SSD1351](https://github.com/adafruit/Adafruit_CircuitPython_SSD1351.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1351))
 * [Adafruit CircuitPython SSD1608](https://github.com/adafruit/Adafruit_CircuitPython_SSD1608.git)
 * [Adafruit CircuitPython SSD1675](https://github.com/adafruit/Adafruit_CircuitPython_SSD1675.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1675))
-* [Adafruit CircuitPython ST7735R](https://github.com/adafruit/Adafruit_CircuitPython_ST7735R.git)
-* [Adafruit CircuitPython ST7735](https://github.com/adafruit/Adafruit_CircuitPython_ST7735.git)
-* [Adafruit CircuitPython ST7789](https://github.com/adafruit/Adafruit_CircuitPython_ST7789.git)
+* [Adafruit CircuitPython ST7735R](https://github.com/adafruit/Adafruit_CircuitPython_ST7735R.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-st7735r))
+* [Adafruit CircuitPython ST7735](https://github.com/adafruit/Adafruit_CircuitPython_ST7735.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-st7735))
+* [Adafruit CircuitPython ST7789](https://github.com/adafruit/Adafruit_CircuitPython_ST7789.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-st7789))
 * [Adafruit CircuitPython STMPE610](https://github.com/adafruit/Adafruit_CircuitPython_STMPE610.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-stmpe610))
 * [Adafruit CircuitPython Seesaw](https://github.com/adafruit/Adafruit_CircuitPython_Seesaw.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-seesaw))
 * [Adafruit CircuitPython SharpMemoryDisplay](https://github.com/adafruit/Adafruit_CircuitPython_SharpMemoryDisplay.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sharpmemorydisplay))
