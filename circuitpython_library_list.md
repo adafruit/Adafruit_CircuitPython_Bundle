@@ -130,7 +130,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 233 lib
 * [Adafruit CircuitPython SSD1322](https://github.com/adafruit/Adafruit_CircuitPython_SSD1322.git)
 * [Adafruit CircuitPython SSD1325](https://github.com/adafruit/Adafruit_CircuitPython_SSD1325.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1325))
 * [Adafruit CircuitPython SSD1327](https://github.com/adafruit/Adafruit_CircuitPython_SSD1327.git)
-* [Adafruit CircuitPython SSD1331](https://github.com/adafruit/Adafruit_CircuitPython_SSD1331.git)
+* [Adafruit CircuitPython SSD1331](https://github.com/adafruit/Adafruit_CircuitPython_SSD1331.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1331))
 * [Adafruit CircuitPython SSD1351](https://github.com/adafruit/Adafruit_CircuitPython_SSD1351.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1351))
 * [Adafruit CircuitPython SSD1608](https://github.com/adafruit/Adafruit_CircuitPython_SSD1608.git)
 * [Adafruit CircuitPython SSD1675](https://github.com/adafruit/Adafruit_CircuitPython_SSD1675.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1675))
