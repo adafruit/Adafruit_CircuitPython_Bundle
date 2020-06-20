@@ -194,7 +194,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 233 lib
 * [Adafruit CircuitPython BoardTest](https://github.com/adafruit/Adafruit_CircuitPython_BoardTest.git)
 * [Adafruit CircuitPython BusDevice](https://github.com/adafruit/Adafruit_CircuitPython_BusDevice.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-busdevice))
 * [Adafruit CircuitPython CursorControl](https://github.com/adafruit/Adafruit_CircuitPython_CursorControl.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-cursorcontrol))
-* [Adafruit CircuitPython Debouncer](https://github.com/adafruit/Adafruit_CircuitPython_Debouncer.git)
+* [Adafruit CircuitPython Debouncer](https://github.com/adafruit/Adafruit_CircuitPython_Debouncer.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-debouncer))
 * [Adafruit CircuitPython Debug I2C](https://github.com/adafruit/Adafruit_CircuitPython_Debug_I2C.git)
 * [Adafruit CircuitPython Display Button](https://github.com/adafruit/Adafruit_CircuitPython_Display_Button.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-button))
 * [Adafruit CircuitPython Display Notification](https://github.com/adafruit/Adafruit_CircuitPython_Display_Notification.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-notification))
