@@ -411,8 +411,8 @@ These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``,
 
 .. toctree::
 
-    Adafruit SeeSaw <https://circuitpython.readthedocs.io/projects/seesaw/en/latest/>
     ADS1x15 Analog-to-Digital Converter  <https://circuitpython.readthedocs.io/projects/ads1x15/en/latest/>
+    Adafruit SeeSaw <https://circuitpython.readthedocs.io/projects/seesaw/en/latest/>
     Crickit Robotics Boards <https://circuitpython.readthedocs.io/projects/crickit/en/latest/>
     DS2413 OneWire GPIO Expander <https://circuitpython.readthedocs.io/projects/ds2413/en/latest/>
     FocalTech Capacitive Touch <https://circuitpython.readthedocs.io/projects/focaltouch/en/latest/>
@@ -422,6 +422,7 @@ These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``,
     MCP4728 4-Channel, 12-bit Digital-to-Analog Converter <https://circuitpython.readthedocs.io/projects/mcp4728/en/latest/>
     MPR121 Capacitive Touch Sensor <https://circuitpython.readthedocs.io/projects/mpr121/en/latest/>
     PCA9685 16 x 12-bit PWM Driver <https://circuitpython.readthedocs.io/projects/pca9685/en/latest/>
+    PCF8591 ADC + DAC Combo <https://circuitpython.readthedocs.io/projects/pcf8591/en/latest/>
     TCA9548 I2C Multiplexer <https://circuitpython.readthedocs.io/projects/tca9548a/en/latest/>
     TLC5947 24 x 12-bit PWM Driver <https://circuitpython.readthedocs.io/projects/tlc5947/en/latest/>
     TLC59711 12 x 16-bit PWM Driver <https://circuitpython.readthedocs.io/projects/tlc59711/en/latest/>
