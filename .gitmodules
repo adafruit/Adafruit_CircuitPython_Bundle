@@ -697,3 +697,6 @@
 [submodule "libraries/drivers/shtc3"]
 	path = libraries/drivers/shtc3
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SHTC3.git
+[submodule "libraries/drivers/pcf8591"]
+	path = libraries/drivers/pcf8591
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PCF8591.git
