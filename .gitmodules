@@ -700,3 +700,6 @@
 [submodule "libraries/drivers/pcf8591"]
 	path = libraries/drivers/pcf8591
 	url = https://github.com/adafruit/Adafruit_CircuitPython_PCF8591.git
+[submodule "libraries/drivers/bh1750"]
+	path = libraries/drivers/bh1750
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BH1750.git
