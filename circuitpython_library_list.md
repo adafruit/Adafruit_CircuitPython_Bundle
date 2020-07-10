@@ -113,7 +113,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 235 lib
 * [Adafruit CircuitPython PM25](https://github.com/adafruit/Adafruit_CircuitPython_PM25.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pm25))
 * [Adafruit CircuitPython PN532](https://github.com/adafruit/Adafruit_CircuitPython_PN532.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pn532))
 * [Adafruit CircuitPython Pixie](https://github.com/adafruit/Adafruit_CircuitPython_Pixie.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pixie))
-* [Adafruit CircuitPython PyPortal](https://github.com/adafruit/Adafruit_CircuitPython_PyPortal.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pyportal))
+* [Adafruit CircuitPython PyPortal](https://github.com/adafruit/Adafruit_CircuitPython_PyPortal.git)
 * [Adafruit CircuitPython RA8875](https://github.com/adafruit/Adafruit_CircuitPython_RA8875.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ra8875))
 * [Adafruit CircuitPython RFM69](https://github.com/adafruit/Adafruit_CircuitPython_RFM69.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rfm69))
 * [Adafruit CircuitPython RFM9x](https://github.com/adafruit/Adafruit_CircuitPython_RFM9x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rfm9x))
