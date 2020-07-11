@@ -208,7 +208,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 235 lib
 * [Adafruit CircuitPython Gizmo](https://github.com/adafruit/Adafruit_CircuitPython_Gizmo.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-gizmo))
 * [Adafruit CircuitPython HID](https://github.com/adafruit/Adafruit_CircuitPython_HID.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hid))
 * [Adafruit CircuitPython Hue](https://github.com/adafruit/Adafruit_CircuitPython_Hue.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hue))
-* [Adafruit CircuitPython ImageLoad](https://github.com/adafruit/Adafruit_CircuitPython_ImageLoad.git)
+* [Adafruit CircuitPython ImageLoad](https://github.com/adafruit/Adafruit_CircuitPython_ImageLoad.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-imageload))
 * [Adafruit CircuitPython IterTools](https://github.com/adafruit/Adafruit_CircuitPython_IterTools.git)
 * [Adafruit CircuitPython JWT](https://github.com/adafruit/Adafruit_CircuitPython_JWT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-jwt))
 * [Adafruit CircuitPython LED Animation](https://github.com/adafruit/Adafruit_CircuitPython_LED_Animation.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-led-animation))
