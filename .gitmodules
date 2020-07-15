@@ -703,3 +703,6 @@
 [submodule "libraries/drivers/bh1750"]
 	path = libraries/drivers/bh1750
 	url = https://github.com/adafruit/Adafruit_CircuitPython_BH1750.git
+[submodule "libraries/drivers/as7341"]
+	path = libraries/drivers/as7341
+	url = https://github.com/adafruit/Adafruit_CircuitPython_AS7341.git

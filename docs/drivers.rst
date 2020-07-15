@@ -366,6 +366,7 @@ These sensors detect light related attributes such as ``color``, ``light`` (unit
 
     APDS9960 Proximity, Light, RGB, and Gesture <https://circuitpython.readthedocs.io/projects/apds9960/en/latest/>
     AS726x Color Spectrum Sensor <https://circuitpython.readthedocs.io/projects/as726x/en/latest/>
+    AS7341 11-Channel Multi-Spectral Digital Sensor <https://circuitpython.readthedocs.io/projects/as7341/en/latest/>
     BH1750 Ambient Light <https://circuitpython.readthedocs.io/projects/bh1750/en/latest/>
     TCS34725 Color Sensor <https://circuitpython.readthedocs.io/projects/tcs34725/en/latest/>
     TSL2561 Light Sensor <https://circuitpython.readthedocs.io/projects/tsl2561/en/latest/>
