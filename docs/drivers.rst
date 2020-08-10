@@ -30,6 +30,7 @@ specific boards.
     Adafruit CircuitPlayground <https://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/>
     Adafruit CLUE <https://circuitpython.readthedocs.io/projects/clue/en/latest/>
     Adafruit FeatherWings <https://circuitpython.readthedocs.io/projects/featherwing/en/latest/>
+    MatrixPortal (Metro M4 Airlift + RGB Shield) <https://circuitpython.readthedocs.io/projects/matrixportal/en/latest/>
     PyBadger (PyBadge and PyGamer) <https://circuitpython.readthedocs.io/projects/pybadger/en/latest/>
     Adafruit PyPortal <https://circuitpython.readthedocs.io/projects/pyportal/en/latest/>
 
@@ -94,8 +95,8 @@ Helpers for connecting with hosted and self-hosted internet-of-things web servic
     Amazon AWS IoT <https://circuitpython.readthedocs.io/projects/aws_iot/en/latest/>
     Azure IoT <https://circuitpython.readthedocs.io/projects/azureiot/en/latest/>
     Google Cloud IoT Core <https://circuitpython.readthedocs.io/projects/gc_iot_core/en/latest/>
-    LIFX Lights <https://circuitpython.readthedocs.io/projects/lifx/en/latest/>
     Hue Lights <https://circuitpython.readthedocs.io/projects/hue/en/latest/>
+    LIFX Lights <https://circuitpython.readthedocs.io/projects/lifx/en/latest/>
 
 Internet/Internet-of-Things Helpers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -104,10 +105,10 @@ Helpers for interfacing with the internet, including IoT protocols.
 
 .. toctree::
 
-    MiniMQTT <https://circuitpython.readthedocs.io/projects/minimqtt/en/latest/>
     JSON Web Token (JWT) <https://circuitpython.readthedocs.io/projects/jwt/en/latest/>
-    Requests <https://circuitpython.readthedocs.io/projects/requests/en/latest/>
+    MiniMQTT <https://circuitpython.readthedocs.io/projects/minimqtt/en/latest/>
     NTP (Network time Protocol) <https://circuitpython.readthedocs.io/projects/ntp/en/latest/>
+    Requests <https://circuitpython.readthedocs.io/projects/requests/en/latest/>
 
 Bluetooth Low Energy Helpers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
