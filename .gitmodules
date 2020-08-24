@@ -712,3 +712,6 @@
 [submodule "libraries/helpers/matrixportal"]
 	path = libraries/helpers/matrixportal
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MatrixPortal.git
+[submodule "libraries/drivers/tc74"]
+	path = libraries/drivers/tc74
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TC74.git
