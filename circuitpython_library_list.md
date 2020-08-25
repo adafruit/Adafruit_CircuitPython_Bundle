@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 238 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 239 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -144,6 +144,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 238 lib
 * [Adafruit CircuitPython STMPE610](https://github.com/adafruit/Adafruit_CircuitPython_STMPE610.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-stmpe610))
 * [Adafruit CircuitPython Seesaw](https://github.com/adafruit/Adafruit_CircuitPython_Seesaw.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-seesaw))
 * [Adafruit CircuitPython SharpMemoryDisplay](https://github.com/adafruit/Adafruit_CircuitPython_SharpMemoryDisplay.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sharpmemorydisplay))
+* [Adafruit CircuitPython TC74](https://github.com/adafruit/Adafruit_CircuitPython_TC74.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tc74))
 * [Adafruit CircuitPython TCA9548A](https://github.com/adafruit/Adafruit_CircuitPython_TCA9548A.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tca9548a))
 * [Adafruit CircuitPython TCS34725](https://github.com/adafruit/Adafruit_CircuitPython_TCS34725.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tcs34725))
 * [Adafruit CircuitPython TFmini](https://github.com/adafruit/Adafruit_CircuitPython_TFmini.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tfmini))
