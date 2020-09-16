@@ -294,6 +294,7 @@ Motion relating sensing including ``acceleration``, ``magnetic``, ``gyro``, and 
 
     ADXL34x 3 Axis Accelerometer <https://circuitpython.readthedocs.io/projects/adxl34x/en/latest/>
     BNO055 Accelerometer, Magnetometer, Gyroscope and Absolution Orientation <https://circuitpython.readthedocs.io/projects/bno055/en/latest/>
+    BNO08X_RVC Simple UART Heading Library <https://circuitpython.readthedocs.io/projects/bno08x_rvc/en/latest/>
     FXAS21002C Gyroscope <https://circuitpython.readthedocs.io/projects/fxas21002c/en/latest/>
     FXOS8700 Accelerometer <https://circuitpython.readthedocs.io/projects/fxos8700/en/latest/>
     GPS Global Position <https://circuitpython.readthedocs.io/projects/gps/en/latest/>
