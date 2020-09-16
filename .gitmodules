@@ -715,3 +715,6 @@
 [submodule "libraries/drivers/tc74"]
 	path = libraries/drivers/tc74
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TC74.git
+[submodule "libraries/helpers/pixel_framebuf"]
+	path = libraries/helpers/pixel_framebuf
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Pixel_Framebuf.git

@@ -67,6 +67,7 @@ Helpers for building graphical interfaces using the displayio core module and fr
     GFX (framebuf) <https://circuitpython.readthedocs.io/projects/gfx/en/latest/>
     Image Load <https://circuitpython.readthedocs.io/projects/imageload/en/latest/>
     miniQR Non-hardware QR code generator <https://circuitpython.readthedocs.io/projects/miniqr/en/latest/>
+    Pixel Framebuf Module <https://circuitpython.readthedocs.io/projects/pixel_framebuf/en/latest/>
     ProgressBar <https://circuitpython.readthedocs.io/projects/progressbar/en/latest/>
     PYOA <https://circuitpython.readthedocs.io/projects/pyoa/en/latest/>
     Slideshow <https://circuitpython.readthedocs.io/projects/slideshow/en/latest/>
