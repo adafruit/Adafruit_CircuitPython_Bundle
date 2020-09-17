@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 239 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 240 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -225,6 +225,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 239 lib
 * [Adafruit CircuitPython NTP](https://github.com/adafruit/Adafruit_CircuitPython_NTP.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ntp))
 * [Adafruit CircuitPython OneWire](https://github.com/adafruit/Adafruit_CircuitPython_OneWire.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-onewire))
 * [Adafruit CircuitPython PYOA](https://github.com/adafruit/Adafruit_CircuitPython_PYOA.git)
+* [Adafruit CircuitPython Pixel Framebuf](https://github.com/adafruit/Adafruit_CircuitPython_Pixel_Framebuf.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pixel-framebuf))
 * [Adafruit CircuitPython ProgressBar](https://github.com/adafruit/Adafruit_CircuitPython_ProgressBar.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-progressbar))
 * [Adafruit CircuitPython PyBadger](https://github.com/adafruit/Adafruit_CircuitPython_PyBadger.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pybadger))
 * [Adafruit CircuitPython Pypixelbuf](https://github.com/adafruit/Adafruit_CircuitPython_Pypixelbuf.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pypixelbuf))
