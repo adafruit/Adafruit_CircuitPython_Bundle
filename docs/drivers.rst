@@ -405,6 +405,7 @@ These chips communicate to others over radio.
 .. toctree::
 
     Adafruit Bluefruit LE SPI Friend <https://circuitpython.readthedocs.io/projects/bluefruitspi/en/latest/>
+    AirLift Co-Processor Manager <https://circuitpython.readthedocs.io/projects/airlift/en/latest/>
     ESP WiFi Co-Processor using AT Commands <https://circuitpython.readthedocs.io/projects/esp-atcontrol/en/latest/>
     ESP32 WiFi Co-Processor over SPI <https://circuitpython.readthedocs.io/projects/esp32spi/en/latest/>
     RFM9x LoRa <https://circuitpython.readthedocs.io/projects/rfm9x/en/latest/>
