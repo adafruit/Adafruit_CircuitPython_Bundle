@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 240 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 241 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -178,6 +178,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 240 lib
 * [Adafruit CircuitPython AVRprog](https://github.com/adafruit/Adafruit_CircuitPython_AVRprog.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-avrprog))
 * [Adafruit CircuitPython AWS IOT](https://github.com/adafruit/Adafruit_CircuitPython_AWS_IOT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-aws-iot))
 * [Adafruit CircuitPython AdafruitIO](https://github.com/adafruit/Adafruit_CircuitPython_AdafruitIO.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-adafruitio))
+* [Adafruit CircuitPython AirLift](https://github.com/adafruit/Adafruit_CircuitPython_AirLift.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-airlift))
 * [Adafruit CircuitPython AzureIoT](https://github.com/adafruit/Adafruit_CircuitPython_AzureIoT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-azureiot))
 * [Adafruit CircuitPython BLE Adafruit](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Adafruit.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-adafruit))
 * [Adafruit CircuitPython BLE Apple Media](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Apple_Media.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-apple-media))
