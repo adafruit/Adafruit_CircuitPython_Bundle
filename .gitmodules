@@ -718,6 +718,9 @@
 [submodule "libraries/helpers/pixel_framebuf"]
 	path = libraries/helpers/pixel_framebuf
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Pixel_Framebuf.git
+[submodule "libraries/drivers/bno08x_rvc"]
+	path = libraries/drivers/bno08x_rvc
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BNO08X_RVC.git
 [submodule "libraries/helpers/airlift"]
 	path = libraries/helpers/airlift
 	url = https://github.com/adafruit/Adafruit_CircuitPython_AirLift.git
