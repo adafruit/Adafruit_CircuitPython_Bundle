@@ -724,3 +724,6 @@
 [submodule "libraries/helpers/airlift"]
 	path = libraries/helpers/airlift
 	url = https://github.com/adafruit/Adafruit_CircuitPython_AirLift.git
+[submodule "libraries/drivers/bno08x"]
+	path = libraries/drivers/bno08x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BNO08X.git
