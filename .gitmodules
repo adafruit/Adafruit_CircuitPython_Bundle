@@ -730,3 +730,6 @@
 [submodule "libraries/drivers/displayio_sh1107"]
 	path = libraries/drivers/displayio_sh1107
 	url = https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SH1107.git
+[submodule "libraries/drivers/tla202x"]
+	path = libraries/drivers/tla202x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TLA202X.git
