@@ -724,6 +724,12 @@
 [submodule "libraries/helpers/airlift"]
 	path = libraries/helpers/airlift
 	url = https://github.com/adafruit/Adafruit_CircuitPython_AirLift.git
+[submodule "libraries/drivers/bno08x"]
+	path = libraries/drivers/bno08x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BNO08X.git
+[submodule "libraries/drivers/displayio_sh1107"]
+	path = libraries/drivers/displayio_sh1107
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SH1107.git
 [submodule "libraries/drivers/tla202x"]
 	path = libraries/drivers/tla202x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TLA202X.git

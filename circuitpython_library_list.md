@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 241 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 243 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -22,6 +22,8 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 241 lib
 * [Adafruit CircuitPython BMP280](https://github.com/adafruit/Adafruit_CircuitPython_BMP280.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bmp280))
 * [Adafruit CircuitPython BMP3XX](https://github.com/adafruit/Adafruit_CircuitPython_BMP3XX.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bmp3xx))
 * [Adafruit CircuitPython BNO055](https://github.com/adafruit/Adafruit_CircuitPython_BNO055.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bno055))
+* [Adafruit CircuitPython BNO08X RVC](https://github.com/adafruit/Adafruit_CircuitPython_BNO08X_RVC.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bno08x-rvc))
+* [Adafruit CircuitPython BNO08X](https://github.com/adafruit/Adafruit_CircuitPython_BNO08X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bno08x))
 * [Adafruit CircuitPython BluefruitSPI](https://github.com/adafruit/Adafruit_CircuitPython_BluefruitSPI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bluefruitspi))
 * [Adafruit CircuitPython CAP1188](https://github.com/adafruit/Adafruit_CircuitPython_CAP1188.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-cap1188))
 * [Adafruit CircuitPython CCS811](https://github.com/adafruit/Adafruit_CircuitPython_CCS811.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ccs811))
