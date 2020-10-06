@@ -724,3 +724,6 @@
 [submodule "libraries/helpers/airlift"]
 	path = libraries/helpers/airlift
 	url = https://github.com/adafruit/Adafruit_CircuitPython_AirLift.git
+[submodule "libraries/drivers/tla202x"]
+	path = libraries/drivers/tla202x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TLA202X.git
