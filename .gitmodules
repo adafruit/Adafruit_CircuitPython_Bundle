@@ -727,3 +727,6 @@
 [submodule "libraries/drivers/bno08x"]
 	path = libraries/drivers/bno08x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_BNO08X.git
+[submodule "libraries/drivers/displayio_sh1107"]
+	path = libraries/drivers/displayio_sh1107
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SH1107.git
