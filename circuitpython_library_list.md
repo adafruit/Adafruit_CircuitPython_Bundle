@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 243 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 245 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -40,6 +40,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 243 lib
 * [Adafruit CircuitPython DS2413](https://github.com/adafruit/Adafruit_CircuitPython_DS2413.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds2413))
 * [Adafruit CircuitPython DS3231](https://github.com/adafruit/Adafruit_CircuitPython_DS3231.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds3231))
 * [Adafruit CircuitPython DS3502](https://github.com/adafruit/Adafruit_CircuitPython_DS3502.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds3502))
+* [Adafruit CircuitPython DisplayIO SH1107](https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SH1107.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-displayio-sh1107))
 * [Adafruit CircuitPython DisplayIO SSD1305](https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SSD1305.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-displayio-ssd1305))
 * [Adafruit CircuitPython DisplayIO SSD1306](https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SSD1306.git)
 * [Adafruit CircuitPython DotStar](https://github.com/adafruit/Adafruit_CircuitPython_DotStar.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-dotstar))
@@ -150,6 +151,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 243 lib
 * [Adafruit CircuitPython TCA9548A](https://github.com/adafruit/Adafruit_CircuitPython_TCA9548A.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tca9548a))
 * [Adafruit CircuitPython TCS34725](https://github.com/adafruit/Adafruit_CircuitPython_TCS34725.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tcs34725))
 * [Adafruit CircuitPython TFmini](https://github.com/adafruit/Adafruit_CircuitPython_TFmini.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tfmini))
+* [Adafruit CircuitPython TLA202X](https://github.com/adafruit/Adafruit_CircuitPython_TLA202X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tla202x))
 * [Adafruit CircuitPython TLC5947](https://github.com/adafruit/Adafruit_CircuitPython_TLC5947.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tlc5947))
 * [Adafruit CircuitPython TLC59711](https://github.com/adafruit/Adafruit_CircuitPython_TLC59711.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tlc59711))
 * [Adafruit CircuitPython TLV493D](https://github.com/adafruit/Adafruit_CircuitPython_TLV493D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tlv493d))
