@@ -733,3 +733,6 @@
 [submodule "libraries/drivers/tla202x"]
 	path = libraries/drivers/tla202x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TLA202X.git
+[submodule "libraries/drivers/lc709203f"]
+	path = libraries/drivers/lc709203f
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LC709203F.git
