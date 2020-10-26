@@ -238,6 +238,7 @@ OLED
 
 .. toctree::
 
+    SH1107 OLED (displayio) <https://circuitpython.readthedocs.io/projects/displayio_sh1107/en/latest/>
     SSD1305 OLED (displayio) <https://circuitpython.readthedocs.io/projects/displayio_ssd1305/en/latest/>
     SSD1305 OLED (framebuf) <https://circuitpython.readthedocs.io/projects/ssd1305/en/latest/>
     SSD1306 OLED (displayio) <https://circuitpython.readthedocs.io/projects/displayio_ssd1306/en/latest/>
@@ -451,16 +452,20 @@ Miscellaneous
     DRV2605 Haptic Motor Controller <https://circuitpython.readthedocs.io/projects/drv2605/en/latest/>
     DS1841 I2C Logarithmic Potentiometer <https://circuitpython.readthedocs.io/projects/ds1841/en/latest/>
     DS3502 I2C Potentiometer <https://circuitpython.readthedocs.io/projects/ds3502/en/latest/>
+    Dymo Scale <https://circuitpython.readthedocs.io/projects/dymoscale/en/latest/>
     Fingerprint Sensor <https://circuitpython.readthedocs.io/projects/fingerprint/en/latest/>
+    FONA Cellular Module <https://circuitpython.readthedocs.io/projects/fona/en/latest/>
     FRAM Non-Volatile Memory <https://circuitpython.readthedocs.io/projects/fram/en/latest/>
     Gizmo <https://circuitpython.readthedocs.io/projects/gizmo/en/latest/>
     INA219 High Side Current <https://circuitpython.readthedocs.io/projects/ina219/en/latest/>
     INA260 Current and Power Monitor <https://circuitpython.readthedocs.io/projects/ina260/en/latest/>
+    LC709203F Fuel Gauge and Battery Monitor <https://circuitpython.readthedocs.io/projects/lc709203f/en/latest/>
     Matrix Keypad <https://circuitpython.readthedocs.io/projects/matrixkeypad/en/latest/>
     MAX9744 Audio Amplifier  <https://circuitpython.readthedocs.io/projects/max9744/en/latest/>
     MLX90640 Thermal Camera <https://circuitpython.readthedocs.io/projects/mlx90640/en/latest/>
     NeoTrellis 4x4 Keypad <https://circuitpython.readthedocs.io/projects/neotrellis/en/latest/>
     NeoTrellis M4 4x8 Keypad <https://circuitpython.readthedocs.io/projects/trellism4/en/latest/>
+    Nunchuk <https://circuitpython.readthedocs.io/projects/nunchuk/en/latest/>
     PyPixelbuf <https://circuitpython.readthedocs.io/projects/pypixelbuf/en/latest/>
     RockBlock Iridium Satellite Modem <https://circuitpython.readthedocs.io/projects/rockblock/en/latest/>
     Si4713 Stereo FM Transmitter <https://circuitpython.readthedocs.io/projects/si4713/en/latest/>
@@ -472,7 +477,4 @@ Miscellaneous
     Trellis 4x4 Keypad <https://circuitpython.readthedocs.io/projects/trellis/en/latest/>
     VC0706 TTL Camera <https://circuitpython.readthedocs.io/projects/vc0706/en/latest/>
     VS1053 Audio Codec <https://circuitpython.readthedocs.io/projects/vs1053/en/latest/>
-    Dymo Scale <https://circuitpython.readthedocs.io/projects/dymoscale/en/latest/>
-    Nunchuk <https://circuitpython.readthedocs.io/projects/nunchuk/en/latest/>
     Wiznet5k Ethernet Module <https://circuitpython.readthedocs.io/projects/wiznet5k/en/latest/>
-    FONA Cellular Module <https://circuitpython.readthedocs.io/projects/fona/en/latest/>
