@@ -33,6 +33,7 @@ specific boards.
     MatrixPortal (Metro M4 Airlift + RGB Shield) <https://circuitpython.readthedocs.io/projects/matrixportal/en/latest/>
     PyBadger (PyBadge and PyGamer) <https://circuitpython.readthedocs.io/projects/pybadger/en/latest/>
     Adafruit PyPortal <https://circuitpython.readthedocs.io/projects/pyportal/en/latest/>
+    Adafruit MONSTER M4SK <https://circuitpython.readthedocs.io/projects/monsterm4sk/en/latest/>
 
 Helper Libraries
 -----------------
