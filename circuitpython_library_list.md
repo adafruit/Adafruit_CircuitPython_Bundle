@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 245 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 246 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
@@ -70,6 +70,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 245 lib
 * [Adafruit CircuitPython IRRemote](https://github.com/adafruit/Adafruit_CircuitPython_IRRemote.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-irremote))
 * [Adafruit CircuitPython IS31FL3731](https://github.com/adafruit/Adafruit_CircuitPython_IS31FL3731.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-is31fl3731))
 * [Adafruit CircuitPython L3GD20](https://github.com/adafruit/Adafruit_CircuitPython_L3GD20.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-l3gd20))
+* [Adafruit CircuitPython LC709203F](https://github.com/adafruit/Adafruit_CircuitPython_LC709203F.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lc709203f))
 * [Adafruit CircuitPython LIDARLite](https://github.com/adafruit/Adafruit_CircuitPython_LIDARLite.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lidarlite))
 * [Adafruit CircuitPython LIS2MDL](https://github.com/adafruit/Adafruit_CircuitPython_LIS2MDL.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lis2mdl))
 * [Adafruit CircuitPython LIS331](https://github.com/adafruit/Adafruit_CircuitPython_LIS331.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lis331))
