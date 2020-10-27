@@ -736,3 +736,6 @@
 [submodule "libraries/drivers/lc709203f"]
 	path = libraries/drivers/lc709203f
 	url = https://github.com/adafruit/Adafruit_CircuitPython_LC709203F.git
+[submodule "libraries/drivers/emc2101"]
+	path = libraries/drivers/emc2101
+	url = https://github.com/adafruit/Adafruit_CircuitPython_EMC2101.git

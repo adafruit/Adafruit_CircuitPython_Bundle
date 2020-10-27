@@ -82,6 +82,7 @@ Helpers for driving motors, servos, and steppers.
 .. toctree::
 
     DC Motor and Servo <https://circuitpython.readthedocs.io/projects/motor/en/latest/>
+    EMC2101 Fan Controller and Temperature monitor <https://circuitpython.readthedocs.io/projects/emc2101/en/latest/>
     MotorKit <https://circuitpython.readthedocs.io/projects/motorkit/en/latest/>
     ServoKit <https://circuitpython.readthedocs.io/projects/servokit/en/latest/>
 
