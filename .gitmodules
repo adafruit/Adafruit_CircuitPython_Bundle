@@ -742,3 +742,6 @@
 [submodule "libraries/drivers/monsterm4sk"]
 	path = libraries/drivers/monsterm4sk
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MONSTERM4SK.git
+[submodule "libraries/drivers/tmp117"]
+	path = libraries/drivers/tmp117
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TMP117
