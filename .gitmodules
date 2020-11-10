@@ -745,3 +745,6 @@
 [submodule "libraries/drivers/tmp117"]
 	path = libraries/drivers/tmp117
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TMP117
+[submodule "libraries/helpers/debouncedbutton"]
+	path = libraries/helpers/debouncedbutton
+	url = https://github.com/BradChan/Adafruit_CircuitPython_DebouncedButton.git

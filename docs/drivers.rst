@@ -185,6 +185,7 @@ Miscellaneous Helpers
     AVR programming <https://circuitpython.readthedocs.io/projects/avrprog/en/latest/>
     BitbangIO <https://circuitpython.readthedocs.io/projects/bitbangio/en/latest/>
     Board Test Suite <https://circuitpython.readthedocs.io/projects/boardtest/en/latest/>
+    DebouncedButton <https://adafruit-circuitpython-debouncedbutton.readthedocs.io/en/latest/>
     Debouncer <https://circuitpython.readthedocs.io/projects/debouncer/en/latest/>
     Debug I2C <https://circuitpython.readthedocs.io/projects/debug_i2c/en/latest/>
     InfraRed Remote <https://circuitpython.readthedocs.io/projects/irremote/en/latest/>
