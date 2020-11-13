@@ -745,3 +745,6 @@
 [submodule "libraries/drivers/tmp117"]
 	path = libraries/drivers/tmp117
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TMP117
+[submodule "libraries/helpers/magtag"]
+	path = libraries/helpers/magtag
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MagTag.git
