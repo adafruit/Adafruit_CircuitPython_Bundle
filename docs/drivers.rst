@@ -31,6 +31,7 @@ specific boards.
     Adafruit CLUE <https://circuitpython.readthedocs.io/projects/clue/en/latest/>
     Adafruit FeatherWings <https://circuitpython.readthedocs.io/projects/featherwing/en/latest/>
     MatrixPortal (Metro M4 Airlift + RGB Shield) <https://circuitpython.readthedocs.io/projects/matrixportal/en/latest/>
+    Adafruit MagTag <https://circuitpython.readthedocs.io/projects/magtag/en/latest/>
     PyBadger (PyBadge and PyGamer) <https://circuitpython.readthedocs.io/projects/pybadger/en/latest/>
     Adafruit PyPortal <https://circuitpython.readthedocs.io/projects/pyportal/en/latest/>
     Adafruit MONSTER M4SK <https://circuitpython.readthedocs.io/projects/monsterm4sk/en/latest/>
