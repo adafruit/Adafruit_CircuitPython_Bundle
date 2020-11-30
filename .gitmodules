@@ -748,3 +748,6 @@
 [submodule "libraries/helpers/magtag"]
 	path = libraries/helpers/magtag
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MagTag.git
+[submodule "libraries/drivers/mlx90395"]
+	path = libraries/drivers/mlx90395
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MLX90395.git

@@ -306,16 +306,17 @@ Motion relating sensing including ``acceleration``, ``magnetic``, ``gyro``, and 
     ICM20X Wide-range 6-DoF Accelerometer and Gyro Family <https://circuitpython.readthedocs.io/projects/icm20649/en/latest/>
     L3GD20 3-Axis Gyroscope <https://circuitpython.readthedocs.io/projects/l3gd20/en/latest/>
     LIS2MDL 3-Axis Magnetometer <https://circuitpython.readthedocs.io/projects/lis2mdl/en/latest/>
-    LIS3MDL 3-Axis Magnetometer <https://circuitpython.readthedocs.io/projects/lis3mdl/en/latest/>
-    LIS3DH Accelerometer <https://circuitpython.readthedocs.io/projects/lis3dh/en/latest/>
     LIS331HH and H3LIS331 3-Axis Accelerometers <https://circuitpython.readthedocs.io/projects/lis331/en/latest/>
-    LSM303 Accelerometer and Magnetometer <https://circuitpython.readthedocs.io/projects/lsm303/en/latest/>
+    LIS3DH Accelerometer <https://circuitpython.readthedocs.io/projects/lis3dh/en/latest/>
+    LIS3MDL 3-Axis Magnetometer <https://circuitpython.readthedocs.io/projects/lis3mdl/en/latest/>
     LSM303 Accelerometer Only<https://circuitpython.readthedocs.io/projects/lsm303-accel/en/latest/>
+    LSM303 Accelerometer and Magnetometer <https://circuitpython.readthedocs.io/projects/lsm303/en/latest/>
     LSM303DLH Magnetometer Only<https://circuitpython.readthedocs.io/projects/lsm303dlh-mag/en/latest/>
     LSM6DSOX, LSM6DS33, and ISM330DHCT  Accelerometer, Gyroscope and Temperature <https://circuitpython.readthedocs.io/projects/lsm6ds/en/latest/>
     LSM9DS0 Accelerometer, Magnetometer, Gyroscope and Temperature <https://circuitpython.readthedocs.io/projects/lsm9ds0/en/latest/>
     LSM9DS1 Accelerometer, Magnetometer, Gyroscope and Temperature <https://circuitpython.readthedocs.io/projects/lsm9ds1/en/latest/>
     MLX90390 3 Axis Magnetometer <https://circuitpython.readthedocs.io/projects/mlx90393/en/latest/>
+    MLX90395 3-Axis Magnetometer <https://circuitpython.readthedocs.io/projects/mlx90395/en/latest/>
     MMA8451 3 Axis Accelerometer <https://circuitpython.readthedocs.io/projects/mma8451/en/latest/>
     MPU6050 Accelerometer, Gyroscope, and Temperature Sensor <https://circuitpython.readthedocs.io/projects/mpu6050/en/latest/>
     MSA301 3 Axis Accelerometer <https://circuitpython.readthedocs.io/projects/msa301/en/latest/>
