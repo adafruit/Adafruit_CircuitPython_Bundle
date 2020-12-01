@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 250 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 251 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -97,6 +97,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 250 lib
 * [Adafruit CircuitPython MCP9600](https://github.com/adafruit/Adafruit_CircuitPython_MCP9600.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mcp9600)) \([Docs](https://circuitpython.readthedocs.io/projects/mcp9600/en/latest/))
 * [Adafruit CircuitPython MCP9808](https://github.com/adafruit/Adafruit_CircuitPython_MCP9808.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mcp9808)) \([Docs](https://circuitpython.readthedocs.io/projects/mcp9808/en/latest/))
 * [Adafruit CircuitPython MLX90393](https://github.com/adafruit/Adafruit_CircuitPython_MLX90393.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mlx90393)) \([Docs](https://circuitpython.readthedocs.io/projects/mlx90393/en/latest/))
+* [Adafruit CircuitPython MLX90395](https://github.com/adafruit/Adafruit_CircuitPython_MLX90395.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mlx90395)) \([Docs](https://circuitpython.readthedocs.io/projects/mlx90395/en/latest/))
 * [Adafruit CircuitPython MLX90614](https://github.com/adafruit/Adafruit_CircuitPython_MLX90614.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mlx90614)) \([Docs](https://circuitpython.readthedocs.io/projects/mlx90614/en/latest/))
 * [Adafruit CircuitPython MLX90640](https://github.com/adafruit/Adafruit_CircuitPython_MLX90640.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mlx90640)) \([Docs](https://circuitpython.readthedocs.io/projects/mlx90640/en/latest/))
 * [Adafruit CircuitPython MMA8451](https://github.com/adafruit/Adafruit_CircuitPython_MMA8451.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mma8451)) \([Docs](https://circuitpython.readthedocs.io/projects/mma8451/en/latest/))
