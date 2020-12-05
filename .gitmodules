@@ -751,3 +751,6 @@
 [submodule "libraries/drivers/mlx90395"]
 	path = libraries/drivers/mlx90395
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MLX90395.git
+[submodule "libraries/helpers/fakerequests"]
+	path = libraries/helpers/fakerequests
+	url = https://github.com/adafruit/Adafruit_CircuitPython_FakeRequests.git
