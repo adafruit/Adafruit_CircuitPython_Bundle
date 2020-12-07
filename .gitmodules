@@ -754,3 +754,6 @@
 [submodule "libraries/helpers/fakerequests"]
 	path = libraries/helpers/fakerequests
 	url = https://github.com/adafruit/Adafruit_CircuitPython_FakeRequests.git
+[submodule "libraries/helpers/portalbase"]
+	path = libraries/helpers/portalbase
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PortalBase.git
