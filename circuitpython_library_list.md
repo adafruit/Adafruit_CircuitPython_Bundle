@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 251 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 253 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -215,6 +215,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 251 lib
 * [Adafruit CircuitPython Display Notification](https://github.com/adafruit/Adafruit_CircuitPython_Display_Notification.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-notification)) \([Docs](https://circuitpython.readthedocs.io/projects/display_notification/en/latest/))
 * [Adafruit CircuitPython Display Shapes](https://github.com/adafruit/Adafruit_CircuitPython_Display_Shapes.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-shapes)) \([Docs](https://circuitpython.readthedocs.io/projects/display-shapes/en/latest/))
 * [Adafruit CircuitPython Display Text](https://github.com/adafruit/Adafruit_CircuitPython_Display_Text.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-text)) \([Docs](https://circuitpython.readthedocs.io/projects/display_text/en/latest/))
+* [Adafruit CircuitPython FakeRequests](https://github.com/adafruit/Adafruit_CircuitPython_FakeRequests.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fakerequests)) \([Docs](https://circuitpython.readthedocs.io/projects/fakerequests/en/latest/))
 * [Adafruit CircuitPython FancyLED](https://github.com/adafruit/Adafruit_CircuitPython_FancyLED.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fancyled)) \([Docs](https://circuitpython.readthedocs.io/projects/fancyled/en/latest/))
 * [Adafruit CircuitPython FeatherWing](https://github.com/adafruit/Adafruit_CircuitPython_FeatherWing.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-featherwing)) \([Docs](https://circuitpython.readthedocs.io/projects/featherwing/en/latest/))
 * [Adafruit CircuitPython GC IOT Core](https://github.com/adafruit/Adafruit_CircuitPython_GC_IOT_Core.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-gc-iot-core)) \([Docs](https://circuitpython.readthedocs.io/projects/gc_iot_core/en/latest/))
@@ -237,6 +238,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 251 lib
 * [Adafruit CircuitPython OneWire](https://github.com/adafruit/Adafruit_CircuitPython_OneWire.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-onewire)) \([Docs](https://circuitpython.readthedocs.io/projects/onewire/en/latest/))
 * [Adafruit CircuitPython PYOA](https://github.com/adafruit/Adafruit_CircuitPython_PYOA.git) \([Docs](https://circuitpython.readthedocs.io/projects/pyoa/en/latest/))
 * [Adafruit CircuitPython Pixel Framebuf](https://github.com/adafruit/Adafruit_CircuitPython_Pixel_Framebuf.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pixel-framebuf)) \([Docs](https://circuitpython.readthedocs.io/projects/pixel_framebuf/en/latest/))
+* [Adafruit CircuitPython PortalBase](https://github.com/adafruit/Adafruit_CircuitPython_PortalBase.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-portalbase)) \([Docs](https://circuitpython.readthedocs.io/projects/portalbase/en/latest/))
 * [Adafruit CircuitPython ProgressBar](https://github.com/adafruit/Adafruit_CircuitPython_ProgressBar.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-progressbar)) \([Docs](https://circuitpython.readthedocs.io/projects/progressbar/en/latest/))
 * [Adafruit CircuitPython PyBadger](https://github.com/adafruit/Adafruit_CircuitPython_PyBadger.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pybadger)) \([Docs](https://circuitpython.readthedocs.io/projects/pybadger/en/latest/))
 * [Adafruit CircuitPython Pypixelbuf](https://github.com/adafruit/Adafruit_CircuitPython_Pypixelbuf.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pypixelbuf)) \([Docs](https://circuitpython.readthedocs.io/projects/pypixelbuf/en/latest/))
