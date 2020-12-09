@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 253 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 254 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -129,6 +129,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 253 lib
 * [Adafruit CircuitPython RGB Display](https://github.com/adafruit/Adafruit_CircuitPython_RGB_Display.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rgb-display)) \([Docs](https://circuitpython.readthedocs.io/projects/rgb_display/en/latest/))
 * [Adafruit CircuitPython RPLIDAR](https://github.com/adafruit/Adafruit_CircuitPython_RPLIDAR.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rplidar)) \([Docs](https://circuitpython.readthedocs.io/projects/rplidar/en/latest/))
 * [Adafruit CircuitPython RockBlock](https://github.com/adafruit/Adafruit_CircuitPython_RockBlock.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rockblock)) \([Docs](https://circuitpython.readthedocs.io/projects/rockblock/en/latest/))
+* [Adafruit CircuitPython SCD30](https://github.com/adafruit/Adafruit_CircuitPython_SCD30.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-scd30)) \([Docs](https://circuitpython.readthedocs.io/projects/scd30/en/latest/))
 * [Adafruit CircuitPython SD](https://github.com/adafruit/Adafruit_CircuitPython_SD.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sd)) \([Docs](https://circuitpython.readthedocs.io/projects/sd/en/latest/))
 * [Adafruit CircuitPython SGP30](https://github.com/adafruit/Adafruit_CircuitPython_SGP30.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sgp30)) \([Docs](https://circuitpython.readthedocs.io/projects/sgp30/en/latest/))
 * [Adafruit CircuitPython SHT31D](https://github.com/adafruit/Adafruit_CircuitPython_SHT31D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sht31d)) \([Docs](https://circuitpython.readthedocs.io/projects/sht31d/en/latest/))
