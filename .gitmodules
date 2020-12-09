@@ -757,3 +757,6 @@
 [submodule "libraries/helpers/portalbase"]
 	path = libraries/helpers/portalbase
 	url = https://github.com/adafruit/Adafruit_CircuitPython_PortalBase.git
+[submodule "libraries/drivers/scd30"]
+	path = libraries/drivers/scd30
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SCD30.git

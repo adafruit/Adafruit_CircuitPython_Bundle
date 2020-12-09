@@ -361,6 +361,7 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     MS8607 Pressure, Temperature, Humidity <https://circuitpython.readthedocs.io/projects/ms8607/en/latest/>
     PCT2075 Temperature Sensor <https://circuitpython.readthedocs.io/projects/pct2075/en/latest/>
     PM25 Air Quality Sensor <https://circuitpython.readthedocs.io/projects/pm25/en/latest/>
+    SCD30 eCO2, Temperature, and Humidity Sensor <https://circuitpython.readthedocs.io/projects/scd30/en/latest/>
     SGP30 Air Quality <https://circuitpython.readthedocs.io/projects/sgp30/en/latest/>
     SHT31-D Temperature and Humidity <https://circuitpython.readthedocs.io/projects/sht31d/en/latest/>
     SHTC3 Temperature and Humidity <https://circuitpython.readthedocs.io/projects/shtc3/en/latest/>
