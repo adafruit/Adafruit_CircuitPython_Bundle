@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 254 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 255 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -85,6 +85,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 254 lib
 * [Adafruit CircuitPython LSM6DS](https://github.com/adafruit/Adafruit_CircuitPython_LSM6DS.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm6ds)) \([Docs](https://circuitpython.readthedocs.io/projects/lsm6dsox/en/latest/))
 * [Adafruit CircuitPython LSM9DS0](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS0.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm9ds0)) \([Docs](https://circuitpython.readthedocs.io/projects/lsm9ds0/en/latest/))
 * [Adafruit CircuitPython LSM9DS1](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS1.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm9ds1)) \([Docs](https://circuitpython.readthedocs.io/projects/lsm9ds1/en/latest/))
+* [Adafruit CircuitPython LTR390](https://github.com/adafruit/Adafruit_CircuitPython_LTR390.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ltr390)) \([Docs](https://circuitpython.readthedocs.io/projects/ltr390/en/latest/))
 * [Adafruit CircuitPython MAX31855](https://github.com/adafruit/Adafruit_CircuitPython_MAX31855.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-max31855)) \([Docs](https://circuitpython.readthedocs.io/projects/max31855/en/latest/))
 * [Adafruit CircuitPython MAX31856](https://github.com/adafruit/Adafruit_CircuitPython_MAX31856.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-max31856)) \([Docs](https://circuitpython.readthedocs.io/projects/max31856/en/latest/))
 * [Adafruit CircuitPython MAX31865](https://github.com/adafruit/Adafruit_CircuitPython_MAX31865.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-max31865)) \([Docs](https://circuitpython.readthedocs.io/projects/max31865/en/latest/))
