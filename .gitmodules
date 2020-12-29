@@ -763,3 +763,6 @@
 [submodule "libraries/drivers/ltr390"]
 	path = libraries/drivers/ltr390
 	url = https://github.com/adafruit/Adafruit_CircuitPython_LTR390.git
+[submodule "libraries/drivers/sgp40"]
+	path = libraries/drivers/sgp40
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SGP40.git
