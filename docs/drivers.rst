@@ -115,6 +115,7 @@ Helpers for interfacing with the internet, including IoT protocols.
     MiniMQTT <https://circuitpython.readthedocs.io/projects/minimqtt/en/latest/>
     NTP (Network time Protocol) <https://circuitpython.readthedocs.io/projects/ntp/en/latest/>
     Requests <https://circuitpython.readthedocs.io/projects/requests/en/latest/>
+    OAuth2.0 <https://circuitpython.readthedocs.io/projects/oauth2/en/latest/>
 
 Bluetooth Low Energy Helpers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -766,3 +766,6 @@
 [submodule "libraries/drivers/sgp40"]
 	path = libraries/drivers/sgp40
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SGP40.git
+[submodule "libraries/helpers/oauth_2"]
+	path = libraries/helpers/oauth_2
+	url = https://github.com/adafruit/Adafruit_CircuitPython_OAuth2.git
