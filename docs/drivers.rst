@@ -117,7 +117,6 @@ Helpers for interfacing with the internet, including IoT protocols.
     Requests <https://circuitpython.readthedocs.io/projects/requests/en/latest/>
     OAuth2.0 <https://circuitpython.readthedocs.io/projects/oauth2/en/latest/>
 
-
 Bluetooth Low Energy Helpers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
