@@ -366,6 +366,7 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     SCD30 eCO2, Temperature, and Humidity Sensor <https://circuitpython.readthedocs.io/projects/scd30/en/latest/>
     SGP30 Air Quality <https://circuitpython.readthedocs.io/projects/sgp30/en/latest/>
     SHT31-D Temperature and Humidity <https://circuitpython.readthedocs.io/projects/sht31d/en/latest/>
+    SHT4x Temperature and Humidity <https://circuitpython.readthedocs.io/projects/sht4x/en/latest/>
     SHTC3 Temperature and Humidity <https://circuitpython.readthedocs.io/projects/shtc3/en/latest/>
     Si7021 Temperature and Humidity <https://circuitpython.readthedocs.io/projects/si7021/en/latest/>
     TC74 Digital Temperature Sensor <https://circuitpython.readthedocs.io/projects/tc74/en/latest/>
