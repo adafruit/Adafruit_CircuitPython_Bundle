@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 257 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 258 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -135,6 +135,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 257 lib
 * [Adafruit CircuitPython SGP30](https://github.com/adafruit/Adafruit_CircuitPython_SGP30.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sgp30)) \([Docs](https://circuitpython.readthedocs.io/projects/sgp30/en/latest/))
 * [Adafruit CircuitPython SGP40](https://github.com/adafruit/Adafruit_CircuitPython_SGP40.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sgp40)) \([Docs](https://circuitpython.readthedocs.io/projects/sgp40/en/latest/))
 * [Adafruit CircuitPython SHT31D](https://github.com/adafruit/Adafruit_CircuitPython_SHT31D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sht31d)) \([Docs](https://circuitpython.readthedocs.io/projects/sht31d/en/latest/))
+* [Adafruit CircuitPython SHT4x](https://github.com/adafruit/Adafruit_CircuitPython_SHT4x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sht4x)) \([Docs](https://circuitpython.readthedocs.io/projects/sht4x/en/latest/))
 * [Adafruit CircuitPython SHTC3](https://github.com/adafruit/Adafruit_CircuitPython_SHTC3.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-shtc3)) \([Docs](https://circuitpython.readthedocs.io/projects/shtc3/en/latest/))
 * [Adafruit CircuitPython SI4713](https://github.com/adafruit/Adafruit_CircuitPython_SI4713.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-si4713)) \([Docs](https://circuitpython.readthedocs.io/projects/si4713/en/latest/))
 * [Adafruit CircuitPython SI5351](https://github.com/adafruit/Adafruit_CircuitPython_SI5351.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-si5351)) \([Docs](https://circuitpython.readthedocs.io/projects/si5351/en/latest/))
