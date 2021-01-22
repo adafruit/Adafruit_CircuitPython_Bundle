@@ -772,3 +772,6 @@
 [submodule "libraries/drivers/sht4x"]
 	path = libraries/drivers/sht4x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SHT4x.git
+[submodule "libraries/helpers/pioasm"]
+	path = libraries/helpers/pioasm
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PIOASM.git
