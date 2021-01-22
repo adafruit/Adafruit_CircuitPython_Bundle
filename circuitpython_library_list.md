@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 258 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 259 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -241,6 +241,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 258 lib
 * [Adafruit CircuitPython NTP](https://github.com/adafruit/Adafruit_CircuitPython_NTP.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ntp)) \([Docs](https://circuitpython.readthedocs.io/projects/ntp/en/latest/))
 * [Adafruit CircuitPython OAuth2](https://github.com/adafruit/Adafruit_CircuitPython_OAuth2.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-oauth2)) \([Docs](https://circuitpython.readthedocs.io/projects/oauth2/en/latest/))
 * [Adafruit CircuitPython OneWire](https://github.com/adafruit/Adafruit_CircuitPython_OneWire.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-onewire)) \([Docs](https://circuitpython.readthedocs.io/projects/onewire/en/latest/))
+* [Adafruit CircuitPython PIOASM](https://github.com/adafruit/Adafruit_CircuitPython_PIOASM.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pioasm)) \([Docs](https://circuitpython.readthedocs.io/projects/pioasm/en/latest/))
 * [Adafruit CircuitPython PYOA](https://github.com/adafruit/Adafruit_CircuitPython_PYOA.git) \([Docs](https://circuitpython.readthedocs.io/projects/pyoa/en/latest/))
 * [Adafruit CircuitPython Pixel Framebuf](https://github.com/adafruit/Adafruit_CircuitPython_Pixel_Framebuf.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pixel-framebuf)) \([Docs](https://circuitpython.readthedocs.io/projects/pixel_framebuf/en/latest/))
 * [Adafruit CircuitPython PortalBase](https://github.com/adafruit/Adafruit_CircuitPython_PortalBase.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-portalbase)) \([Docs](https://circuitpython.readthedocs.io/projects/portalbase/en/latest/))
