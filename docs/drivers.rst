@@ -436,6 +436,7 @@ These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``,
 
     ADS1x15 Analog-to-Digital Converter  <https://circuitpython.readthedocs.io/projects/ads1x15/en/latest/>
     Adafruit SeeSaw <https://circuitpython.readthedocs.io/projects/seesaw/en/latest/>
+    AW9523 GPIO expander and LED driver <https://circuitpython.readthedocs.io/projects/aw9523/en/latest/>
     Crickit Robotics Boards <https://circuitpython.readthedocs.io/projects/crickit/en/latest/>
     DS2413 OneWire GPIO Expander <https://circuitpython.readthedocs.io/projects/ds2413/en/latest/>
     FocalTech Capacitive Touch <https://circuitpython.readthedocs.io/projects/focaltouch/en/latest/>
