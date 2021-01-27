@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 259 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 260 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -15,6 +15,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 259 lib
 * [Adafruit CircuitPython AS726x](https://github.com/adafruit/Adafruit_CircuitPython_AS726x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-as726x)) \([Docs](https://circuitpython.readthedocs.io/projects/as726x/en/latest/))
 * [Adafruit CircuitPython AS7341](https://github.com/adafruit/Adafruit_CircuitPython_AS7341.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-as7341)) \([Docs](https://circuitpython.readthedocs.io/projects/as7341/en/latest/))
 * [Adafruit CircuitPython ATECC](https://github.com/adafruit/Adafruit_CircuitPython_ATECC.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-atecc)) \([Docs](https://circuitpython.readthedocs.io/projects/atecc/en/latest/))
+* [Adafruit CircuitPython AW9523](https://github.com/adafruit/Adafruit_CircuitPython_AW9523.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-aw9523)) \([Docs](https://circuitpython.readthedocs.io/projects/aw9523/en/latest/))
 * [Adafruit CircuitPython BD3491FS](https://github.com/adafruit/Adafruit_CircuitPython_BD3491FS.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bd3491fs)) \([Docs](https://circuitpython.readthedocs.io/projects/bd3491fs/en/latest/))
 * [Adafruit CircuitPython BH1750](https://github.com/adafruit/Adafruit_CircuitPython_BH1750.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bh1750)) \([Docs](https://circuitpython.readthedocs.io/projects/bh1750/en/latest/))
 * [Adafruit CircuitPython BME280](https://github.com/adafruit/Adafruit_CircuitPython_BME280.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bme280)) \([Docs](https://circuitpython.readthedocs.io/projects/bme280/en/latest/))
