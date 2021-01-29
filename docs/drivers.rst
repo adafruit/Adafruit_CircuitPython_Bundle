@@ -166,6 +166,7 @@ modules may have a CircuitPython Core API implementation too.
 .. toctree::
 
     binascii <https://circuitpython.readthedocs.io/projects/binascii/en/latest/>
+    datetime <https://circuitpython.readthedocs.io/projects/datetime/en/latest/>
     IterTools <https://circuitpython.readthedocs.io/projects/itertools/en/latest/>
     Logging  <https://circuitpython.readthedocs.io/projects/logging/en/latest/>
     hashlib <https://circuitpython.readthedocs.io/projects/hashlib/en/latest/>

@@ -778,3 +778,6 @@
 [submodule "libraries/drivers/aw9523"]
 	path = libraries/drivers/aw9523
 	url = https://github.com/adafruit/Adafruit_CircuitPython_AW9523.git
+[submodule "libraries/helpers/datetime"]
+	path = libraries/helpers/datetime
+	url = https://github.com/adafruit/Adafruit_CircuitPython_datetime.git
