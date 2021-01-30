@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 260 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 261 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -261,6 +261,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 260 lib
 * [Adafruit CircuitPython WSGI](https://github.com/adafruit/Adafruit_CircuitPython_WSGI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wsgi)) \([Docs](https://circuitpython.readthedocs.io/projects/wsgi/en/latest/))
 * [Adafruit CircuitPython Waveform](https://github.com/adafruit/Adafruit_CircuitPython_Waveform.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-waveform)) \([Docs](https://circuitpython.readthedocs.io/projects/waveform/en/latest/))
 * [Adafruit CircuitPython binascii](https://github.com/adafruit/Adafruit_CircuitPython_binascii.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-binascii)) \([Docs](https://circuitpython.readthedocs.io/projects/binascii/en/latest/))
+* [Adafruit CircuitPython datetime](https://github.com/adafruit/Adafruit_CircuitPython_datetime.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-datetime)) \([Docs](https://circuitpython.readthedocs.io/projects/datetime/en/latest/))
 * [Adafruit CircuitPython framebuf](https://github.com/adafruit/Adafruit_CircuitPython_framebuf.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-framebuf)) \([Docs](https://circuitpython.readthedocs.io/projects/framebuf/en/latest/))
 * [Adafruit CircuitPython hashlib](https://github.com/adafruit/Adafruit_CircuitPython_hashlib.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hashlib)) \([Docs](https://circuitpython.readthedocs.io/projects/hashlib/en/latest/))
 * [Adafruit CircuitPython miniQR](https://github.com/adafruit/Adafruit_CircuitPython_miniQR.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-miniqr)) \([Docs](https://circuitpython.readthedocs.io/projects/miniqr/en/latest/))
