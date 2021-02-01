@@ -781,3 +781,6 @@
 [submodule "libraries/helpers/datetime"]
 	path = libraries/helpers/datetime
 	url = https://github.com/adafruit/Adafruit_CircuitPython_datetime.git
+[submodule "libraries/drivers/htu31d"]
+	path = libraries/drivers/htu31d
+	url = https://github.com/adafruit/Adafruit_CircuitPython_HTU31D.git
