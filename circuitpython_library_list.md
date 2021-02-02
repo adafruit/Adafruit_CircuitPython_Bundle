@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 257 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 262 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -15,6 +15,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 257 lib
 * [Adafruit CircuitPython AS726x](https://github.com/adafruit/Adafruit_CircuitPython_AS726x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-as726x)) \([Docs](https://circuitpython.readthedocs.io/projects/as726x/en/latest/))
 * [Adafruit CircuitPython AS7341](https://github.com/adafruit/Adafruit_CircuitPython_AS7341.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-as7341)) \([Docs](https://circuitpython.readthedocs.io/projects/as7341/en/latest/))
 * [Adafruit CircuitPython ATECC](https://github.com/adafruit/Adafruit_CircuitPython_ATECC.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-atecc)) \([Docs](https://circuitpython.readthedocs.io/projects/atecc/en/latest/))
+* [Adafruit CircuitPython AW9523](https://github.com/adafruit/Adafruit_CircuitPython_AW9523.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-aw9523)) \([Docs](https://circuitpython.readthedocs.io/projects/aw9523/en/latest/))
 * [Adafruit CircuitPython BD3491FS](https://github.com/adafruit/Adafruit_CircuitPython_BD3491FS.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bd3491fs)) \([Docs](https://circuitpython.readthedocs.io/projects/bd3491fs/en/latest/))
 * [Adafruit CircuitPython BH1750](https://github.com/adafruit/Adafruit_CircuitPython_BH1750.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bh1750)) \([Docs](https://circuitpython.readthedocs.io/projects/bh1750/en/latest/))
 * [Adafruit CircuitPython BME280](https://github.com/adafruit/Adafruit_CircuitPython_BME280.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bme280)) \([Docs](https://circuitpython.readthedocs.io/projects/bme280/en/latest/))
@@ -60,6 +61,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 257 lib
 * [Adafruit CircuitPython HT16K33](https://github.com/adafruit/Adafruit_CircuitPython_HT16K33.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ht16k33)) \([Docs](https://circuitpython.readthedocs.io/projects/ht16k33/en/latest/))
 * [Adafruit CircuitPython HTS221](https://github.com/adafruit/Adafruit_CircuitPython_HTS221.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hts221)) \([Docs](https://circuitpython.readthedocs.io/projects/hts221/en/latest/))
 * [Adafruit CircuitPython HTU21D](https://github.com/adafruit/Adafruit_CircuitPython_HTU21D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-htu21d)) \([Docs](https://circuitpython.readthedocs.io/projects/htu21d/en/latest/))
+* [Adafruit CircuitPython HTU31D](https://github.com/adafruit/Adafruit_CircuitPython_HTU31D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-htu31d)) \([Docs](https://circuitpython.readthedocs.io/projects/htu31d/en/latest/))
 * [Adafruit CircuitPython HX8357](https://github.com/adafruit/Adafruit_CircuitPython_HX8357.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hx8357)) \([Docs](https://circuitpython.readthedocs.io/projects/hx8357/en/latest/))
 * [Adafruit CircuitPython ICM20X](https://github.com/adafruit/Adafruit_CircuitPython_ICM20X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-icm20x)) \([Docs](https://circuitpython.readthedocs.io/projects/icm20x/en/latest/))
 * [Adafruit CircuitPython IL0373](https://github.com/adafruit/Adafruit_CircuitPython_IL0373.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-il0373)) \([Docs](https://circuitpython.readthedocs.io/projects/il0373/en/latest/))
@@ -135,6 +137,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 257 lib
 * [Adafruit CircuitPython SGP30](https://github.com/adafruit/Adafruit_CircuitPython_SGP30.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sgp30)) \([Docs](https://circuitpython.readthedocs.io/projects/sgp30/en/latest/))
 * [Adafruit CircuitPython SGP40](https://github.com/adafruit/Adafruit_CircuitPython_SGP40.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sgp40)) \([Docs](https://circuitpython.readthedocs.io/projects/sgp40/en/latest/))
 * [Adafruit CircuitPython SHT31D](https://github.com/adafruit/Adafruit_CircuitPython_SHT31D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sht31d)) \([Docs](https://circuitpython.readthedocs.io/projects/sht31d/en/latest/))
+* [Adafruit CircuitPython SHT4x](https://github.com/adafruit/Adafruit_CircuitPython_SHT4x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sht4x)) \([Docs](https://circuitpython.readthedocs.io/projects/sht4x/en/latest/))
 * [Adafruit CircuitPython SHTC3](https://github.com/adafruit/Adafruit_CircuitPython_SHTC3.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-shtc3)) \([Docs](https://circuitpython.readthedocs.io/projects/shtc3/en/latest/))
 * [Adafruit CircuitPython SI4713](https://github.com/adafruit/Adafruit_CircuitPython_SI4713.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-si4713)) \([Docs](https://circuitpython.readthedocs.io/projects/si4713/en/latest/))
 * [Adafruit CircuitPython SI5351](https://github.com/adafruit/Adafruit_CircuitPython_SI5351.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-si5351)) \([Docs](https://circuitpython.readthedocs.io/projects/si5351/en/latest/))
@@ -240,6 +243,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 257 lib
 * [Adafruit CircuitPython NTP](https://github.com/adafruit/Adafruit_CircuitPython_NTP.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ntp)) \([Docs](https://circuitpython.readthedocs.io/projects/ntp/en/latest/))
 * [Adafruit CircuitPython OAuth2](https://github.com/adafruit/Adafruit_CircuitPython_OAuth2.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-oauth2)) \([Docs](https://circuitpython.readthedocs.io/projects/oauth2/en/latest/))
 * [Adafruit CircuitPython OneWire](https://github.com/adafruit/Adafruit_CircuitPython_OneWire.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-onewire)) \([Docs](https://circuitpython.readthedocs.io/projects/onewire/en/latest/))
+* [Adafruit CircuitPython PIOASM](https://github.com/adafruit/Adafruit_CircuitPython_PIOASM.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pioasm)) \([Docs](https://circuitpython.readthedocs.io/projects/pioasm/en/latest/))
 * [Adafruit CircuitPython PYOA](https://github.com/adafruit/Adafruit_CircuitPython_PYOA.git) \([Docs](https://circuitpython.readthedocs.io/projects/pyoa/en/latest/))
 * [Adafruit CircuitPython Pixel Framebuf](https://github.com/adafruit/Adafruit_CircuitPython_Pixel_Framebuf.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pixel-framebuf)) \([Docs](https://circuitpython.readthedocs.io/projects/pixel_framebuf/en/latest/))
 * [Adafruit CircuitPython PortalBase](https://github.com/adafruit/Adafruit_CircuitPython_PortalBase.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-portalbase)) \([Docs](https://circuitpython.readthedocs.io/projects/portalbase/en/latest/))
@@ -258,6 +262,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 257 lib
 * [Adafruit CircuitPython WSGI](https://github.com/adafruit/Adafruit_CircuitPython_WSGI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wsgi)) \([Docs](https://circuitpython.readthedocs.io/projects/wsgi/en/latest/))
 * [Adafruit CircuitPython Waveform](https://github.com/adafruit/Adafruit_CircuitPython_Waveform.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-waveform)) \([Docs](https://circuitpython.readthedocs.io/projects/waveform/en/latest/))
 * [Adafruit CircuitPython binascii](https://github.com/adafruit/Adafruit_CircuitPython_binascii.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-binascii)) \([Docs](https://circuitpython.readthedocs.io/projects/binascii/en/latest/))
+* [Adafruit CircuitPython datetime](https://github.com/adafruit/Adafruit_CircuitPython_datetime.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-datetime)) \([Docs](https://circuitpython.readthedocs.io/projects/datetime/en/latest/))
 * [Adafruit CircuitPython framebuf](https://github.com/adafruit/Adafruit_CircuitPython_framebuf.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-framebuf)) \([Docs](https://circuitpython.readthedocs.io/projects/framebuf/en/latest/))
 * [Adafruit CircuitPython hashlib](https://github.com/adafruit/Adafruit_CircuitPython_hashlib.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hashlib)) \([Docs](https://circuitpython.readthedocs.io/projects/hashlib/en/latest/))
 * [Adafruit CircuitPython miniQR](https://github.com/adafruit/Adafruit_CircuitPython_miniQR.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-miniqr)) \([Docs](https://circuitpython.readthedocs.io/projects/miniqr/en/latest/))

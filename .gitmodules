@@ -769,6 +769,21 @@
 [submodule "libraries/helpers/oauth_2"]
 	path = libraries/helpers/oauth_2
 	url = https://github.com/adafruit/Adafruit_CircuitPython_OAuth2.git
+[submodule "libraries/drivers/sht4x"]
+	path = libraries/drivers/sht4x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SHT4x.git
+[submodule "libraries/helpers/pioasm"]
+	path = libraries/helpers/pioasm
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PIOASM.git
+[submodule "libraries/drivers/aw9523"]
+	path = libraries/drivers/aw9523
+	url = https://github.com/adafruit/Adafruit_CircuitPython_AW9523.git
+[submodule "libraries/helpers/datetime"]
+	path = libraries/helpers/datetime
+	url = https://github.com/adafruit/Adafruit_CircuitPython_datetime.git
+[submodule "libraries/drivers/htu31d"]
+	path = libraries/drivers/htu31d
+	url = https://github.com/adafruit/Adafruit_CircuitPython_HTU31D.git
 [submodule "libraries/helpers/simplemath"]
 	path = libraries/helpers/simplemath
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SimpleMath.git

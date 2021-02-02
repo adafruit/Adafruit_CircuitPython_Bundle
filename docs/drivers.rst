@@ -166,6 +166,7 @@ modules may have a CircuitPython Core API implementation too.
 .. toctree::
 
     binascii <https://circuitpython.readthedocs.io/projects/binascii/en/latest/>
+    datetime <https://circuitpython.readthedocs.io/projects/datetime/en/latest/>
     IterTools <https://circuitpython.readthedocs.io/projects/itertools/en/latest/>
     Logging  <https://circuitpython.readthedocs.io/projects/logging/en/latest/>
     hashlib <https://circuitpython.readthedocs.io/projects/hashlib/en/latest/>
@@ -349,6 +350,7 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     DS18x20 Temperature <https://circuitpython.readthedocs.io/projects/ds18x20/en/latest/>
     HTS221 Temperature and Humidity Sensor <https://circuitpython.readthedocs.io/projects/hts221/en/latest/>
     HTU21D Temperature and Humidity <https://circuitpython.readthedocs.io/projects/htu21d/en/latest/>
+    HTU31D Temperature and Humidity <https://circuitpython.readthedocs.io/projects/htu31d/en/latest/>
     LPS2X Family of Barometric Pressure, Temperature Sensors <https://circuitpython.readthedocs.io/projects/lps2x/en/latest/>
     LPS35HW Water Resistant Barometric Pressure, Temperature <https://circuitpython.readthedocs.io/projects/lps35hw/en/latest/>
     SGP40 Air Quality Sensor <https://circuitpython.readthedocs.io/projects/sgp40/en/latest/>
@@ -367,6 +369,7 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     SCD30 eCO2, Temperature, and Humidity Sensor <https://circuitpython.readthedocs.io/projects/scd30/en/latest/>
     SGP30 Air Quality <https://circuitpython.readthedocs.io/projects/sgp30/en/latest/>
     SHT31-D Temperature and Humidity <https://circuitpython.readthedocs.io/projects/sht31d/en/latest/>
+    SHT4x Temperature and Humidity <https://circuitpython.readthedocs.io/projects/sht4x/en/latest/>
     SHTC3 Temperature and Humidity <https://circuitpython.readthedocs.io/projects/shtc3/en/latest/>
     Si7021 Temperature and Humidity <https://circuitpython.readthedocs.io/projects/si7021/en/latest/>
     TC74 Digital Temperature Sensor <https://circuitpython.readthedocs.io/projects/tc74/en/latest/>
@@ -436,6 +439,7 @@ These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``,
 
     ADS1x15 Analog-to-Digital Converter  <https://circuitpython.readthedocs.io/projects/ads1x15/en/latest/>
     Adafruit SeeSaw <https://circuitpython.readthedocs.io/projects/seesaw/en/latest/>
+    AW9523 GPIO expander and LED driver <https://circuitpython.readthedocs.io/projects/aw9523/en/latest/>
     Crickit Robotics Boards <https://circuitpython.readthedocs.io/projects/crickit/en/latest/>
     DS2413 OneWire GPIO Expander <https://circuitpython.readthedocs.io/projects/ds2413/en/latest/>
     FocalTech Capacitive Touch <https://circuitpython.readthedocs.io/projects/focaltouch/en/latest/>
