@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 261 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 262 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -61,6 +61,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 261 lib
 * [Adafruit CircuitPython HT16K33](https://github.com/adafruit/Adafruit_CircuitPython_HT16K33.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ht16k33)) \([Docs](https://circuitpython.readthedocs.io/projects/ht16k33/en/latest/))
 * [Adafruit CircuitPython HTS221](https://github.com/adafruit/Adafruit_CircuitPython_HTS221.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hts221)) \([Docs](https://circuitpython.readthedocs.io/projects/hts221/en/latest/))
 * [Adafruit CircuitPython HTU21D](https://github.com/adafruit/Adafruit_CircuitPython_HTU21D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-htu21d)) \([Docs](https://circuitpython.readthedocs.io/projects/htu21d/en/latest/))
+* [Adafruit CircuitPython HTU31D](https://github.com/adafruit/Adafruit_CircuitPython_HTU31D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-htu31d)) \([Docs](https://circuitpython.readthedocs.io/projects/htu31d/en/latest/))
 * [Adafruit CircuitPython HX8357](https://github.com/adafruit/Adafruit_CircuitPython_HX8357.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hx8357)) \([Docs](https://circuitpython.readthedocs.io/projects/hx8357/en/latest/))
 * [Adafruit CircuitPython ICM20X](https://github.com/adafruit/Adafruit_CircuitPython_ICM20X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-icm20x)) \([Docs](https://circuitpython.readthedocs.io/projects/icm20x/en/latest/))
 * [Adafruit CircuitPython IL0373](https://github.com/adafruit/Adafruit_CircuitPython_IL0373.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-il0373)) \([Docs](https://circuitpython.readthedocs.io/projects/il0373/en/latest/))
