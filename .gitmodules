@@ -769,3 +769,6 @@
 [submodule "libraries/helpers/oauth_2"]
 	path = libraries/helpers/oauth_2
 	url = https://github.com/adafruit/Adafruit_CircuitPython_OAuth2.git
+[submodule "libraries/helpers/simplemath"]
+	path = libraries/helpers/simplemath
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SimpleMath.git
