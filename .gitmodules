@@ -784,3 +784,6 @@
 [submodule "libraries/drivers/htu31d"]
 	path = libraries/drivers/htu31d
 	url = https://github.com/adafruit/Adafruit_CircuitPython_HTU31D.git
+[submodule "libraries/helpers/simplemath"]
+	path = libraries/helpers/simplemath
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SimpleMath.git
