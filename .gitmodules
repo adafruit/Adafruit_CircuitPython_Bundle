@@ -787,3 +787,6 @@
 [submodule "libraries/helpers/simplemath"]
 	path = libraries/helpers/simplemath
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SimpleMath.git
+[submodule "libraries/drivers/mcp2515"]
+	path = libraries/drivers/mcp2515
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MCP2515.git
