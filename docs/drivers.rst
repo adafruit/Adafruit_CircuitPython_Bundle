@@ -443,6 +443,7 @@ These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``,
     Crickit Robotics Boards <https://circuitpython.readthedocs.io/projects/crickit/en/latest/>
     DS2413 OneWire GPIO Expander <https://circuitpython.readthedocs.io/projects/ds2413/en/latest/>
     FocalTech Capacitive Touch <https://circuitpython.readthedocs.io/projects/focaltouch/en/latest/>
+    MCP2515 CAN bus controller <https://circuitpython.readthedocs.io/projects/mcp2515/en/latest/>
     MCP230xx GPIO Expander <https://circuitpython.readthedocs.io/projects/mcp230xx/en/latest/>
     MCP3xxx SPI ADC <https://circuitpython.readthedocs.io/projects/mcp3xxx/en/latest/>
     MCP4725 Digital-to-Analog Converter <https://circuitpython.readthedocs.io/projects/mcp4725/en/latest/>
