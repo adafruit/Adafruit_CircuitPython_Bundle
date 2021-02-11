@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 263 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 264 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -94,6 +94,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 263 lib
 * [Adafruit CircuitPython MAX7219](https://github.com/adafruit/Adafruit_CircuitPython_MAX7219.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-max7219)) \([Docs](https://circuitpython.readthedocs.io/projects/max7219/en/latest/))
 * [Adafruit CircuitPython MAX9744](https://github.com/adafruit/Adafruit_CircuitPython_MAX9744.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-max9744)) \([Docs](https://circuitpython.readthedocs.io/projects/max9744/en/latest/))
 * [Adafruit CircuitPython MCP230xx](https://github.com/adafruit/Adafruit_CircuitPython_MCP230xx.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mcp230xx)) \([Docs](https://circuitpython.readthedocs.io/projects/mcp230xx/en/latest/))
+* [Adafruit CircuitPython MCP2515](https://github.com/adafruit/Adafruit_CircuitPython_MCP2515.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mcp2515)) \([Docs](https://circuitpython.readthedocs.io/projects/mcp2515/en/latest/))
 * [Adafruit CircuitPython MCP3xxx](https://github.com/adafruit/Adafruit_CircuitPython_MCP3xxx.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mcp3xxx)) \([Docs](https://circuitpython.readthedocs.io/projects/mcp3xxx/en/latest/))
 * [Adafruit CircuitPython MCP4725](https://github.com/adafruit/Adafruit_CircuitPython_MCP4725.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mcp4725)) \([Docs](https://circuitpython.readthedocs.io/projects/mcp4725/en/latest/))
 * [Adafruit CircuitPython MCP4728](https://github.com/adafruit/Adafruit_CircuitPython_MCP4728.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mcp4728)) \([Docs](https://circuitpython.readthedocs.io/projects/mcp4728/en/latest/))
