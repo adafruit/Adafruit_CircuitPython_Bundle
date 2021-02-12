@@ -790,3 +790,6 @@
 [submodule "libraries/drivers/mcp2515"]
 	path = libraries/drivers/mcp2515
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MCP2515.git
+[submodule "libraries/helpers/ble_lywsd03mmc"]
+	path = libraries/helpers/ble_lywsd03mmc
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_LYWSD03MMC.git
