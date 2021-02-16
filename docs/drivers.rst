@@ -131,11 +131,12 @@ Helpers for Bluetooth Low Energy (BLE).
     BLE Apple Notification Center Service <https://circuitpython.readthedocs.io/projects/ble_apple_notification_center/en/latest/>
     BLE BerryMed Pulse Oximeter Service <https://circuitpython.readthedocs.io/projects/ble_berrymed_pulse_oximeter/en/latest/>
     BLE BroadcastNet <https://circuitpython.readthedocs.io/projects/ble_broadcastnet/en/latest/>
-    BLE Cycling Speed and Cadence Service <https://circuitpython.readthedocs.io/projects/ble_cycling_speed_and_cadence/en/latest/>
+    BLE Cycling Speed and Cadence <https://circuitpython.readthedocs.io/projects/ble_cycling_speed_and_cadence/en/latest/>
     BLE Eddystone Beacon <https://circuitpython.readthedocs.io/projects/ble_eddystone/en/latest/>
-    BLE Heart Rate Service <https://circuitpython.readthedocs.io/projects/ble_heart_rate/en/latest/>
-    BLE iBBQ Service <https://circuitpython.readthedocs.io/projects/ble_ibbq/en/latest/>
-    BLE Magic Light Service <https://circuitpython.readthedocs.io/projects/ble_magic_light/en/latest/>
+    BLE Heart Rate <https://circuitpython.readthedocs.io/projects/ble_heart_rate/en/latest/>
+    BLE iBBQ <https://circuitpython.readthedocs.io/projects/ble_ibbq/en/latest/>
+    BLE LYWSD03MMC (Xiaomi Mijia) <https://circuitpython.readthedocs.io/projects/ble_lywsd03mmc/en/latest/>
+    BLE Magic Light <https://circuitpython.readthedocs.io/projects/ble_magic_light/en/latest/>
     BLE MIDI <https://circuitpython.readthedocs.io/projects/ble_midi/en/latest/>
     BLE Radio <https://circuitpython.readthedocs.io/projects/ble-radio/en/latest/>
 
