@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 264 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 265 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -204,6 +204,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 264 lib
 * [Adafruit CircuitPython BLE Cycling Speed and Cadence](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Cycling_Speed_and_Cadence.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-cycling-speed-and-cadence)) \([Docs](https://circuitpython.readthedocs.io/projects/ble_cycling_speed_and_cadence/en/latest/))
 * [Adafruit CircuitPython BLE Eddystone](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Eddystone.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-eddystone)) \([Docs](https://circuitpython.readthedocs.io/projects/ble_eddystone/en/latest/))
 * [Adafruit CircuitPython BLE Heart Rate](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Heart_Rate.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-heart-rate)) \([Docs](https://circuitpython.readthedocs.io/projects/ble_heart_rate/en/latest/))
+* [Adafruit CircuitPython BLE LYWSD03MMC](https://github.com/adafruit/Adafruit_CircuitPython_BLE_LYWSD03MMC.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-lywsd03mmc)) \([Docs](https://circuitpython.readthedocs.io/projects/ble_lywsd03mmc/en/latest/))
 * [Adafruit CircuitPython BLE MIDI](https://github.com/adafruit/Adafruit_CircuitPython_BLE_MIDI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-midi)) \([Docs](https://circuitpython.readthedocs.io/projects/ble_midi/en/latest/))
 * [Adafruit CircuitPython BLE Magic Light](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Magic_Light.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-magic-light)) \([Docs](https://circuitpython.readthedocs.io/projects/ble_magic_light/en/latest/))
 * [Adafruit CircuitPython BLE Radio](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Radio.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-radio)) \([Docs](https://circuitpython.readthedocs.io/projects/ble_radio/en/latest/))
