@@ -793,3 +793,6 @@
 [submodule "libraries/helpers/ble_lywsd03mmc"]
 	path = libraries/helpers/ble_lywsd03mmc
 	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_LYWSD03MMC.git
+[submodule "libraries/drivers/ssd1681"]
+	path = libraries/drivers/ssd1681
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1681.git
