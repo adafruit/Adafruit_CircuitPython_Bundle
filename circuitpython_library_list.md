@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 265 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 266 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -152,6 +152,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 265 lib
 * [Adafruit CircuitPython SSD1351](https://github.com/adafruit/Adafruit_CircuitPython_SSD1351.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1351)) \([Docs](https://circuitpython.readthedocs.io/projects/ssd1351/en/latest/))
 * [Adafruit CircuitPython SSD1608](https://github.com/adafruit/Adafruit_CircuitPython_SSD1608.git) \([Docs](https://circuitpython.readthedocs.io/projects/ssd1608/en/latest/))
 * [Adafruit CircuitPython SSD1675](https://github.com/adafruit/Adafruit_CircuitPython_SSD1675.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1675)) \([Docs](https://circuitpython.readthedocs.io/projects/ssd1675/en/latest/))
+* [Adafruit CircuitPython SSD1681](https://github.com/adafruit/Adafruit_CircuitPython_SSD1681.git) \([Docs](.. image:: https://readthedocs.org/projects/adafruit-circuitpython-ssd1681/badge/?version=latest:target: https://circuitpython.readthedocs.io/projects/ssd1681/en/latest/))
 * [Adafruit CircuitPython ST7735R](https://github.com/adafruit/Adafruit_CircuitPython_ST7735R.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-st7735r)) \([Docs](https://circuitpython.readthedocs.io/projects/st7735r/en/latest/))
 * [Adafruit CircuitPython ST7735](https://github.com/adafruit/Adafruit_CircuitPython_ST7735.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-st7735)) \([Docs](https://circuitpython.readthedocs.io/projects/st7735/en/latest/))
 * [Adafruit CircuitPython ST7789](https://github.com/adafruit/Adafruit_CircuitPython_ST7789.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-st7789)) \([Docs](https://circuitpython.readthedocs.io/projects/st7789/en/latest/))
