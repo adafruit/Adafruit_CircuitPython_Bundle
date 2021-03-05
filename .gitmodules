@@ -796,3 +796,6 @@
 [submodule "libraries/drivers/ssd1681"]
 	path = libraries/drivers/ssd1681
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1681.git
+[submodule "libraries/helpers/displayio_layout"]
+	path = libraries/helpers/displayio_layout
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_Layout.git
