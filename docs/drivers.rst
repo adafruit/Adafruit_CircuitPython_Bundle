@@ -270,6 +270,7 @@ E-Paper / E-Ink
     IL91874 (displayio) <https://circuitpython.readthedocs.io/projects/il91874/en/latest/>
     SSD1608 (displayio) <https://circuitpython.readthedocs.io/projects/ssd1608/en/latest/>
     SSD1675 (displayio) <https://circuitpython.readthedocs.io/projects/ssd1675/en/latest/>
+    SSD1680 (displayio) <https://circuitpython.readthedocs.io/projects/ssd1680/en/latest/>
     SSD1681 (displayio) <https://circuitpython.readthedocs.io/projects/ssd1681/en/latest/>
 
 Other
