@@ -31,8 +31,11 @@ specific boards.
     Adafruit CLUE <https://circuitpython.readthedocs.io/projects/clue/en/latest/>
     Adafruit FeatherWings <https://circuitpython.readthedocs.io/projects/featherwing/en/latest/>
     MatrixPortal (Metro M4 Airlift + RGB Shield) <https://circuitpython.readthedocs.io/projects/matrixportal/en/latest/>
+    Adafruit MagTag <https://circuitpython.readthedocs.io/projects/magtag/en/latest/>
+    Adafruit PortalBase <https://circuitpython.readthedocs.io/projects/portalbase/en/latest/>
     PyBadger (PyBadge and PyGamer) <https://circuitpython.readthedocs.io/projects/pybadger/en/latest/>
     Adafruit PyPortal <https://circuitpython.readthedocs.io/projects/pyportal/en/latest/>
+    Adafruit MONSTER M4SK <https://circuitpython.readthedocs.io/projects/monsterm4sk/en/latest/>
 
 Helper Libraries
 -----------------
@@ -73,6 +76,7 @@ Helpers for building graphical interfaces using the displayio core module and fr
     Slideshow <https://circuitpython.readthedocs.io/projects/slideshow/en/latest/>
     Turtle Graphics <https://circuitpython.readthedocs.io/projects/turtle/en/latest/>
     WSGI <https://circuitpython.readthedocs.io/projects/wsgi/en/latest/>
+    DisplayIO Layout <https://circuitpython.readthedocs.io/projects/displayio-layout/en/latest/>
 
 Motor Helpers
 ^^^^^^^^^^^^^^
@@ -107,10 +111,12 @@ Helpers for interfacing with the internet, including IoT protocols.
 
 .. toctree::
 
+    Fake Requests <https://circuitpython.readthedocs.io/projects/fakerequests/en/latest/>
     JSON Web Token (JWT) <https://circuitpython.readthedocs.io/projects/jwt/en/latest/>
     MiniMQTT <https://circuitpython.readthedocs.io/projects/minimqtt/en/latest/>
     NTP (Network time Protocol) <https://circuitpython.readthedocs.io/projects/ntp/en/latest/>
     Requests <https://circuitpython.readthedocs.io/projects/requests/en/latest/>
+    OAuth2.0 <https://circuitpython.readthedocs.io/projects/oauth2/en/latest/>
 
 Bluetooth Low Energy Helpers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -126,11 +132,12 @@ Helpers for Bluetooth Low Energy (BLE).
     BLE Apple Notification Center Service <https://circuitpython.readthedocs.io/projects/ble_apple_notification_center/en/latest/>
     BLE BerryMed Pulse Oximeter Service <https://circuitpython.readthedocs.io/projects/ble_berrymed_pulse_oximeter/en/latest/>
     BLE BroadcastNet <https://circuitpython.readthedocs.io/projects/ble_broadcastnet/en/latest/>
-    BLE Cycling Speed and Cadence Service <https://circuitpython.readthedocs.io/projects/ble_cycling_speed_and_cadence/en/latest/>
+    BLE Cycling Speed and Cadence <https://circuitpython.readthedocs.io/projects/ble_cycling_speed_and_cadence/en/latest/>
     BLE Eddystone Beacon <https://circuitpython.readthedocs.io/projects/ble_eddystone/en/latest/>
-    BLE Heart Rate Service <https://circuitpython.readthedocs.io/projects/ble_heart_rate/en/latest/>
-    BLE iBBQ Service <https://circuitpython.readthedocs.io/projects/ble_ibbq/en/latest/>
-    BLE Magic Light Service <https://circuitpython.readthedocs.io/projects/ble_magic_light/en/latest/>
+    BLE Heart Rate <https://circuitpython.readthedocs.io/projects/ble_heart_rate/en/latest/>
+    BLE iBBQ <https://circuitpython.readthedocs.io/projects/ble_ibbq/en/latest/>
+    BLE LYWSD03MMC (Xiaomi Mijia) <https://circuitpython.readthedocs.io/projects/ble_lywsd03mmc/en/latest/>
+    BLE Magic Light <https://circuitpython.readthedocs.io/projects/ble_magic_light/en/latest/>
     BLE MIDI <https://circuitpython.readthedocs.io/projects/ble_midi/en/latest/>
     BLE Radio <https://circuitpython.readthedocs.io/projects/ble-radio/en/latest/>
 
@@ -161,6 +168,7 @@ modules may have a CircuitPython Core API implementation too.
 .. toctree::
 
     binascii <https://circuitpython.readthedocs.io/projects/binascii/en/latest/>
+    datetime <https://circuitpython.readthedocs.io/projects/datetime/en/latest/>
     IterTools <https://circuitpython.readthedocs.io/projects/itertools/en/latest/>
     Logging  <https://circuitpython.readthedocs.io/projects/logging/en/latest/>
     hashlib <https://circuitpython.readthedocs.io/projects/hashlib/en/latest/>
@@ -191,6 +199,7 @@ Miscellaneous Helpers
     OneWire <https://circuitpython.readthedocs.io/projects/onewire/en/latest/>
     SD Card <https://circuitpython.readthedocs.io/projects/sd/en/latest/>
     SimpleIO <https://circuitpython.readthedocs.io/projects/simpleio/en/latest/>
+    SimpleMath <https://circuitpython.readthedocs.io/projects/simplemath/en/latest/>
     USB Human Interface Device (Keyboard and Mouse) <https://circuitpython.readthedocs.io/projects/hid/en/latest/>
     Test Repo <https://circuitpython.readthedocs.io/projects/testrepo/en/latest/>
 
@@ -261,6 +270,8 @@ E-Paper / E-Ink
     IL91874 (displayio) <https://circuitpython.readthedocs.io/projects/il91874/en/latest/>
     SSD1608 (displayio) <https://circuitpython.readthedocs.io/projects/ssd1608/en/latest/>
     SSD1675 (displayio) <https://circuitpython.readthedocs.io/projects/ssd1675/en/latest/>
+    SSD1680 (displayio) <https://circuitpython.readthedocs.io/projects/ssd1680/en/latest/>
+    SSD1681 (displayio) <https://circuitpython.readthedocs.io/projects/ssd1681/en/latest/>
 
 Other
 ^^^^^^^^^^^^^^^
@@ -304,16 +315,17 @@ Motion relating sensing including ``acceleration``, ``magnetic``, ``gyro``, and 
     ICM20X Wide-range 6-DoF Accelerometer and Gyro Family <https://circuitpython.readthedocs.io/projects/icm20649/en/latest/>
     L3GD20 3-Axis Gyroscope <https://circuitpython.readthedocs.io/projects/l3gd20/en/latest/>
     LIS2MDL 3-Axis Magnetometer <https://circuitpython.readthedocs.io/projects/lis2mdl/en/latest/>
-    LIS3MDL 3-Axis Magnetometer <https://circuitpython.readthedocs.io/projects/lis3mdl/en/latest/>
-    LIS3DH Accelerometer <https://circuitpython.readthedocs.io/projects/lis3dh/en/latest/>
     LIS331HH and H3LIS331 3-Axis Accelerometers <https://circuitpython.readthedocs.io/projects/lis331/en/latest/>
-    LSM303 Accelerometer and Magnetometer <https://circuitpython.readthedocs.io/projects/lsm303/en/latest/>
+    LIS3DH Accelerometer <https://circuitpython.readthedocs.io/projects/lis3dh/en/latest/>
+    LIS3MDL 3-Axis Magnetometer <https://circuitpython.readthedocs.io/projects/lis3mdl/en/latest/>
     LSM303 Accelerometer Only<https://circuitpython.readthedocs.io/projects/lsm303-accel/en/latest/>
+    LSM303 Accelerometer and Magnetometer <https://circuitpython.readthedocs.io/projects/lsm303/en/latest/>
     LSM303DLH Magnetometer Only<https://circuitpython.readthedocs.io/projects/lsm303dlh-mag/en/latest/>
     LSM6DSOX, LSM6DS33, and ISM330DHCT  Accelerometer, Gyroscope and Temperature <https://circuitpython.readthedocs.io/projects/lsm6ds/en/latest/>
     LSM9DS0 Accelerometer, Magnetometer, Gyroscope and Temperature <https://circuitpython.readthedocs.io/projects/lsm9ds0/en/latest/>
     LSM9DS1 Accelerometer, Magnetometer, Gyroscope and Temperature <https://circuitpython.readthedocs.io/projects/lsm9ds1/en/latest/>
     MLX90390 3 Axis Magnetometer <https://circuitpython.readthedocs.io/projects/mlx90393/en/latest/>
+    MLX90395 3-Axis Magnetometer <https://circuitpython.readthedocs.io/projects/mlx90395/en/latest/>
     MMA8451 3 Axis Accelerometer <https://circuitpython.readthedocs.io/projects/mma8451/en/latest/>
     MPU6050 Accelerometer, Gyroscope, and Temperature Sensor <https://circuitpython.readthedocs.io/projects/mpu6050/en/latest/>
     MSA301 3 Axis Accelerometer <https://circuitpython.readthedocs.io/projects/msa301/en/latest/>
@@ -342,8 +354,10 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     DS18x20 Temperature <https://circuitpython.readthedocs.io/projects/ds18x20/en/latest/>
     HTS221 Temperature and Humidity Sensor <https://circuitpython.readthedocs.io/projects/hts221/en/latest/>
     HTU21D Temperature and Humidity <https://circuitpython.readthedocs.io/projects/htu21d/en/latest/>
+    HTU31D Temperature and Humidity <https://circuitpython.readthedocs.io/projects/htu31d/en/latest/>
     LPS2X Family of Barometric Pressure, Temperature Sensors <https://circuitpython.readthedocs.io/projects/lps2x/en/latest/>
     LPS35HW Water Resistant Barometric Pressure, Temperature <https://circuitpython.readthedocs.io/projects/lps35hw/en/latest/>
+    SGP40 Air Quality Sensor <https://circuitpython.readthedocs.io/projects/sgp40/en/latest/>
     MAX31855 Thermocouple Amplifier, Temperature <https://circuitpython.readthedocs.io/projects/max31855/en/latest/>
     MAX31856 Thermocouple Amplifier, Temperature <https://circuitpython.readthedocs.io/projects/max31856/en/latest/>
     MAX31865 Thermocouple Amplifier, Temperature <https://circuitpython.readthedocs.io/projects/max31865/en/latest/>
@@ -356,14 +370,17 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     MS8607 Pressure, Temperature, Humidity <https://circuitpython.readthedocs.io/projects/ms8607/en/latest/>
     PCT2075 Temperature Sensor <https://circuitpython.readthedocs.io/projects/pct2075/en/latest/>
     PM25 Air Quality Sensor <https://circuitpython.readthedocs.io/projects/pm25/en/latest/>
+    SCD30 eCO2, Temperature, and Humidity Sensor <https://circuitpython.readthedocs.io/projects/scd30/en/latest/>
     SGP30 Air Quality <https://circuitpython.readthedocs.io/projects/sgp30/en/latest/>
     SHT31-D Temperature and Humidity <https://circuitpython.readthedocs.io/projects/sht31d/en/latest/>
+    SHT4x Temperature and Humidity <https://circuitpython.readthedocs.io/projects/sht4x/en/latest/>
     SHTC3 Temperature and Humidity <https://circuitpython.readthedocs.io/projects/shtc3/en/latest/>
     Si7021 Temperature and Humidity <https://circuitpython.readthedocs.io/projects/si7021/en/latest/>
     TC74 Digital Temperature Sensor <https://circuitpython.readthedocs.io/projects/tc74/en/latest/>
-    Thermistor Temperature <https://circuitpython.readthedocs.io/projects/thermistor/en/latest/>
     TMP006 Contactless IR Thermopile Sensor <https://circuitpython.readthedocs.io/projects/tmp006/en/latest/>
     TMP007 Contactless Temperature <https://circuitpython.readthedocs.io/projects/tmp007/en/latest/>
+    TMP117 High-Precision Temperature Sensor <https://circuitpython.readthedocs.io/projects/tmp117/en/latest/>
+    Thermistor Temperature <https://circuitpython.readthedocs.io/projects/thermistor/en/latest/>
 
 Light Sensors
 ---------------
@@ -377,6 +394,7 @@ These sensors detect light related attributes such as ``color``, ``light`` (unit
     AS726x Color Spectrum Sensor <https://circuitpython.readthedocs.io/projects/as726x/en/latest/>
     AS7341 11-Channel Multi-Spectral Digital Sensor <https://circuitpython.readthedocs.io/projects/as7341/en/latest/>
     BH1750 Ambient Light <https://circuitpython.readthedocs.io/projects/bh1750/en/latest/>
+    LTR390 Ambient Light and UV Sensor <https://circuitpython.readthedocs.io/projects/ltr390/en/latest/>
     TCS34725 Color Sensor <https://circuitpython.readthedocs.io/projects/tcs34725/en/latest/>
     TSL2561 Light Sensor <https://circuitpython.readthedocs.io/projects/tsl2561/en/latest/>
     TSL2591 High Dynamic Range Light Sensor <https://circuitpython.readthedocs.io/projects/tsl2591/en/latest/>
@@ -425,9 +443,11 @@ These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``,
 
     ADS1x15 Analog-to-Digital Converter  <https://circuitpython.readthedocs.io/projects/ads1x15/en/latest/>
     Adafruit SeeSaw <https://circuitpython.readthedocs.io/projects/seesaw/en/latest/>
+    AW9523 GPIO expander and LED driver <https://circuitpython.readthedocs.io/projects/aw9523/en/latest/>
     Crickit Robotics Boards <https://circuitpython.readthedocs.io/projects/crickit/en/latest/>
     DS2413 OneWire GPIO Expander <https://circuitpython.readthedocs.io/projects/ds2413/en/latest/>
     FocalTech Capacitive Touch <https://circuitpython.readthedocs.io/projects/focaltouch/en/latest/>
+    MCP2515 CAN bus controller <https://circuitpython.readthedocs.io/projects/mcp2515/en/latest/>
     MCP230xx GPIO Expander <https://circuitpython.readthedocs.io/projects/mcp230xx/en/latest/>
     MCP3xxx SPI ADC <https://circuitpython.readthedocs.io/projects/mcp3xxx/en/latest/>
     MCP4725 Digital-to-Analog Converter <https://circuitpython.readthedocs.io/projects/mcp4725/en/latest/>

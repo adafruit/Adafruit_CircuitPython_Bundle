@@ -739,3 +739,66 @@
 [submodule "libraries/drivers/emc2101"]
 	path = libraries/drivers/emc2101
 	url = https://github.com/adafruit/Adafruit_CircuitPython_EMC2101.git
+[submodule "libraries/drivers/monsterm4sk"]
+	path = libraries/drivers/monsterm4sk
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MONSTERM4SK.git
+[submodule "libraries/drivers/tmp117"]
+	path = libraries/drivers/tmp117
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TMP117
+[submodule "libraries/helpers/magtag"]
+	path = libraries/helpers/magtag
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MagTag.git
+[submodule "libraries/drivers/mlx90395"]
+	path = libraries/drivers/mlx90395
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MLX90395.git
+[submodule "libraries/helpers/fakerequests"]
+	path = libraries/helpers/fakerequests
+	url = https://github.com/adafruit/Adafruit_CircuitPython_FakeRequests.git
+[submodule "libraries/helpers/portalbase"]
+	path = libraries/helpers/portalbase
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PortalBase.git
+[submodule "libraries/drivers/scd30"]
+	path = libraries/drivers/scd30
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SCD30.git
+[submodule "libraries/drivers/ltr390"]
+	path = libraries/drivers/ltr390
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LTR390.git
+[submodule "libraries/drivers/sgp40"]
+	path = libraries/drivers/sgp40
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SGP40.git
+[submodule "libraries/helpers/oauth_2"]
+	path = libraries/helpers/oauth_2
+	url = https://github.com/adafruit/Adafruit_CircuitPython_OAuth2.git
+[submodule "libraries/drivers/sht4x"]
+	path = libraries/drivers/sht4x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SHT4x.git
+[submodule "libraries/helpers/pioasm"]
+	path = libraries/helpers/pioasm
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PIOASM.git
+[submodule "libraries/drivers/aw9523"]
+	path = libraries/drivers/aw9523
+	url = https://github.com/adafruit/Adafruit_CircuitPython_AW9523.git
+[submodule "libraries/helpers/datetime"]
+	path = libraries/helpers/datetime
+	url = https://github.com/adafruit/Adafruit_CircuitPython_datetime.git
+[submodule "libraries/drivers/htu31d"]
+	path = libraries/drivers/htu31d
+	url = https://github.com/adafruit/Adafruit_CircuitPython_HTU31D.git
+[submodule "libraries/helpers/simplemath"]
+	path = libraries/helpers/simplemath
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SimpleMath.git
+[submodule "libraries/drivers/mcp2515"]
+	path = libraries/drivers/mcp2515
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MCP2515.git
+[submodule "libraries/helpers/ble_lywsd03mmc"]
+	path = libraries/helpers/ble_lywsd03mmc
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_LYWSD03MMC.git
+[submodule "libraries/drivers/ssd1681"]
+	path = libraries/drivers/ssd1681
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1681.git
+[submodule "libraries/helpers/displayio_layout"]
+	path = libraries/helpers/displayio_layout
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_Layout.git
+[submodule "libraries/drivers/ssd1680"]
+	path = libraries/drivers/ssd1680
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1680.git
