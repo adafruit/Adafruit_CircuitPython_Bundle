@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 268 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 269 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -229,6 +229,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 268 lib
 * [Adafruit CircuitPython FakeRequests](https://github.com/adafruit/Adafruit_CircuitPython_FakeRequests.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fakerequests)) \([Docs](https://circuitpython.readthedocs.io/projects/fakerequests/en/latest/))
 * [Adafruit CircuitPython FancyLED](https://github.com/adafruit/Adafruit_CircuitPython_FancyLED.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fancyled)) \([Docs](https://circuitpython.readthedocs.io/projects/fancyled/en/latest/))
 * [Adafruit CircuitPython FeatherWing](https://github.com/adafruit/Adafruit_CircuitPython_FeatherWing.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-featherwing)) \([Docs](https://circuitpython.readthedocs.io/projects/featherwing/en/latest/))
+* [Adafruit CircuitPython FunHouse](https://github.com/adafruit/Adafruit_CircuitPython_FunHouse.git) \([Docs](https://circuitpython.readthedocs.io/projects/funhouse/en/latest/))
 * [Adafruit CircuitPython GC IOT Core](https://github.com/adafruit/Adafruit_CircuitPython_GC_IOT_Core.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-gc-iot-core)) \([Docs](https://circuitpython.readthedocs.io/projects/gc_iot_core/en/latest/))
 * [Adafruit CircuitPython Gizmo](https://github.com/adafruit/Adafruit_CircuitPython_Gizmo.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-gizmo)) \([Docs](https://circuitpython.readthedocs.io/projects/gizmo/en/latest/))
 * [Adafruit CircuitPython HID](https://github.com/adafruit/Adafruit_CircuitPython_HID.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hid)) \([Docs](https://circuitpython.readthedocs.io/projects/hid/en/latest/))
