@@ -802,6 +802,9 @@
 [submodule "libraries/drivers/ssd1680"]
 	path = libraries/drivers/ssd1680
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1680.git
+[submodule "libraries/helpers/funhouse"]
+	path = libraries/helpers/funhouse
+	url = https://github.com/adafruit/Adafruit_CircuitPython_FunHouse.git
 [submodule "libraries/helpers/styles"]
 	path = libraries/helpers/styles
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Styles.git

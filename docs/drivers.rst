@@ -30,6 +30,7 @@ specific boards.
     Adafruit CircuitPlayground <https://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/>
     Adafruit CLUE <https://circuitpython.readthedocs.io/projects/clue/en/latest/>
     Adafruit FeatherWings <https://circuitpython.readthedocs.io/projects/featherwing/en/latest/>
+    Adafruit FunHouse <https://circuitpython.readthedocs.io/projects/funhouse/en/latest/>
     MatrixPortal (Metro M4 Airlift + RGB Shield) <https://circuitpython.readthedocs.io/projects/matrixportal/en/latest/>
     Adafruit MagTag <https://circuitpython.readthedocs.io/projects/magtag/en/latest/>
     Adafruit PortalBase <https://circuitpython.readthedocs.io/projects/portalbase/en/latest/>
