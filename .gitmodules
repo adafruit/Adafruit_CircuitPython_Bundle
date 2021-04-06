@@ -805,3 +805,6 @@
 [submodule "libraries/helpers/funhouse"]
 	path = libraries/helpers/funhouse
 	url = https://github.com/adafruit/Adafruit_CircuitPython_FunHouse.git
+[submodule "libraries/helpers/color_picker"]
+	path = libraries/helpers/color_picker
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_Color_Picker.git

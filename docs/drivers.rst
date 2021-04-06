@@ -78,6 +78,7 @@ Helpers for building graphical interfaces using the displayio core module and fr
     Turtle Graphics <https://circuitpython.readthedocs.io/projects/turtle/en/latest/>
     WSGI <https://circuitpython.readthedocs.io/projects/wsgi/en/latest/>
     DisplayIO Layout <https://circuitpython.readthedocs.io/projects/displayio-layout/en/latest/>
+    DisplayIO Color Picker <https://circuitpython.readthedocs.io/projects/color_picker/en/latest/>
 
 Motor Helpers
 ^^^^^^^^^^^^^^
