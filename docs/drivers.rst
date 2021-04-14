@@ -203,7 +203,7 @@ Miscellaneous Helpers
     SimpleMath <https://circuitpython.readthedocs.io/projects/simplemath/en/latest/>
     USB Human Interface Device (Keyboard and Mouse) <https://circuitpython.readthedocs.io/projects/hid/en/latest/>
     Test Repo <https://circuitpython.readthedocs.io/projects/testrepo/en/latest/>
-
+    Colorsys <https://circuitpython.readthedocs.io/projects/colorsys/en/latest/>
 
 Blinky
 --------
