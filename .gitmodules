@@ -805,3 +805,6 @@
 [submodule "libraries/helpers/funhouse"]
 	path = libraries/helpers/funhouse
 	url = https://github.com/adafruit/Adafruit_CircuitPython_FunHouse.git
+[submodule "libraries/helpers/colorsys"]
+	path = libraries/helpers/colorsys
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Colorsys.git
