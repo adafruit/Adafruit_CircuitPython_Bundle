@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 269 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 270 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -218,6 +218,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 269 lib
 * [Adafruit CircuitPython BluefruitConnect](https://github.com/adafruit/Adafruit_CircuitPython_BluefruitConnect.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bluefruitconnect)) \([Docs](https://circuitpython.readthedocs.io/projects/bluefruitconnect/en/latest/))
 * [Adafruit CircuitPython BoardTest](https://github.com/adafruit/Adafruit_CircuitPython_BoardTest.git) \([Docs](https://circuitpython.readthedocs.io/projects/boardtest/en/latest/))
 * [Adafruit CircuitPython BusDevice](https://github.com/adafruit/Adafruit_CircuitPython_BusDevice.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-busdevice)) \([Docs](https://circuitpython.readthedocs.io/projects/busdevice/en/latest/))
+* [Adafruit CircuitPython Colorsys](https://github.com/adafruit/Adafruit_CircuitPython_Colorsys.git) \([Docs](https://circuitpython.readthedocs.io/projects/colorsys/en/latest/))
 * [Adafruit CircuitPython CursorControl](https://github.com/adafruit/Adafruit_CircuitPython_CursorControl.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-cursorcontrol)) \([Docs](https://circuitpython.readthedocs.io/projects/cursorcontrol/en/latest/))
 * [Adafruit CircuitPython Debouncer](https://github.com/adafruit/Adafruit_CircuitPython_Debouncer.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-debouncer)) \([Docs](https://circuitpython.readthedocs.io/projects/debouncer/en/latest/))
 * [Adafruit CircuitPython Debug I2C](https://github.com/adafruit/Adafruit_CircuitPython_Debug_I2C.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-debug-i2c)) \([Docs](https://circuitpython.readthedocs.io/projects/debug_i2c/en/latest/))
