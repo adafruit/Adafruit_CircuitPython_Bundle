@@ -488,6 +488,7 @@ Miscellaneous
     NeoTrellis 4x4 Keypad <https://circuitpython.readthedocs.io/projects/neotrellis/en/latest/>
     NeoTrellis M4 4x8 Keypad <https://circuitpython.readthedocs.io/projects/trellism4/en/latest/>
     Nunchuk <https://circuitpython.readthedocs.io/projects/nunchuk/en/latest/>
+    OV7670 Camera <https://circuitpython.readthedocs.io/projects/ov7670/en/latest/>
     PyPixelbuf <https://circuitpython.readthedocs.io/projects/pypixelbuf/en/latest/>
     RockBlock Iridium Satellite Modem <https://circuitpython.readthedocs.io/projects/rockblock/en/latest/>
     Si4713 Stereo FM Transmitter <https://circuitpython.readthedocs.io/projects/si4713/en/latest/>
