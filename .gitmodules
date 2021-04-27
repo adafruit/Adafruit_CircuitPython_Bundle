@@ -808,3 +808,6 @@
 [submodule "libraries/helpers/colorsys"]
 	path = libraries/helpers/colorsys
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Colorsys.git
+[submodule "libraries/drivers/ov7670"]
+	path = libraries/drivers/ov7670
+	url = https://github.com/adafruit/Adafruit_CircuitPython_OV7670
