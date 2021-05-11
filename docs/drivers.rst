@@ -63,10 +63,10 @@ Helpers for building graphical interfaces using the displayio core module and fr
     Cursor Control <https://circuitpython.readthedocs.io/projects/cursorcontrol/en/latest/>
     Bitmap Font <https://circuitpython.readthedocs.io/projects/bitmap-font/en/latest/>
     Bitmap Saver <https://circuitpython.readthedocs.io/projects/bitmapsaver/en/latest/>
-    Display Button <https://circuitpython.readthedocs.io/projects/display_button/en/latest/>
+    Display Button <https://circuitpython.readthedocs.io/projects/display-button/en/latest//>
     Display Notification <https://circuitpython.readthedocs.io/projects/display_notification/en/latest/>
-    Display Shapes <https://circuitpython.readthedocs.io/projects/display_shapes/en/latest/>
-    Display Text <https://circuitpython.readthedocs.io/projects/display-text/en/latest/>
+    Display Shapes <https://circuitpython.readthedocs.io/projects/display-shapes/en/latest/>
+    Display Text <https://circuitpython.readthedocs.io/projects/display_text/en/latest/>
     Framebuf Module <https://circuitpython.readthedocs.io/projects/framebuf/en/latest/>
     GFX (framebuf) <https://circuitpython.readthedocs.io/projects/gfx/en/latest/>
     Image Load <https://circuitpython.readthedocs.io/projects/imageload/en/latest/>
@@ -140,7 +140,7 @@ Helpers for Bluetooth Low Energy (BLE).
     BLE LYWSD03MMC (Xiaomi Mijia) <https://circuitpython.readthedocs.io/projects/ble_lywsd03mmc/en/latest/>
     BLE Magic Light <https://circuitpython.readthedocs.io/projects/ble_magic_light/en/latest/>
     BLE MIDI <https://circuitpython.readthedocs.io/projects/ble_midi/en/latest/>
-    BLE Radio <https://circuitpython.readthedocs.io/projects/ble-radio/en/latest/>
+    BLE Radio <https://circuitpython.readthedocs.io/projects/ble_radio/en/latest/>
 
 LoRa Wireless Helpers
 ^^^^^^^^^^^^^^^^^^^^^
@@ -249,7 +249,7 @@ OLED
 
 .. toctree::
 
-    SH1107 OLED (displayio) <https://circuitpython.readthedocs.io/projects/displayio_sh1107/en/latest/>
+    SH1107 OLED (displayio) <https://circuitpython.readthedocs.io/projects/displayio-sh1107/en/latest/>
     SSD1305 OLED (displayio) <https://circuitpython.readthedocs.io/projects/displayio_ssd1305/en/latest/>
     SSD1305 OLED (framebuf) <https://circuitpython.readthedocs.io/projects/ssd1305/en/latest/>
     SSD1306 OLED (displayio) <https://circuitpython.readthedocs.io/projects/displayio_ssd1306/en/latest/>
@@ -322,7 +322,7 @@ Motion relating sensing including ``acceleration``, ``magnetic``, ``gyro``, and 
     LSM303 Accelerometer Only<https://circuitpython.readthedocs.io/projects/lsm303-accel/en/latest/>
     LSM303 Accelerometer and Magnetometer <https://circuitpython.readthedocs.io/projects/lsm303/en/latest/>
     LSM303DLH Magnetometer Only<https://circuitpython.readthedocs.io/projects/lsm303dlh-mag/en/latest/>
-    LSM6DSOX, LSM6DS33, and ISM330DHCT  Accelerometer, Gyroscope and Temperature <https://circuitpython.readthedocs.io/projects/lsm6ds/en/latest/>
+    LSM6DSOX, LSM6DS33, and ISM330DHCT  Accelerometer, Gyroscope and Temperature <https://circuitpython.readthedocs.io/projects/lsm6dsox/en/latest/>
     LSM9DS0 Accelerometer, Magnetometer, Gyroscope and Temperature <https://circuitpython.readthedocs.io/projects/lsm9ds0/en/latest/>
     LSM9DS1 Accelerometer, Magnetometer, Gyroscope and Temperature <https://circuitpython.readthedocs.io/projects/lsm9ds1/en/latest/>
     MLX90390 3 Axis Magnetometer <https://circuitpython.readthedocs.io/projects/mlx90393/en/latest/>
