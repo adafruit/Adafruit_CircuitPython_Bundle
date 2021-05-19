@@ -39,3 +39,5 @@ jobs:
     - name: Build docs
       working-directory: docs
       run: sphinx-build -E -W -b html . _build/html
+    - name: Setup problem matchers
+      uses: adafruit/circuitpython-action-library-ci-problem-matchers@v1
