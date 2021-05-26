@@ -811,3 +811,6 @@
 [submodule "libraries/drivers/ov7670"]
 	path = libraries/drivers/ov7670
 	url = https://github.com/adafruit/Adafruit_CircuitPython_OV7670
+[submodule "libraries/helpers/dash_display"]
+	path = libraries/helpers/dash_display
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Dash_Display
