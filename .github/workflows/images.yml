@@ -21,6 +21,8 @@ jobs:
       run: echo "$GITHUB_CONTEXT"
 
     - uses: actions/checkout@v2.2.0
+      with:
+        submodules: true
 
     - name: Set up Python 3.9
       uses: actions/setup-python@v1
