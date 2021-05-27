@@ -35,7 +35,7 @@ jobs:
 
     - name: Generate images
       run: |
-        find libraries -pattern "libraries/*/examples/*.py" -exec python3 CircuitPython_Library_Screenshot_Maker/create_requirement_images_bundle.py {} +
+        find libraries -path "libraries/*/examples/*.py" -exec python3 CircuitPython_Library_Screenshot_Maker/create_requirement_images_bundle.py {} +
 
     - name: Commit updates
       run: |
