@@ -21,9 +21,9 @@ jobs:
       run: echo "$GITHUB_CONTEXT"
 
     - uses: actions/checkout@v2.2.0
-      with:
-        submodules: true
 
+    - name: checkout submodules
+      run: git submodule update --init --jobs 16 --depth 1
     - name: Set up Python 3.9
       uses: actions/setup-python@v1
       with:
@@ -37,7 +37,7 @@ jobs:
 
     - name: Generate images
       run: |
-        find libraries -path "libraries/*/examples/*.py" -exec python3 CircuitPython_Library_Screenshot_Maker/create_requirement_images_bundle.py {} +
+        find libraries -path "libraries/*/examples/*.py" -exec python3 CircuitPython_Library_Screenshot_Maker/create_requirement_images.py bundle {} +
 
     - name: Commit updates
       run: |
