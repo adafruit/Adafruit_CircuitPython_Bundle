@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 271 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 272 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -221,6 +221,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 271 lib
 * [Adafruit CircuitPython BusDevice](https://github.com/adafruit/Adafruit_CircuitPython_BusDevice.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-busdevice)) \([Docs](https://circuitpython.readthedocs.io/projects/busdevice/en/latest/))
 * [Adafruit CircuitPython Colorsys](https://github.com/adafruit/Adafruit_CircuitPython_Colorsys.git) \([Docs](https://circuitpython.readthedocs.io/projects/colorsys/en/latest/))
 * [Adafruit CircuitPython CursorControl](https://github.com/adafruit/Adafruit_CircuitPython_CursorControl.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-cursorcontrol)) \([Docs](https://circuitpython.readthedocs.io/projects/cursorcontrol/en/latest/))
+* [Adafruit CircuitPython Dash Display](https://github.com/adafruit/Adafruit_CircuitPython_Dash_Display) \([Docs](https://circuitpython.readthedocs.io/projects/dash_display/en/latest/))
 * [Adafruit CircuitPython Debouncer](https://github.com/adafruit/Adafruit_CircuitPython_Debouncer.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-debouncer)) \([Docs](https://circuitpython.readthedocs.io/projects/debouncer/en/latest/))
 * [Adafruit CircuitPython Debug I2C](https://github.com/adafruit/Adafruit_CircuitPython_Debug_I2C.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-debug-i2c)) \([Docs](https://circuitpython.readthedocs.io/projects/debug_i2c/en/latest/))
 * [Adafruit CircuitPython Display Button](https://github.com/adafruit/Adafruit_CircuitPython_Display_Button.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-button)) \([Docs](https://circuitpython.readthedocs.io/projects/display-button/en/latest/))
