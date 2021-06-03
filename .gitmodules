@@ -814,3 +814,6 @@
 [submodule "libraries/helpers/dash_display"]
 	path = libraries/helpers/dash_display
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Dash_Display
+[submodule "libraries/helpers/simple-text-display"]
+	path = libraries/helpers/simple-text-display
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Simple_Text_Display.git
