@@ -75,6 +75,7 @@ Helpers for building graphical interfaces using the displayio core module and fr
     ProgressBar <https://circuitpython.readthedocs.io/projects/progressbar/en/latest/>
     PYOA <https://circuitpython.readthedocs.io/projects/pyoa/en/latest/>
     Slideshow <https://circuitpython.readthedocs.io/projects/slideshow/en/latest/>
+    Simple Text Display <https://circuitpython.readthedocs.io/projects/simple-text-display/en/latest/>
     Turtle Graphics <https://circuitpython.readthedocs.io/projects/turtle/en/latest/>
     WSGI <https://circuitpython.readthedocs.io/projects/wsgi/en/latest/>
     DisplayIO Layout <https://circuitpython.readthedocs.io/projects/displayio-layout/en/latest/>
