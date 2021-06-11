@@ -9,7 +9,7 @@ Adafruit CircuitPython Library Bundle
     :target: https://adafru.it/discord
     :alt: Discord
 
-.. image:: https://travis-ci.com/adafruit/Adafruit_CircuitPython_Bundle.svg?branch=master
+.. image:: https://travis-ci.com/adafruit/Adafruit_CircuitPython_Bundle.svg?branch=main
     :target: https://travis-ci.com/adafruit/Adafruit_CircuitPython_Bundle
     :alt: Build Status
 
@@ -44,13 +44,13 @@ and then ``git submodule update``.
 Updating libraries
 -------------------
 To update the libraries run ``update-submodules.sh``. The script will fetch the
-latest code and update to the newest tag (not master).
+latest code and update to the newest tag (not main).
 
 To find libraries with commits that haven't been included in a release do:
 
 .. code::
 
-    git submodule foreach "git log --oneline HEAD...origin/master"
+    git submodule foreach "git log --oneline HEAD...origin/main"
 
 Adding a library
 -----------------
