@@ -817,3 +817,6 @@
 [submodule "libraries/helpers/simple-text-display"]
 	path = libraries/helpers/simple-text-display
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Simple_Text_Display.git
+[submodule "libraries/drivers/ov2640"]
+	path = libraries/drivers/ov2640
+	url = https://github.com/adafruit/Adafruit_CircuitPython_OV2640.git
