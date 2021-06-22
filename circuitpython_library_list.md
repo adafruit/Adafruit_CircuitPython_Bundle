@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 273 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 274 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -118,6 +118,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 273 lib
 * [Adafruit CircuitPython NeoPixel](https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-neopixel)) \([Docs](https://circuitpython.readthedocs.io/projects/neopixel/en/latest/))
 * [Adafruit CircuitPython NeoTrellis](https://github.com/adafruit/Adafruit_CircuitPython_NeoTrellis) ([PyPi](https://pypi.org/project/adafruit-circuitpython-neotrellis)) \([Docs](https://circuitpython.readthedocs.io/projects/neotrellis/en/latest/))
 * [Adafruit CircuitPython Nunchuk](https://github.com/adafruit/Adafruit_CircuitPython_Nunchuk.git) \([Docs](https://circuitpython.readthedocs.io/projects/nunchuk/en/latest/))
+* [Adafruit CircuitPython OV2640](https://github.com/adafruit/Adafruit_CircuitPython_OV2640.git) \([Docs](https://circuitpython.readthedocs.io/projects/ov2640/en/latest/))
 * [Adafruit CircuitPython OV7670](https://github.com/adafruit/Adafruit_CircuitPython_OV7670) \([Docs](https://circuitpython.readthedocs.io/projects/ov7670/en/latest/))
 * [Adafruit CircuitPython PCA9685](https://github.com/adafruit/Adafruit_CircuitPython_PCA9685.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pca9685)) \([Docs](https://circuitpython.readthedocs.io/projects/pca9685/en/latest/))
 * [Adafruit CircuitPython PCD8544](https://github.com/adafruit/Adafruit_CircuitPython_PCD8544.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pcd8544)) \([Docs](https://circuitpython.readthedocs.io/projects/pcd8544/en/latest/))
