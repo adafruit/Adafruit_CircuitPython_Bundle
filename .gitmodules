@@ -820,3 +820,6 @@
 [submodule "libraries/drivers/ov2640"]
 	path = libraries/drivers/ov2640
 	url = https://github.com/adafruit/Adafruit_CircuitPython_OV2640.git
+[submodule "libraries/helpers/neokey"]
+	path = libraries/helpers/neokey
+	url = https://github.com/adafruit/Adafruit_CircuitPython_NeoKey.git

@@ -199,6 +199,7 @@ Miscellaneous Helpers
     Debug I2C <https://circuitpython.readthedocs.io/projects/debug_i2c/en/latest/>
     InfraRed Remote <https://circuitpython.readthedocs.io/projects/irremote/en/latest/>
     Mini ESP Tool (ESP chips loader) <https://circuitpython.readthedocs.io/projects/miniesptool/en/latest/>
+    NeoKey <https://circuitpython.readthedocs.io/projects/neokey/en/latest/>
     OneWire <https://circuitpython.readthedocs.io/projects/onewire/en/latest/>
     SD Card <https://circuitpython.readthedocs.io/projects/sd/en/latest/>
     SimpleIO <https://circuitpython.readthedocs.io/projects/simpleio/en/latest/>
