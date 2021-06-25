@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 274 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 275 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -251,6 +251,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 274 lib
 * [Adafruit CircuitPython MotorKit](https://github.com/adafruit/Adafruit_CircuitPython_MotorKit.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-motorkit)) \([Docs](https://circuitpython.readthedocs.io/projects/motorkit/en/latest/))
 * [Adafruit CircuitPython Motor](https://github.com/adafruit/Adafruit_CircuitPython_Motor.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-motor)) \([Docs](https://circuitpython.readthedocs.io/projects/motor/en/latest/))
 * [Adafruit CircuitPython NTP](https://github.com/adafruit/Adafruit_CircuitPython_NTP.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ntp)) \([Docs](https://circuitpython.readthedocs.io/projects/ntp/en/latest/))
+* [Adafruit CircuitPython NeoKey](https://github.com/adafruit/Adafruit_CircuitPython_NeoKey.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-neokey)) \([Docs](https://circuitpython.readthedocs.io/projects/neokey/en/latest/))
 * [Adafruit CircuitPython OAuth2](https://github.com/adafruit/Adafruit_CircuitPython_OAuth2.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-oauth2)) \([Docs](https://circuitpython.readthedocs.io/projects/oauth2/en/latest/))
 * [Adafruit CircuitPython OneWire](https://github.com/adafruit/Adafruit_CircuitPython_OneWire.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-onewire)) \([Docs](https://circuitpython.readthedocs.io/projects/onewire/en/latest/))
 * [Adafruit CircuitPython PIOASM](https://github.com/adafruit/Adafruit_CircuitPython_PIOASM.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pioasm)) \([Docs](https://circuitpython.readthedocs.io/projects/pioasm/en/latest/))
