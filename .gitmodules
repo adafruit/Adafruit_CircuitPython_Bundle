@@ -823,3 +823,6 @@
 [submodule "libraries/helpers/neokey"]
 	path = libraries/helpers/neokey
 	url = https://github.com/adafruit/Adafruit_CircuitPython_NeoKey.git
+[submodule "libraries/drivers/displayio_sh1106"]
+	path = libraries/drivers/displayio_sh1106
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SH1106.git

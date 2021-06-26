@@ -252,6 +252,7 @@ OLED
 
 .. toctree::
 
+    SH1106 OLED (displayio) <https://circuitpython.readthedocs.io/projects/displayio_sh1106/en/latest/>
     SH1107 OLED (displayio) <https://circuitpython.readthedocs.io/projects/displayio-sh1107/en/latest/>
     SSD1305 OLED (displayio) <https://circuitpython.readthedocs.io/projects/displayio_ssd1305/en/latest/>
     SSD1305 OLED (framebuf) <https://circuitpython.readthedocs.io/projects/ssd1305/en/latest/>
