@@ -7,3 +7,4 @@ CircuitPython_Library_Screenshot_Maker/
 generated_images/
 latest_bundle_data.json
 latest_bundle_tag.json
+docs/_build/
