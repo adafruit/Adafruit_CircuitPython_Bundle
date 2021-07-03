@@ -48,4 +48,3 @@ jobs:
         git add *.png index.html
         git remote add origin https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
         if git commit -m"update images"; then git push -f origin HEAD:folder-images; fi
-
