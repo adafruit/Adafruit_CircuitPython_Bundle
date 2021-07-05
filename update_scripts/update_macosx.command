@@ -1,4 +1,9 @@
 #! /bin/bash
+
+# SPDX-FileCopyrightText: 2016 Scott Shawcroft for Adafruit Industries
+#
+# SPDX-License-Identifier: MIT
+
 cd $(dirname $0)
 latest_release=$(curl -s "https://api.github.com/repos/adafruit/Adafruit_CircuitPython_Bundle/releases/latest")
 download_link=$(echo $latest_release | grep -o "\"browser_download_url\": \"[^\"]*" | cut -d \" -f 4)
