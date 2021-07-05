@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2014 Coraline Ada Ehmke
+SPDX-FileCopyrightText: 2019-2021 Kattni Rembor for Adafruit Industries
+
+SPDX-License-Identifier: CC-BY-4.0
+-->
 # Adafruit Community Code of Conduct
 
 ## Our Pledge
@@ -33,6 +39,8 @@ Examples of unacceptable behavior by participants include:
 * Any spamming, flaming, baiting or other attention-stealing behavior
 * Excessive or unwelcome helping; answering outside the scope of the question
   asked
+* Discussion or promotion of activities or projects that intend or pose a risk of
+  significant harm
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Promoting or spreading disinformation, lies, or conspiracy theories against
   a person, group, organisation, project, or community
@@ -71,35 +79,40 @@ involving other community members.
 
 You may report in the following ways:
 
-In any situation, you may send an email to <support@adafruit.com>.
+In any situation, you may email <support@adafruit.com>.
 
 On the Adafruit Discord, you may send an open message from any channel
 to all Community Moderators by tagging @community moderators. You may
 also send an open message from any channel, or a direct message to
-@kattni#1507, @tannewt#4653, @Dan Halbert#1614, @cater#2442,
-@sommersoft#0222, @Mr. Certainly#0472 or @Andon#8175.
+any Community Moderator.
 
 Email and direct message reports will be kept confidential.
 
-In situations on Discord where the issue is particularly egregious, possibly
+In situations on Discord where the issue is particularly offensive, possibly
 illegal, requires immediate action, or violates the Discord terms of service,
-you should also report the message directly to Discord.
+you should also report the message directly to [Discord](https://discord.com/safety).
 
 These are the steps for upholding our community’s standards of conduct.
 
 1. Any member of the community may report any situation that violates the
-Adafruit Community Code of Conduct. All reports will be reviewed and
-investigated.
-2. If the behavior is an egregious violation, the community member who
-committed the violation may be banned immediately, without warning.
+   CircuitPython Community Code of Conduct. All reports will be reviewed and
+   investigated.
+2. If the behavior is a severe violation, the community member who
+   committed the violation may be banned immediately, without warning.
 3. Otherwise, moderators will first respond to such behavior with a warning.
 4. Moderators follow a soft "three strikes" policy - the community member may
-be given another chance, if they are receptive to the warning and change their
-behavior.
+   be given another chance, if they are receptive to the warning and change their
+   behavior.
 5. If the community member is unreceptive or unreasonable when warned by a
-moderator, or the warning goes unheeded, they may be banned for a first or
-second offense. Repeated offenses will result in the community member being
-banned.
+   moderator, or the warning goes unheeded, they may be banned for a first or
+   second offense. Repeated offenses will result in the community member being
+   banned.
+6. Disciplinary actions (warnings, bans, etc) for Code of Conduct violations apply
+   to the platform where the violation occurred. However, depending on the severity
+   of the violation, the disciplinary action may be applied across Adafruit's other
+   community platforms. For example, a severe violation on the Adafruit Discord
+   server may result in a ban on not only the Adafruit Discord server, but also on
+   the Adafruit GitHub organisation, Adafruit Forums, Adafruit Twitter, etc.
 
 ## Scope
 
@@ -117,9 +130,8 @@ accordingly.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 1.4, available at
-<https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>,
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/),
+version 1.4, available on [contributor-covenant.org](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html),
 and the [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html).
 
 For other projects adopting the Adafruit Community Code of
