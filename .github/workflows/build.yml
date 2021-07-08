@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2017 Scott Shawcroft, written for Adafruit Industries
+#
+# SPDX-License-Identifier: MIT
+
 name: Build CI
 
 on: [pull_request, push]
@@ -32,8 +36,12 @@ jobs:
       run: |
         sudo apt-get install gettext
         pip install -r requirements.txt
+        pip install pre-commit
     - name: Library version
       run: git describe --dirty --always --tags
+    - name: Pre-commit hooks
+      run: |
+        pre-commit run --all-files
     - name: Build assets
       run: circuitpython-build-bundles --filename_prefix ${{ steps.repo-name.outputs.repo-name }} --library_location libraries --library_depth 2
     - name: Build docs

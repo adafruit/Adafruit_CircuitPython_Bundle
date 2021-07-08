@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2020 ladyada
+#
+# SPDX-License-Identifier: MIT
+
 [submodule "libraries/register"]
 	path = libraries/helpers/register
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Register.git
