@@ -830,3 +830,6 @@
 [submodule "libraries/drivers/displayio_sh1106"]
 	path = libraries/drivers/displayio_sh1106
 	url = https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SH1106.git
+[submodule "libraries/helpers/macropad"]
+	path = libraries/helpers/macropad
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MacroPad.git
