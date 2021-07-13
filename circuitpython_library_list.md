@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 276 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 277 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -246,6 +246,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 276 lib
 * [Adafruit CircuitPython LIFX](https://github.com/adafruit/Adafruit_CircuitPython_LIFX.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lifx)) \([Docs](https://circuitpython.readthedocs.io/projects/lifx/en/latest/))
 * [Adafruit CircuitPython Logging](https://github.com/adafruit/Adafruit_CircuitPython_Logging.git) \([Docs](https://circuitpython.readthedocs.io/projects/logging/en/latest/))
 * [Adafruit CircuitPython MIDI](https://github.com/adafruit/Adafruit_CircuitPython_MIDI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-midi)) \([Docs](https://circuitpython.readthedocs.io/projects/midi/en/latest/))
+* [Adafruit CircuitPython MacroPad](https://github.com/adafruit/Adafruit_CircuitPython_MacroPad.git) \([Docs](https://circuitpython.readthedocs.io/projects/macropad/en/latest/))
 * [Adafruit CircuitPython MagTag](https://github.com/adafruit/Adafruit_CircuitPython_MagTag.git) \([Docs](https://circuitpython.readthedocs.io/projects/magtag/en/latest/))
 * [Adafruit CircuitPython MatrixPortal](https://github.com/adafruit/Adafruit_CircuitPython_MatrixPortal.git) \([Docs](https://circuitpython.readthedocs.io/projects/matrixportal/en/latest/))
 * [Adafruit CircuitPython MiniMQTT](https://github.com/adafruit/Adafruit_CircuitPython_MiniMQTT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-minimqtt)) \([Docs](https://circuitpython.readthedocs.io/projects/minimqtt/en/latest/))
