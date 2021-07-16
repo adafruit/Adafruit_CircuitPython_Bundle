@@ -833,3 +833,6 @@
 [submodule "libraries/helpers/macropad"]
 	path = libraries/helpers/macropad
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MacroPad.git
+[submodule "libraries/helpers/pixelbuf"]
+	path = libraries/helpers/pixelbuf
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Pixelbuf.git
