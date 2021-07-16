@@ -495,6 +495,7 @@ Miscellaneous
     Nunchuk <https://circuitpython.readthedocs.io/projects/nunchuk/en/latest/>
     OV2640 Camera <https://circuitpython.readthedocs.io/projects/ov2640/en/latest/>
     OV7670 Camera <https://circuitpython.readthedocs.io/projects/ov7670/en/latest/>
+    Pixelbuf <https://circuitpython.readthedocs.io/projects/pixelbuf/en/latest/>
     PyPixelbuf <https://circuitpython.readthedocs.io/projects/pypixelbuf/en/latest/>
     RockBlock Iridium Satellite Modem <https://circuitpython.readthedocs.io/projects/rockblock/en/latest/>
     Si4713 Stereo FM Transmitter <https://circuitpython.readthedocs.io/projects/si4713/en/latest/>
