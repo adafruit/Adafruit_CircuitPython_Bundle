@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 277 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 278 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -259,6 +259,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 277 lib
 * [Adafruit CircuitPython PIOASM](https://github.com/adafruit/Adafruit_CircuitPython_PIOASM.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pioasm)) \([Docs](https://circuitpython.readthedocs.io/projects/pioasm/en/latest/))
 * [Adafruit CircuitPython PYOA](https://github.com/adafruit/Adafruit_CircuitPython_PYOA.git) \([Docs](https://circuitpython.readthedocs.io/projects/pyoa/en/latest/))
 * [Adafruit CircuitPython Pixel Framebuf](https://github.com/adafruit/Adafruit_CircuitPython_Pixel_Framebuf.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pixel-framebuf)) \([Docs](https://circuitpython.readthedocs.io/projects/pixel_framebuf/en/latest/))
+* [Adafruit CircuitPython Pixelbuf](https://github.com/adafruit/Adafruit_CircuitPython_Pixelbuf.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pixelbuf)) \([Docs](https://circuitpython.readthedocs.io/projects/pixelbuf/en/latest/))
 * [Adafruit CircuitPython PortalBase](https://github.com/adafruit/Adafruit_CircuitPython_PortalBase.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-portalbase)) \([Docs](https://circuitpython.readthedocs.io/projects/portalbase/en/latest/))
 * [Adafruit CircuitPython ProgressBar](https://github.com/adafruit/Adafruit_CircuitPython_ProgressBar.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-progressbar)) \([Docs](https://circuitpython.readthedocs.io/projects/progressbar/en/latest/))
 * [Adafruit CircuitPython PyBadger](https://github.com/adafruit/Adafruit_CircuitPython_PyBadger.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pybadger)) \([Docs](https://circuitpython.readthedocs.io/projects/pybadger/en/latest/))
