@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current Adafruit CircuitPython Libraries. There are 279 libraries available.
+Here is a listing of current Adafruit CircuitPython Libraries. There are 280 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -137,6 +137,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 279 lib
 * [Adafruit CircuitPython RPLIDAR](https://github.com/adafruit/Adafruit_CircuitPython_RPLIDAR.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rplidar)) \([Docs](https://circuitpython.readthedocs.io/projects/rplidar/en/latest/))
 * [Adafruit CircuitPython RockBlock](https://github.com/adafruit/Adafruit_CircuitPython_RockBlock.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rockblock)) \([Docs](https://circuitpython.readthedocs.io/projects/rockblock/en/latest/))
 * [Adafruit CircuitPython SCD30](https://github.com/adafruit/Adafruit_CircuitPython_SCD30.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-scd30)) \([Docs](https://circuitpython.readthedocs.io/projects/scd30/en/latest/))
+* [Adafruit CircuitPython SCD4X](https://github.com/adafruit/Adafruit_CircuitPython_SCD4X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-scd4x)) \([Docs](https://circuitpython.readthedocs.io/projects/scd4x/en/latest/))
 * [Adafruit CircuitPython SD](https://github.com/adafruit/Adafruit_CircuitPython_SD.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sd)) \([Docs](https://circuitpython.readthedocs.io/projects/sd/en/latest/))
 * [Adafruit CircuitPython SGP30](https://github.com/adafruit/Adafruit_CircuitPython_SGP30.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sgp30)) \([Docs](https://circuitpython.readthedocs.io/projects/sgp30/en/latest/))
 * [Adafruit CircuitPython SGP40](https://github.com/adafruit/Adafruit_CircuitPython_SGP40.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sgp40)) \([Docs](https://circuitpython.readthedocs.io/projects/sgp40/en/latest/))
@@ -274,7 +275,7 @@ Here is a listing of current Adafruit CircuitPython Libraries. There are 279 lib
 * [Adafruit CircuitPython SimpleIO](https://github.com/adafruit/Adafruit_CircuitPython_SimpleIO.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-simpleio)) \([Docs](https://circuitpython.readthedocs.io/projects/simpleio/en/latest/))
 * [Adafruit CircuitPython SimpleMath](https://github.com/adafruit/Adafruit_CircuitPython_SimpleMath.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-simplemath)) \([Docs](https://circuitpython.readthedocs.io/projects/simplemath/en/latest/))
 * [Adafruit CircuitPython Slideshow](https://github.com/adafruit/Adafruit_CircuitPython_Slideshow.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-slideshow)) \([Docs](https://circuitpython.readthedocs.io/projects/slideshow/en/latest/))
-* [Adafruit CircuitPython Ticks](https://github.com/adafruit/Adafruit_CircuitPython_Ticks) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ticks)) \([Docs](https://circuitpython.readthedocs.io/projects/ticks/en/latest/))
+* [Adafruit CircuitPython Ticks](https://github.com/adafruit/Adafruit_CircuitPython_Ticks.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ticks)) \([Docs](https://circuitpython.readthedocs.io/projects/ticks/en/latest/))
 * [Adafruit CircuitPython TinyLoRa](https://github.com/adafruit/Adafruit_CircuitPython_TinyLoRa.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tinylora)) \([Docs](https://circuitpython.readthedocs.io/projects/tinylora/en/latest/))
 * [Adafruit CircuitPython WSGI](https://github.com/adafruit/Adafruit_CircuitPython_WSGI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wsgi)) \([Docs](https://circuitpython.readthedocs.io/projects/wsgi/en/latest/))
 * [Adafruit CircuitPython Waveform](https://github.com/adafruit/Adafruit_CircuitPython_Waveform.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-waveform)) \([Docs](https://circuitpython.readthedocs.io/projects/waveform/en/latest/))
