@@ -287,6 +287,7 @@ Other
     Character LCD <https://circuitpython.readthedocs.io/projects/charlcd/en/latest/>
     HT16K33 LED Matrices and Segment Displays <https://circuitpython.readthedocs.io/projects/ht16k33/en/latest/>
     IS31FL3731 Charlieplexed LED Matrix <https://circuitpython.readthedocs.io/projects/is31fl3731/en/latest/>
+    IS31FL3741 RGB LED Matrix driver <https://circuitpython.readthedocs.io/projects/is31fl3741/en/latest/>
     MAX7219 LED Matrix <https://circuitpython.readthedocs.io/projects/max7219/en/latest/>
     Nokia PCD8544 Display <https://circuitpython.readthedocs.io/projects/pcd8544/en/latest/>
     RA8875 40-Pin Display Driver <https://circuitpython.readthedocs.io/projects/ra8875/en/latest/>
