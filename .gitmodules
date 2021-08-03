@@ -842,3 +842,6 @@
 [submodule "libraries/drivers/scd4x"]
 	path = libraries/drivers/scd4x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SCD4X.git
+[submodule "libraries/drivers/is31fl3741"]
+	path = libraries/drivers/is31fl3741
+	url = https://github.com/adafruit/Adafruit_CircuitPython_IS31FL3741.git
