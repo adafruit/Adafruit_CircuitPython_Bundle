@@ -196,8 +196,10 @@ Miscellaneous Helpers
     AVR programming <https://circuitpython.readthedocs.io/projects/avrprog/en/latest/>
     BitbangIO <https://circuitpython.readthedocs.io/projects/bitbangio/en/latest/>
     Board Test Suite <https://circuitpython.readthedocs.io/projects/boardtest/en/latest/>
+    Colorsys <https://circuitpython.readthedocs.io/projects/colorsys/en/latest/>
     Debouncer <https://circuitpython.readthedocs.io/projects/debouncer/en/latest/>
     Debug I2C <https://circuitpython.readthedocs.io/projects/debug_i2c/en/latest/>
+    Ducky <https://circuitpython.readthedocs.io/projects/ducky/en/latest/>
     InfraRed Remote <https://circuitpython.readthedocs.io/projects/irremote/en/latest/>
     Mini ESP Tool (ESP chips loader) <https://circuitpython.readthedocs.io/projects/miniesptool/en/latest/>
     NeoKey <https://circuitpython.readthedocs.io/projects/neokey/en/latest/>
@@ -205,9 +207,8 @@ Miscellaneous Helpers
     SD Card <https://circuitpython.readthedocs.io/projects/sd/en/latest/>
     SimpleIO <https://circuitpython.readthedocs.io/projects/simpleio/en/latest/>
     SimpleMath <https://circuitpython.readthedocs.io/projects/simplemath/en/latest/>
-    USB Human Interface Device (Keyboard and Mouse) <https://circuitpython.readthedocs.io/projects/hid/en/latest/>
     Test Repo <https://circuitpython.readthedocs.io/projects/testrepo/en/latest/>
-    Colorsys <https://circuitpython.readthedocs.io/projects/colorsys/en/latest/>
+    USB Human Interface Device (Keyboard and Mouse) <https://circuitpython.readthedocs.io/projects/hid/en/latest/>
 
 Blinky
 --------
