@@ -845,3 +845,6 @@
 [submodule "libraries/drivers/is31fl3741"]
 	path = libraries/drivers/is31fl3741
 	url = https://github.com/adafruit/Adafruit_CircuitPython_IS31FL3741.git
+[submodule "libraries/helpers/ducky"]
+	path = libraries/helpers/ducky
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Ducky.git
