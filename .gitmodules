@@ -848,3 +848,6 @@
 [submodule "libraries/helpers/ducky"]
 	path = libraries/helpers/ducky
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Ducky.git
+[submodule "libraries/drivers/pcf8563"]
+	path = libraries/drivers/pcf8563
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PCF8563.git
