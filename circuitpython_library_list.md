@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 Here is a listing of current Adafruit CircuitPython Libraries.
-There are 282 libraries available.
+There are 283 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -125,6 +125,7 @@ There are 282 libraries available.
 * [Adafruit CircuitPython PCA9685](https://github.com/adafruit/Adafruit_CircuitPython_PCA9685.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pca9685)) \([Docs](https://circuitpython.readthedocs.io/projects/pca9685/en/latest/))
 * [Adafruit CircuitPython PCD8544](https://github.com/adafruit/Adafruit_CircuitPython_PCD8544.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pcd8544)) \([Docs](https://circuitpython.readthedocs.io/projects/pcd8544/en/latest/))
 * [Adafruit CircuitPython PCF8523](https://github.com/adafruit/Adafruit_CircuitPython_PCF8523.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pcf8523)) \([Docs](https://circuitpython.readthedocs.io/projects/pcf8523/en/latest/))
+* [Adafruit CircuitPython PCF8563](https://github.com/adafruit/Adafruit_CircuitPython_PCF8563.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pcf8563)) \([Docs](https://circuitpython.readthedocs.io/projects/pcf8563/en/latest/))
 * [Adafruit CircuitPython PCF8591](https://github.com/adafruit/Adafruit_CircuitPython_PCF8591.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pcf8591)) \([Docs](https://circuitpython.readthedocs.io/projects/pcf8591/en/latest/))
 * [Adafruit CircuitPython PCT2075](https://github.com/adafruit/Adafruit_CircuitPython_PCT2075.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pct2075)) \([Docs](https://circuitpython.readthedocs.io/projects/pct2075/en/latest/))
 * [Adafruit CircuitPython PM25](https://github.com/adafruit/Adafruit_CircuitPython_PM25.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pm25)) \([Docs](https://circuitpython.readthedocs.io/projects/pm25/en/latest/))
