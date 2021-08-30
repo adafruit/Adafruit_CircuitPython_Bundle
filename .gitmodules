@@ -851,3 +851,6 @@
 [submodule "libraries/drivers/pcf8563"]
 	path = libraries/drivers/pcf8563
 	url = https://github.com/adafruit/Adafruit_CircuitPython_PCF8563.git
+[submodule "libraries/drivers/st7565"]
+	path = libraries/drivers/st7565
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ST7565.git
