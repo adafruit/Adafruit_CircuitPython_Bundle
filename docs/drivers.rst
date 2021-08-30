@@ -293,6 +293,7 @@ Other
     Nokia PCD8544 Display <https://circuitpython.readthedocs.io/projects/pcd8544/en/latest/>
     RA8875 40-Pin Display Driver <https://circuitpython.readthedocs.io/projects/ra8875/en/latest/>
     Sharp Memory Display <https://circuitpython.readthedocs.io/projects/sharpmemorydisplay/en/latest/>
+    ST7565 Graphic Displays <https://circuitpython.readthedocs.io/projects/st7565/en/latest/>
 
 Real-time clocks
 -----------------
