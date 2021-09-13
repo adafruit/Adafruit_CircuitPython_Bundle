@@ -208,7 +208,7 @@ Miscellaneous Helpers
     SimpleIO <https://circuitpython.readthedocs.io/projects/simpleio/en/latest/>
     SimpleMath <https://circuitpython.readthedocs.io/projects/simplemath/en/latest/>
     Test Repo <https://circuitpython.readthedocs.io/projects/testrepo/en/latest/>
-    USB Human Interface Device (Keyboard and Mouse) <https://circuitpython.readthedocs.io/projects/hid/en/latest/>
+    USB HID - Human Interface Device (Keyboard and Mouse) <https://circuitpython.readthedocs.io/projects/hid/en/latest/>
 
 Blinky
 --------
