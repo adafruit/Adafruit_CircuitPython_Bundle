@@ -279,6 +279,7 @@ E-Paper / E-Ink
     SSD1675 (displayio) <https://circuitpython.readthedocs.io/projects/ssd1675/en/latest/>
     SSD1680 (displayio) <https://circuitpython.readthedocs.io/projects/ssd1680/en/latest/>
     SSD1681 (displayio) <https://circuitpython.readthedocs.io/projects/ssd1681/en/latest/>
+    UC8151D (displayio) <https://circuitpython.readthedocs.io/projects/uc8151d/en/latest/>
 
 Other
 ^^^^^^^^^^^^^^^
