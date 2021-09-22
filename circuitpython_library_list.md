@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 Here is a listing of current Adafruit CircuitPython Libraries.
-There are 284 libraries available.
+There are 285 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -186,6 +186,7 @@ There are 284 libraries available.
 * [Adafruit CircuitPython Touchscreen](https://github.com/adafruit/Adafruit_CircuitPython_Touchscreen.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-touchscreen)) \([Docs](https://circuitpython.readthedocs.io/projects/touchscreen/en/latest/))
 * [Adafruit CircuitPython TrellisM4](https://github.com/adafruit/Adafruit_CircuitPython_TrellisM4.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-trellism4)) \([Docs](https://circuitpython.readthedocs.io/projects/trellism4/en/latest/))
 * [Adafruit CircuitPython Trellis](https://github.com/adafruit/Adafruit_CircuitPython_Trellis.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-trellis)) \([Docs](https://circuitpython.readthedocs.io/projects/trellis/en/latest/))
+* [Adafruit CircuitPython UC8151D](https://github.com/adafruit/Adafruit_CircuitPython_UC8151D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-uc8151d)) \([Docs](https://circuitpython.readthedocs.io/projects/uc8151d/en/latest/))
 * [Adafruit CircuitPython US100](https://github.com/adafruit/Adafruit_CircuitPython_US100.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-us100)) \([Docs](https://circuitpython.readthedocs.io/projects/us100/en/latest/))
 * [Adafruit CircuitPython VC0706](https://github.com/adafruit/Adafruit_CircuitPython_VC0706.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vc0706)) \([Docs](https://circuitpython.readthedocs.io/projects/vc0706/en/latest/))
 * [Adafruit CircuitPython VCNL4010](https://github.com/adafruit/Adafruit_CircuitPython_VCNL4010.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vcnl4010)) \([Docs](https://circuitpython.readthedocs.io/projects/vcnl4010/en/latest/))
