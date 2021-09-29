@@ -857,3 +857,6 @@
 [submodule "libraries/drivers/uc8151d"]
 	path = libraries/drivers/uc8151d
 	url = https://github.com/adafruit/Adafruit_CircuitPython_UC8151D.git
+[submodule "libraries/helpers/radial_controller"]
+	path = libraries/helpers/radial_controller
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Radial_Controller.git
