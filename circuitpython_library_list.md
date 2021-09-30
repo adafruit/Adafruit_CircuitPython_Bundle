@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 Here is a listing of current Adafruit CircuitPython Libraries.
-There are 285 libraries available.
+There are 286 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -273,6 +273,7 @@ There are 285 libraries available.
 * [Adafruit CircuitPython RGBLED](https://github.com/adafruit/Adafruit_CircuitPython_RGBLED.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rgbled)) \([Docs](https://circuitpython.readthedocs.io/projects/rgbled/en/latest/))
 * [Adafruit CircuitPython RSA](https://github.com/adafruit/Adafruit_CircuitPython_RSA.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rsa)) \([Docs](https://circuitpython.readthedocs.io/projects/rsa/en/latest/))
 * [Adafruit CircuitPython RTTTL](https://github.com/adafruit/Adafruit_CircuitPython_RTTTL.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rtttl)) \([Docs](https://circuitpython.readthedocs.io/projects/rtttl/en/latest/))
+* [Adafruit CircuitPython Radial Controller](https://github.com/adafruit/Adafruit_CircuitPython_Radial_Controller.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-radial-controller)) \([Docs](https://circuitpython.readthedocs.io/projects/radial_controller/en/latest/))
 * [Adafruit CircuitPython Register](https://github.com/adafruit/Adafruit_CircuitPython_Register.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-register)) \([Docs](https://circuitpython.readthedocs.io/projects/register/en/latest/))
 * [Adafruit CircuitPython Requests](https://github.com/adafruit/Adafruit_CircuitPython_Requests.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-requests)) \([Docs](https://circuitpython.readthedocs.io/projects/requests/en/latest/))
 * [Adafruit CircuitPython ServoKit](https://github.com/adafruit/Adafruit_CircuitPython_ServoKit.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-servokit)) \([Docs](https://circuitpython.readthedocs.io/projects/servokit/en/latest/))
