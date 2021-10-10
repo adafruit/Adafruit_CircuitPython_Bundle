@@ -860,3 +860,6 @@
 [submodule "libraries/helpers/radial_controller"]
 	path = libraries/helpers/radial_controller
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Radial_Controller.git
+[submodule "libraries/drivers/ov5640"]
+	path = libraries/drivers/ov5640
+	url = https://github.com/adafruit/Adafruit_CircuitPython_OV5640.git
