@@ -863,3 +863,6 @@
 [submodule "libraries/drivers/ov5640"]
 	path = libraries/drivers/ov5640
 	url = https://github.com/adafruit/Adafruit_CircuitPython_OV5640.git
+[submodule "libraries/drivers/vl53l1x"]
+	path = libraries/drivers/vl53l1x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_VL53L1X.git
