@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 Here is a listing of current Adafruit CircuitPython Libraries.
-There are 287 libraries available.
+There are 288 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -196,6 +196,7 @@ There are 287 libraries available.
 * [Adafruit CircuitPython VEML6075](https://github.com/adafruit/Adafruit_CircuitPython_VEML6075.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-veml6075)) \([Docs](https://circuitpython.readthedocs.io/projects/veml6075/en/latest/))
 * [Adafruit CircuitPython VEML7700](https://github.com/adafruit/Adafruit_CircuitPython_VEML7700.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-veml7700)) \([Docs](https://circuitpython.readthedocs.io/projects/veml7700/en/latest/))
 * [Adafruit CircuitPython VL53L0X](https://github.com/adafruit/Adafruit_CircuitPython_VL53L0X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vl53l0x)) \([Docs](https://circuitpython.readthedocs.io/projects/vl53l0x/en/latest/))
+* [Adafruit CircuitPython VL53L1X](https://github.com/adafruit/Adafruit_CircuitPython_VL53L1X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vl53l1x)) \([Docs](https://circuitpython.readthedocs.io/projects/vl53l1x/en/latest/))
 * [Adafruit CircuitPython VL6180X](https://github.com/adafruit/Adafruit_CircuitPython_VL6180X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vl6180x)) \([Docs](https://circuitpython.readthedocs.io/projects/vl6180x/en/latest/))
 * [Adafruit CircuitPython VS1053](https://github.com/adafruit/Adafruit_CircuitPython_VS1053.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vs1053)) \([Docs](https://circuitpython.readthedocs.io/projects/vs1053/en/latest/))
 * [Adafruit CircuitPython WS2801](https://github.com/adafruit/Adafruit_CircuitPython_WS2801.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ws2801)) \([Docs](https://circuitpython.readthedocs.io/projects/ws2801/en/latest/))
