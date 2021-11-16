@@ -171,6 +171,7 @@ modules may have a CircuitPython Core API implementation too.
 
 .. toctree::
 
+    asyncio <https://circuitpython.readthedocs.io/projects/asyncio/en/latest/>
     binascii <https://circuitpython.readthedocs.io/projects/binascii/en/latest/>
     datetime <https://circuitpython.readthedocs.io/projects/datetime/en/latest/>
     IterTools <https://circuitpython.readthedocs.io/projects/itertools/en/latest/>
