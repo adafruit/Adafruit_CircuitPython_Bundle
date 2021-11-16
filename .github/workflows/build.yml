@@ -13,7 +13,9 @@ jobs:
     - name: Dump GitHub context
       env:
         GITHUB_CONTEXT: ${{ toJson(github) }}
-      run: echo "$GITHUB_CONTEXT"
+      run: |
+        export GITHUB_CONTEXT
+        printenv GITHUB_CONTEXT
     - name: Translate Repo Name For Build Tools filename_prefix
       id: repo-name
       run: |
