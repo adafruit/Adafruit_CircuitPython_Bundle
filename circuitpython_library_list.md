@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 Here is a listing of current Adafruit CircuitPython Libraries.
-There are 288 libraries available.
+There are 289 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
@@ -287,6 +287,7 @@ There are 288 libraries available.
 * [Adafruit CircuitPython TinyLoRa](https://github.com/adafruit/Adafruit_CircuitPython_TinyLoRa.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tinylora)) \([Docs](https://circuitpython.readthedocs.io/projects/tinylora/en/latest/))
 * [Adafruit CircuitPython WSGI](https://github.com/adafruit/Adafruit_CircuitPython_WSGI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wsgi)) \([Docs](https://circuitpython.readthedocs.io/projects/wsgi/en/latest/))
 * [Adafruit CircuitPython Waveform](https://github.com/adafruit/Adafruit_CircuitPython_Waveform.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-waveform)) \([Docs](https://circuitpython.readthedocs.io/projects/waveform/en/latest/))
+* [Adafruit CircuitPython asyncio](https://github.com/adafruit/Adafruit_CircuitPython_asyncio.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-asyncio)) \([Docs](https://circuitpython.readthedocs.io/projects/asyncio/en/latest/))
 * [Adafruit CircuitPython binascii](https://github.com/adafruit/Adafruit_CircuitPython_binascii.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-binascii)) \([Docs](https://circuitpython.readthedocs.io/projects/binascii/en/latest/))
 * [Adafruit CircuitPython datetime](https://github.com/adafruit/Adafruit_CircuitPython_datetime.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-datetime)) \([Docs](https://circuitpython.readthedocs.io/projects/datetime/en/latest/))
 * [Adafruit CircuitPython framebuf](https://github.com/adafruit/Adafruit_CircuitPython_framebuf.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-framebuf)) \([Docs](https://circuitpython.readthedocs.io/projects/framebuf/en/latest/))
