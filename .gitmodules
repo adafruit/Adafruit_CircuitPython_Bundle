@@ -866,3 +866,6 @@
 [submodule "libraries/drivers/vl53l1x"]
 	path = libraries/drivers/vl53l1x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_VL53L1X.git
+[submodule "libraries/helpers/asyncio"]
+	path = libraries/helpers/asyncio
+	url = https://github.com/adafruit/Adafruit_CircuitPython_asyncio.git
