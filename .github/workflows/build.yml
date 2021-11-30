@@ -45,7 +45,7 @@ jobs:
       run: |
         pre-commit run --all-files
     - name: Build assets
-      run: circuitpython-build-bundles --filename_prefix ${{ steps.repo-name.outputs.repo-name }} --library_location libraries --library_depth 2
+      run: circuitpython-build-bundles --filename_prefix ${{ steps.repo-name.outputs.repo-name }} --library_location libraries --library_depth 2 --package_folder_prefix "adafruit_, asyncio"
     - name: Build docs
       working-directory: docs
       run: sphinx-build -E -W -b html . _build/html

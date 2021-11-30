@@ -39,7 +39,7 @@ jobs:
         sudo apt-get install gettext
         pip install -r requirements.txt
     - name: Build assets
-      run: circuitpython-build-bundles --filename_prefix ${{ steps.repo-name.outputs.repo-name }} --library_location libraries --library_depth 2
+      run: circuitpython-build-bundles --filename_prefix ${{ steps.repo-name.outputs.repo-name }} --library_location libraries --library_depth 2 --package_folder_prefix "adafruit_, asyncio"
     - name: Upload Release Assets
       # the 'official' actions version does not yet support dynamically
       # supplying asset names to upload. @csexton's version chosen based on
