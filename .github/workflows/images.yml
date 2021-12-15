@@ -26,10 +26,10 @@ jobs:
 
     - name: checkout submodules
       run: git submodule update --init --jobs 16 --depth 1
-    - name: Set up Python 3.9
-      uses: actions/setup-python@v1
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v2
       with:
-        python-version: 3.9
+        python-version: "3.10"
 
     - name: Checkout screenshot maker
       run: git clone --depth=1 https://github.com/circuitpython/CircuitPython_Library_Screenshot_Maker
