@@ -479,6 +479,7 @@ Miscellaneous
 
 .. toctree::
 
+    24LC32 EEPROM <https://circuitpython.readthedocs.io/projects/24lc32/en/latest/>
     74HC595 Shift Register <https://circuitpython.readthedocs.io/projects/74hc595/en/latest/>
     ATECCx08 Cryptographic Co-Processor <https://circuitpython.readthedocs.io/projects/atecc/en/latest/>
     AMG88xx Grid-Eye IR Camera <https://circuitpython.readthedocs.io/projects/amg88xx/en/latest/>
