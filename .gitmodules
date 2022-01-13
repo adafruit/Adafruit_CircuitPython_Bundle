@@ -869,3 +869,6 @@
 [submodule "libraries/helpers/asyncio"]
 	path = libraries/helpers/asyncio
 	url = https://github.com/adafruit/Adafruit_CircuitPython_asyncio.git
+[submodule "libraries/drivers/24lc32"]
+	path = libraries/drivers/24lc32
+	url = https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git
