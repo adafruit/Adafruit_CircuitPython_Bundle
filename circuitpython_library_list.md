@@ -1,9 +1,10 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 Here is a listing of current Adafruit CircuitPython Libraries.
-There are 289 libraries available.
+There are 290 libraries available.
 
 ## Drivers:
+* [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://circuitpython.readthedocs.io/projects/24lc32/en/latest/))
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595)) \([Docs](https://circuitpython.readthedocs.io/projects/74hc595/en/latest/))
 * [Adafruit CircuitPython ADS1x15](https://github.com/adafruit/Adafruit_CircuitPython_ADS1x15.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ads1x15)) \([Docs](https://circuitpython.readthedocs.io/projects/ads1x15/en/latest/))
 * [Adafruit CircuitPython ADT7410](https://github.com/adafruit/Adafruit_CircuitPython_ADT7410.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-adt7410)) \([Docs](https://circuitpython.readthedocs.io/projects/adt7410/en/latest/))
