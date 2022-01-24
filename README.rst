@@ -2,7 +2,7 @@ Adafruit CircuitPython Library Bundle
 =======================================
 
 .. image:: https://readthedocs.org/projects/adafruit-circuitpython-bundle/badge/?version=latest
-    :target: https://circuitpython.readthedocs.io/projects/bundle/en/latest/
+    :target: https://docs.circuitpython.org/projects/bundle/en/latest/
     :alt: Documentation Status
 
 .. image:: https://img.shields.io/discord/327254708534116352.svg
