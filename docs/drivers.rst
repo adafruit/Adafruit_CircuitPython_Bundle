@@ -318,6 +318,7 @@ Motion relating sensing including ``acceleration``, ``magnetic``, ``gyro``, and 
 .. toctree::
 
     ADXL34x 3 Axis Accelerometer <https://circuitpython.readthedocs.io/projects/adxl34x/en/latest/>
+    ADXL37x 3 Axis Accelerometer <https://circuitpython.readthedocs.io/projects/adxl37x/en/latest/>
     BNO055 Accelerometer, Magnetometer, Gyroscope and Absolution Orientation <https://circuitpython.readthedocs.io/projects/bno055/en/latest/>
     BNO08X  9 Axis Sensor Fusion IMU <https://circuitpython.readthedocs.io/projects/bno08x/en/latest/>
     BNO08X_RVC Simple UART Heading Library <https://circuitpython.readthedocs.io/projects/bno08x_rvc/en/latest/>
