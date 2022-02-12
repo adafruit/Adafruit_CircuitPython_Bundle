@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 Here is a listing of current Adafruit CircuitPython Libraries.
-There are 290 libraries available.
+There are 291 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -9,6 +9,7 @@ There are 290 libraries available.
 * [Adafruit CircuitPython ADS1x15](https://github.com/adafruit/Adafruit_CircuitPython_ADS1x15.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ads1x15))
 * [Adafruit CircuitPython ADT7410](https://github.com/adafruit/Adafruit_CircuitPython_ADT7410.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-adt7410))
 * [Adafruit CircuitPython ADXL34x](https://github.com/adafruit/Adafruit_CircuitPython_ADXL34x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-adxl34x))
+* [Adafruit CircuitPython ADXL37x](https://github.com/adafruit/Adafruit_CircuitPython_ADXL37x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-adxl37x))
 * [Adafruit CircuitPython AHTx0](https://github.com/adafruit/Adafruit_CircuitPython_AHTx0.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ahtx0))
 * [Adafruit CircuitPython AM2320](https://github.com/adafruit/Adafruit_CircuitPython_AM2320.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-am2320))
 * [Adafruit CircuitPython AMG88xx](https://github.com/adafruit/Adafruit_CircuitPython_AMG88xx.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-amg88xx))
