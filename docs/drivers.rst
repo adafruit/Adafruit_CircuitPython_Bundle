@@ -29,6 +29,7 @@ specific boards.
 
     Adafruit CircuitPlayground <https://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/>
     Adafruit CLUE <https://circuitpython.readthedocs.io/projects/clue/en/latest/>
+    Adafruit ESP32S2TFT <https://circuitpython.readthedocs.io/projects/esp32s2tft/en/latest/>
     Adafruit FeatherWings <https://circuitpython.readthedocs.io/projects/featherwing/en/latest/>
     Adafruit FunHouse <https://circuitpython.readthedocs.io/projects/funhouse/en/latest/>
     Adafruit MacroPad <https://circuitpython.readthedocs.io/projects/macropad/en/latest/>

@@ -875,3 +875,6 @@
 [submodule "libraries/drivers/adxl37x"]
 	path = libraries/drivers/adxl37x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ADXL37x.git
+[submodule "libraries/helpers/esp32s2tft"]
+	path = libraries/helpers/esp32s2tft
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ESP32S2TFT.git
