@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 Here is a listing of current Adafruit CircuitPython Libraries.
-There are 291 libraries available.
+There are 292 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -241,6 +241,7 @@ There are 291 libraries available.
 * [Adafruit CircuitPython Display Text](https://github.com/adafruit/Adafruit_CircuitPython_Display_Text.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-text))
 * [Adafruit CircuitPython DisplayIO Layout](https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_Layout.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-displayio-layout))
 * [Adafruit CircuitPython Ducky](https://github.com/adafruit/Adafruit_CircuitPython_Ducky.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ducky))
+* [Adafruit CircuitPython ESP32S2TFT](https://github.com/adafruit/Adafruit_CircuitPython_ESP32S2TFT.git)
 * [Adafruit CircuitPython FakeRequests](https://github.com/adafruit/Adafruit_CircuitPython_FakeRequests.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fakerequests))
 * [Adafruit CircuitPython FancyLED](https://github.com/adafruit/Adafruit_CircuitPython_FancyLED.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fancyled))
 * [Adafruit CircuitPython FeatherWing](https://github.com/adafruit/Adafruit_CircuitPython_FeatherWing.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-featherwing))
