@@ -434,6 +434,7 @@ These sensors measure the ``distance`` to another object and may also measure li
     VL6180x 5 - 100 mm <https://circuitpython.readthedocs.io/projects/vl6180x/en/latest/>
     VL53L0x ~30 - 1000 mm <https://circuitpython.readthedocs.io/projects/vl53l0x/en/latest/>
     VL53L1X ~30 - 4000 mm <https://circuitpython.readthedocs.io/projects/vl53l1x/en/latest/>
+    VL53L4CD Time of Flight <https://circuitpython.readthedocs.io/projects/vl53l4cd/en/latest/
 
 Radio
 --------

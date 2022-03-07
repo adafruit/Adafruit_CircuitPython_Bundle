@@ -878,3 +878,6 @@
 [submodule "libraries/helpers/esp32s2tft"]
 	path = libraries/helpers/esp32s2tft
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ESP32S2TFT.git
+[submodule "libraries/drivers/vl53l4cd"]
+	path = libraries/drivers/vl53l4cd
+	url = https://github.com/adafruit/Adafruit_CircuitPython_VL53L4CD.git
