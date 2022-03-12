@@ -881,3 +881,6 @@
 [submodule "libraries/drivers/vl53l4cd"]
 	path = libraries/drivers/vl53l4cd
 	url = https://github.com/adafruit/Adafruit_CircuitPython_VL53L4CD.git
+[submodule "libraries/drivers/tt21100"]
+	path = libraries/drivers/tt21100
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TT21100.git
