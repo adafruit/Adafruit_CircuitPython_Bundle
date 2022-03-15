@@ -884,3 +884,6 @@
 [submodule "libraries/drivers/tt21100"]
 	path = libraries/drivers/tt21100
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TT21100.git
+[submodule "libraries/helpers/httpserver"]
+	path = libraries/helpers/httpserver
+	url = https://github.com/adafruit/Adafruit_CircuitPython_HTTPServer.git
