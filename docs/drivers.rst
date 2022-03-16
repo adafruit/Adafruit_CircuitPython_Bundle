@@ -117,6 +117,7 @@ Helpers for interfacing with the internet, including IoT protocols.
 .. toctree::
 
     Fake Requests <https://circuitpython.readthedocs.io/projects/fakerequests/en/latest/>
+    HTTP Server <https://circuitpython.readthedocs.io/projects/httpserver/en/latest/>
     JSON Web Token (JWT) <https://circuitpython.readthedocs.io/projects/jwt/en/latest/>
     MiniMQTT <https://circuitpython.readthedocs.io/projects/minimqtt/en/latest/>
     NTP (Network time Protocol) <https://circuitpython.readthedocs.io/projects/ntp/en/latest/>
