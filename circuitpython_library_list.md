@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 Here is a listing of current Adafruit CircuitPython Libraries.
-There are 294 libraries available.
+There are 295 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -251,6 +251,7 @@ There are 294 libraries available.
 * [Adafruit CircuitPython GC IOT Core](https://github.com/adafruit/Adafruit_CircuitPython_GC_IOT_Core.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-gc-iot-core))
 * [Adafruit CircuitPython Gizmo](https://github.com/adafruit/Adafruit_CircuitPython_Gizmo.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-gizmo))
 * [Adafruit CircuitPython HID](https://github.com/adafruit/Adafruit_CircuitPython_HID.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hid))
+* [Adafruit CircuitPython HTTPServer](https://github.com/adafruit/Adafruit_CircuitPython_HTTPServer.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-httpserver))
 * [Adafruit CircuitPython Hue](https://github.com/adafruit/Adafruit_CircuitPython_Hue.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hue))
 * [Adafruit CircuitPython ImageLoad](https://github.com/adafruit/Adafruit_CircuitPython_ImageLoad.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-imageload))
 * [Adafruit CircuitPython IterTools](https://github.com/adafruit/Adafruit_CircuitPython_IterTools.git)
