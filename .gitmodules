@@ -884,3 +884,6 @@
 [submodule "libraries/helpers/httpserver"]
 	path = libraries/helpers/httpserver
 	url = https://github.com/adafruit/Adafruit_CircuitPython_HTTPServer.git
+[submodule "libraries/drivers/tsc2007"]
+	path = libraries/drivers/tsc2007
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TSC2007.git
