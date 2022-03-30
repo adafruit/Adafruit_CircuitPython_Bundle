@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 Here is a listing of current Adafruit CircuitPython Libraries.
-There are 294 libraries available.
+There are 295 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -182,6 +182,7 @@ There are 294 libraries available.
 * [Adafruit CircuitPython TMP007](https://github.com/adafruit/Adafruit_CircuitPython_TMP007.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tmp007))
 * [Adafruit CircuitPython TMP117](https://github.com/adafruit/Adafruit_CircuitPython_TMP117) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tmp117))
 * [Adafruit CircuitPython TPA2016](https://github.com/adafruit/Adafruit_CircuitPython_TPA2016.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tpa2016))
+* [Adafruit CircuitPython TSC2007](https://github.com/adafruit/Adafruit_CircuitPython_TSC2007.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tsc2007))
 * [Adafruit CircuitPython TSL2561](https://github.com/adafruit/Adafruit_CircuitPython_TSL2561.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tsl2561))
 * [Adafruit CircuitPython TSL2591](https://github.com/adafruit/Adafruit_CircuitPython_TSL2591.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tsl2591))
 * [Adafruit CircuitPython TT21100](https://github.com/adafruit/Adafruit_CircuitPython_TT21100.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tt21100))
