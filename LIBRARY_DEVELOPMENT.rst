@@ -18,4 +18,3 @@ Adafruit libraries are not currently fully typed. If you would like to improve t
 
 .. _installing mypy: https://mypy.readthedocs.io/en/stable/getting_started.html#installing-and-running-mypy
 
-
