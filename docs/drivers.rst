@@ -495,6 +495,7 @@ Miscellaneous
     DS3502 I2C Potentiometer <https://circuitpython.readthedocs.io/projects/ds3502/en/latest/>
     Dymo Scale <https://circuitpython.readthedocs.io/projects/dymoscale/en/latest/>
     Fingerprint Sensor <https://circuitpython.readthedocs.io/projects/fingerprint/en/latest/>
+    Floppy <https://circuitpython.readthedocs.io/projects/floppy/en/latest/>
     FONA Cellular Module <https://circuitpython.readthedocs.io/projects/fona/en/latest/>
     FRAM Non-Volatile Memory <https://circuitpython.readthedocs.io/projects/fram/en/latest/>
     Gizmo <https://circuitpython.readthedocs.io/projects/gizmo/en/latest/>
