@@ -887,3 +887,6 @@
 [submodule "libraries/drivers/tsc2007"]
 	path = libraries/drivers/tsc2007
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TSC2007.git
+[submodule "libraries/drivers/floppy"]
+	path = libraries/drivers/floppy
+	url = https://github.com/adafruit/Adafruit_CircuitPython_floppy.git
