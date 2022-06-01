@@ -206,7 +206,7 @@ There are 296 libraries available.
 * [Adafruit CircuitPython VS1053](https://github.com/adafruit/Adafruit_CircuitPython_VS1053.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vs1053))
 * [Adafruit CircuitPython WS2801](https://github.com/adafruit/Adafruit_CircuitPython_WS2801.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ws2801))
 * [Adafruit CircuitPython Wiznet5k](https://github.com/adafruit/Adafruit_CircuitPython_Wiznet5k.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wiznet5k))
-* [Adafruit CircuitPython floppy](https://github.com/adafruit/Adafruit_CircuitPython_floppy.git) \([Docs](https://circuitpython.readthedocs.io/projects/floppy/en/latest/))
+* [Adafruit CircuitPython floppy](https://github.com/adafruit/Adafruit_CircuitPython_floppy.git)
 
 ## Helpers:
 * [Adafruit CircuitPython AVRprog](https://github.com/adafruit/Adafruit_CircuitPython_AVRprog.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-avrprog))
