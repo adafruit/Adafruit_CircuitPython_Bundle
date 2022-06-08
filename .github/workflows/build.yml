@@ -11,11 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Dump GitHub context
-      env:
-        GITHUB_CONTEXT: ${{ toJson(github) }}
-      run: |
-        export GITHUB_CONTEXT
-        printenv GITHUB_CONTEXT
+      uses: actions/github-script@v6
+      with:
+        script: console.log(JSON.stringify(context, null, 2))
     - name: Translate Repo Name For Build Tools filename_prefix
       id: repo-name
       run: |
