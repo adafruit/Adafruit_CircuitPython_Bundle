@@ -343,6 +343,7 @@ Motion relating sensing including ``acceleration``, ``magnetic``, ``gyro``, and 
     MLX90393 3 Axis Magnetometer <https://circuitpython.readthedocs.io/projects/mlx90393/en/latest/>
     MLX90395 3-Axis Magnetometer <https://circuitpython.readthedocs.io/projects/mlx90395/en/latest/>
     MMA8451 3 Axis Accelerometer <https://circuitpython.readthedocs.io/projects/mma8451/en/latest/>
+    MMC56X3 Magnetometers https://circuitpython.readthedocs.io/projects/mmc56x3/en/latest/>
     MPU6050 Accelerometer, Gyroscope, and Temperature Sensor <https://circuitpython.readthedocs.io/projects/mpu6050/en/latest/>
     MSA301 3 Axis Accelerometer <https://circuitpython.readthedocs.io/projects/msa301/en/latest/>
     TLV493D 3 Axis Magnetometer <https://circuitpython.readthedocs.io/projects/tlv493d/en/latest/>
@@ -473,6 +474,7 @@ These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``,
     MCP4728 4-Channel, 12-bit Digital-to-Analog Converter <https://circuitpython.readthedocs.io/projects/mcp4728/en/latest/>
     MPR121 Capacitive Touch Sensor <https://circuitpython.readthedocs.io/projects/mpr121/en/latest/>
     PCA9685 16 x 12-bit PWM Driver <https://circuitpython.readthedocs.io/projects/pca9685/en/latest/>
+    PCF8574 GPIO Expander https://circuitpython.readthedocs.io/projects/pcf8574/en/latest/>
     PCF8591 ADC + DAC Combo <https://circuitpython.readthedocs.io/projects/pcf8591/en/latest/>
     TCA9548 I2C Multiplexer <https://circuitpython.readthedocs.io/projects/tca9548a/en/latest/>
     TLA202X 12-bit I2C DAC <https://circuitpython.readthedocs.io/projects/tla202x/en/latest/>
