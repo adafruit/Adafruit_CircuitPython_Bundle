@@ -890,3 +890,9 @@
 [submodule "libraries/drivers/floppy"]
 	path = libraries/drivers/floppy
 	url = https://github.com/adafruit/Adafruit_CircuitPython_floppy.git
+[submodule "libraries/drivers/pcf8574"]
+	path = libraries/drivers/pcf8574
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PCF8574.git
+[submodule "libraries/drivers/mmc56x3"]
+	path = libraries/drivers/mmc56x3
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MMC56x3.git
