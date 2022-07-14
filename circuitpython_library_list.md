@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 Here is a listing of current Adafruit CircuitPython Libraries.
-There are 296 libraries available.
+There are 298 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -109,6 +109,7 @@ There are 296 libraries available.
 * [Adafruit CircuitPython MLX90614](https://github.com/adafruit/Adafruit_CircuitPython_MLX90614.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mlx90614))
 * [Adafruit CircuitPython MLX90640](https://github.com/adafruit/Adafruit_CircuitPython_MLX90640.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mlx90640))
 * [Adafruit CircuitPython MMA8451](https://github.com/adafruit/Adafruit_CircuitPython_MMA8451.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mma8451))
+* [Adafruit CircuitPython MMC56x3](https://github.com/adafruit/Adafruit_CircuitPython_MMC56x3.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mmc56x3))
 * [Adafruit CircuitPython MONSTERM4SK](https://github.com/adafruit/Adafruit_CircuitPython_MONSTERM4SK.git)
 * [Adafruit CircuitPython MPL115A2](https://github.com/adafruit/Adafruit_CircuitPython_MPL115A2.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mpl115a2))
 * [Adafruit CircuitPython MPL3115A2](https://github.com/adafruit/Adafruit_CircuitPython_MPL3115A2.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mpl3115a2))
@@ -129,6 +130,7 @@ There are 296 libraries available.
 * [Adafruit CircuitPython PCD8544](https://github.com/adafruit/Adafruit_CircuitPython_PCD8544.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pcd8544))
 * [Adafruit CircuitPython PCF8523](https://github.com/adafruit/Adafruit_CircuitPython_PCF8523.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pcf8523))
 * [Adafruit CircuitPython PCF8563](https://github.com/adafruit/Adafruit_CircuitPython_PCF8563.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pcf8563))
+* [Adafruit CircuitPython PCF8574](https://github.com/adafruit/Adafruit_CircuitPython_PCF8574.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pcf8574))
 * [Adafruit CircuitPython PCF8591](https://github.com/adafruit/Adafruit_CircuitPython_PCF8591.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pcf8591))
 * [Adafruit CircuitPython PCT2075](https://github.com/adafruit/Adafruit_CircuitPython_PCT2075.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pct2075))
 * [Adafruit CircuitPython PM25](https://github.com/adafruit/Adafruit_CircuitPython_PM25.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pm25))
