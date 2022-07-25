@@ -247,7 +247,7 @@ There are 298 libraries available.
 * [Adafruit CircuitPython Display Text](https://github.com/adafruit/Adafruit_CircuitPython_Display_Text.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-text))
 * [Adafruit CircuitPython DisplayIO Layout](https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_Layout.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-displayio-layout))
 * [Adafruit CircuitPython Ducky](https://github.com/adafruit/Adafruit_CircuitPython_Ducky.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ducky))
-* [Adafruit CircuitPython ESP32S2TFT](https://github.com/adafruit/Adafruit_CircuitPython_ESP32S2TFT.git)
+* [Adafruit CircuitPython ESP32S2TFT](https://github.com/adafruit/Adafruit_CircuitPython_ESP32S2TFT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-esp32s2tft))
 * [Adafruit CircuitPython FakeRequests](https://github.com/adafruit/Adafruit_CircuitPython_FakeRequests.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fakerequests))
 * [Adafruit CircuitPython FancyLED](https://github.com/adafruit/Adafruit_CircuitPython_FancyLED.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fancyled))
 * [Adafruit CircuitPython FeatherWing](https://github.com/adafruit/Adafruit_CircuitPython_FeatherWing.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-featherwing))
