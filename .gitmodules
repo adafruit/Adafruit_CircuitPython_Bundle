@@ -896,3 +896,6 @@
 [submodule "libraries/drivers/mmc56x3"]
 	path = libraries/drivers/mmc56x3
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MMC56x3.git
+[submodule "libraries/drivers/si1145"]
+	path = libraries/drivers/si1145
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SI1145.git
