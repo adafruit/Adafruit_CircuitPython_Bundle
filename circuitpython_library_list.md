@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 Here is a listing of current Adafruit CircuitPython Libraries.
-There are 298 libraries available.
+There are 299 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -151,6 +151,7 @@ There are 298 libraries available.
 * [Adafruit CircuitPython SHT31D](https://github.com/adafruit/Adafruit_CircuitPython_SHT31D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sht31d))
 * [Adafruit CircuitPython SHT4x](https://github.com/adafruit/Adafruit_CircuitPython_SHT4x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sht4x))
 * [Adafruit CircuitPython SHTC3](https://github.com/adafruit/Adafruit_CircuitPython_SHTC3.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-shtc3))
+* [Adafruit CircuitPython SI1145](https://github.com/adafruit/Adafruit_CircuitPython_SI1145.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-si1145))
 * [Adafruit CircuitPython SI4713](https://github.com/adafruit/Adafruit_CircuitPython_SI4713.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-si4713))
 * [Adafruit CircuitPython SI5351](https://github.com/adafruit/Adafruit_CircuitPython_SI5351.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-si5351))
 * [Adafruit CircuitPython SI7021](https://github.com/adafruit/Adafruit_CircuitPython_SI7021.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-si7021))
