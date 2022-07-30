@@ -899,3 +899,6 @@
 [submodule "libraries/drivers/si1145"]
 	path = libraries/drivers/si1145
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SI1145.git
+[submodule "libraries/drivers/ags02ma"]
+	path = libraries/drivers/ags02ma
+	url = https://github.com/adafruit/Adafruit_CircuitPython_AGS02MA.git

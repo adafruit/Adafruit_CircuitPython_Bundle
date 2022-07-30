@@ -360,6 +360,7 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
 
 
     ADT7410 High Accuracy Temperature Sensor <https://circuitpython.readthedocs.io/projects/adt7410/en/latest/>
+    AGS02MA Gas Sensor <https://circuitpython.readthedocs.io/projects/ags02ma/en/latest/>
     AHTx0 Tempertaure and Humidity Sensor <https://circuitpython.readthedocs.io/projects/ahtx0/en/latest/>
     AM2320 Temperature and Humidity <https://circuitpython.readthedocs.io/projects/am2320/en/latest/>
     BME280 Temperature, Humidity and Pressure <https://circuitpython.readthedocs.io/projects/bme280/en/latest/>
