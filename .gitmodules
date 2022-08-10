@@ -902,6 +902,3 @@
 [submodule "libraries/drivers/ags02ma"]
 	path = libraries/drivers/ags02ma
 	url = https://github.com/adafruit/Adafruit_CircuitPython_AGS02MA.git
-[submodule "libraries/drivers/max1704x"]
-	path = libraries/drivers/max1704x
-	url = https://github.com/adafruit/Adafruit_CircuitPython_MAX1704x.git
