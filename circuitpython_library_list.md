@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 Here is a listing of current Adafruit CircuitPython Libraries.
-There are 300 libraries available.
+There are 301 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -93,6 +93,7 @@ There are 300 libraries available.
 * [Adafruit CircuitPython LSM9DS0](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS0.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm9ds0))
 * [Adafruit CircuitPython LSM9DS1](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS1.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm9ds1))
 * [Adafruit CircuitPython LTR390](https://github.com/adafruit/Adafruit_CircuitPython_LTR390.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ltr390))
+* [Adafruit CircuitPython MAX1704x](https://github.com/adafruit/Adafruit_CircuitPython_MAX1704x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-max1704x))
 * [Adafruit CircuitPython MAX31855](https://github.com/adafruit/Adafruit_CircuitPython_MAX31855.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-max31855))
 * [Adafruit CircuitPython MAX31856](https://github.com/adafruit/Adafruit_CircuitPython_MAX31856.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-max31856))
 * [Adafruit CircuitPython MAX31865](https://github.com/adafruit/Adafruit_CircuitPython_MAX31865.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-max31865))
