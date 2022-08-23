@@ -905,3 +905,6 @@
 [submodule "libraries/drivers/max1704x"]
 	path = libraries/drivers/max1704x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MAX1704x.git
+[submodule "libraries/drivers/tca8418"]
+	path = libraries/drivers/tca8418
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TCA8418.git
