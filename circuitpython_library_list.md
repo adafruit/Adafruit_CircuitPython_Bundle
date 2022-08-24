@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 Here is a listing of current Adafruit CircuitPython Libraries.
-There are 301 libraries available.
+There are 303 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -61,6 +61,7 @@ There are 301 libraries available.
 * [Adafruit CircuitPython Fingerprint](https://github.com/adafruit/Adafruit_CircuitPython_Fingerprint.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fingerprint))
 * [Adafruit CircuitPython FocalTouch](https://github.com/adafruit/Adafruit_CircuitPython_FocalTouch.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-focaltouch))
 * [Adafruit CircuitPython GPS](https://github.com/adafruit/Adafruit_CircuitPython_GPS.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-gps))
+* [Adafruit CircuitPython GUVX I2C](https://github.com/adafruit/Adafruit_CircuitPython_GUVX_I2C.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-guvx-i2c))
 * [Adafruit CircuitPython HCSR04](https://github.com/adafruit/Adafruit_CircuitPython_HCSR04.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hcsr04))
 * [Adafruit CircuitPython HT16K33](https://github.com/adafruit/Adafruit_CircuitPython_HT16K33.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ht16k33))
 * [Adafruit CircuitPython HTS221](https://github.com/adafruit/Adafruit_CircuitPython_HTS221.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hts221))
@@ -176,6 +177,7 @@ There are 301 libraries available.
 * [Adafruit CircuitPython Seesaw](https://github.com/adafruit/Adafruit_CircuitPython_Seesaw.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-seesaw))
 * [Adafruit CircuitPython SharpMemoryDisplay](https://github.com/adafruit/Adafruit_CircuitPython_SharpMemoryDisplay.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sharpmemorydisplay))
 * [Adafruit CircuitPython TC74](https://github.com/adafruit/Adafruit_CircuitPython_TC74.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tc74))
+* [Adafruit CircuitPython TCA8418](https://github.com/adafruit/Adafruit_CircuitPython_TCA8418.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tca8418))
 * [Adafruit CircuitPython TCA9548A](https://github.com/adafruit/Adafruit_CircuitPython_TCA9548A.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tca9548a))
 * [Adafruit CircuitPython TCS34725](https://github.com/adafruit/Adafruit_CircuitPython_TCS34725.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tcs34725))
 * [Adafruit CircuitPython TFmini](https://github.com/adafruit/Adafruit_CircuitPython_TFmini.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tfmini))
