@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 Here is a listing of current Adafruit CircuitPython Libraries.
-There are 303 libraries available.
+There are 302 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -89,7 +89,6 @@ There are 303 libraries available.
 * [Adafruit CircuitPython LPS35HW](https://github.com/adafruit/Adafruit_CircuitPython_LPS35HW.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lps35hw))
 * [Adafruit CircuitPython LSM303 Accel](https://github.com/adafruit/Adafruit_CircuitPython_LSM303_Accel.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm303-accel))
 * [Adafruit CircuitPython LSM303DLH Mag](https://github.com/adafruit/Adafruit_CircuitPython_LSM303DLH_Mag.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm303dlh-mag))
-* [Adafruit CircuitPython LSM303](https://github.com/adafruit/Adafruit_CircuitPython_LSM303.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm303)) \([Docs](https://circuitpython.readthedocs.io/projects/lsm303/en/latest/))
 * [Adafruit CircuitPython LSM6DS](https://github.com/adafruit/Adafruit_CircuitPython_LSM6DS.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm6ds))
 * [Adafruit CircuitPython LSM9DS0](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS0.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm9ds0))
 * [Adafruit CircuitPython LSM9DS1](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS1.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm9ds1))
