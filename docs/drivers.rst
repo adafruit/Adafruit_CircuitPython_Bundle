@@ -479,6 +479,7 @@ These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``,
     MPR121 Capacitive Touch Sensor <https://circuitpython.readthedocs.io/projects/mpr121/en/latest/>
     PCA9685 16 x 12-bit PWM Driver <https://circuitpython.readthedocs.io/projects/pca9685/en/latest/>
     PCF8574 GPIO Expander https://circuitpython.readthedocs.io/projects/pcf8574/en/latest/>
+    PCF8575 GPIO Expander https://circuitpython.readthedocs.io/projects/pcf8575/en/latest/>
     PCF8591 ADC + DAC Combo <https://circuitpython.readthedocs.io/projects/pcf8591/en/latest/>
     TCA8418 I2C Keyboard Multiplexor <https://circuitpython.readthedocs.io/projects/tca8418/en/latest/>
     TCA9548 I2C Multiplexer <https://circuitpython.readthedocs.io/projects/tca9548a/en/latest/>
