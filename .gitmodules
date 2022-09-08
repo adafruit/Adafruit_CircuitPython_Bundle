@@ -914,3 +914,6 @@
 [submodule "libraries/drivers/ens160"]
 	path = libraries/drivers/ens160
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ENS160.git
+[submodule "libraries/drivers/pcf8575"]
+	path = libraries/drivers/pcf8575
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PCF8575.git
