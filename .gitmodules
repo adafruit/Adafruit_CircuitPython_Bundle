@@ -908,6 +908,12 @@
 [submodule "libraries/drivers/tca8418"]
 	path = libraries/drivers/tca8418
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TCA8418.git
+[submodule "libraries/drivers/ltr329_ltr303"]
+	path = libraries/drivers/ltr329_ltr303
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LTR329_LTR303.git
+[submodule "libraries/drivers/ens160"]
+	path = libraries/drivers/ens160
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ENS160.git
 [submodule "libraries/drivers/pcf8575"]
 	path = libraries/drivers/pcf8575
 	url = https://github.com/adafruit/Adafruit_CircuitPython_PCF8575.git

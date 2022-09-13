@@ -371,6 +371,7 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     DHT Temperature and Humidity <https://circuitpython.readthedocs.io/projects/dht/en/latest/>
     DPS310 Precision Barometric Pressure / Altitude Sensor <https://circuitpython.readthedocs.io/projects/dps310/en/latest/>
     DS18x20 Temperature <https://circuitpython.readthedocs.io/projects/ds18x20/en/latest/>
+    ENS160 (ScioSense) digital multi-gas sensor <https://circuitpython.readthedocs.io/projects/ens160/en/latest/>
     HTS221 Temperature and Humidity Sensor <https://circuitpython.readthedocs.io/projects/hts221/en/latest/>
     HTU21D Temperature and Humidity <https://circuitpython.readthedocs.io/projects/htu21d/en/latest/>
     HTU31D Temperature and Humidity <https://circuitpython.readthedocs.io/projects/htu31d/en/latest/>
@@ -415,6 +416,7 @@ These sensors detect light related attributes such as ``color``, ``light`` (unit
     AS7341 11-Channel Multi-Spectral Digital Sensor <https://circuitpython.readthedocs.io/projects/as7341/en/latest/>
     BH1750 Ambient Light <https://circuitpython.readthedocs.io/projects/bh1750/en/latest/>
     GUVx I2C UV Light Sensors <https://circuitpython.readthedocs.io/projects/guvx-i2c/en/latest/>
+    LTR329 LTR303 Light Sensors <https://circuitpython.readthedocs.io/projects/ltr329-ltr303/en/latest/>
     LTR390 Ambient Light and UV Sensor <https://circuitpython.readthedocs.io/projects/ltr390/en/latest/>
     TCS34725 Color Sensor <https://circuitpython.readthedocs.io/projects/tcs34725/en/latest/>
     TSL2561 Light Sensor <https://circuitpython.readthedocs.io/projects/tsl2561/en/latest/>
