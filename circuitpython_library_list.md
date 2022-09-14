@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 Here is a listing of current Adafruit CircuitPython Libraries.
-There are 303 libraries available.
+There are 305 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -51,6 +51,7 @@ There are 303 libraries available.
 * [Adafruit CircuitPython DotStar](https://github.com/adafruit/Adafruit_CircuitPython_DotStar.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-dotstar))
 * [Adafruit CircuitPython DymoScale](https://github.com/adafruit/Adafruit_CircuitPython_DymoScale.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-dymoscale))
 * [Adafruit CircuitPython EMC2101](https://github.com/adafruit/Adafruit_CircuitPython_EMC2101.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-emc2101))
+* [Adafruit CircuitPython ENS160](https://github.com/adafruit/Adafruit_CircuitPython_ENS160.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ens160))
 * [Adafruit CircuitPython EPD](https://github.com/adafruit/Adafruit_CircuitPython_EPD.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-epd))
 * [Adafruit CircuitPython ESP ATcontrol](https://github.com/adafruit/Adafruit_CircuitPython_ESP_ATcontrol.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-esp-atcontrol))
 * [Adafruit CircuitPython ESP32SPI](https://github.com/adafruit/Adafruit_CircuitPython_ESP32SPI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-esp32spi))
@@ -92,6 +93,7 @@ There are 303 libraries available.
 * [Adafruit CircuitPython LSM6DS](https://github.com/adafruit/Adafruit_CircuitPython_LSM6DS.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm6ds))
 * [Adafruit CircuitPython LSM9DS0](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS0.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm9ds0))
 * [Adafruit CircuitPython LSM9DS1](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS1.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm9ds1))
+* [Adafruit CircuitPython LTR329 LTR303](https://github.com/adafruit/Adafruit_CircuitPython_LTR329_LTR303.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ltr329-ltr303))
 * [Adafruit CircuitPython LTR390](https://github.com/adafruit/Adafruit_CircuitPython_LTR390.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ltr390))
 * [Adafruit CircuitPython MAX1704x](https://github.com/adafruit/Adafruit_CircuitPython_MAX1704x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-max1704x))
 * [Adafruit CircuitPython MAX31855](https://github.com/adafruit/Adafruit_CircuitPython_MAX31855.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-max31855))
