@@ -207,6 +207,7 @@ Miscellaneous Helpers
     Mini ESP Tool (ESP chips loader) <https://circuitpython.readthedocs.io/projects/miniesptool/en/latest/>
     NeoKey <https://circuitpython.readthedocs.io/projects/neokey/en/latest/>
     OneWire <https://circuitpython.readthedocs.io/projects/onewire/en/latest/>
+    PIOASM converter for RP2040 boards <https://docs.circuitpython.org/projects/pioasm/en/latest/>
     Radial Controller <https://circuitpython.readthedocs.io/projects/radial-controller/en/latest/>
     SD Card <https://circuitpython.readthedocs.io/projects/sd/en/latest/>
     SimpleIO <https://circuitpython.readthedocs.io/projects/simpleio/en/latest/>
@@ -313,6 +314,7 @@ through ``datetime``.
     DS1307 Real-time Clock (5V RTC Breakout) <https://circuitpython.readthedocs.io/projects/ds1307/en/latest/>
     DS3231 Real-time Clock (Precision RTC) <https://circuitpython.readthedocs.io/projects/ds3231/en/latest/>
     PCF8523 Real-time Clock (Adalogger RTC) <https://circuitpython.readthedocs.io/projects/pcf8523/en/latest/>
+    PCF8563 Real-time Clock <https://docs.circuitpython.org/projects/pcf8563/en/latest/>
 
 Motion Sensors
 ----------------
@@ -528,6 +530,7 @@ Miscellaneous
     Touchscreen 4-Wire Resistive <https://circuitpython.readthedocs.io/projects/touchscreen/en/latest/>
     TPA2016 Audio Amplifier with AGC <https://circuitpython.readthedocs.io/projects/tpa2016/en/latest/>
     Trellis 4x4 Keypad <https://circuitpython.readthedocs.io/projects/trellis/en/latest/>
+    TT21100 Capacitive Touchscreen Driver <https://docs.circuitpython.org/projects/tt21100/en/latest/>
     VC0706 TTL Camera <https://circuitpython.readthedocs.io/projects/vc0706/en/latest/>
     VS1053 Audio Codec <https://circuitpython.readthedocs.io/projects/vs1053/en/latest/>
     Wiznet5k Ethernet Module <https://circuitpython.readthedocs.io/projects/wiznet5k/en/latest/>
