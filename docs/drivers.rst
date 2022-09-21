@@ -346,7 +346,7 @@ Motion relating sensing including ``acceleration``, ``magnetic``, ``gyro``, and 
     MLX90393 3 Axis Magnetometer <https://circuitpython.readthedocs.io/projects/mlx90393/en/latest/>
     MLX90395 3-Axis Magnetometer <https://circuitpython.readthedocs.io/projects/mlx90395/en/latest/>
     MMA8451 3 Axis Accelerometer <https://circuitpython.readthedocs.io/projects/mma8451/en/latest/>
-    MMC56X3 Magnetometers https://circuitpython.readthedocs.io/projects/mmc56x3/en/latest/>
+    MMC56X3 Magnetometers <https://circuitpython.readthedocs.io/projects/mmc56x3/en/latest/>
     MPU6050 Accelerometer, Gyroscope, and Temperature Sensor <https://circuitpython.readthedocs.io/projects/mpu6050/en/latest/>
     MSA301 3 Axis Accelerometer <https://circuitpython.readthedocs.io/projects/msa301/en/latest/>
     TLV493D 3 Axis Magnetometer <https://circuitpython.readthedocs.io/projects/tlv493d/en/latest/>
@@ -445,7 +445,7 @@ These sensors measure the ``distance`` to another object and may also measure li
     VL6180x 5 - 100 mm <https://circuitpython.readthedocs.io/projects/vl6180x/en/latest/>
     VL53L0x ~30 - 1000 mm <https://circuitpython.readthedocs.io/projects/vl53l0x/en/latest/>
     VL53L1X ~30 - 4000 mm <https://circuitpython.readthedocs.io/projects/vl53l1x/en/latest/>
-    VL53L4CD Time of Flight <https://circuitpython.readthedocs.io/projects/vl53l4cd/en/latest/
+    VL53L4CD Time of Flight <https://circuitpython.readthedocs.io/projects/vl53l4cd/en/latest/>
 
 Radio
 --------
@@ -482,8 +482,8 @@ These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``,
     MCP4728 4-Channel, 12-bit Digital-to-Analog Converter <https://circuitpython.readthedocs.io/projects/mcp4728/en/latest/>
     MPR121 Capacitive Touch Sensor <https://circuitpython.readthedocs.io/projects/mpr121/en/latest/>
     PCA9685 16 x 12-bit PWM Driver <https://circuitpython.readthedocs.io/projects/pca9685/en/latest/>
-    PCF8574 GPIO Expander https://circuitpython.readthedocs.io/projects/pcf8574/en/latest/>
-    PCF8575 GPIO Expander https://circuitpython.readthedocs.io/projects/pcf8575/en/latest/>
+    PCF8574 GPIO Expander <https://circuitpython.readthedocs.io/projects/pcf8574/en/latest/>
+    PCF8575 GPIO Expander <https://circuitpython.readthedocs.io/projects/pcf8575/en/latest/>
     PCF8591 ADC + DAC Combo <https://circuitpython.readthedocs.io/projects/pcf8591/en/latest/>
     TCA8418 I2C Keyboard Multiplexor <https://circuitpython.readthedocs.io/projects/tca8418/en/latest/>
     TCA9548 I2C Multiplexer <https://circuitpython.readthedocs.io/projects/tca9548a/en/latest/>
