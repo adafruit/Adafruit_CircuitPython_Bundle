@@ -136,6 +136,7 @@ Helpers for Bluetooth Low Energy (BLE).
     BLE Adafruit Services <https://circuitpython.readthedocs.io/projects/ble_adafruit/en/latest/>
     BLE Apple Media Service <https://circuitpython.readthedocs.io/projects/ble_apple_media/en/latest/>
     BLE Apple Notification Center Service <https://circuitpython.readthedocs.io/projects/ble_apple_notification_center/en/latest/>
+    BLE Location Beacons <https://circuitpython.readthedocs.io/projects/ble_apple_notification_center/en/latest/>
     BLE BerryMed Pulse Oximeter Service <https://circuitpython.readthedocs.io/projects/ble_berrymed_pulse_oximeter/en/latest/>
     BLE BroadcastNet <https://circuitpython.readthedocs.io/projects/ble_broadcastnet/en/latest/>
     BLE Cycling Speed and Cadence <https://circuitpython.readthedocs.io/projects/ble_cycling_speed_and_cadence/en/latest/>

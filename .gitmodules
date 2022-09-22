@@ -917,3 +917,6 @@
 [submodule "libraries/drivers/pcf8575"]
 	path = libraries/drivers/pcf8575
 	url = https://github.com/adafruit/Adafruit_CircuitPython_PCF8575.git
+[submodule "libraries/helpers/ble_beacon"]
+	path = libraries/helpers/ble_beacon
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_Beacon.git
