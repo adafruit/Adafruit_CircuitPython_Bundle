@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 Here is a listing of current Adafruit CircuitPython Libraries.
-There are 305 libraries available.
+There are 306 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -226,6 +226,7 @@ There are 305 libraries available.
 * [Adafruit CircuitPython BLE Adafruit](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Adafruit.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-adafruit))
 * [Adafruit CircuitPython BLE Apple Media](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Apple_Media.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-apple-media))
 * [Adafruit CircuitPython BLE Apple Notification Center](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Apple_Notification_Center.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-apple-notification-center))
+* [Adafruit CircuitPython BLE Beacon](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Beacon.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-beacon))
 * [Adafruit CircuitPython BLE BerryMed Pulse Oximeter](https://github.com/adafruit/Adafruit_CircuitPython_BLE_BerryMed_Pulse_Oximeter.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-berrymed-pulse-oximeter))
 * [Adafruit CircuitPython BLE BroadcastNet](https://github.com/adafruit/Adafruit_CircuitPython_BLE_BroadcastNet.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-broadcastnet))
 * [Adafruit CircuitPython BLE Cycling Speed and Cadence](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Cycling_Speed_and_Cadence.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-cycling-speed-and-cadence))
