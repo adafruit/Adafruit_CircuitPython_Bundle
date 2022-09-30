@@ -6,11 +6,11 @@ name: Generate folder images
 
 on:
   schedule:
-    - cron: '0 10 * * *'
+    - cron: '5 22 * * *'
   workflow_dispatch:
 
 concurrency:
-  group: folder-images
+  group: bundle-folder-images
   cancel-in-progress: true
 
 jobs:
