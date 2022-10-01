@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: folder-images
+  group: bundle-folder-images
   cancel-in-progress: true
 
 jobs:
