@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 Here is a listing of current Adafruit CircuitPython Libraries.
-There are 306 libraries available.
+There are 307 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -231,6 +231,7 @@ There are 306 libraries available.
 * [Adafruit CircuitPython BLE BroadcastNet](https://github.com/adafruit/Adafruit_CircuitPython_BLE_BroadcastNet.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-broadcastnet))
 * [Adafruit CircuitPython BLE Cycling Speed and Cadence](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Cycling_Speed_and_Cadence.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-cycling-speed-and-cadence))
 * [Adafruit CircuitPython BLE Eddystone](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Eddystone.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-eddystone))
+* [Adafruit CircuitPython BLE File Transfer](https://github.com/adafruit/Adafruit_CircuitPython_BLE_File_Transfer.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-file-transfer))
 * [Adafruit CircuitPython BLE Heart Rate](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Heart_Rate.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-heart-rate))
 * [Adafruit CircuitPython BLE LYWSD03MMC](https://github.com/adafruit/Adafruit_CircuitPython_BLE_LYWSD03MMC.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-lywsd03mmc))
 * [Adafruit CircuitPython BLE MIDI](https://github.com/adafruit/Adafruit_CircuitPython_BLE_MIDI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-midi))
