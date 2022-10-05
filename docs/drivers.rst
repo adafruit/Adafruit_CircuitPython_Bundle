@@ -147,6 +147,7 @@ Helpers for Bluetooth Low Energy (BLE).
     BLE Magic Light <https://circuitpython.readthedocs.io/projects/ble_magic_light/en/latest/>
     BLE MIDI <https://circuitpython.readthedocs.io/projects/ble_midi/en/latest/>
     BLE Radio <https://circuitpython.readthedocs.io/projects/ble_radio/en/latest/>
+    BLE File Transfer <https://docs.circuitpython.org/projects/ble_file_transfer/en/latest/>
 
 LoRa Wireless Helpers
 ^^^^^^^^^^^^^^^^^^^^^

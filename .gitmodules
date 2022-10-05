@@ -920,3 +920,6 @@
 [submodule "libraries/helpers/ble_beacon"]
 	path = libraries/helpers/ble_beacon
 	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_Beacon.git
+[submodule "libraries/helpers/ble_file_transfer"]
+	path = libraries/helpers/ble_file_transfer
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_File_Transfer.git
