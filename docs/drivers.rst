@@ -141,13 +141,14 @@ Helpers for Bluetooth Low Energy (BLE).
     BLE BroadcastNet <https://circuitpython.readthedocs.io/projects/ble_broadcastnet/en/latest/>
     BLE Cycling Speed and Cadence <https://circuitpython.readthedocs.io/projects/ble_cycling_speed_and_cadence/en/latest/>
     BLE Eddystone Beacon <https://circuitpython.readthedocs.io/projects/ble_eddystone/en/latest/>
+    BLE File Transfer <https://docs.circuitpython.org/projects/ble_file_transfer/en/latest/>
     BLE Heart Rate <https://circuitpython.readthedocs.io/projects/ble_heart_rate/en/latest/>
     BLE iBBQ <https://circuitpython.readthedocs.io/projects/ble_ibbq/en/latest/>
     BLE LYWSD03MMC (Xiaomi Mijia) <https://circuitpython.readthedocs.io/projects/ble_lywsd03mmc/en/latest/>
     BLE Magic Light <https://circuitpython.readthedocs.io/projects/ble_magic_light/en/latest/>
     BLE MIDI <https://circuitpython.readthedocs.io/projects/ble_midi/en/latest/>
     BLE Radio <https://circuitpython.readthedocs.io/projects/ble_radio/en/latest/>
-    BLE File Transfer <https://docs.circuitpython.org/projects/ble_file_transfer/en/latest/>
+
 
 LoRa Wireless Helpers
 ^^^^^^^^^^^^^^^^^^^^^
