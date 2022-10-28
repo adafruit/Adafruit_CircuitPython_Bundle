@@ -10,11 +10,12 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: folder-images
+  group: bundle-folder-images
   cancel-in-progress: true
 
 jobs:
   update-images:
+    if: github.repository_owner == 'adafruit'
     runs-on: ubuntu-20.04
     steps:
     - name: Dump GitHub context
