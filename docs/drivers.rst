@@ -208,6 +208,7 @@ Miscellaneous Helpers
     Mini ESP Tool (ESP chips loader) <https://circuitpython.readthedocs.io/projects/miniesptool/en/latest/>
     NeoKey <https://circuitpython.readthedocs.io/projects/neokey/en/latest/>
     OneWire <https://circuitpython.readthedocs.io/projects/onewire/en/latest/>
+    Pastebin services <https://docs.circuitpython.org/projects/pastebin/en/latest/>
     PIOASM converter for RP2040 boards <https://docs.circuitpython.org/projects/pioasm/en/latest/>
     Radial Controller <https://circuitpython.readthedocs.io/projects/radial-controller/en/latest/>
     SD Card <https://circuitpython.readthedocs.io/projects/sd/en/latest/>
