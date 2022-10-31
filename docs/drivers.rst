@@ -81,7 +81,7 @@ Helpers for building graphical interfaces using the displayio core module and fr
     Turtle Graphics <https://circuitpython.readthedocs.io/projects/turtle/en/latest/>
     WSGI <https://circuitpython.readthedocs.io/projects/wsgi/en/latest/>
     DisplayIO Layout <https://circuitpython.readthedocs.io/projects/displayio-layout/en/latest/>
-    DisplayIO FlipClock <https://readthedocs.org/projects/adafruit-circuitpython-displayio-flipclock/>
+    DisplayIO FlipClock <https://adafruit-circuitpython-displayio-flipclock.readthedocs.io/en/latest/>
     Dash Display <https://circuitpython.readthedocs.io/projects/dash_display/en/latest/>
 
 Motor Helpers
