@@ -923,3 +923,6 @@
 [submodule "libraries/helpers/ble_file_transfer"]
 	path = libraries/helpers/ble_file_transfer
 	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_File_Transfer.git
+[submodule "libraries/helpers/pastebin"]
+	path = libraries/helpers/pastebin
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Pastebin.git
