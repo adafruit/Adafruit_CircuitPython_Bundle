@@ -3,6 +3,10 @@
 Here is a listing of current Adafruit CircuitPython libraries download statistics.  
 There are 308 libraries available.
 
+
+Total Blinka downloads: 34218  
+Total PyPI library downloads: 182737
+
 | PyPI Package | Downloads in the Last 7 Days |
 | --- | --- |
 | adafruit-circuitpython-busdevice | 28409 downloads |
@@ -84,8 +88,8 @@ There are 308 libraries available.
 | adafruit-circuitpython-tsl2561 | 466 downloads |
 | adafruit-circuitpython-waveform | 458 downloads |
 | adafruit-circuitpython-lis2mdl | 458 downloads |
-| adafruit-circuitpython-httpserver | 457 downloads |
 | adafruit-circuitpython-lis3mdl | 457 downloads |
+| adafruit-circuitpython-httpserver | 457 downloads |
 | adafruit-circuitpython-vc0706 | 457 downloads |
 | adafruit-circuitpython-bluefruitconnect | 456 downloads |
 | adafruit-circuitpython-l3gd20 | 456 downloads |
@@ -106,8 +110,8 @@ There are 308 libraries available.
 | adafruit-circuitpython-ra8875 | 435 downloads |
 | adafruit-circuitpython-pct2075 | 434 downloads |
 | adafruit-circuitpython-si7021 | 431 downloads |
-| adafruit-circuitpython-pcf8523 | 428 downloads |
 | adafruit-circuitpython-mcp9808 | 428 downloads |
+| adafruit-circuitpython-pcf8523 | 428 downloads |
 | adafruit-circuitpython-bmp3xx | 428 downloads |
 | adafruit-circuitpython-pm25 | 427 downloads |
 | adafruit-circuitpython-as726x | 423 downloads |
@@ -123,8 +127,8 @@ There are 308 libraries available.
 | adafruit-circuitpython-miniesptool | 416 downloads |
 | adafruit-circuitpython-mpl3115a2 | 415 downloads |
 | adafruit-circuitpython-trellism4 | 414 downloads |
-| adafruit-circuitpython-mpu6050 | 413 downloads |
 | adafruit-circuitpython-crickit | 413 downloads |
+| adafruit-circuitpython-mpu6050 | 413 downloads |
 | adafruit-circuitpython-tsl2591 | 412 downloads |
 | adafruit-circuitpython-max31865 | 411 downloads |
 | adafruit-circuitpython-avrprog | 410 downloads |
@@ -140,14 +144,14 @@ There are 308 libraries available.
 | adafruit-circuitpython-gc-iot-core | 399 downloads |
 | adafruit-circuitpython-il0373 | 398 downloads |
 | adafruit-circuitpython-simpleio | 397 downloads |
-| adafruit-circuitpython-turtle | 397 downloads |
 | adafruit-circuitpython-asyncio | 397 downloads |
-| adafruit-circuitpython-veml6075 | 396 downloads |
+| adafruit-circuitpython-turtle | 397 downloads |
 | adafruit-circuitpython-tlc5947 | 396 downloads |
+| adafruit-circuitpython-veml6075 | 396 downloads |
 | adafruit-circuitpython-thermal-printer | 396 downloads |
 | adafruit-circuitpython-onewire | 395 downloads |
-| adafruit-circuitpython-mcp3xxx | 394 downloads |
 | adafruit-circuitpython-atecc | 394 downloads |
+| adafruit-circuitpython-mcp3xxx | 394 downloads |
 | adafruit-circuitpython-touchscreen | 393 downloads |
 | adafruit-circuitpython-shtc3 | 392 downloads |
 | adafruit-circuitpython-am2320 | 390 downloads |
@@ -172,17 +176,17 @@ There are 308 libraries available.
 | adafruit-circuitpython-ssd1675 | 371 downloads |
 | adafruit-circuitpython-fancyled | 371 downloads |
 | adafruit-circuitpython-il91874 | 367 downloads |
-| adafruit-circuitpython-ltr390 | 366 downloads |
-| adafruit-circuitpython-ssd1305 | 366 downloads |
 | adafruit-circuitpython-rplidar | 366 downloads |
+| adafruit-circuitpython-ssd1305 | 366 downloads |
+| adafruit-circuitpython-ltr390 | 366 downloads |
 | adafruit-circuitpython-lsm9ds0 | 366 downloads |
 | adafruit-circuitpython-ble-broadcastnet | 365 downloads |
 | adafruit-circuitpython-fona | 364 downloads |
 | adafruit-circuitpython-rsa | 364 downloads |
 | adafruit-circuitpython-lc709203f | 363 downloads |
 | adafruit-circuitpython-trellis | 363 downloads |
-| adafruit-circuitpython-sgp40 | 363 downloads |
 | adafruit-circuitpython-lps2x | 363 downloads |
+| adafruit-circuitpython-sgp40 | 363 downloads |
 | adafruit-circuitpython-tlc59711 | 362 downloads |
 | adafruit-circuitpython-matrixkeypad | 362 downloads |
 | adafruit-circuitpython-ble-radio | 362 downloads |
@@ -203,8 +207,8 @@ There are 308 libraries available.
 | adafruit-circuitpython-ble-heart-rate | 347 downloads |
 | adafruit-circuitpython-hx8357 | 345 downloads |
 | adafruit-circuitpython-hue | 344 downloads |
-| adafruit-circuitpython-bitmapsaver | 342 downloads |
 | adafruit-circuitpython-logging | 342 downloads |
+| adafruit-circuitpython-bitmapsaver | 342 downloads |
 | adafruit-circuitpython-vcnl4040 | 338 downloads |
 | adafruit-circuitpython-tmp006 | 336 downloads |
 | adafruit-circuitpython-ds1841 | 336 downloads |
@@ -279,8 +283,8 @@ There are 308 libraries available.
 | adafruit-circuitpython-ssd1608 | 225 downloads |
 | adafruit-circuitpython-radial-controller | 209 downloads |
 | adafruit-circuitpython-circuitplayground | 205 downloads |
-| adafruit-circuitpython-pyportal | 204 downloads |
 | adafruit-circuitpython-24lc32 | 204 downloads |
+| adafruit-circuitpython-pyportal | 204 downloads |
 | adafruit-circuitpython-macropad | 203 downloads |
 | adafruit-circuitpython-vl53l4cd | 200 downloads |
 | adafruit-circuitpython-adxl37x | 200 downloads |
