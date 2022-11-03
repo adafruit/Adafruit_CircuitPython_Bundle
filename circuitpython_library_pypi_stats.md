@@ -1,11 +1,11 @@
 # Adafruit CircuitPython Library Download Stats
 ![Blinka With Tux](https://cdn-learn.adafruit.com/assets/assets/000/089/982/medium640/raspberry_pi_main_image.jpg)  
-## Here is a listing of current Adafruit CircuitPython libraries download statistics.
-## There are **308** libraries available.
+### Here is a listing of current Adafruit CircuitPython libraries download statistics.
+**There are 308 libraries available.**
 
 
-### Total Blinka downloads: **33616**
-### Total PyPI library downloads: **195955**
+**Total Blinka downloads: 33616**
+**Total PyPI library downloads: 195955**
 
 | Library (PyPI Package) | Downloads in the Last 7 Days |
 | --- | --- |
