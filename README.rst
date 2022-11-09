@@ -45,6 +45,8 @@ Development
 After you clone this repository you must run ``git submodule init``
 and then ``git submodule update``.
 
+For developing individual libraries, please see LIBRARY_DEVELOPMENT.rst.
+
 Updating libraries
 -------------------
 To update the libraries run ``update-submodules.sh``. The script will fetch the
