@@ -13,6 +13,10 @@ Adafruit CircuitPython Library Bundle
     :target: https://travis-ci.com/adafruit/Adafruit_CircuitPython_Bundle
     :alt: Build Status
 
+.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
+    :target: https://github.com/psf/black
+    :alt: Code Style: Black
+
 This repo bundles a bunch of useful CircuitPython libraries into an easy to
 download zip file. CircuitPython boards can ship with the contents of the zip to
 make it easy to provide a lot of libraries by default.
@@ -82,15 +86,15 @@ To build this bundle locally you'll need to install the
 
 .. code::
 
-    python3 -m venv .env
-    source .env/bin/activate
+    python3 -m venv .venv
+    source .venv/bin/activate
     pip install circuitpython-build-tools
 
 Once installed, make sure you are in the virtual environment:
 
 .. code::
 
-    source .env/bin/activate
+    source .venv/bin/activate
 
 Then run the build:
 

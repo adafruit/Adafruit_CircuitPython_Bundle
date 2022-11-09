@@ -33,12 +33,12 @@ specific boards.
     Adafruit FeatherWings <https://circuitpython.readthedocs.io/projects/featherwing/en/latest/>
     Adafruit FunHouse <https://circuitpython.readthedocs.io/projects/funhouse/en/latest/>
     Adafruit MacroPad <https://circuitpython.readthedocs.io/projects/macropad/en/latest/>
-    MatrixPortal (Metro M4 Airlift + RGB Shield) <https://circuitpython.readthedocs.io/projects/matrixportal/en/latest/>
     Adafruit MagTag <https://circuitpython.readthedocs.io/projects/magtag/en/latest/>
-    Adafruit PortalBase <https://circuitpython.readthedocs.io/projects/portalbase/en/latest/>
-    PyBadger (PyBadge and PyGamer) <https://circuitpython.readthedocs.io/projects/pybadger/en/latest/>
-    Adafruit PyPortal <https://circuitpython.readthedocs.io/projects/pyportal/en/latest/>
     Adafruit MONSTER M4SK <https://circuitpython.readthedocs.io/projects/monsterm4sk/en/latest/>
+    Adafruit PortalBase <https://circuitpython.readthedocs.io/projects/portalbase/en/latest/>
+    Adafruit PyPortal <https://circuitpython.readthedocs.io/projects/pyportal/en/latest/>
+    PyBadger (PyBadge and PyGamer) <https://circuitpython.readthedocs.io/projects/pybadger/en/latest/>
+    MatrixPortal (Metro M4 Airlift + RGB Shield) <https://circuitpython.readthedocs.io/projects/matrixportal/en/latest/>
 
 Helper Libraries
 -----------------
@@ -136,16 +136,19 @@ Helpers for Bluetooth Low Energy (BLE).
     BLE Adafruit Services <https://circuitpython.readthedocs.io/projects/ble_adafruit/en/latest/>
     BLE Apple Media Service <https://circuitpython.readthedocs.io/projects/ble_apple_media/en/latest/>
     BLE Apple Notification Center Service <https://circuitpython.readthedocs.io/projects/ble_apple_notification_center/en/latest/>
+    BLE Location Beacons <https://circuitpython.readthedocs.io/projects/ble_beacon/en/latest/>
     BLE BerryMed Pulse Oximeter Service <https://circuitpython.readthedocs.io/projects/ble_berrymed_pulse_oximeter/en/latest/>
     BLE BroadcastNet <https://circuitpython.readthedocs.io/projects/ble_broadcastnet/en/latest/>
     BLE Cycling Speed and Cadence <https://circuitpython.readthedocs.io/projects/ble_cycling_speed_and_cadence/en/latest/>
     BLE Eddystone Beacon <https://circuitpython.readthedocs.io/projects/ble_eddystone/en/latest/>
+    BLE File Transfer <https://docs.circuitpython.org/projects/ble_file_transfer/en/latest/>
     BLE Heart Rate <https://circuitpython.readthedocs.io/projects/ble_heart_rate/en/latest/>
     BLE iBBQ <https://circuitpython.readthedocs.io/projects/ble_ibbq/en/latest/>
     BLE LYWSD03MMC (Xiaomi Mijia) <https://circuitpython.readthedocs.io/projects/ble_lywsd03mmc/en/latest/>
     BLE Magic Light <https://circuitpython.readthedocs.io/projects/ble_magic_light/en/latest/>
     BLE MIDI <https://circuitpython.readthedocs.io/projects/ble_midi/en/latest/>
     BLE Radio <https://circuitpython.readthedocs.io/projects/ble_radio/en/latest/>
+
 
 LoRa Wireless Helpers
 ^^^^^^^^^^^^^^^^^^^^^
@@ -207,12 +210,15 @@ Miscellaneous Helpers
     Mini ESP Tool (ESP chips loader) <https://circuitpython.readthedocs.io/projects/miniesptool/en/latest/>
     NeoKey <https://circuitpython.readthedocs.io/projects/neokey/en/latest/>
     OneWire <https://circuitpython.readthedocs.io/projects/onewire/en/latest/>
+    Pastebin services <https://docs.circuitpython.org/projects/pastebin/en/latest/>
+    PIOASM converter for RP2040 boards <https://docs.circuitpython.org/projects/pioasm/en/latest/>
     Radial Controller <https://circuitpython.readthedocs.io/projects/radial-controller/en/latest/>
     SD Card <https://circuitpython.readthedocs.io/projects/sd/en/latest/>
     SimpleIO <https://circuitpython.readthedocs.io/projects/simpleio/en/latest/>
     SimpleMath <https://circuitpython.readthedocs.io/projects/simplemath/en/latest/>
     Test Repo <https://circuitpython.readthedocs.io/projects/testrepo/en/latest/>
     USB HID - Human Interface Device (Keyboard and Mouse) <https://circuitpython.readthedocs.io/projects/hid/en/latest/>
+    Ticks <https://circuitpython.readthedocs.io/projects/ticks/en/latest/>
 
 Blinky
 --------
@@ -312,6 +318,7 @@ through ``datetime``.
     DS1307 Real-time Clock (5V RTC Breakout) <https://circuitpython.readthedocs.io/projects/ds1307/en/latest/>
     DS3231 Real-time Clock (Precision RTC) <https://circuitpython.readthedocs.io/projects/ds3231/en/latest/>
     PCF8523 Real-time Clock (Adalogger RTC) <https://circuitpython.readthedocs.io/projects/pcf8523/en/latest/>
+    PCF8563 Real-time Clock <https://docs.circuitpython.org/projects/pcf8563/en/latest/>
 
 Motion Sensors
 ----------------
@@ -343,6 +350,7 @@ Motion relating sensing including ``acceleration``, ``magnetic``, ``gyro``, and 
     MLX90393 3 Axis Magnetometer <https://circuitpython.readthedocs.io/projects/mlx90393/en/latest/>
     MLX90395 3-Axis Magnetometer <https://circuitpython.readthedocs.io/projects/mlx90395/en/latest/>
     MMA8451 3 Axis Accelerometer <https://circuitpython.readthedocs.io/projects/mma8451/en/latest/>
+    MMC56X3 Magnetometers <https://circuitpython.readthedocs.io/projects/mmc56x3/en/latest/>
     MPU6050 Accelerometer, Gyroscope, and Temperature Sensor <https://circuitpython.readthedocs.io/projects/mpu6050/en/latest/>
     MSA301 3 Axis Accelerometer <https://circuitpython.readthedocs.io/projects/msa301/en/latest/>
     TLV493D 3 Axis Magnetometer <https://circuitpython.readthedocs.io/projects/tlv493d/en/latest/>
@@ -358,6 +366,7 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
 
 
     ADT7410 High Accuracy Temperature Sensor <https://circuitpython.readthedocs.io/projects/adt7410/en/latest/>
+    AGS02MA Gas Sensor <https://circuitpython.readthedocs.io/projects/ags02ma/en/latest/>
     AHTx0 Tempertaure and Humidity Sensor <https://circuitpython.readthedocs.io/projects/ahtx0/en/latest/>
     AM2320 Temperature and Humidity <https://circuitpython.readthedocs.io/projects/am2320/en/latest/>
     BME280 Temperature, Humidity and Pressure <https://circuitpython.readthedocs.io/projects/bme280/en/latest/>
@@ -368,6 +377,7 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     DHT Temperature and Humidity <https://circuitpython.readthedocs.io/projects/dht/en/latest/>
     DPS310 Precision Barometric Pressure / Altitude Sensor <https://circuitpython.readthedocs.io/projects/dps310/en/latest/>
     DS18x20 Temperature <https://circuitpython.readthedocs.io/projects/ds18x20/en/latest/>
+    ENS160 (ScioSense) digital multi-gas sensor <https://circuitpython.readthedocs.io/projects/ens160/en/latest/>
     HTS221 Temperature and Humidity Sensor <https://circuitpython.readthedocs.io/projects/hts221/en/latest/>
     HTU21D Temperature and Humidity <https://circuitpython.readthedocs.io/projects/htu21d/en/latest/>
     HTU31D Temperature and Humidity <https://circuitpython.readthedocs.io/projects/htu31d/en/latest/>
@@ -411,6 +421,8 @@ These sensors detect light related attributes such as ``color``, ``light`` (unit
     AS726x Color Spectrum Sensor <https://circuitpython.readthedocs.io/projects/as726x/en/latest/>
     AS7341 11-Channel Multi-Spectral Digital Sensor <https://circuitpython.readthedocs.io/projects/as7341/en/latest/>
     BH1750 Ambient Light <https://circuitpython.readthedocs.io/projects/bh1750/en/latest/>
+    GUVx I2C UV Light Sensors <https://circuitpython.readthedocs.io/projects/guvx-i2c/en/latest/>
+    LTR329 LTR303 Light Sensors <https://circuitpython.readthedocs.io/projects/ltr329-ltr303/en/latest/>
     LTR390 Ambient Light and UV Sensor <https://circuitpython.readthedocs.io/projects/ltr390/en/latest/>
     TCS34725 Color Sensor <https://circuitpython.readthedocs.io/projects/tcs34725/en/latest/>
     TSL2561 Light Sensor <https://circuitpython.readthedocs.io/projects/tsl2561/en/latest/>
@@ -420,6 +432,7 @@ These sensors detect light related attributes such as ``color``, ``light`` (unit
     VEML6070 UV Index <https://circuitpython.readthedocs.io/projects/veml6070/en/latest/>
     VEML6075 UV Index <https://circuitpython.readthedocs.io/projects/veml6075/en/latest/>
     VEML7700 High Accuracy Ambient Light Sensor <https://circuitpython.readthedocs.io/projects/veml7700/en/latest/>
+    SI1145 Digital UV Index IR Visible Light Sensor <https://circuitpython.readthedocs.io/projects/si1145/en/latest/>
 
 Distance Sensors
 ------------------
@@ -436,7 +449,7 @@ These sensors measure the ``distance`` to another object and may also measure li
     VL6180x 5 - 100 mm <https://circuitpython.readthedocs.io/projects/vl6180x/en/latest/>
     VL53L0x ~30 - 1000 mm <https://circuitpython.readthedocs.io/projects/vl53l0x/en/latest/>
     VL53L1X ~30 - 4000 mm <https://circuitpython.readthedocs.io/projects/vl53l1x/en/latest/>
-    VL53L4CD Time of Flight <https://circuitpython.readthedocs.io/projects/vl53l4cd/en/latest/
+    VL53L4CD Time of Flight <https://circuitpython.readthedocs.io/projects/vl53l4cd/en/latest/>
 
 Radio
 --------
@@ -473,7 +486,10 @@ These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``,
     MCP4728 4-Channel, 12-bit Digital-to-Analog Converter <https://circuitpython.readthedocs.io/projects/mcp4728/en/latest/>
     MPR121 Capacitive Touch Sensor <https://circuitpython.readthedocs.io/projects/mpr121/en/latest/>
     PCA9685 16 x 12-bit PWM Driver <https://circuitpython.readthedocs.io/projects/pca9685/en/latest/>
+    PCF8574 GPIO Expander <https://circuitpython.readthedocs.io/projects/pcf8574/en/latest/>
+    PCF8575 GPIO Expander <https://circuitpython.readthedocs.io/projects/pcf8575/en/latest/>
     PCF8591 ADC + DAC Combo <https://circuitpython.readthedocs.io/projects/pcf8591/en/latest/>
+    TCA8418 I2C Keyboard Multiplexor <https://circuitpython.readthedocs.io/projects/tca8418/en/latest/>
     TCA9548 I2C Multiplexer <https://circuitpython.readthedocs.io/projects/tca9548a/en/latest/>
     TLA202X 12-bit I2C DAC <https://circuitpython.readthedocs.io/projects/tla202x/en/latest/>
     TLC5947 24 x 12-bit PWM Driver <https://circuitpython.readthedocs.io/projects/tlc5947/en/latest/>
@@ -495,6 +511,7 @@ Miscellaneous
     DS3502 I2C Potentiometer <https://circuitpython.readthedocs.io/projects/ds3502/en/latest/>
     Dymo Scale <https://circuitpython.readthedocs.io/projects/dymoscale/en/latest/>
     Fingerprint Sensor <https://circuitpython.readthedocs.io/projects/fingerprint/en/latest/>
+    Floppy <https://circuitpython.readthedocs.io/projects/floppy/en/latest/>
     FONA Cellular Module <https://circuitpython.readthedocs.io/projects/fona/en/latest/>
     FRAM Non-Volatile Memory <https://circuitpython.readthedocs.io/projects/fram/en/latest/>
     Gizmo <https://circuitpython.readthedocs.io/projects/gizmo/en/latest/>
@@ -502,6 +519,7 @@ Miscellaneous
     INA260 Current and Power Monitor <https://circuitpython.readthedocs.io/projects/ina260/en/latest/>
     LC709203F Fuel Gauge and Battery Monitor <https://circuitpython.readthedocs.io/projects/lc709203f/en/latest/>
     Matrix Keypad <https://circuitpython.readthedocs.io/projects/matrixkeypad/en/latest/>
+    MAX1704x Fuel Gauge <https://circuitpython.readthedocs.io/projects/max1704x/en/latest/>
     MAX9744 Audio Amplifier  <https://circuitpython.readthedocs.io/projects/max9744/en/latest/>
     MLX90640 Thermal Camera <https://circuitpython.readthedocs.io/projects/mlx90640/en/latest/>
     NeoTrellis 4x4 Keypad <https://circuitpython.readthedocs.io/projects/neotrellis/en/latest/>
@@ -519,6 +537,7 @@ Miscellaneous
     Touchscreen 4-Wire Resistive <https://circuitpython.readthedocs.io/projects/touchscreen/en/latest/>
     TPA2016 Audio Amplifier with AGC <https://circuitpython.readthedocs.io/projects/tpa2016/en/latest/>
     Trellis 4x4 Keypad <https://circuitpython.readthedocs.io/projects/trellis/en/latest/>
+    TT21100 Capacitive Touchscreen Driver <https://docs.circuitpython.org/projects/tt21100/en/latest/>
     VC0706 TTL Camera <https://circuitpython.readthedocs.io/projects/vc0706/en/latest/>
     VS1053 Audio Codec <https://circuitpython.readthedocs.io/projects/vs1053/en/latest/>
     Wiznet5k Ethernet Module <https://circuitpython.readthedocs.io/projects/wiznet5k/en/latest/>

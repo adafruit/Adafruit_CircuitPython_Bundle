@@ -218,9 +218,6 @@
 [submodule "libraries/drivers/mpl3115a2"]
 	path = libraries/drivers/mpl3115a2
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MPL3115A2.git
-[submodule "libraries/drivers/lsm303"]
-	path = libraries/drivers/lsm303
-	url = https://github.com/adafruit/Adafruit_CircuitPython_LSM303.git
 [submodule "libraries/drivers/ds18x20"]
 	path = libraries/drivers/ds18x20
 	url = https://github.com/adafruit/Adafruit_CircuitPython_DS18X20.git
@@ -887,3 +884,45 @@
 [submodule "libraries/drivers/tsc2007"]
 	path = libraries/drivers/tsc2007
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TSC2007.git
+[submodule "libraries/drivers/floppy"]
+	path = libraries/drivers/floppy
+	url = https://github.com/adafruit/Adafruit_CircuitPython_floppy.git
+[submodule "libraries/drivers/pcf8574"]
+	path = libraries/drivers/pcf8574
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PCF8574.git
+[submodule "libraries/drivers/mmc56x3"]
+	path = libraries/drivers/mmc56x3
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MMC56x3.git
+[submodule "libraries/drivers/si1145"]
+	path = libraries/drivers/si1145
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SI1145.git
+[submodule "libraries/drivers/ags02ma"]
+	path = libraries/drivers/ags02ma
+	url = https://github.com/adafruit/Adafruit_CircuitPython_AGS02MA.git
+[submodule "libraries/drivers/max1704x"]
+	path = libraries/drivers/max1704x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MAX1704x.git
+[submodule "libraries/drivers/guvx-i2c"]
+	path = libraries/drivers/guvx-i2c
+	url = https://github.com/adafruit/Adafruit_CircuitPython_GUVX_I2C.git
+[submodule "libraries/drivers/tca8418"]
+	path = libraries/drivers/tca8418
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TCA8418.git
+[submodule "libraries/drivers/ltr329_ltr303"]
+	path = libraries/drivers/ltr329_ltr303
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LTR329_LTR303.git
+[submodule "libraries/drivers/ens160"]
+	path = libraries/drivers/ens160
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ENS160.git
+[submodule "libraries/drivers/pcf8575"]
+	path = libraries/drivers/pcf8575
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PCF8575.git
+[submodule "libraries/helpers/ble_beacon"]
+	path = libraries/helpers/ble_beacon
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_Beacon.git
+[submodule "libraries/helpers/ble_file_transfer"]
+	path = libraries/helpers/ble_file_transfer
+	url = https://github.com/adafruit/Adafruit_CircuitPython_BLE_File_Transfer.git
+[submodule "libraries/helpers/pastebin"]
+	path = libraries/helpers/pastebin
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Pastebin.git
