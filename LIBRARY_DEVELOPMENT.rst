@@ -17,4 +17,3 @@ Adafruit libraries are not currently fully typed. If you would like to improve t
 `installing mypy`_. You can then run mypy from the command line or from within your editor / IDE.
 
 .. _installing mypy: https://mypy.readthedocs.io/en/stable/getting_started.html#installing-and-running-mypy
-
