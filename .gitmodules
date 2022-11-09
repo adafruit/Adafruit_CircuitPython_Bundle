@@ -926,3 +926,6 @@
 [submodule "libraries/helpers/pastebin"]
 	path = libraries/helpers/pastebin
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Pastebin.git
+[submodule "libraries/drivers/neopxl8"]
+	path = libraries/drivers/neopxl8
+	url = https://github.com/adafruit/Adafruit_CircuitPython_NeoPxl8.git

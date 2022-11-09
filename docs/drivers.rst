@@ -230,6 +230,7 @@ Multi-color LED drivers.
     DotStar <https://circuitpython.readthedocs.io/projects/dotstar/en/latest/>
     NeoPixel <https://circuitpython.readthedocs.io/projects/neopixel/en/latest/>
     NeoPixel SPI <https://circuitpython.readthedocs.io/projects/neopixel_spi/en/latest/>
+    NeoPxl8 <https://docs.circuitpython.org/projects/neopxl8/en/latest/>
     Pixie <https://circuitpython.readthedocs.io/projects/pixie/en/latest/>
     RGB LED <https://circuitpython.readthedocs.io/projects/rgbled/en/latest/>
     WS2801 <https://circuitpython.readthedocs.io/projects/ws2801/en/latest/>

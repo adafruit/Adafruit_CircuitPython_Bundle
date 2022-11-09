@@ -125,6 +125,7 @@ There are 308 libraries available.
 * [Adafruit CircuitPython MatrixKeypad](https://github.com/adafruit/Adafruit_CircuitPython_MatrixKeypad.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-matrixkeypad))
 * [Adafruit CircuitPython NeoPixel SPI](https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel_SPI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-neopixel-spi))
 * [Adafruit CircuitPython NeoPixel](https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-neopixel))
+* [Adafruit CircuitPython NeoPxl8](https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-neopxl8))
 * [Adafruit CircuitPython NeoTrellis](https://github.com/adafruit/Adafruit_CircuitPython_NeoTrellis) ([PyPi](https://pypi.org/project/adafruit-circuitpython-neotrellis))
 * [Adafruit CircuitPython Nunchuk](https://github.com/adafruit/Adafruit_CircuitPython_Nunchuk.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-nunchuk))
 * [Adafruit CircuitPython OV2640](https://github.com/adafruit/Adafruit_CircuitPython_OV2640.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ov2640))
