@@ -929,3 +929,6 @@
 [submodule "libraries/drivers/neopxl8"]
 	path = libraries/drivers/neopxl8
 	url = https://github.com/adafruit/Adafruit_CircuitPython_NeoPxl8.git
+[submodule "libraries/helpers/displayio_flipclock"]
+	path = libraries/helpers/displayio_flipclock
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_FlipClock
