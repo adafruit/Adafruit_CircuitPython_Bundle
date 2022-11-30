@@ -1,10 +1,9 @@
 # Adafruit CircuitPython Library Download Stats
-![Blinka With Tux](https://cdn-learn.adafruit.com/assets/assets/000/089/982/medium640/raspberry_pi_main_image.jpg)  
+![Blinka With Tux](https://raw.githubusercontent.com/tekktrik/adabot/dev/update-file-bundle/assets/BlinkaTux.jpg)  
 ### Here is a listing of current Adafruit CircuitPython libraries download statistics.
 **There are 308 libraries available.**
 
 
-**Total Blinka downloads: 33616**
 **Total PyPI library downloads: 195955**
 
 | Library (PyPI Package) | Downloads in the Last 7 Days |
@@ -313,3 +312,12 @@
 | Adafruit CircuitPython BLE Beacon (adafruit-circuitpython-ble-beacon) | 113 downloads |
 | Adafruit CircuitPython PCF8575 (adafruit-circuitpython-pcf8575) | 62 downloads |
 | Adafruit CircuitPython ENS160 (adafruit-circuitpython-ens160) | 59 downloads |
+
+## Blinka
+
+Blinka is our CircuitPython compatibility layer for MicroPython
+and single board computers such as the Raspberry Pi.  
+
+| Blinka (PyPI Package) | Downloads in the Last 7 Days |
+| --- | --- |
+| Adafruit Blinka (adafruit-blinka) | 33616 |
