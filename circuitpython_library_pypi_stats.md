@@ -1,5 +1,5 @@
 # Adafruit CircuitPython Library Download Stats
-![Blinka With Tux](https://raw.githubusercontent.com/tekktrik/adabot/dev/update-file-bundle/assets/BlinkaTux.jpg)  
+![Blinka With Tux](https://raw.githubusercontent.com/adafruit/adabot/dev/update-file-bundle/assets/BlinkaTux.jpg)  
 ### Here is a listing of current Adafruit CircuitPython libraries download statistics.
 **There are 308 libraries available.**
 
