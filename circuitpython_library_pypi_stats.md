@@ -4,7 +4,7 @@
 **There are 308 libraries available.**
 
 
-**Total PyPI library downloads: 195955**
+**Total PyPI library downloads in the last 7 days: 195955**
 
 | Library (PyPI Package) | Downloads in the Last 7 Days |
 | --- | --- |
