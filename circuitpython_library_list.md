@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 Here is a listing of current Adafruit CircuitPython Libraries.
-There are 309 libraries available.
+There are 310 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -255,6 +255,7 @@ There are 309 libraries available.
 * [Adafruit CircuitPython Display Notification](https://github.com/adafruit/Adafruit_CircuitPython_Display_Notification.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-notification))
 * [Adafruit CircuitPython Display Shapes](https://github.com/adafruit/Adafruit_CircuitPython_Display_Shapes.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-shapes))
 * [Adafruit CircuitPython Display Text](https://github.com/adafruit/Adafruit_CircuitPython_Display_Text.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-display-text))
+* [Adafruit CircuitPython DisplayIO FlipClock](https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_FlipClock) ([PyPi](https://pypi.org/project/adafruit-circuitpython-displayio-flipclock))
 * [Adafruit CircuitPython DisplayIO Layout](https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_Layout.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-displayio-layout))
 * [Adafruit CircuitPython Ducky](https://github.com/adafruit/Adafruit_CircuitPython_Ducky.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ducky))
 * [Adafruit CircuitPython ESP32S2TFT](https://github.com/adafruit/Adafruit_CircuitPython_ESP32S2TFT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-esp32s2tft))
