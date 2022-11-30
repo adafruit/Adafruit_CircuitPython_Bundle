@@ -313,7 +313,7 @@
 | Adafruit CircuitPython PCF8575 (adafruit-circuitpython-pcf8575) | 62 downloads |
 | Adafruit CircuitPython ENS160 (adafruit-circuitpython-ens160) | 59 downloads |
 
-## Blinka
+### Blinka
 
 Blinka is our CircuitPython compatibility layer for MicroPython
 and single board computers such as the Raspberry Pi.  
