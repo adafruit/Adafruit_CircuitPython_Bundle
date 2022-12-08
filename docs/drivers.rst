@@ -59,7 +59,6 @@ Helpers for animating LEDs.
     Fancy LED (similar to FastLED) <https://docs.circuitpython.org/projects/fancyled/en/latest/>
     LED Animation <https://docs.circuitpython.org/projects/led-animation/en/latest/>
 
-
 User Interface and GFX Helpers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
