@@ -45,6 +45,10 @@ Helper Libraries
 
 These libraries build on top of the low level APIs to simplify common tasks.
 
+.. toctree::
+
+    PixelMap <https://docs.circuitpython.org/projects/pixelmap/en/latest/>
+
 LED Helpers
 ^^^^^^^^^^^^
 
@@ -54,6 +58,7 @@ Helpers for animating LEDs.
 
     Fancy LED (similar to FastLED) <https://docs.circuitpython.org/projects/fancyled/en/latest/>
     LED Animation <https://docs.circuitpython.org/projects/led-animation/en/latest/>
+
 
 User Interface and GFX Helpers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
