@@ -932,3 +932,6 @@
 [submodule "libraries/helpers/displayio_flipclock"]
 	path = libraries/helpers/displayio_flipclock
 	url = https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_FlipClock
+[submodule "libraries/helpers/pixelmap"]
+	path = libraries/helpers/pixelmap
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PixelMap.git
