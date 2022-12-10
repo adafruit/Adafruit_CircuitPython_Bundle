@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 310 libraries available.
+There are 311 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -289,6 +289,7 @@ There are 310 libraries available.
 * [Adafruit CircuitPython PYOA](https://github.com/adafruit/Adafruit_CircuitPython_PYOA.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pyoa))
 * [Adafruit CircuitPython Pastebin](https://github.com/adafruit/Adafruit_CircuitPython_Pastebin.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pastebin))
 * [Adafruit CircuitPython Pixel Framebuf](https://github.com/adafruit/Adafruit_CircuitPython_Pixel_Framebuf.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pixel-framebuf))
+* [Adafruit CircuitPython PixelMap](https://github.com/adafruit/Adafruit_CircuitPython_PixelMap.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pixelmap))
 * [Adafruit CircuitPython Pixelbuf](https://github.com/adafruit/Adafruit_CircuitPython_Pixelbuf.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pixelbuf))
 * [Adafruit CircuitPython PortalBase](https://github.com/adafruit/Adafruit_CircuitPython_PortalBase.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-portalbase))
 * [Adafruit CircuitPython ProgressBar](https://github.com/adafruit/Adafruit_CircuitPython_ProgressBar.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-progressbar))
