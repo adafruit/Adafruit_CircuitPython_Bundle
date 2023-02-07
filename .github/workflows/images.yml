@@ -18,16 +18,12 @@ jobs:
     if: github.repository_owner == 'adafruit'
     runs-on: ubuntu-20.04
     steps:
-    - name: Dump GitHub context
-      uses: actions/github-script@v6
-      with:
-        script: console.log(JSON.stringify(context, null, 2))
-    - uses: actions/checkout@v2.2.0
+    - uses: actions/checkout@v3
 
     - name: checkout submodules
       run: git submodule update --init --jobs 16 --depth 1
     - name: Set up Python 3.10
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
         python-version: "3.10"
 
