@@ -935,3 +935,6 @@
 [submodule "libraries/helpers/pixelmap"]
 	path = libraries/helpers/pixelmap
 	url = https://github.com/adafruit/Adafruit_CircuitPython_PixelMap.git
+[submodule "libraries/helpers/gfx"]
+	path = libraries/helpers/gfx
+	url = https://github.com/adafruit/Adafruit_CircuitPython_GFX.git
