@@ -1,11 +1,12 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 311 libraries available.
+There are 313 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
 * [Adafruit CircuitPython 74HC595](https://github.com/adafruit/Adafruit_CircuitPython_74HC595.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-74hc595))
+* [Adafruit CircuitPython ACeP7In](https://github.com/adafruit/Adafruit_CircuitPython_ACeP7In.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-acep7in))
 * [Adafruit CircuitPython ADS1x15](https://github.com/adafruit/Adafruit_CircuitPython_ADS1x15.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ads1x15))
 * [Adafruit CircuitPython ADT7410](https://github.com/adafruit/Adafruit_CircuitPython_ADT7410.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-adt7410))
 * [Adafruit CircuitPython ADXL34x](https://github.com/adafruit/Adafruit_CircuitPython_ADXL34x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-adxl34x))
@@ -161,6 +162,7 @@ There are 311 libraries available.
 * [Adafruit CircuitPython SI4713](https://github.com/adafruit/Adafruit_CircuitPython_SI4713.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-si4713))
 * [Adafruit CircuitPython SI5351](https://github.com/adafruit/Adafruit_CircuitPython_SI5351.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-si5351))
 * [Adafruit CircuitPython SI7021](https://github.com/adafruit/Adafruit_CircuitPython_SI7021.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-si7021))
+* [Adafruit CircuitPython SPD1656](https://github.com/adafruit/Adafruit_CircuitPython_SPD1656.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-spd1656))
 * [Adafruit CircuitPython SSD1305](https://github.com/adafruit/Adafruit_CircuitPython_SSD1305.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1305))
 * [Adafruit CircuitPython SSD1306](https://github.com/adafruit/Adafruit_CircuitPython_SSD1306.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1306))
 * [Adafruit CircuitPython SSD1322](https://github.com/adafruit/Adafruit_CircuitPython_SSD1322.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1322))
