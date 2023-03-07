@@ -283,10 +283,12 @@ E-Paper / E-Ink
 
 .. toctree::
 
+    ACeP7In (displayio) <https://docs.circuitpython.org/projects/acep7in/en/latest/>
     E-Paper Display (framebuf) <https://docs.circuitpython.org/projects/epd/en/latest/>
     IL0373 (displayio) <https://docs.circuitpython.org/projects/il0373/en/latest/>
     IL0398 (displayio) <https://docs.circuitpython.org/projects/il0398/en/latest/>
     IL91874 (displayio) <https://docs.circuitpython.org/projects/il91874/en/latest/>
+    SPD1656 (displayio) <https://docs.circuitpython.org/projects/spd1656/en/latest/>
     SSD1608 (displayio) <https://docs.circuitpython.org/projects/ssd1608/en/latest/>
     SSD1675 (displayio) <https://docs.circuitpython.org/projects/ssd1675/en/latest/>
     SSD1680 (displayio) <https://docs.circuitpython.org/projects/ssd1680/en/latest/>

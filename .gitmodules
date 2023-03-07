@@ -938,3 +938,9 @@
 [submodule "libraries/helpers/gfx"]
 	path = libraries/helpers/gfx
 	url = https://github.com/adafruit/Adafruit_CircuitPython_GFX.git
+[submodule "libraries/drivers/spd1656"]
+	path = libraries/drivers/spd1656
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SPD1656.git
+[submodule "libraries/drivers/acep7in"]
+	path = libraries/drivers/acep7in
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ACeP7In.git
