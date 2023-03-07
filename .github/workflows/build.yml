@@ -10,28 +10,25 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-    - name: Dump GitHub context
-      uses: actions/github-script@v6
-      with:
-        script: console.log(JSON.stringify(context, null, 2))
     - name: Translate Repo Name For Build Tools filename_prefix
       id: repo-name
       run: |
-        echo ::set-output name=repo-name::$(
+        echo "repo-name=$(
         echo ${{ github.repository }} |
         awk -F '\/' '{ print tolower($2) }' |
         tr '_' '-'
-        )
+        )" >> $GITHUB_OUTPUT
     - name: Set up Python 3.10
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
         python-version: "3.10"
     - name: Versions
       run: |
         python3 --version
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v3
       with:
         submodules: true
+        fetch-depth: 0
     - name: Install deps
       run: |
         sudo apt-get install gettext
