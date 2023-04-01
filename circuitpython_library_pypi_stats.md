@@ -4,319 +4,319 @@
 **There are 314 libraries available.**
 
 
-**Total PyPI library downloads in the last 7 days: 49757**  
+**Total PyPI library downloads in the last 7 days: 45748**  
 
 | Library (PyPI Package) | Downloads in the Last 7 Days |
 | --- | --- |
-| Adafruit CircuitPython BusDevice (adafruit-circuitpython-busdevice) | 6743 downloads |
-| Adafruit CircuitPython Requests (adafruit-circuitpython-requests) | 5614 downloads |
-| Adafruit CircuitPython Register (adafruit-circuitpython-register) | 1925 downloads |
+| Adafruit CircuitPython BusDevice (adafruit-circuitpython-busdevice) | 7582 downloads |
+| Adafruit CircuitPython Requests (adafruit-circuitpython-requests) | 6525 downloads |
+| Adafruit CircuitPython Register (adafruit-circuitpython-register) | 1910 downloads |
 | Adafruit CircuitPython NeoPixel (adafruit-circuitpython-neopixel) | 1326 downloads |
-| Adafruit CircuitPython Motor (adafruit-circuitpython-motor) | 799 downloads |
-| Adafruit CircuitPython ServoKit (adafruit-circuitpython-servokit) | 698 downloads |
-| Adafruit CircuitPython PCA9685 (adafruit-circuitpython-pca9685) | 694 downloads |
-| Adafruit CircuitPython ADS1x15 (adafruit-circuitpython-ads1x15) | 655 downloads |
-| Adafruit CircuitPython framebuf (adafruit-circuitpython-framebuf) | 512 downloads |
-| Adafruit CircuitPython Pixelbuf (adafruit-circuitpython-pixelbuf) | 493 downloads |
-| Adafruit CircuitPython Display Text (adafruit-circuitpython-display-text) | 490 downloads |
-| Adafruit CircuitPython BME280 (adafruit-circuitpython-bme280) | 474 downloads |
-| Adafruit CircuitPython DHT (adafruit-circuitpython-dht) | 471 downloads |
-| Adafruit CircuitPython MCP230xx (adafruit-circuitpython-mcp230xx) | 436 downloads |
-| Adafruit CircuitPython SSD1306 (adafruit-circuitpython-ssd1306) | 429 downloads |
-| Adafruit CircuitPython MiniMQTT (adafruit-circuitpython-minimqtt) | 375 downloads |
-| Adafruit CircuitPython Wiznet5k (adafruit-circuitpython-wiznet5k) | 311 downloads |
-| Adafruit CircuitPython BLE (adafruit-circuitpython-ble) | 299 downloads |
-| Adafruit CircuitPython SD (adafruit-circuitpython-sd) | 294 downloads |
-| Adafruit CircuitPython HID (adafruit-circuitpython-hid) | 249 downloads |
-| Adafruit CircuitPython BMP280 (adafruit-circuitpython-bmp280) | 237 downloads |
-| Adafruit CircuitPython AHTx0 (adafruit-circuitpython-ahtx0) | 235 downloads |
-| Adafruit CircuitPython RGB Display (adafruit-circuitpython-rgb-display) | 219 downloads |
-| Adafruit CircuitPython SSD1675 (adafruit-circuitpython-ssd1675) | 217 downloads |
-| Adafruit CircuitPython binascii (adafruit-circuitpython-binascii) | 216 downloads |
-| Adafruit CircuitPython LED Animation (adafruit-circuitpython-led-animation) | 208 downloads |
-| Adafruit CircuitPython LIS3DH (adafruit-circuitpython-lis3dh) | 206 downloads |
-| Adafruit CircuitPython Display Shapes (adafruit-circuitpython-display-shapes) | 206 downloads |
-| Adafruit CircuitPython PortalBase (adafruit-circuitpython-portalbase) | 205 downloads |
-| Adafruit CircuitPython VL53L0X (adafruit-circuitpython-vl53l0x) | 201 downloads |
-| Adafruit CircuitPython 24LC32 (adafruit-circuitpython-24lc32) | 198 downloads |
-| Adafruit CircuitPython BNO055 (adafruit-circuitpython-bno055) | 195 downloads |
-| Adafruit CircuitPython Fingerprint (adafruit-circuitpython-fingerprint) | 189 downloads |
-| Adafruit CircuitPython BME680 (adafruit-circuitpython-bme680) | 185 downloads |
-| Adafruit CircuitPython MotorKit (adafruit-circuitpython-motorkit) | 180 downloads |
-| Adafruit CircuitPython Bitmap Font (adafruit-circuitpython-bitmap-font) | 175 downloads |
-| Adafruit CircuitPython INA219 (adafruit-circuitpython-ina219) | 173 downloads |
-| Adafruit CircuitPython GPS (adafruit-circuitpython-gps) | 170 downloads |
-| Adafruit CircuitPython PN532 (adafruit-circuitpython-pn532) | 169 downloads |
-| Adafruit CircuitPython BitbangIO (adafruit-circuitpython-bitbangio) | 168 downloads |
-| Adafruit CircuitPython ENS160 (adafruit-circuitpython-ens160) | 164 downloads |
-| Adafruit CircuitPython DisplayIO Layout (adafruit-circuitpython-displayio-layout) | 160 downloads |
-| Adafruit CircuitPython Seesaw (adafruit-circuitpython-seesaw) | 160 downloads |
-| Adafruit CircuitPython HTTPServer (adafruit-circuitpython-httpserver) | 159 downloads |
-| Adafruit CircuitPython SHT31D (adafruit-circuitpython-sht31d) | 158 downloads |
-| Adafruit CircuitPython Pastebin (adafruit-circuitpython-pastebin) | 156 downloads |
-| Adafruit CircuitPython HT16K33 (adafruit-circuitpython-ht16k33) | 156 downloads |
-| Adafruit CircuitPython LC709203F (adafruit-circuitpython-lc709203f) | 150 downloads |
-| Adafruit CircuitPython ESP32SPI (adafruit-circuitpython-esp32spi) | 146 downloads |
-| Adafruit CircuitPython CharLCD (adafruit-circuitpython-charlcd) | 145 downloads |
-| Adafruit CircuitPython HTU21D (adafruit-circuitpython-htu21d) | 143 downloads |
-| Adafruit CircuitPython SCD30 (adafruit-circuitpython-scd30) | 143 downloads |
-| Adafruit CircuitPython MCP9808 (adafruit-circuitpython-mcp9808) | 142 downloads |
-| Adafruit CircuitPython MPU6050 (adafruit-circuitpython-mpu6050) | 138 downloads |
-| Adafruit CircuitPython IRRemote (adafruit-circuitpython-irremote) | 137 downloads |
-| Adafruit CircuitPython MPL3115A2 (adafruit-circuitpython-mpl3115a2) | 137 downloads |
-| Adafruit CircuitPython TCA9548A (adafruit-circuitpython-tca9548a) | 133 downloads |
-| Adafruit CircuitPython DisplayIO SSD1306 (adafruit-circuitpython-displayio-ssd1306) | 133 downloads |
-| Adafruit CircuitPython ADXL34x (adafruit-circuitpython-adxl34x) | 130 downloads |
+| Adafruit CircuitPython Motor (adafruit-circuitpython-motor) | 752 downloads |
+| Adafruit CircuitPython ADS1x15 (adafruit-circuitpython-ads1x15) | 695 downloads |
+| Adafruit CircuitPython ServoKit (adafruit-circuitpython-servokit) | 609 downloads |
+| Adafruit CircuitPython PCA9685 (adafruit-circuitpython-pca9685) | 600 downloads |
+| Adafruit CircuitPython Pixelbuf (adafruit-circuitpython-pixelbuf) | 541 downloads |
+| Adafruit CircuitPython framebuf (adafruit-circuitpython-framebuf) | 481 downloads |
+| Adafruit CircuitPython BME280 (adafruit-circuitpython-bme280) | 458 downloads |
+| Adafruit CircuitPython DHT (adafruit-circuitpython-dht) | 400 downloads |
+| Adafruit CircuitPython SSD1306 (adafruit-circuitpython-ssd1306) | 365 downloads |
+| Adafruit CircuitPython Display Text (adafruit-circuitpython-display-text) | 332 downloads |
+| Adafruit CircuitPython SD (adafruit-circuitpython-sd) | 310 downloads |
+| Adafruit CircuitPython MCP230xx (adafruit-circuitpython-mcp230xx) | 305 downloads |
+| Adafruit CircuitPython Wiznet5k (adafruit-circuitpython-wiznet5k) | 305 downloads |
+| Adafruit CircuitPython MiniMQTT (adafruit-circuitpython-minimqtt) | 260 downloads |
+| Adafruit CircuitPython BLE (adafruit-circuitpython-ble) | 241 downloads |
+| Adafruit CircuitPython 24LC32 (adafruit-circuitpython-24lc32) | 217 downloads |
+| Adafruit CircuitPython SSD1675 (adafruit-circuitpython-ssd1675) | 216 downloads |
+| Adafruit CircuitPython AHTx0 (adafruit-circuitpython-ahtx0) | 212 downloads |
+| Adafruit CircuitPython LIS3DH (adafruit-circuitpython-lis3dh) | 209 downloads |
+| Adafruit CircuitPython MotorKit (adafruit-circuitpython-motorkit) | 192 downloads |
+| Adafruit CircuitPython RGB Display (adafruit-circuitpython-rgb-display) | 191 downloads |
+| Adafruit CircuitPython HID (adafruit-circuitpython-hid) | 189 downloads |
+| Adafruit CircuitPython ENS160 (adafruit-circuitpython-ens160) | 184 downloads |
+| Adafruit CircuitPython Display Shapes (adafruit-circuitpython-display-shapes) | 172 downloads |
+| Adafruit CircuitPython BNO055 (adafruit-circuitpython-bno055) | 172 downloads |
+| Adafruit CircuitPython Pastebin (adafruit-circuitpython-pastebin) | 169 downloads |
+| Adafruit CircuitPython HTTPServer (adafruit-circuitpython-httpserver) | 166 downloads |
+| Adafruit CircuitPython Fingerprint (adafruit-circuitpython-fingerprint) | 164 downloads |
+| Adafruit CircuitPython PN532 (adafruit-circuitpython-pn532) | 160 downloads |
+| Adafruit CircuitPython PortalBase (adafruit-circuitpython-portalbase) | 160 downloads |
+| Adafruit CircuitPython VL53L0X (adafruit-circuitpython-vl53l0x) | 160 downloads |
+| Adafruit CircuitPython binascii (adafruit-circuitpython-binascii) | 156 downloads |
+| Adafruit CircuitPython ESP32SPI (adafruit-circuitpython-esp32spi) | 154 downloads |
+| Adafruit CircuitPython BME680 (adafruit-circuitpython-bme680) | 150 downloads |
+| Adafruit CircuitPython LED Animation (adafruit-circuitpython-led-animation) | 149 downloads |
+| Adafruit CircuitPython INA219 (adafruit-circuitpython-ina219) | 145 downloads |
+| Adafruit CircuitPython GPS (adafruit-circuitpython-gps) | 140 downloads |
+| Adafruit CircuitPython LC709203F (adafruit-circuitpython-lc709203f) | 140 downloads |
+| Adafruit CircuitPython BitbangIO (adafruit-circuitpython-bitbangio) | 138 downloads |
+| Adafruit CircuitPython SHT31D (adafruit-circuitpython-sht31d) | 134 downloads |
+| Adafruit CircuitPython Bitmap Font (adafruit-circuitpython-bitmap-font) | 133 downloads |
+| Adafruit CircuitPython HTU21D (adafruit-circuitpython-htu21d) | 132 downloads |
+| Adafruit CircuitPython PyBadger (adafruit-circuitpython-pybadger) | 126 downloads |
 | Adafruit CircuitPython Ticks (adafruit-circuitpython-ticks) | 126 downloads |
-| Adafruit CircuitPython SHTC3 (adafruit-circuitpython-shtc3) | 124 downloads |
-| Adafruit CircuitPython Touchscreen (adafruit-circuitpython-touchscreen) | 122 downloads |
-| Adafruit CircuitPython BH1750 (adafruit-circuitpython-bh1750) | 122 downloads |
-| Adafruit CircuitPython RFM9x (adafruit-circuitpython-rfm9x) | 120 downloads |
-| Adafruit CircuitPython 74HC595 (adafruit-circuitpython-74hc595) | 119 downloads |
-| Adafruit CircuitPython DotStar (adafruit-circuitpython-dotstar) | 118 downloads |
-| Adafruit CircuitPython Slideshow (adafruit-circuitpython-slideshow) | 117 downloads |
-| Adafruit CircuitPython miniQR (adafruit-circuitpython-miniqr) | 117 downloads |
-| Adafruit CircuitPython WS2801 (adafruit-circuitpython-ws2801) | 117 downloads |
-| Adafruit CircuitPython NeoPixel SPI (adafruit-circuitpython-neopixel-spi) | 116 downloads |
-| Adafruit CircuitPython AdafruitIO (adafruit-circuitpython-adafruitio) | 116 downloads |
-| Adafruit CircuitPython FeatherWing (adafruit-circuitpython-featherwing) | 115 downloads |
-| Adafruit CircuitPython VL53L1X (adafruit-circuitpython-vl53l1x) | 115 downloads |
-| Adafruit CircuitPython hashlib (adafruit-circuitpython-hashlib) | 115 downloads |
-| Adafruit CircuitPython RA8875 (adafruit-circuitpython-ra8875) | 115 downloads |
-| Adafruit CircuitPython LSM303DLH Mag (adafruit-circuitpython-lsm303dlh-mag) | 115 downloads |
-| Adafruit CircuitPython MAX31865 (adafruit-circuitpython-max31865) | 114 downloads |
-| Adafruit CircuitPython MLX90640 (adafruit-circuitpython-mlx90640) | 113 downloads |
-| Adafruit CircuitPython MLX90393 (adafruit-circuitpython-mlx90393) | 113 downloads |
-| Adafruit CircuitPython VEML7700 (adafruit-circuitpython-veml7700) | 113 downloads |
-| Adafruit CircuitPython OneWire (adafruit-circuitpython-onewire) | 113 downloads |
-| Adafruit CircuitPython Logging (adafruit-circuitpython-logging) | 112 downloads |
-| Adafruit CircuitPython BNO08X (adafruit-circuitpython-bno08x) | 112 downloads |
-| Adafruit CircuitPython PyBadger (adafruit-circuitpython-pybadger) | 112 downloads |
-| Adafruit CircuitPython RGBLED (adafruit-circuitpython-rgbled) | 112 downloads |
-| Adafruit CircuitPython AS726x (adafruit-circuitpython-as726x) | 111 downloads |
-| Adafruit CircuitPython MCP3xxx (adafruit-circuitpython-mcp3xxx) | 109 downloads |
-| Adafruit CircuitPython ImageLoad (adafruit-circuitpython-imageload) | 109 downloads |
-| Adafruit CircuitPython Thermal Printer (adafruit-circuitpython-thermal-printer) | 109 downloads |
-| Adafruit CircuitPython GFX (adafruit-circuitpython-gfx) | 108 downloads |
-| Adafruit CircuitPython IS31FL3731 (adafruit-circuitpython-is31fl3731) | 108 downloads |
-| Adafruit CircuitPython DPS310 (adafruit-circuitpython-dps310) | 108 downloads |
-| Adafruit CircuitPython INA260 (adafruit-circuitpython-ina260) | 107 downloads |
-| Adafruit CircuitPython PCD8544 (adafruit-circuitpython-pcd8544) | 107 downloads |
-| Adafruit CircuitPython RFM69 (adafruit-circuitpython-rfm69) | 107 downloads |
-| Adafruit CircuitPython LPS35HW (adafruit-circuitpython-lps35hw) | 106 downloads |
-| Adafruit CircuitPython LSM6DS (adafruit-circuitpython-lsm6ds) | 105 downloads |
-| Adafruit CircuitPython NTP (adafruit-circuitpython-ntp) | 105 downloads |
-| Adafruit CircuitPython BluefruitConnect (adafruit-circuitpython-bluefruitconnect) | 104 downloads |
-| Adafruit CircuitPython FONA (adafruit-circuitpython-fona) | 104 downloads |
-| Adafruit CircuitPython asyncio (adafruit-circuitpython-asyncio) | 104 downloads |
-| Adafruit CircuitPython AM2320 (adafruit-circuitpython-am2320) | 104 downloads |
-| Adafruit CircuitPython VCNL4010 (adafruit-circuitpython-vcnl4010) | 103 downloads |
-| Adafruit CircuitPython datetime (adafruit-circuitpython-datetime) | 103 downloads |
-| Adafruit CircuitPython SI7021 (adafruit-circuitpython-si7021) | 102 downloads |
-| Adafruit CircuitPython PIOASM (adafruit-circuitpython-pioasm) | 102 downloads |
-| Adafruit CircuitPython DRV2605 (adafruit-circuitpython-drv2605) | 102 downloads |
-| Adafruit CircuitPython ST7789 (adafruit-circuitpython-st7789) | 101 downloads |
-| Adafruit CircuitPython BMP3XX (adafruit-circuitpython-bmp3xx) | 100 downloads |
-| Adafruit CircuitPython SHT4x (adafruit-circuitpython-sht4x) | 100 downloads |
-| Adafruit CircuitPython LSM9DS1 (adafruit-circuitpython-lsm9ds1) | 99 downloads |
-| Adafruit CircuitPython VC0706 (adafruit-circuitpython-vc0706) | 99 downloads |
-| Adafruit CircuitPython DisplayIO SH1106 (adafruit-circuitpython-displayio-sh1106) | 99 downloads |
-| Adafruit CircuitPython SimpleIO (adafruit-circuitpython-simpleio) | 99 downloads |
-| Adafruit CircuitPython FXAS21002C (adafruit-circuitpython-fxas21002c) | 99 downloads |
-| Adafruit CircuitPython DS18X20 (adafruit-circuitpython-ds18x20) | 98 downloads |
-| Adafruit CircuitPython MAX31855 (adafruit-circuitpython-max31855) | 98 downloads |
-| Adafruit CircuitPython RPLIDAR (adafruit-circuitpython-rplidar) | 98 downloads |
-| Adafruit CircuitPython APDS9960 (adafruit-circuitpython-apds9960) | 97 downloads |
-| Adafruit CircuitPython AzureIoT (adafruit-circuitpython-azureiot) | 96 downloads |
-| Adafruit CircuitPython ADT7410 (adafruit-circuitpython-adt7410) | 96 downloads |
-| Adafruit CircuitPython MCP2515 (adafruit-circuitpython-mcp2515) | 96 downloads |
-| Adafruit CircuitPython SCD4X (adafruit-circuitpython-scd4x) | 96 downloads |
-| Adafruit CircuitPython SGP30 (adafruit-circuitpython-sgp30) | 95 downloads |
-| Adafruit CircuitPython PCT2075 (adafruit-circuitpython-pct2075) | 95 downloads |
-| Adafruit CircuitPython LIDARLite (adafruit-circuitpython-lidarlite) | 94 downloads |
-| Adafruit CircuitPython TSL2591 (adafruit-circuitpython-tsl2591) | 93 downloads |
-| Adafruit CircuitPython BLE Adafruit (adafruit-circuitpython-ble-adafruit) | 93 downloads |
-| Adafruit CircuitPython PM25 (adafruit-circuitpython-pm25) | 93 downloads |
-| Adafruit CircuitPython L3GD20 (adafruit-circuitpython-l3gd20) | 92 downloads |
-| Adafruit CircuitPython MIDI (adafruit-circuitpython-midi) | 92 downloads |
-| Adafruit CircuitPython FXOS8700 (adafruit-circuitpython-fxos8700) | 91 downloads |
-| Adafruit CircuitPython TCS34725 (adafruit-circuitpython-tcs34725) | 91 downloads |
-| Adafruit CircuitPython AW9523 (adafruit-circuitpython-aw9523) | 90 downloads |
-| Adafruit CircuitPython AMG88xx (adafruit-circuitpython-amg88xx) | 90 downloads |
-| Adafruit CircuitPython FancyLED (adafruit-circuitpython-fancyled) | 89 downloads |
-| Adafruit CircuitPython MMA8451 (adafruit-circuitpython-mma8451) | 89 downloads |
-| Adafruit CircuitPython FocalTouch (adafruit-circuitpython-focaltouch) | 89 downloads |
-| Adafruit CircuitPython SSD1680 (adafruit-circuitpython-ssd1680) | 88 downloads |
-| Adafruit CircuitPython Hue (adafruit-circuitpython-hue) | 88 downloads |
-| Adafruit CircuitPython EPD (adafruit-circuitpython-epd) | 88 downloads |
-| Adafruit CircuitPython VL6180X (adafruit-circuitpython-vl6180x) | 87 downloads |
-| Adafruit CircuitPython SI5351 (adafruit-circuitpython-si5351) | 86 downloads |
-| Adafruit CircuitPython DS3231 (adafruit-circuitpython-ds3231) | 85 downloads |
-| Adafruit CircuitPython PCF8523 (adafruit-circuitpython-pcf8523) | 85 downloads |
-| Adafruit CircuitPython SGP40 (adafruit-circuitpython-sgp40) | 85 downloads |
-| Adafruit CircuitPython ST7735R (adafruit-circuitpython-st7735r) | 85 downloads |
-| Adafruit CircuitPython LSM303 Accel (adafruit-circuitpython-lsm303-accel) | 85 downloads |
-| Adafruit CircuitPython AS7341 (adafruit-circuitpython-as7341) | 85 downloads |
-| Adafruit CircuitPython ESP ATcontrol (adafruit-circuitpython-esp-atcontrol) | 85 downloads |
-| Adafruit CircuitPython HCSR04 (adafruit-circuitpython-hcsr04) | 84 downloads |
-| Adafruit CircuitPython SI1145 (adafruit-circuitpython-si1145) | 84 downloads |
-| Adafruit CircuitPython MAX31856 (adafruit-circuitpython-max31856) | 84 downloads |
-| Adafruit CircuitPython CCS811 (adafruit-circuitpython-ccs811) | 84 downloads |
-| Adafruit CircuitPython MCP4728 (adafruit-circuitpython-mcp4728) | 83 downloads |
-| Adafruit CircuitPython MS8607 (adafruit-circuitpython-ms8607) | 82 downloads |
-| Adafruit CircuitPython STMPE610 (adafruit-circuitpython-stmpe610) | 81 downloads |
-| Adafruit CircuitPython IS31FL3741 (adafruit-circuitpython-is31fl3741) | 81 downloads |
-| Adafruit CircuitPython LSM9DS0 (adafruit-circuitpython-lsm9ds0) | 81 downloads |
-| Adafruit CircuitPython MLX90614 (adafruit-circuitpython-mlx90614) | 81 downloads |
-| Adafruit CircuitPython TLV493D (adafruit-circuitpython-tlv493d) | 81 downloads |
-| Adafruit CircuitPython LIS3MDL (adafruit-circuitpython-lis3mdl) | 81 downloads |
-| Adafruit CircuitPython CAP1188 (adafruit-circuitpython-cap1188) | 81 downloads |
-| Adafruit CircuitPython DisplayIO SH1107 (adafruit-circuitpython-displayio-sh1107) | 80 downloads |
-| Adafruit CircuitPython Debouncer (adafruit-circuitpython-debouncer) | 79 downloads |
-| Adafruit CircuitPython LTR329 LTR303 (adafruit-circuitpython-ltr329-ltr303) | 79 downloads |
-| Adafruit CircuitPython LIS2MDL (adafruit-circuitpython-lis2mdl) | 79 downloads |
-| Adafruit CircuitPython SSD1305 (adafruit-circuitpython-ssd1305) | 78 downloads |
-| Adafruit CircuitPython BLE Radio (adafruit-circuitpython-ble-radio) | 78 downloads |
-| Adafruit CircuitPython TrellisM4 (adafruit-circuitpython-trellism4) | 78 downloads |
-| Adafruit CircuitPython Thermistor (adafruit-circuitpython-thermistor) | 78 downloads |
-| Adafruit CircuitPython MCP9600 (adafruit-circuitpython-mcp9600) | 78 downloads |
-| Adafruit CircuitPython ProgressBar (adafruit-circuitpython-progressbar) | 78 downloads |
-| Adafruit CircuitPython SI4713 (adafruit-circuitpython-si4713) | 78 downloads |
-| Adafruit CircuitPython CursorControl (adafruit-circuitpython-cursorcontrol) | 77 downloads |
-| Adafruit CircuitPython MAX7219 (adafruit-circuitpython-max7219) | 77 downloads |
-| Adafruit CircuitPython PCF8591 (adafruit-circuitpython-pcf8591) | 76 downloads |
-| Adafruit CircuitPython LPS2X (adafruit-circuitpython-lps2x) | 76 downloads |
-| Adafruit CircuitPython MPL115A2 (adafruit-circuitpython-mpl115a2) | 76 downloads |
-| Adafruit CircuitPython TCA8418 (adafruit-circuitpython-tca8418) | 76 downloads |
-| Adafruit CircuitPython IL0373 (adafruit-circuitpython-il0373) | 75 downloads |
-| Adafruit CircuitPython TinyLoRa (adafruit-circuitpython-tinylora) | 75 downloads |
-| Adafruit CircuitPython TSL2561 (adafruit-circuitpython-tsl2561) | 75 downloads |
-| Adafruit CircuitPython VEML6070 (adafruit-circuitpython-veml6070) | 75 downloads |
-| Adafruit CircuitPython turtle (adafruit-circuitpython-turtle) | 74 downloads |
-| Adafruit CircuitPython LTR390 (adafruit-circuitpython-ltr390) | 74 downloads |
-| Adafruit CircuitPython ST7565 (adafruit-circuitpython-st7565) | 74 downloads |
-| Adafruit CircuitPython CircuitPlayground (adafruit-circuitpython-circuitplayground) | 74 downloads |
-| Adafruit CircuitPython GC IOT Core (adafruit-circuitpython-gc-iot-core) | 74 downloads |
-| Adafruit CircuitPython BluefruitSPI (adafruit-circuitpython-bluefruitspi) | 73 downloads |
-| Adafruit CircuitPython MCP4725 (adafruit-circuitpython-mcp4725) | 73 downloads |
-| Adafruit CircuitPython MPR121 (adafruit-circuitpython-mpr121) | 73 downloads |
-| Adafruit CircuitPython ST7735 (adafruit-circuitpython-st7735) | 73 downloads |
-| Adafruit CircuitPython Pixel Framebuf (adafruit-circuitpython-pixel-framebuf) | 73 downloads |
-| Adafruit CircuitPython Waveform (adafruit-circuitpython-waveform) | 73 downloads |
-| Adafruit CircuitPython RTTTL (adafruit-circuitpython-rtttl) | 73 downloads |
-| Adafruit CircuitPython DisplayIO SSD1305 (adafruit-circuitpython-displayio-ssd1305) | 72 downloads |
-| Adafruit CircuitPython AVRprog (adafruit-circuitpython-avrprog) | 72 downloads |
-| Adafruit CircuitPython SharpMemoryDisplay (adafruit-circuitpython-sharpmemorydisplay) | 72 downloads |
-| Adafruit CircuitPython BLE BroadcastNet (adafruit-circuitpython-ble-broadcastnet) | 72 downloads |
-| Adafruit CircuitPython TLC59711 (adafruit-circuitpython-tlc59711) | 72 downloads |
-| Adafruit CircuitPython TFmini (adafruit-circuitpython-tfmini) | 72 downloads |
-| Adafruit CircuitPython DS1307 (adafruit-circuitpython-ds1307) | 72 downloads |
-| Adafruit CircuitPython MSA301 (adafruit-circuitpython-msa301) | 71 downloads |
-| Adafruit CircuitPython SSD1325 (adafruit-circuitpython-ssd1325) | 71 downloads |
-| Adafruit CircuitPython ILI9341 (adafruit-circuitpython-ili9341) | 71 downloads |
-| Adafruit CircuitPython VS1053 (adafruit-circuitpython-vs1053) | 71 downloads |
-| Adafruit CircuitPython MatrixKeypad (adafruit-circuitpython-matrixkeypad) | 71 downloads |
-| Adafruit CircuitPython ICM20X (adafruit-circuitpython-icm20x) | 71 downloads |
-| Adafruit CircuitPython AirLift (adafruit-circuitpython-airlift) | 71 downloads |
-| Adafruit CircuitPython EMC2101 (adafruit-circuitpython-emc2101) | 71 downloads |
-| Adafruit CircuitPython DS3502 (adafruit-circuitpython-ds3502) | 70 downloads |
-| Adafruit CircuitPython MPRLS (adafruit-circuitpython-mprls) | 70 downloads |
-| Adafruit CircuitPython PCF8574 (adafruit-circuitpython-pcf8574) | 70 downloads |
-| Adafruit CircuitPython SPD1656 (adafruit-circuitpython-spd1656) | 70 downloads |
-| Adafruit CircuitPython Crickit (adafruit-circuitpython-crickit) | 70 downloads |
-| Adafruit CircuitPython RSA (adafruit-circuitpython-rsa) | 70 downloads |
-| Adafruit CircuitPython FakeRequests (adafruit-circuitpython-fakerequests) | 69 downloads |
-| Adafruit CircuitPython TLC5947 (adafruit-circuitpython-tlc5947) | 69 downloads |
-| Adafruit CircuitPython PYOA (adafruit-circuitpython-pyoa) | 69 downloads |
-| Adafruit CircuitPython VEML6075 (adafruit-circuitpython-veml6075) | 69 downloads |
-| Adafruit CircuitPython SSD1327 (adafruit-circuitpython-ssd1327) | 69 downloads |
-| Adafruit CircuitPython VCNL4040 (adafruit-circuitpython-vcnl4040) | 69 downloads |
-| Adafruit CircuitPython BLE LYWSD03MMC (adafruit-circuitpython-ble-lywsd03mmc) | 68 downloads |
-| Adafruit CircuitPython US100 (adafruit-circuitpython-us100) | 68 downloads |
-| Adafruit CircuitPython RockBlock (adafruit-circuitpython-rockblock) | 68 downloads |
-| Adafruit CircuitPython FRAM (adafruit-circuitpython-fram) | 68 downloads |
-| Adafruit CircuitPython LIS331 (adafruit-circuitpython-lis331) | 68 downloads |
-| Adafruit CircuitPython Display Button (adafruit-circuitpython-display-button) | 67 downloads |
-| Adafruit CircuitPython WSGI (adafruit-circuitpython-wsgi) | 67 downloads |
-| Adafruit CircuitPython MagTag (adafruit-circuitpython-magtag) | 67 downloads |
-| Adafruit CircuitPython TC74 (adafruit-circuitpython-tc74) | 67 downloads |
-| Adafruit CircuitPython Trellis (adafruit-circuitpython-trellis) | 67 downloads |
-| Adafruit CircuitPython BLE Magic Light (adafruit-circuitpython-ble-magic-light) | 66 downloads |
-| Adafruit CircuitPython ATECC (adafruit-circuitpython-atecc) | 66 downloads |
-| Adafruit CircuitPython miniesptool (adafruit-circuitpython-miniesptool) | 66 downloads |
-| Adafruit CircuitPython MAX1704x (adafruit-circuitpython-max1704x) | 66 downloads |
-| Adafruit CircuitPython floppy (adafruit-circuitpython-floppy) | 66 downloads |
-| Adafruit CircuitPython CLUE (adafruit-circuitpython-clue) | 65 downloads |
-| Adafruit CircuitPython DS2413 (adafruit-circuitpython-ds2413) | 65 downloads |
-| Adafruit CircuitPython Pixie (adafruit-circuitpython-pixie) | 65 downloads |
-| Adafruit CircuitPython Simple Text Display (adafruit-circuitpython-simple-text-display) | 64 downloads |
-| Adafruit CircuitPython Gizmo (adafruit-circuitpython-gizmo) | 64 downloads |
-| Adafruit CircuitPython MatrixPortal (adafruit-circuitpython-matrixportal) | 64 downloads |
-| Adafruit CircuitPython Colorsys (adafruit-circuitpython-colorsys) | 64 downloads |
-| Adafruit CircuitPython UC8151D (adafruit-circuitpython-uc8151d) | 64 downloads |
-| Adafruit CircuitPython HTS221 (adafruit-circuitpython-hts221) | 64 downloads |
-| Adafruit CircuitPython HX8357 (adafruit-circuitpython-hx8357) | 63 downloads |
-| Adafruit CircuitPython HTU31D (adafruit-circuitpython-htu31d) | 63 downloads |
-| Adafruit CircuitPython DS1841 (adafruit-circuitpython-ds1841) | 63 downloads |
-| Adafruit CircuitPython OV5640 (adafruit-circuitpython-ov5640) | 63 downloads |
-| Adafruit CircuitPython MAX9744 (adafruit-circuitpython-max9744) | 63 downloads |
-| Adafruit CircuitPython Radial Controller (adafruit-circuitpython-radial-controller) | 63 downloads |
-| Adafruit CircuitPython TMP007 (adafruit-circuitpython-tmp007) | 62 downloads |
-| Adafruit CircuitPython TMP006 (adafruit-circuitpython-tmp006) | 62 downloads |
-| Adafruit CircuitPython DymoScale (adafruit-circuitpython-dymoscale) | 62 downloads |
-| Adafruit CircuitPython BitmapSaver (adafruit-circuitpython-bitmapsaver) | 62 downloads |
-| Adafruit CircuitPython BLE Heart Rate (adafruit-circuitpython-ble-heart-rate) | 62 downloads |
-| Adafruit CircuitPython SSD1681 (adafruit-circuitpython-ssd1681) | 62 downloads |
-| Adafruit CircuitPython LIFX (adafruit-circuitpython-lifx) | 61 downloads |
-| Adafruit CircuitPython OAuth2 (adafruit-circuitpython-oauth2) | 60 downloads |
-| Adafruit CircuitPython BLE Eddystone (adafruit-circuitpython-ble-eddystone) | 60 downloads |
-| Adafruit CircuitPython IL91874 (adafruit-circuitpython-il91874) | 60 downloads |
-| Adafruit CircuitPython BLE Apple Notification Center (adafruit-circuitpython-ble-apple-notification-center) | 59 downloads |
-| Adafruit CircuitPython IL0398 (adafruit-circuitpython-il0398) | 59 downloads |
-| Adafruit CircuitPython PCF8563 (adafruit-circuitpython-pcf8563) | 59 downloads |
-| Adafruit CircuitPython TLA202X (adafruit-circuitpython-tla202x) | 58 downloads |
-| Adafruit CircuitPython SSD1351 (adafruit-circuitpython-ssd1351) | 58 downloads |
-| Adafruit CircuitPython PyPortal (adafruit-circuitpython-pyportal) | 57 downloads |
-| Adafruit CircuitPython Ducky (adafruit-circuitpython-ducky) | 57 downloads |
-| Adafruit CircuitPython NeoKey (adafruit-circuitpython-neokey) | 57 downloads |
-| Adafruit CircuitPython TPA2016 (adafruit-circuitpython-tpa2016) | 57 downloads |
-| Adafruit CircuitPython BNO08X RVC (adafruit-circuitpython-bno08x-rvc) | 57 downloads |
-| Adafruit CircuitPython Debug I2C (adafruit-circuitpython-debug-i2c) | 57 downloads |
-| Adafruit CircuitPython BLE File Transfer (adafruit-circuitpython-ble-file-transfer) | 57 downloads |
-| Adafruit CircuitPython JWT (adafruit-circuitpython-jwt) | 57 downloads |
-| Adafruit CircuitPython BLE BerryMed Pulse Oximeter (adafruit-circuitpython-ble-berrymed-pulse-oximeter) | 57 downloads |
-| Adafruit CircuitPython Nunchuk (adafruit-circuitpython-nunchuk) | 56 downloads |
-| Adafruit CircuitPython MLX90395 (adafruit-circuitpython-mlx90395) | 56 downloads |
-| Adafruit CircuitPython MacroPad (adafruit-circuitpython-macropad) | 56 downloads |
-| Adafruit CircuitPython SSD1322 (adafruit-circuitpython-ssd1322) | 56 downloads |
-| Adafruit CircuitPython SSD1331 (adafruit-circuitpython-ssd1331) | 56 downloads |
-| Adafruit CircuitPython SimpleMath (adafruit-circuitpython-simplemath) | 55 downloads |
-| Adafruit CircuitPython BLE MIDI (adafruit-circuitpython-ble-midi) | 55 downloads |
-| Adafruit CircuitPython BD3491FS (adafruit-circuitpython-bd3491fs) | 55 downloads |
-| Adafruit CircuitPython AWS IOT (adafruit-circuitpython-aws-iot) | 55 downloads |
-| Adafruit CircuitPython VL53L4CD (adafruit-circuitpython-vl53l4cd) | 54 downloads |
-| Adafruit CircuitPython BLE Apple Media (adafruit-circuitpython-ble-apple-media) | 54 downloads |
-| Adafruit CircuitPython IterTools (adafruit-circuitpython-itertools) | 54 downloads |
-| Adafruit CircuitPython Display Notification (adafruit-circuitpython-display-notification) | 53 downloads |
-| Adafruit CircuitPython ESP32S2TFT (adafruit-circuitpython-esp32s2tft) | 53 downloads |
-| Adafruit CircuitPython MONSTERM4SK (adafruit-circuitpython-monsterm4sk) | 53 downloads |
-| Adafruit CircuitPython BLE Cycling Speed and Cadence (adafruit-circuitpython-ble-cycling-speed-and-cadence) | 52 downloads |
-| Adafruit CircuitPython OV2640 (adafruit-circuitpython-ov2640) | 52 downloads |
-| Adafruit CircuitPython BLE iBBQ (adafruit-circuitpython-ble-ibbq) | 52 downloads |
-| Adafruit CircuitPython SSD1608 (adafruit-circuitpython-ssd1608) | 50 downloads |
-| Adafruit CircuitPython ACeP7In (adafruit-circuitpython-acep7in) | 48 downloads |
-| Adafruit CircuitPython NeoPxl8 (adafruit-circuitpython-neopxl8) | 48 downloads |
-| Adafruit CircuitPython TSC2007 (adafruit-circuitpython-tsc2007) | 48 downloads |
-| Adafruit CircuitPython BoardTest (adafruit-circuitpython-boardtest) | 46 downloads |
-| Adafruit CircuitPython GUVX I2C (adafruit-circuitpython-guvx-i2c) | 46 downloads |
-| Adafruit CircuitPython FunHouse (adafruit-circuitpython-funhouse) | 44 downloads |
-| Adafruit CircuitPython ADXL37x (adafruit-circuitpython-adxl37x) | 42 downloads |
-| Adafruit CircuitPython MMC56x3 (adafruit-circuitpython-mmc56x3) | 42 downloads |
-| Adafruit CircuitPython TT21100 (adafruit-circuitpython-tt21100) | 41 downloads |
-| Adafruit CircuitPython AGS02MA (adafruit-circuitpython-ags02ma) | 35 downloads |
-| Adafruit CircuitPython PixelMap (adafruit-circuitpython-pixelmap) | 27 downloads |
-| Adafruit CircuitPython PCF8575 (adafruit-circuitpython-pcf8575) | 25 downloads |
-| Adafruit CircuitPython BLE Beacon (adafruit-circuitpython-ble-beacon) | 23 downloads |
+| Adafruit CircuitPython CharLCD (adafruit-circuitpython-charlcd) | 121 downloads |
+| Adafruit CircuitPython TCA9548A (adafruit-circuitpython-tca9548a) | 120 downloads |
+| Adafruit CircuitPython MPU6050 (adafruit-circuitpython-mpu6050) | 120 downloads |
+| Adafruit CircuitPython Logging (adafruit-circuitpython-logging) | 119 downloads |
+| Adafruit CircuitPython MCP9808 (adafruit-circuitpython-mcp9808) | 119 downloads |
+| Adafruit CircuitPython DisplayIO SSD1306 (adafruit-circuitpython-displayio-ssd1306) | 118 downloads |
+| Adafruit CircuitPython MPL3115A2 (adafruit-circuitpython-mpl3115a2) | 118 downloads |
+| Adafruit CircuitPython DisplayIO Layout (adafruit-circuitpython-displayio-layout) | 118 downloads |
+| Adafruit CircuitPython SCD30 (adafruit-circuitpython-scd30) | 118 downloads |
+| Adafruit CircuitPython DS18X20 (adafruit-circuitpython-ds18x20) | 116 downloads |
+| Adafruit CircuitPython SHTC3 (adafruit-circuitpython-shtc3) | 114 downloads |
+| Adafruit CircuitPython Seesaw (adafruit-circuitpython-seesaw) | 111 downloads |
+| Adafruit CircuitPython DotStar (adafruit-circuitpython-dotstar) | 111 downloads |
+| Adafruit CircuitPython BMP280 (adafruit-circuitpython-bmp280) | 109 downloads |
+| Adafruit CircuitPython IRRemote (adafruit-circuitpython-irremote) | 109 downloads |
+| Adafruit CircuitPython NeoPixel SPI (adafruit-circuitpython-neopixel-spi) | 108 downloads |
+| Adafruit CircuitPython LSM303DLH Mag (adafruit-circuitpython-lsm303dlh-mag) | 106 downloads |
+| Adafruit CircuitPython FXAS21002C (adafruit-circuitpython-fxas21002c) | 105 downloads |
+| Adafruit CircuitPython BNO08X (adafruit-circuitpython-bno08x) | 104 downloads |
+| Adafruit CircuitPython GFX (adafruit-circuitpython-gfx) | 103 downloads |
+| Adafruit CircuitPython miniQR (adafruit-circuitpython-miniqr) | 103 downloads |
+| Adafruit CircuitPython FONA (adafruit-circuitpython-fona) | 103 downloads |
+| Adafruit CircuitPython Touchscreen (adafruit-circuitpython-touchscreen) | 102 downloads |
+| Adafruit CircuitPython 74HC595 (adafruit-circuitpython-74hc595) | 101 downloads |
+| Adafruit CircuitPython VL53L1X (adafruit-circuitpython-vl53l1x) | 101 downloads |
+| Adafruit CircuitPython HT16K33 (adafruit-circuitpython-ht16k33) | 101 downloads |
+| Adafruit CircuitPython STMPE610 (adafruit-circuitpython-stmpe610) | 101 downloads |
+| Adafruit CircuitPython ADXL34x (adafruit-circuitpython-adxl34x) | 100 downloads |
+| Adafruit CircuitPython MCP3xxx (adafruit-circuitpython-mcp3xxx) | 100 downloads |
+| Adafruit CircuitPython BH1750 (adafruit-circuitpython-bh1750) | 98 downloads |
+| Adafruit CircuitPython SSD1680 (adafruit-circuitpython-ssd1680) | 97 downloads |
+| Adafruit CircuitPython MAX31865 (adafruit-circuitpython-max31865) | 97 downloads |
+| Adafruit CircuitPython LTR329 LTR303 (adafruit-circuitpython-ltr329-ltr303) | 95 downloads |
+| Adafruit CircuitPython MLX90640 (adafruit-circuitpython-mlx90640) | 94 downloads |
+| Adafruit CircuitPython asyncio (adafruit-circuitpython-asyncio) | 94 downloads |
+| Adafruit CircuitPython IS31FL3731 (adafruit-circuitpython-is31fl3731) | 92 downloads |
+| Adafruit CircuitPython PCD8544 (adafruit-circuitpython-pcd8544) | 92 downloads |
+| Adafruit CircuitPython RA8875 (adafruit-circuitpython-ra8875) | 91 downloads |
+| Adafruit CircuitPython WS2801 (adafruit-circuitpython-ws2801) | 91 downloads |
+| Adafruit CircuitPython AS726x (adafruit-circuitpython-as726x) | 91 downloads |
+| Adafruit CircuitPython Thermal Printer (adafruit-circuitpython-thermal-printer) | 91 downloads |
+| Adafruit CircuitPython OneWire (adafruit-circuitpython-onewire) | 90 downloads |
+| Adafruit CircuitPython RPLIDAR (adafruit-circuitpython-rplidar) | 90 downloads |
+| Adafruit CircuitPython ImageLoad (adafruit-circuitpython-imageload) | 89 downloads |
+| Adafruit CircuitPython LPS35HW (adafruit-circuitpython-lps35hw) | 88 downloads |
+| Adafruit CircuitPython MLX90393 (adafruit-circuitpython-mlx90393) | 88 downloads |
+| Adafruit CircuitPython AzureIoT (adafruit-circuitpython-azureiot) | 88 downloads |
+| Adafruit CircuitPython VEML7700 (adafruit-circuitpython-veml7700) | 88 downloads |
+| Adafruit CircuitPython LIDARLite (adafruit-circuitpython-lidarlite) | 86 downloads |
+| Adafruit CircuitPython datetime (adafruit-circuitpython-datetime) | 86 downloads |
+| Adafruit CircuitPython ST7789 (adafruit-circuitpython-st7789) | 86 downloads |
+| Adafruit CircuitPython PIOASM (adafruit-circuitpython-pioasm) | 85 downloads |
+| Adafruit CircuitPython hashlib (adafruit-circuitpython-hashlib) | 85 downloads |
+| Adafruit CircuitPython NTP (adafruit-circuitpython-ntp) | 85 downloads |
+| Adafruit CircuitPython RFM69 (adafruit-circuitpython-rfm69) | 85 downloads |
+| Adafruit CircuitPython DRV2605 (adafruit-circuitpython-drv2605) | 84 downloads |
+| Adafruit CircuitPython DPS310 (adafruit-circuitpython-dps310) | 84 downloads |
+| Adafruit CircuitPython AW9523 (adafruit-circuitpython-aw9523) | 83 downloads |
+| Adafruit CircuitPython IS31FL3741 (adafruit-circuitpython-is31fl3741) | 82 downloads |
+| Adafruit CircuitPython TCA8418 (adafruit-circuitpython-tca8418) | 82 downloads |
+| Adafruit CircuitPython RGBLED (adafruit-circuitpython-rgbled) | 82 downloads |
+| Adafruit CircuitPython MAX31855 (adafruit-circuitpython-max31855) | 82 downloads |
+| Adafruit CircuitPython MAX31856 (adafruit-circuitpython-max31856) | 82 downloads |
+| Adafruit CircuitPython AM2320 (adafruit-circuitpython-am2320) | 82 downloads |
+| Adafruit CircuitPython SCD4X (adafruit-circuitpython-scd4x) | 81 downloads |
+| Adafruit CircuitPython BluefruitConnect (adafruit-circuitpython-bluefruitconnect) | 81 downloads |
+| Adafruit CircuitPython INA260 (adafruit-circuitpython-ina260) | 81 downloads |
+| Adafruit CircuitPython MCP2515 (adafruit-circuitpython-mcp2515) | 80 downloads |
+| Adafruit CircuitPython LSM6DS (adafruit-circuitpython-lsm6ds) | 80 downloads |
+| Adafruit CircuitPython LSM9DS1 (adafruit-circuitpython-lsm9ds1) | 80 downloads |
+| Adafruit CircuitPython Slideshow (adafruit-circuitpython-slideshow) | 80 downloads |
+| Adafruit CircuitPython RFM9x (adafruit-circuitpython-rfm9x) | 80 downloads |
+| Adafruit CircuitPython MMA8451 (adafruit-circuitpython-mma8451) | 79 downloads |
+| Adafruit CircuitPython SHT4x (adafruit-circuitpython-sht4x) | 79 downloads |
+| Adafruit CircuitPython VCNL4010 (adafruit-circuitpython-vcnl4010) | 78 downloads |
+| Adafruit CircuitPython SI7021 (adafruit-circuitpython-si7021) | 77 downloads |
+| Adafruit CircuitPython SPD1656 (adafruit-circuitpython-spd1656) | 77 downloads |
+| Adafruit CircuitPython BMP3XX (adafruit-circuitpython-bmp3xx) | 76 downloads |
+| Adafruit CircuitPython SimpleIO (adafruit-circuitpython-simpleio) | 76 downloads |
+| Adafruit CircuitPython ST7735R (adafruit-circuitpython-st7735r) | 75 downloads |
+| Adafruit CircuitPython PCT2075 (adafruit-circuitpython-pct2075) | 73 downloads |
+| Adafruit CircuitPython SI1145 (adafruit-circuitpython-si1145) | 73 downloads |
+| Adafruit CircuitPython SGP40 (adafruit-circuitpython-sgp40) | 73 downloads |
+| Adafruit CircuitPython ADT7410 (adafruit-circuitpython-adt7410) | 73 downloads |
+| Adafruit CircuitPython DisplayIO SH1106 (adafruit-circuitpython-displayio-sh1106) | 71 downloads |
+| Adafruit CircuitPython HCSR04 (adafruit-circuitpython-hcsr04) | 71 downloads |
+| Adafruit CircuitPython L3GD20 (adafruit-circuitpython-l3gd20) | 70 downloads |
+| Adafruit CircuitPython MLX90614 (adafruit-circuitpython-mlx90614) | 70 downloads |
+| Adafruit CircuitPython BLE Adafruit (adafruit-circuitpython-ble-adafruit) | 70 downloads |
+| Adafruit CircuitPython LSM303 Accel (adafruit-circuitpython-lsm303-accel) | 69 downloads |
+| Adafruit CircuitPython TSL2591 (adafruit-circuitpython-tsl2591) | 69 downloads |
+| Adafruit CircuitPython VC0706 (adafruit-circuitpython-vc0706) | 68 downloads |
+| Adafruit CircuitPython AdafruitIO (adafruit-circuitpython-adafruitio) | 68 downloads |
+| Adafruit CircuitPython PCF8574 (adafruit-circuitpython-pcf8574) | 68 downloads |
+| Adafruit CircuitPython AS7341 (adafruit-circuitpython-as7341) | 68 downloads |
+| Adafruit CircuitPython APDS9960 (adafruit-circuitpython-apds9960) | 68 downloads |
+| Adafruit CircuitPython CircuitPlayground (adafruit-circuitpython-circuitplayground) | 68 downloads |
+| Adafruit CircuitPython SGP30 (adafruit-circuitpython-sgp30) | 67 downloads |
+| Adafruit CircuitPython LPS2X (adafruit-circuitpython-lps2x) | 67 downloads |
+| Adafruit CircuitPython PCF8591 (adafruit-circuitpython-pcf8591) | 67 downloads |
+| Adafruit CircuitPython MCP4728 (adafruit-circuitpython-mcp4728) | 67 downloads |
+| Adafruit CircuitPython BluefruitSPI (adafruit-circuitpython-bluefruitspi) | 66 downloads |
+| Adafruit CircuitPython Hue (adafruit-circuitpython-hue) | 66 downloads |
+| Adafruit CircuitPython turtle (adafruit-circuitpython-turtle) | 66 downloads |
+| Adafruit CircuitPython FancyLED (adafruit-circuitpython-fancyled) | 66 downloads |
+| Adafruit CircuitPython MS8607 (adafruit-circuitpython-ms8607) | 65 downloads |
+| Adafruit CircuitPython PM25 (adafruit-circuitpython-pm25) | 65 downloads |
+| Adafruit CircuitPython DS3231 (adafruit-circuitpython-ds3231) | 65 downloads |
+| Adafruit CircuitPython TCS34725 (adafruit-circuitpython-tcs34725) | 65 downloads |
+| Adafruit CircuitPython MAX1704x (adafruit-circuitpython-max1704x) | 65 downloads |
+| Adafruit CircuitPython Colorsys (adafruit-circuitpython-colorsys) | 65 downloads |
+| Adafruit CircuitPython FXOS8700 (adafruit-circuitpython-fxos8700) | 65 downloads |
+| Adafruit CircuitPython MIDI (adafruit-circuitpython-midi) | 64 downloads |
+| Adafruit CircuitPython floppy (adafruit-circuitpython-floppy) | 64 downloads |
+| Adafruit CircuitPython MagTag (adafruit-circuitpython-magtag) | 64 downloads |
+| Adafruit CircuitPython GC IOT Core (adafruit-circuitpython-gc-iot-core) | 63 downloads |
+| Adafruit CircuitPython SI5351 (adafruit-circuitpython-si5351) | 63 downloads |
+| Adafruit CircuitPython AMG88xx (adafruit-circuitpython-amg88xx) | 63 downloads |
+| Adafruit CircuitPython TFmini (adafruit-circuitpython-tfmini) | 62 downloads |
+| Adafruit CircuitPython MatrixPortal (adafruit-circuitpython-matrixportal) | 62 downloads |
+| Adafruit CircuitPython ST7735 (adafruit-circuitpython-st7735) | 62 downloads |
+| Adafruit CircuitPython Pixel Framebuf (adafruit-circuitpython-pixel-framebuf) | 62 downloads |
+| Adafruit CircuitPython MacroPad (adafruit-circuitpython-macropad) | 62 downloads |
+| Adafruit CircuitPython LTR390 (adafruit-circuitpython-ltr390) | 62 downloads |
+| Adafruit CircuitPython DisplayIO SH1107 (adafruit-circuitpython-displayio-sh1107) | 61 downloads |
+| Adafruit CircuitPython Debouncer (adafruit-circuitpython-debouncer) | 61 downloads |
+| Adafruit CircuitPython OV5640 (adafruit-circuitpython-ov5640) | 61 downloads |
+| Adafruit CircuitPython AirLift (adafruit-circuitpython-airlift) | 61 downloads |
+| Adafruit CircuitPython PYOA (adafruit-circuitpython-pyoa) | 61 downloads |
+| Adafruit CircuitPython FeatherWing (adafruit-circuitpython-featherwing) | 60 downloads |
+| Adafruit CircuitPython TLV493D (adafruit-circuitpython-tlv493d) | 60 downloads |
+| Adafruit CircuitPython PCF8523 (adafruit-circuitpython-pcf8523) | 59 downloads |
+| Adafruit CircuitPython FocalTouch (adafruit-circuitpython-focaltouch) | 59 downloads |
+| Adafruit CircuitPython LIS2MDL (adafruit-circuitpython-lis2mdl) | 59 downloads |
+| Adafruit CircuitPython CCS811 (adafruit-circuitpython-ccs811) | 58 downloads |
+| Adafruit CircuitPython IL0373 (adafruit-circuitpython-il0373) | 58 downloads |
+| Adafruit CircuitPython VL6180X (adafruit-circuitpython-vl6180x) | 58 downloads |
+| Adafruit CircuitPython SSD1305 (adafruit-circuitpython-ssd1305) | 58 downloads |
+| Adafruit CircuitPython CLUE (adafruit-circuitpython-clue) | 58 downloads |
+| Adafruit CircuitPython LSM9DS0 (adafruit-circuitpython-lsm9ds0) | 58 downloads |
+| Adafruit CircuitPython BLE Radio (adafruit-circuitpython-ble-radio) | 57 downloads |
+| Adafruit CircuitPython SSD1327 (adafruit-circuitpython-ssd1327) | 57 downloads |
+| Adafruit CircuitPython IL91874 (adafruit-circuitpython-il91874) | 57 downloads |
+| Adafruit CircuitPython SSD1681 (adafruit-circuitpython-ssd1681) | 57 downloads |
+| Adafruit CircuitPython LIS331 (adafruit-circuitpython-lis331) | 57 downloads |
+| Adafruit CircuitPython ILI9341 (adafruit-circuitpython-ili9341) | 56 downloads |
+| Adafruit CircuitPython SI4713 (adafruit-circuitpython-si4713) | 56 downloads |
+| Adafruit CircuitPython MPL115A2 (adafruit-circuitpython-mpl115a2) | 56 downloads |
+| Adafruit CircuitPython Simple Text Display (adafruit-circuitpython-simple-text-display) | 56 downloads |
+| Adafruit CircuitPython TrellisM4 (adafruit-circuitpython-trellism4) | 56 downloads |
+| Adafruit CircuitPython Thermistor (adafruit-circuitpython-thermistor) | 56 downloads |
+| Adafruit CircuitPython ACeP7In (adafruit-circuitpython-acep7in) | 56 downloads |
+| Adafruit CircuitPython MAX7219 (adafruit-circuitpython-max7219) | 55 downloads |
+| Adafruit CircuitPython ESP ATcontrol (adafruit-circuitpython-esp-atcontrol) | 55 downloads |
+| Adafruit CircuitPython HTU31D (adafruit-circuitpython-htu31d) | 55 downloads |
+| Adafruit CircuitPython CursorControl (adafruit-circuitpython-cursorcontrol) | 54 downloads |
+| Adafruit CircuitPython LIS3MDL (adafruit-circuitpython-lis3mdl) | 54 downloads |
+| Adafruit CircuitPython EMC2101 (adafruit-circuitpython-emc2101) | 54 downloads |
+| Adafruit CircuitPython FakeRequests (adafruit-circuitpython-fakerequests) | 54 downloads |
+| Adafruit CircuitPython DS3502 (adafruit-circuitpython-ds3502) | 54 downloads |
+| Adafruit CircuitPython EPD (adafruit-circuitpython-epd) | 54 downloads |
+| Adafruit CircuitPython MCP9600 (adafruit-circuitpython-mcp9600) | 54 downloads |
+| Adafruit CircuitPython MSA301 (adafruit-circuitpython-msa301) | 53 downloads |
+| Adafruit CircuitPython RSA (adafruit-circuitpython-rsa) | 53 downloads |
+| Adafruit CircuitPython SSD1325 (adafruit-circuitpython-ssd1325) | 53 downloads |
+| Adafruit CircuitPython TSC2007 (adafruit-circuitpython-tsc2007) | 53 downloads |
+| Adafruit CircuitPython MCP4725 (adafruit-circuitpython-mcp4725) | 53 downloads |
+| Adafruit CircuitPython DisplayIO SSD1305 (adafruit-circuitpython-displayio-ssd1305) | 53 downloads |
+| Adafruit CircuitPython BLE File Transfer (adafruit-circuitpython-ble-file-transfer) | 53 downloads |
+| Adafruit CircuitPython TC74 (adafruit-circuitpython-tc74) | 53 downloads |
+| Adafruit CircuitPython RockBlock (adafruit-circuitpython-rockblock) | 52 downloads |
+| Adafruit CircuitPython VCNL4040 (adafruit-circuitpython-vcnl4040) | 52 downloads |
+| Adafruit CircuitPython ICM20X (adafruit-circuitpython-icm20x) | 52 downloads |
+| Adafruit CircuitPython SharpMemoryDisplay (adafruit-circuitpython-sharpmemorydisplay) | 52 downloads |
+| Adafruit CircuitPython VS1053 (adafruit-circuitpython-vs1053) | 52 downloads |
+| Adafruit CircuitPython BLE LYWSD03MMC (adafruit-circuitpython-ble-lywsd03mmc) | 52 downloads |
+| Adafruit CircuitPython TLC59711 (adafruit-circuitpython-tlc59711) | 52 downloads |
+| Adafruit CircuitPython HTS221 (adafruit-circuitpython-hts221) | 51 downloads |
+| Adafruit CircuitPython TSL2561 (adafruit-circuitpython-tsl2561) | 51 downloads |
+| Adafruit CircuitPython Radial Controller (adafruit-circuitpython-radial-controller) | 51 downloads |
+| Adafruit CircuitPython TinyLoRa (adafruit-circuitpython-tinylora) | 51 downloads |
+| Adafruit CircuitPython IterTools (adafruit-circuitpython-itertools) | 50 downloads |
+| Adafruit CircuitPython HX8357 (adafruit-circuitpython-hx8357) | 50 downloads |
+| Adafruit CircuitPython UC8151D (adafruit-circuitpython-uc8151d) | 50 downloads |
+| Adafruit CircuitPython Display Notification (adafruit-circuitpython-display-notification) | 50 downloads |
+| Adafruit CircuitPython BLE Magic Light (adafruit-circuitpython-ble-magic-light) | 50 downloads |
+| Adafruit CircuitPython MPRLS (adafruit-circuitpython-mprls) | 49 downloads |
+| Adafruit CircuitPython MLX90395 (adafruit-circuitpython-mlx90395) | 49 downloads |
+| Adafruit CircuitPython CAP1188 (adafruit-circuitpython-cap1188) | 49 downloads |
+| Adafruit CircuitPython NeoPxl8 (adafruit-circuitpython-neopxl8) | 49 downloads |
+| Adafruit CircuitPython ST7565 (adafruit-circuitpython-st7565) | 48 downloads |
+| Adafruit CircuitPython MatrixKeypad (adafruit-circuitpython-matrixkeypad) | 48 downloads |
+| Adafruit CircuitPython DS2413 (adafruit-circuitpython-ds2413) | 48 downloads |
+| Adafruit CircuitPython WSGI (adafruit-circuitpython-wsgi) | 48 downloads |
+| Adafruit CircuitPython BLE BroadcastNet (adafruit-circuitpython-ble-broadcastnet) | 48 downloads |
+| Adafruit CircuitPython Nunchuk (adafruit-circuitpython-nunchuk) | 48 downloads |
+| Adafruit CircuitPython ProgressBar (adafruit-circuitpython-progressbar) | 48 downloads |
+| Adafruit CircuitPython PyPortal (adafruit-circuitpython-pyportal) | 48 downloads |
+| Adafruit CircuitPython AVRprog (adafruit-circuitpython-avrprog) | 47 downloads |
+| Adafruit CircuitPython MONSTERM4SK (adafruit-circuitpython-monsterm4sk) | 47 downloads |
+| Adafruit CircuitPython VL53L4CD (adafruit-circuitpython-vl53l4cd) | 47 downloads |
+| Adafruit CircuitPython PCF8563 (adafruit-circuitpython-pcf8563) | 47 downloads |
+| Adafruit CircuitPython DS1841 (adafruit-circuitpython-ds1841) | 46 downloads |
+| Adafruit CircuitPython VEML6075 (adafruit-circuitpython-veml6075) | 46 downloads |
+| Adafruit CircuitPython DS1307 (adafruit-circuitpython-ds1307) | 46 downloads |
+| Adafruit CircuitPython ESP32S2TFT (adafruit-circuitpython-esp32s2tft) | 46 downloads |
+| Adafruit CircuitPython OV2640 (adafruit-circuitpython-ov2640) | 46 downloads |
+| Adafruit CircuitPython Trellis (adafruit-circuitpython-trellis) | 46 downloads |
+| Adafruit CircuitPython TLA202X (adafruit-circuitpython-tla202x) | 46 downloads |
+| Adafruit CircuitPython BitmapSaver (adafruit-circuitpython-bitmapsaver) | 45 downloads |
+| Adafruit CircuitPython TLC5947 (adafruit-circuitpython-tlc5947) | 45 downloads |
+| Adafruit CircuitPython Ducky (adafruit-circuitpython-ducky) | 45 downloads |
+| Adafruit CircuitPython MAX9744 (adafruit-circuitpython-max9744) | 44 downloads |
+| Adafruit CircuitPython RTTTL (adafruit-circuitpython-rtttl) | 44 downloads |
+| Adafruit CircuitPython Gizmo (adafruit-circuitpython-gizmo) | 44 downloads |
+| Adafruit CircuitPython Waveform (adafruit-circuitpython-waveform) | 43 downloads |
+| Adafruit CircuitPython ATECC (adafruit-circuitpython-atecc) | 43 downloads |
+| Adafruit CircuitPython BLE Eddystone (adafruit-circuitpython-ble-eddystone) | 43 downloads |
+| Adafruit CircuitPython DymoScale (adafruit-circuitpython-dymoscale) | 43 downloads |
+| Adafruit CircuitPython Crickit (adafruit-circuitpython-crickit) | 43 downloads |
+| Adafruit CircuitPython IL0398 (adafruit-circuitpython-il0398) | 42 downloads |
+| Adafruit CircuitPython SSD1322 (adafruit-circuitpython-ssd1322) | 42 downloads |
+| Adafruit CircuitPython NeoKey (adafruit-circuitpython-neokey) | 42 downloads |
+| Adafruit CircuitPython FRAM (adafruit-circuitpython-fram) | 42 downloads |
+| Adafruit CircuitPython miniesptool (adafruit-circuitpython-miniesptool) | 42 downloads |
+| Adafruit CircuitPython US100 (adafruit-circuitpython-us100) | 42 downloads |
+| Adafruit CircuitPython OAuth2 (adafruit-circuitpython-oauth2) | 42 downloads |
+| Adafruit CircuitPython SSD1351 (adafruit-circuitpython-ssd1351) | 42 downloads |
+| Adafruit CircuitPython LIFX (adafruit-circuitpython-lifx) | 41 downloads |
+| Adafruit CircuitPython SSD1331 (adafruit-circuitpython-ssd1331) | 41 downloads |
+| Adafruit CircuitPython BNO08X RVC (adafruit-circuitpython-bno08x-rvc) | 41 downloads |
+| Adafruit CircuitPython Display Button (adafruit-circuitpython-display-button) | 40 downloads |
+| Adafruit CircuitPython TMP007 (adafruit-circuitpython-tmp007) | 40 downloads |
+| Adafruit CircuitPython BLE MIDI (adafruit-circuitpython-ble-midi) | 40 downloads |
+| Adafruit CircuitPython JWT (adafruit-circuitpython-jwt) | 40 downloads |
+| Adafruit CircuitPython SimpleMath (adafruit-circuitpython-simplemath) | 40 downloads |
+| Adafruit CircuitPython BLE Heart Rate (adafruit-circuitpython-ble-heart-rate) | 40 downloads |
+| Adafruit CircuitPython Pixie (adafruit-circuitpython-pixie) | 40 downloads |
+| Adafruit CircuitPython Debug I2C (adafruit-circuitpython-debug-i2c) | 40 downloads |
+| Adafruit CircuitPython TMP006 (adafruit-circuitpython-tmp006) | 40 downloads |
+| Adafruit CircuitPython BLE BerryMed Pulse Oximeter (adafruit-circuitpython-ble-berrymed-pulse-oximeter) | 39 downloads |
+| Adafruit CircuitPython VEML6070 (adafruit-circuitpython-veml6070) | 39 downloads |
+| Adafruit CircuitPython TT21100 (adafruit-circuitpython-tt21100) | 39 downloads |
+| Adafruit CircuitPython MPR121 (adafruit-circuitpython-mpr121) | 39 downloads |
+| Adafruit CircuitPython SSD1608 (adafruit-circuitpython-ssd1608) | 38 downloads |
+| Adafruit CircuitPython BLE Apple Media (adafruit-circuitpython-ble-apple-media) | 38 downloads |
+| Adafruit CircuitPython BoardTest (adafruit-circuitpython-boardtest) | 38 downloads |
+| Adafruit CircuitPython AWS IOT (adafruit-circuitpython-aws-iot) | 38 downloads |
+| Adafruit CircuitPython FunHouse (adafruit-circuitpython-funhouse) | 37 downloads |
+| Adafruit CircuitPython MMC56x3 (adafruit-circuitpython-mmc56x3) | 37 downloads |
+| Adafruit CircuitPython BLE Apple Notification Center (adafruit-circuitpython-ble-apple-notification-center) | 37 downloads |
+| Adafruit CircuitPython TPA2016 (adafruit-circuitpython-tpa2016) | 37 downloads |
+| Adafruit CircuitPython BLE Cycling Speed and Cadence (adafruit-circuitpython-ble-cycling-speed-and-cadence) | 35 downloads |
+| Adafruit CircuitPython BD3491FS (adafruit-circuitpython-bd3491fs) | 34 downloads |
+| Adafruit CircuitPython GUVX I2C (adafruit-circuitpython-guvx-i2c) | 33 downloads |
+| Adafruit CircuitPython BLE iBBQ (adafruit-circuitpython-ble-ibbq) | 33 downloads |
+| Adafruit CircuitPython ADXL37x (adafruit-circuitpython-adxl37x) | 32 downloads |
+| Adafruit CircuitPython PixelMap (adafruit-circuitpython-pixelmap) | 30 downloads |
+| Adafruit CircuitPython PCF8575 (adafruit-circuitpython-pcf8575) | 30 downloads |
+| Adafruit CircuitPython AGS02MA (adafruit-circuitpython-ags02ma) | 28 downloads |
+| Adafruit CircuitPython BLE Beacon (adafruit-circuitpython-ble-beacon) | 27 downloads |
 
 ## Blinka
 
@@ -325,4 +325,4 @@ and single board computers such as the Raspberry Pi.
 
 | Blinka (PyPI Package) | Downloads in the Last 7 Days |
 | --- | --- |
-| Adafruit Blinka (adafruit-blinka) | 12553 |
+| Adafruit Blinka (adafruit-blinka) | 14227 |
