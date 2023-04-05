@@ -544,4 +544,5 @@ Miscellaneous
     TT21100 Capacitive Touchscreen Driver <https://docs.circuitpython.org/projects/tt21100/en/latest/>
     VC0706 TTL Camera <https://docs.circuitpython.org/projects/vc0706/en/latest/>
     VS1053 Audio Codec <https://docs.circuitpython.org/projects/vs1053/en/latest/>
+    Wii Classic <https://docs.circuitpython.org/projects/wii_classic/en/latest/>
     Wiznet5k Ethernet Module <https://docs.circuitpython.org/projects/wiznet5k/en/latest/>
