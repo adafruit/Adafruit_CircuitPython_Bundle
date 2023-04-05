@@ -946,4 +946,4 @@
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ACeP7In.git
 [submodule "libraries/drivers/wii_classic"]
 	path = libraries/drivers/wii_classic
-	url = git@github.com:adafruit/Adafruit_CircuitPython_Wii_Classic.git
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Wii_Classic.git
