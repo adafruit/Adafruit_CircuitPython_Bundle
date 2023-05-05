@@ -194,6 +194,7 @@ Music, noisemakers, and more.
     MIDI <https://docs.circuitpython.org/projects/midi/en/latest/>
     Ring Tone Text Transfer Language (RTTTL) <https://docs.circuitpython.org/projects/rtttl/en/latest/>
     Waveform Generation <https://docs.circuitpython.org/projects/waveform/en/latest/>
+    Wave file I/O <https://docs.circuitpython.org/projects/wave/en/latest/>
 
 Miscellaneous Helpers
 ^^^^^^^^^^^^^^^^^^^^^^^
