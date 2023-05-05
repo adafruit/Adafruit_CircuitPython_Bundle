@@ -947,3 +947,6 @@
 [submodule "libraries/drivers/wii_classic"]
 	path = libraries/drivers/wii_classic
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Wii_Classic.git
+[submodule "libraries/helpers/wave"]
+	path = libraries/helpers/wave
+	url = https://github.com/adafruit/Adafruit_CircuitPython_wave.git
