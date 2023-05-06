@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 315 libraries available.
+There are 316 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -321,3 +321,4 @@ There are 315 libraries available.
 * [Adafruit CircuitPython miniQR](https://github.com/adafruit/Adafruit_CircuitPython_miniQR.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-miniqr))
 * [Adafruit CircuitPython miniesptool](https://github.com/adafruit/Adafruit_CircuitPython_miniesptool.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-miniesptool))
 * [Adafruit CircuitPython turtle](https://github.com/adafruit/Adafruit_CircuitPython_turtle.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-turtle))
+* [Adafruit CircuitPython wave](https://github.com/adafruit/Adafruit_CircuitPython_wave.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wave))
