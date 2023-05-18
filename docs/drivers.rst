@@ -538,7 +538,6 @@ Miscellaneous
     Si4713 Stereo FM Transmitter <https://docs.circuitpython.org/projects/si4713/en/latest/>
     Si5351 Clock Generator <https://docs.circuitpython.org/projects/si5351/en/latest/>
     STMPE610 Resistive Touchscreen <https://docs.circuitpython.org/projects/stmpe610/en/latest/>
-    Thermal Printer <https://docs.circuitpython.org/projects/thermal_printer/en/latest/>
     Touchscreen 4-Wire Resistive <https://docs.circuitpython.org/projects/touchscreen/en/latest/>
     TPA2016 Audio Amplifier with AGC <https://docs.circuitpython.org/projects/tpa2016/en/latest/>
     Trellis 4x4 Keypad <https://docs.circuitpython.org/projects/trellis/en/latest/>
