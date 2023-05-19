@@ -1,5 +1,5 @@
 # Adafruit CircuitPython Library Download Stats
-![Blinka On Computer](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/assets/BlinkaComputer.png)  
+![Blinka On Computer](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaComputer.png)  
 ### Here is a listing of current Adafruit CircuitPython libraries download statistics.
 **There are 315 libraries available.**
 
