@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 316 libraries available.
+There are 315 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -198,7 +198,6 @@ There are 316 libraries available.
 * [Adafruit CircuitPython TSL2561](https://github.com/adafruit/Adafruit_CircuitPython_TSL2561.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tsl2561))
 * [Adafruit CircuitPython TSL2591](https://github.com/adafruit/Adafruit_CircuitPython_TSL2591.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tsl2591))
 * [Adafruit CircuitPython TT21100](https://github.com/adafruit/Adafruit_CircuitPython_TT21100.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tt21100))
-* [Adafruit CircuitPython Thermal Printer](https://github.com/adafruit/Adafruit_CircuitPython_Thermal_Printer.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-thermal-printer))
 * [Adafruit CircuitPython Thermistor](https://github.com/adafruit/Adafruit_CircuitPython_Thermistor.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-thermistor))
 * [Adafruit CircuitPython Touchscreen](https://github.com/adafruit/Adafruit_CircuitPython_Touchscreen.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-touchscreen))
 * [Adafruit CircuitPython TrellisM4](https://github.com/adafruit/Adafruit_CircuitPython_TrellisM4.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-trellism4))
