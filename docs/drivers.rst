@@ -490,6 +490,7 @@ These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``,
     MCP4725 Digital-to-Analog Converter <https://docs.circuitpython.org/projects/mcp4725/en/latest/>
     MCP4728 4-Channel, 12-bit Digital-to-Analog Converter <https://docs.circuitpython.org/projects/mcp4728/en/latest/>
     MPR121 Capacitive Touch Sensor <https://docs.circuitpython.org/projects/mpr121/en/latest/>
+    NAU7802 24-Bit ADC <https://docs.circuitpython.org/projects/nau7802/en/latest/>
     PCA9685 16 x 12-bit PWM Driver <https://docs.circuitpython.org/projects/pca9685/en/latest/>
     PCF8574 GPIO Expander <https://docs.circuitpython.org/projects/pcf8574/en/latest/>
     PCF8575 GPIO Expander <https://docs.circuitpython.org/projects/pcf8575/en/latest/>

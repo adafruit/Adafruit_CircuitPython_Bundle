@@ -947,3 +947,6 @@
 [submodule "libraries/helpers/wave"]
 	path = libraries/helpers/wave
 	url = https://github.com/adafruit/Adafruit_CircuitPython_wave.git
+[submodule "libraries/drivers/nau7802"]
+	path = libraries/drivers/nau7802
+	url = https://github.com/adafruit/CircuitPython_NAU7802.git
