@@ -4,10 +4,10 @@
 
 name: Release Actions
 
-on:
+on: 
+  workflow_dispatch:
   release:
     types: [published]
-  workflow-dispatch:
 
 jobs:
   upload-release-assets:
