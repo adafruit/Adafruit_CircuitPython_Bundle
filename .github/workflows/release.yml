@@ -4,7 +4,7 @@
 
 name: Release Actions
 
-on: 
+on:
   workflow_dispatch:
   release:
     types: [published]
