@@ -41,7 +41,7 @@ jobs:
       uses: shogo82148/actions-upload-release-asset@v1
       with:
         asset_path: "bundles/*"
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.GH_REPO_TOKEN }}
         upload_url: ${{ github.event.release.upload_url }}
     - name: Upload Assets To AWS S3
       env:
