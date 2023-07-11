@@ -286,6 +286,7 @@ E-Paper / E-Ink
 
     ACeP7In (displayio) <https://docs.circuitpython.org/projects/acep7in/en/latest/>
     E-Paper Display (framebuf) <https://docs.circuitpython.org/projects/epd/en/latest/>
+    EK79686 (displayio) <https://docs.circuitpython.org/projects/ek79686/en/latest/>
     IL0373 (displayio) <https://docs.circuitpython.org/projects/il0373/en/latest/>
     IL0398 (displayio) <https://docs.circuitpython.org/projects/il0398/en/latest/>
     IL91874 (displayio) <https://docs.circuitpython.org/projects/il91874/en/latest/>

@@ -950,3 +950,6 @@
 [submodule "libraries/drivers/nau7802"]
 	path = libraries/drivers/nau7802
 	url = https://github.com/adafruit/CircuitPython_NAU7802.git
+[submodule "libraries/drivers/ek79686"]
+	path = libraries/drivers/ek79686
+	url = https://github.com/adafruit/Adafruit_CircuitPython_EK79686.git
