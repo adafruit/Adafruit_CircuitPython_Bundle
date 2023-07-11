@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 316 libraries available.
+There are 317 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -51,6 +51,7 @@ There are 316 libraries available.
 * [Adafruit CircuitPython DisplayIO SSD1306](https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SSD1306.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-displayio-ssd1306))
 * [Adafruit CircuitPython DotStar](https://github.com/adafruit/Adafruit_CircuitPython_DotStar.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-dotstar))
 * [Adafruit CircuitPython DymoScale](https://github.com/adafruit/Adafruit_CircuitPython_DymoScale.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-dymoscale))
+* [Adafruit CircuitPython EK79686](https://github.com/adafruit/Adafruit_CircuitPython_EK79686.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ek79686))
 * [Adafruit CircuitPython EMC2101](https://github.com/adafruit/Adafruit_CircuitPython_EMC2101.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-emc2101))
 * [Adafruit CircuitPython ENS160](https://github.com/adafruit/Adafruit_CircuitPython_ENS160.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ens160))
 * [Adafruit CircuitPython EPD](https://github.com/adafruit/Adafruit_CircuitPython_EPD.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-epd))
