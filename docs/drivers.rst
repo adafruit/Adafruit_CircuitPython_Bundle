@@ -220,6 +220,7 @@ Miscellaneous Helpers
     SimpleMath <https://docs.circuitpython.org/projects/simplemath/en/latest/>
     Test Repo <https://docs.circuitpython.org/projects/testrepo/en/latest/>
     USB HID - Human Interface Device (Keyboard and Mouse) <https://docs.circuitpython.org/projects/hid/en/latest/>
+    USB Host Descriptors <https://docs.circuitpython.org/projects/usb-host-descriptors/en/latest/>
     Ticks <https://docs.circuitpython.org/projects/ticks/en/latest/>
 
 Blinky
