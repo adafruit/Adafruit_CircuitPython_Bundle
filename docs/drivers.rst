@@ -119,6 +119,7 @@ Helpers for interfacing with the internet, including IoT protocols.
 
     Fake Requests <https://docs.circuitpython.org/projects/fakerequests/en/latest/>
     HTTP Server <https://docs.circuitpython.org/projects/httpserver/en/latest/>
+    JSON Stream <https://docs.circuitpython.org/projects/json_stream/en/latest/>
     JSON Web Token (JWT) <https://docs.circuitpython.org/projects/jwt/en/latest/>
     MiniMQTT <https://docs.circuitpython.org/projects/minimqtt/en/latest/>
     NTP (Network time Protocol) <https://docs.circuitpython.org/projects/ntp/en/latest/>
