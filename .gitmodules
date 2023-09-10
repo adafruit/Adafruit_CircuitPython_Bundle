@@ -956,3 +956,6 @@
 [submodule "libraries/helpers/usb_host_descriptors"]
 	path = libraries/helpers/usb_host_descriptors
 	url = https://github.com/adafruit/Adafruit_CircuitPython_USB_Host_Descriptors.git
+[submodule "libraries/helpers/json_stream"]
+	path = libraries/helpers/json_stream
+	url = https://github.com/adafruit/Adafruit_CircuitPython_JSON_Stream.git
