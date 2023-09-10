@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 318 libraries available.
+There are 319 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -275,6 +275,7 @@ There are 318 libraries available.
 * [Adafruit CircuitPython Hue](https://github.com/adafruit/Adafruit_CircuitPython_Hue.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hue))
 * [Adafruit CircuitPython ImageLoad](https://github.com/adafruit/Adafruit_CircuitPython_ImageLoad.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-imageload))
 * [Adafruit CircuitPython IterTools](https://github.com/adafruit/Adafruit_CircuitPython_IterTools.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-itertools))
+* [Adafruit CircuitPython JSON Stream](https://github.com/adafruit/Adafruit_CircuitPython_JSON_Stream.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-json-stream))
 * [Adafruit CircuitPython JWT](https://github.com/adafruit/Adafruit_CircuitPython_JWT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-jwt))
 * [Adafruit CircuitPython LED Animation](https://github.com/adafruit/Adafruit_CircuitPython_LED_Animation.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-led-animation))
 * [Adafruit CircuitPython LIFX](https://github.com/adafruit/Adafruit_CircuitPython_LIFX.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lifx))
