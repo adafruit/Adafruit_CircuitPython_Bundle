@@ -959,3 +959,6 @@
 [submodule "libraries/helpers/json_stream"]
 	path = libraries/helpers/json_stream
 	url = https://github.com/adafruit/Adafruit_CircuitPython_JSON_Stream.git
+[submodule "libraries/drivers/ad569x"]
+	path = libraries/drivers/ad569x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_AD569x.git
