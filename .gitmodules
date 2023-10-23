@@ -962,3 +962,6 @@
 [submodule "libraries/drivers/ad569x"]
 	path = libraries/drivers/ad569x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_AD569x.git
+[submodule "libraries/helpers/templateengine"]
+	path = libraries/helpers/templateengine
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TemplateEngine.git

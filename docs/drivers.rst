@@ -125,6 +125,7 @@ Helpers for interfacing with the internet, including IoT protocols.
     NTP (Network time Protocol) <https://docs.circuitpython.org/projects/ntp/en/latest/>
     Requests <https://docs.circuitpython.org/projects/requests/en/latest/>
     OAuth2.0 <https://docs.circuitpython.org/projects/oauth2/en/latest/>
+    Template Engine <https://docs.circuitpython.org/projects/templateengine/en/latest/>
 
 Bluetooth Low Energy Helpers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
