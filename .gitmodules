@@ -965,3 +965,6 @@
 [submodule "libraries/helpers/templateengine"]
 	path = libraries/helpers/templateengine
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TemplateEngine.git
+[submodule "libraries/drivers/husb238"]
+	path = libraries/drivers/husb238
+	url = https://github.com/adafruit/Adafruit_CircuitPython_HUSB238.git
