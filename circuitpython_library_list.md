@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 320 libraries available.
+There are 321 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -312,6 +312,7 @@ There are 320 libraries available.
 * [Adafruit CircuitPython SimpleIO](https://github.com/adafruit/Adafruit_CircuitPython_SimpleIO.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-simpleio))
 * [Adafruit CircuitPython SimpleMath](https://github.com/adafruit/Adafruit_CircuitPython_SimpleMath.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-simplemath))
 * [Adafruit CircuitPython Slideshow](https://github.com/adafruit/Adafruit_CircuitPython_Slideshow.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-slideshow))
+* [Adafruit CircuitPython TemplateEngine](https://github.com/adafruit/Adafruit_CircuitPython_TemplateEngine.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-templateengine))
 * [Adafruit CircuitPython Ticks](https://github.com/adafruit/Adafruit_CircuitPython_Ticks.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ticks))
 * [Adafruit CircuitPython TinyLoRa](https://github.com/adafruit/Adafruit_CircuitPython_TinyLoRa.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tinylora))
 * [Adafruit CircuitPython USB Host Descriptors](https://github.com/adafruit/Adafruit_CircuitPython_USB_Host_Descriptors.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-usb-host-descriptors))
