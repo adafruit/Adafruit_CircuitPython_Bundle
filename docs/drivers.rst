@@ -526,6 +526,7 @@ Miscellaneous
     FONA Cellular Module <https://docs.circuitpython.org/projects/fona/en/latest/>
     FRAM Non-Volatile Memory <https://docs.circuitpython.org/projects/fram/en/latest/>
     Gizmo <https://docs.circuitpython.org/projects/gizmo/en/latest/>
+    HUSB238 <https://docs.circuitpython.org/projects/husb238/en/latest/>
     INA219 High Side Current <https://docs.circuitpython.org/projects/ina219/en/latest/>
     INA260 Current and Power Monitor <https://docs.circuitpython.org/projects/ina260/en/latest/>
     LC709203F Fuel Gauge and Battery Monitor <https://docs.circuitpython.org/projects/lc709203f/en/latest/>
