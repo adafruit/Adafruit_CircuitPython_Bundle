@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 321 libraries available.
+There are 322 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -71,6 +71,7 @@ There are 321 libraries available.
 * [Adafruit CircuitPython HTS221](https://github.com/adafruit/Adafruit_CircuitPython_HTS221.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hts221))
 * [Adafruit CircuitPython HTU21D](https://github.com/adafruit/Adafruit_CircuitPython_HTU21D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-htu21d))
 * [Adafruit CircuitPython HTU31D](https://github.com/adafruit/Adafruit_CircuitPython_HTU31D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-htu31d))
+* [Adafruit CircuitPython HUSB238](https://github.com/adafruit/Adafruit_CircuitPython_HUSB238.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-husb238))
 * [Adafruit CircuitPython HX8357](https://github.com/adafruit/Adafruit_CircuitPython_HX8357.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hx8357))
 * [Adafruit CircuitPython ICM20X](https://github.com/adafruit/Adafruit_CircuitPython_ICM20X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-icm20x))
 * [Adafruit CircuitPython IL0373](https://github.com/adafruit/Adafruit_CircuitPython_IL0373.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-il0373))
