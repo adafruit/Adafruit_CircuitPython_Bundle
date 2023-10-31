@@ -968,3 +968,9 @@
 [submodule "libraries/drivers/husb238"]
 	path = libraries/drivers/husb238
 	url = https://github.com/adafruit/Adafruit_CircuitPython_HUSB238.git
+[submodule "libraries/drivers/pca9554"]
+	path = libraries/drivers/pca9554
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PCA9554.git
+[submodule "libraries/drivers/cst8xx"]
+	path = libraries/drivers/cst8xx
+	url = https://github.com/adafruit/Adafruit_CircuitPython_CST8XX.git

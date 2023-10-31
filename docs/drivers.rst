@@ -487,6 +487,7 @@ These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``,
     Adafruit SeeSaw <https://docs.circuitpython.org/projects/seesaw/en/latest/>
     AW9523 GPIO expander and LED driver <https://docs.circuitpython.org/projects/aw9523/en/latest/>
     Crickit Robotics Boards <https://docs.circuitpython.org/projects/crickit/en/latest/>
+    CST8XX Capacitive Touch <https://docs.circuitpython.org/projects/cst8xx/en/latest/>
     DS2413 OneWire GPIO Expander <https://docs.circuitpython.org/projects/ds2413/en/latest/>
     FocalTech Capacitive Touch <https://docs.circuitpython.org/projects/focaltouch/en/latest/>
     MCP2515 CAN bus controller <https://docs.circuitpython.org/projects/mcp2515/en/latest/>
@@ -496,6 +497,7 @@ These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``,
     MCP4728 4-Channel, 12-bit Digital-to-Analog Converter <https://docs.circuitpython.org/projects/mcp4728/en/latest/>
     MPR121 Capacitive Touch Sensor <https://docs.circuitpython.org/projects/mpr121/en/latest/>
     NAU7802 24-Bit ADC <https://docs.circuitpython.org/projects/nau7802/en/latest/>
+    PCA9554 GPIO Expander <https://docs.circuitpython.org/projects/pca9554/en/latest/>
     PCA9685 16 x 12-bit PWM Driver <https://docs.circuitpython.org/projects/pca9685/en/latest/>
     PCF8574 GPIO Expander <https://docs.circuitpython.org/projects/pcf8574/en/latest/>
     PCF8575 GPIO Expander <https://docs.circuitpython.org/projects/pcf8575/en/latest/>
