@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 324 libraries available.
+There are 325 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -211,6 +211,7 @@ There are 324 libraries available.
 * [Adafruit CircuitPython US100](https://github.com/adafruit/Adafruit_CircuitPython_US100.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-us100))
 * [Adafruit CircuitPython VC0706](https://github.com/adafruit/Adafruit_CircuitPython_VC0706.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vc0706))
 * [Adafruit CircuitPython VCNL4010](https://github.com/adafruit/Adafruit_CircuitPython_VCNL4010.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vcnl4010))
+* [Adafruit CircuitPython VCNL4020](https://github.com/adafruit/Adafruit_CircuitPython_VCNL4020.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vcnl4020))
 * [Adafruit CircuitPython VCNL4040](https://github.com/adafruit/Adafruit_CircuitPython_VCNL4040.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vcnl4040))
 * [Adafruit CircuitPython VEML6070](https://github.com/adafruit/Adafruit_CircuitPython_VEML6070.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-veml6070))
 * [Adafruit CircuitPython VEML6075](https://github.com/adafruit/Adafruit_CircuitPython_VEML6075.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-veml6075))
