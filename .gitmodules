@@ -977,3 +977,6 @@
 [submodule "libraries/drivers/vcnl4020"]
 	path = libraries/drivers/libraries/drivers/vcnl4020
 	url = https://github.com/adafruit/Adafruit_CircuitPython_VCNL4020.git
+[submodule "libraries/helpers/qualia"]
+	path = libraries/helpers/qualia
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Qualia.git
