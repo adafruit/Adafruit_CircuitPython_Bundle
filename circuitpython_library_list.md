@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 325 libraries available.
+There are 326 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -305,6 +305,7 @@ There are 325 libraries available.
 * [Adafruit CircuitPython PortalBase](https://github.com/adafruit/Adafruit_CircuitPython_PortalBase.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-portalbase))
 * [Adafruit CircuitPython ProgressBar](https://github.com/adafruit/Adafruit_CircuitPython_ProgressBar.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-progressbar))
 * [Adafruit CircuitPython PyBadger](https://github.com/adafruit/Adafruit_CircuitPython_PyBadger.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pybadger))
+* [Adafruit CircuitPython Qualia](https://github.com/adafruit/Adafruit_CircuitPython_Qualia.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-qualia))
 * [Adafruit CircuitPython RGBLED](https://github.com/adafruit/Adafruit_CircuitPython_RGBLED.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rgbled))
 * [Adafruit CircuitPython RSA](https://github.com/adafruit/Adafruit_CircuitPython_RSA.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rsa))
 * [Adafruit CircuitPython RTTTL](https://github.com/adafruit/Adafruit_CircuitPython_RTTTL.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rtttl))
