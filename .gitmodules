@@ -980,3 +980,6 @@
 [submodule "libraries/helpers/qualia"]
 	path = libraries/helpers/qualia
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Qualia.git
+[submodule "libraries/drivers/ads7830"]
+	path = libraries/drivers/ads7830
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ADS7830.git
