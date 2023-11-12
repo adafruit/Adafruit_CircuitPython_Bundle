@@ -485,9 +485,9 @@ These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``,
 .. toctree::
 
     AD569x 16-bit DAC <https://docs.circuitpython.org/projects/ad569x/en/latest/>
+    Adafruit SeeSaw <https://docs.circuitpython.org/projects/seesaw/en/latest/>
     ADS1x15 Analog-to-Digital Converter  <https://docs.circuitpython.org/projects/ads1x15/en/latest/>
     ADS7830 8-Channel 8-Bit ADC <https://docs.circuitpython.org/projects/ads7830/en/latest/>
-    Adafruit SeeSaw <https://docs.circuitpython.org/projects/seesaw/en/latest/>
     AW9523 GPIO expander and LED driver <https://docs.circuitpython.org/projects/aw9523/en/latest/>
     Crickit Robotics Boards <https://docs.circuitpython.org/projects/crickit/en/latest/>
     CST8XX Capacitive Touch <https://docs.circuitpython.org/projects/cst8xx/en/latest/>
