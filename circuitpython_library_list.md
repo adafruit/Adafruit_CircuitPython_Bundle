@@ -306,6 +306,7 @@ There are 327 libraries available.
 * [Adafruit CircuitPython PortalBase](https://github.com/adafruit/Adafruit_CircuitPython_PortalBase.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-portalbase))
 * [Adafruit CircuitPython ProgressBar](https://github.com/adafruit/Adafruit_CircuitPython_ProgressBar.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-progressbar))
 * [Adafruit CircuitPython PyBadger](https://github.com/adafruit/Adafruit_CircuitPython_PyBadger.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pybadger))
+* [Adafruit CircuitPython PyCamera](https://github.com/adafruit/Adafruit_CircuitPython_PyCamera.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pycamera))
 * [Adafruit CircuitPython Qualia](https://github.com/adafruit/Adafruit_CircuitPython_Qualia.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-qualia))
 * [Adafruit CircuitPython RGBLED](https://github.com/adafruit/Adafruit_CircuitPython_RGBLED.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rgbled))
 * [Adafruit CircuitPython RSA](https://github.com/adafruit/Adafruit_CircuitPython_RSA.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rsa))

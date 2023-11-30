@@ -36,6 +36,7 @@ specific boards.
     Adafruit MagTag <https://docs.circuitpython.org/projects/magtag/en/latest/>
     Adafruit MONSTER M4SK <https://docs.circuitpython.org/projects/monsterm4sk/en/latest/>
     Adafruit PortalBase <https://docs.circuitpython.org/projects/portalbase/en/latest/>
+    Adafruit PyCamera <https://docs.circuitpython.org/projects/pycamera/en/latest/>
     Adafruit PyPortal <https://docs.circuitpython.org/projects/pyportal/en/latest/>
     Adafruit Qualia S3 <https://docs.circuitpython.org/projects/qualia/en/latest/>
     PyBadger (PyBadge and PyGamer) <https://docs.circuitpython.org/projects/pybadger/en/latest/>
