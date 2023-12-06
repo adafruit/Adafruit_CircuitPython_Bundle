@@ -985,4 +985,4 @@
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ADS7830.git
 [submodule "libraries/helpers/pycamera"]
 	path = libraries/helpers/pycamera
-	url = https://github.com/adafruit/Adafruit_CircuitPython_PyCamera/
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PyCamera.git
