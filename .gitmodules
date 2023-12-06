@@ -974,6 +974,9 @@
 [submodule "libraries/drivers/cst8xx"]
 	path = libraries/drivers/cst8xx
 	url = https://github.com/adafruit/Adafruit_CircuitPython_CST8XX.git
+[submodule "libraries/drivers/vcnl4020"]
+	path = libraries/drivers/vcnl4020
+	url = https://github.com/adafruit/Adafruit_CircuitPython_VCNL4020.git
 [submodule "libraries/helpers/qualia"]
 	path = libraries/helpers/qualia
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Qualia.git
