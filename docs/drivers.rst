@@ -308,6 +308,7 @@ Other
 .. toctree::
 
     Character LCD <https://docs.circuitpython.org/projects/charlcd/en/latest/>
+    FT5336 Capacitive Touch Screen Driver <https://docs.circuitpython.org/projects/ft5336/en/latest/>
     HT16K33 LED Matrices and Segment Displays <https://docs.circuitpython.org/projects/ht16k33/en/latest/>
     IS31FL3731 Charlieplexed LED Matrix <https://docs.circuitpython.org/projects/is31fl3731/en/latest/>
     IS31FL3741 RGB LED Matrix driver <https://docs.circuitpython.org/projects/is31fl3741/en/latest/>

@@ -986,3 +986,6 @@
 [submodule "libraries/helpers/pycamera"]
 	path = libraries/helpers/pycamera
 	url = https://github.com/adafruit/Adafruit_CircuitPython_PyCamera.git
+[submodule "libraries/drivers/ft5336"]
+	path = libraries/drivers/ft5336
+	url = https://github.com/adafruit/Adafruit_CircuitPython_FT5336.git
