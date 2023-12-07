@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 327 libraries available.
+There are 329 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -62,6 +62,7 @@ There are 327 libraries available.
 * [Adafruit CircuitPython ESP32SPI](https://github.com/adafruit/Adafruit_CircuitPython_ESP32SPI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-esp32spi))
 * [Adafruit CircuitPython FONA](https://github.com/adafruit/Adafruit_CircuitPython_FONA.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fona))
 * [Adafruit CircuitPython FRAM](https://github.com/adafruit/Adafruit_CircuitPython_FRAM.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fram))
+* [Adafruit CircuitPython FT5336](https://github.com/adafruit/Adafruit_CircuitPython_FT5336.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ft5336))
 * [Adafruit CircuitPython FXAS21002C](https://github.com/adafruit/Adafruit_CircuitPython_FXAS21002C.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fxas21002c))
 * [Adafruit CircuitPython FXOS8700](https://github.com/adafruit/Adafruit_CircuitPython_FXOS8700.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fxos8700))
 * [Adafruit CircuitPython Fingerprint](https://github.com/adafruit/Adafruit_CircuitPython_Fingerprint.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fingerprint))
@@ -212,6 +213,7 @@ There are 327 libraries available.
 * [Adafruit CircuitPython US100](https://github.com/adafruit/Adafruit_CircuitPython_US100.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-us100))
 * [Adafruit CircuitPython VC0706](https://github.com/adafruit/Adafruit_CircuitPython_VC0706.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vc0706))
 * [Adafruit CircuitPython VCNL4010](https://github.com/adafruit/Adafruit_CircuitPython_VCNL4010.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vcnl4010))
+* [Adafruit CircuitPython VCNL4020](https://github.com/adafruit/Adafruit_CircuitPython_VCNL4020.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vcnl4020))
 * [Adafruit CircuitPython VCNL4040](https://github.com/adafruit/Adafruit_CircuitPython_VCNL4040.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vcnl4040))
 * [Adafruit CircuitPython VEML6070](https://github.com/adafruit/Adafruit_CircuitPython_VEML6070.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-veml6070))
 * [Adafruit CircuitPython VEML6075](https://github.com/adafruit/Adafruit_CircuitPython_VEML6075.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-veml6075))
@@ -305,6 +307,7 @@ There are 327 libraries available.
 * [Adafruit CircuitPython PortalBase](https://github.com/adafruit/Adafruit_CircuitPython_PortalBase.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-portalbase))
 * [Adafruit CircuitPython ProgressBar](https://github.com/adafruit/Adafruit_CircuitPython_ProgressBar.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-progressbar))
 * [Adafruit CircuitPython PyBadger](https://github.com/adafruit/Adafruit_CircuitPython_PyBadger.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pybadger))
+* [Adafruit CircuitPython PyCamera](https://github.com/adafruit/Adafruit_CircuitPython_PyCamera.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pycamera))
 * [Adafruit CircuitPython Qualia](https://github.com/adafruit/Adafruit_CircuitPython_Qualia.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-qualia))
 * [Adafruit CircuitPython RGBLED](https://github.com/adafruit/Adafruit_CircuitPython_RGBLED.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rgbled))
 * [Adafruit CircuitPython RSA](https://github.com/adafruit/Adafruit_CircuitPython_RSA.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rsa))
@@ -332,4 +335,3 @@ There are 327 libraries available.
 * [Adafruit CircuitPython miniesptool](https://github.com/adafruit/Adafruit_CircuitPython_miniesptool.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-miniesptool))
 * [Adafruit CircuitPython turtle](https://github.com/adafruit/Adafruit_CircuitPython_turtle.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-turtle))
 * [Adafruit CircuitPython wave](https://github.com/adafruit/Adafruit_CircuitPython_wave.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wave))
-* [](https://github.com/adafruit/Adafruit_CircuitPython_PyCamera/)
