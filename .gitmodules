@@ -989,3 +989,6 @@
 [submodule "libraries/drivers/ft5336"]
 	path = libraries/drivers/ft5336
 	url = https://github.com/adafruit/Adafruit_CircuitPython_FT5336.git
+[submodule "libraries/drivers/mcp3421"]
+	path = libraries/drivers/mcp3421
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MCP3421.git

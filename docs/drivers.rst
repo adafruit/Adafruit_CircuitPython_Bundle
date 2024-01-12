@@ -498,6 +498,7 @@ These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``,
     MCP2515 CAN bus controller <https://docs.circuitpython.org/projects/mcp2515/en/latest/>
     MCP230xx GPIO Expander <https://docs.circuitpython.org/projects/mcp230xx/en/latest/>
     MCP3xxx SPI ADC <https://docs.circuitpython.org/projects/mcp3xxx/en/latest/>
+    MCP3421 18-bit ADC <https://docs.circuitpython.org/projects/mcp3421/en/latest/>
     MCP4725 Digital-to-Analog Converter <https://docs.circuitpython.org/projects/mcp4725/en/latest/>
     MCP4728 4-Channel, 12-bit Digital-to-Analog Converter <https://docs.circuitpython.org/projects/mcp4728/en/latest/>
     MPR121 Capacitive Touch Sensor <https://docs.circuitpython.org/projects/mpr121/en/latest/>
