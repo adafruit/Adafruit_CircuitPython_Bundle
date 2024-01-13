@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 329 libraries available.
+There are 330 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -110,6 +110,7 @@ There are 329 libraries available.
 * [Adafruit CircuitPython MAX9744](https://github.com/adafruit/Adafruit_CircuitPython_MAX9744.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-max9744))
 * [Adafruit CircuitPython MCP230xx](https://github.com/adafruit/Adafruit_CircuitPython_MCP230xx.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mcp230xx))
 * [Adafruit CircuitPython MCP2515](https://github.com/adafruit/Adafruit_CircuitPython_MCP2515.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mcp2515))
+* [Adafruit CircuitPython MCP3421](https://github.com/adafruit/Adafruit_CircuitPython_MCP3421.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mcp3421))
 * [Adafruit CircuitPython MCP3xxx](https://github.com/adafruit/Adafruit_CircuitPython_MCP3xxx.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mcp3xxx))
 * [Adafruit CircuitPython MCP4725](https://github.com/adafruit/Adafruit_CircuitPython_MCP4725.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mcp4725))
 * [Adafruit CircuitPython MCP4728](https://github.com/adafruit/Adafruit_CircuitPython_MCP4728.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mcp4728))
