@@ -992,3 +992,6 @@
 [submodule "libraries/drivers/mcp3421"]
 	path = libraries/drivers/mcp3421
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MCP3421.git
+[submodule "libraries/helpers/connection_manager"]
+	path = libraries/helpers/connection_manager
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ConnectionManager.git

@@ -119,6 +119,7 @@ Helpers for interfacing with the internet, including IoT protocols.
 
 .. toctree::
 
+    Connection Manager <https://docs.circuitpython.org/projects/connectionmanager/en/latest/>
     Fake Requests <https://docs.circuitpython.org/projects/fakerequests/en/latest/>
     HTTP Server <https://docs.circuitpython.org/projects/httpserver/en/latest/>
     JSON Stream <https://docs.circuitpython.org/projects/json_stream/en/latest/>
