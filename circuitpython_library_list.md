@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 330 libraries available.
+There are 331 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -259,6 +259,7 @@ There are 330 libraries available.
 * [Adafruit CircuitPython BoardTest](https://github.com/adafruit/Adafruit_CircuitPython_BoardTest.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-boardtest))
 * [Adafruit CircuitPython BusDevice](https://github.com/adafruit/Adafruit_CircuitPython_BusDevice.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-busdevice))
 * [Adafruit CircuitPython Colorsys](https://github.com/adafruit/Adafruit_CircuitPython_Colorsys.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-colorsys))
+* [Adafruit CircuitPython ConnectionManager](https://github.com/adafruit/Adafruit_CircuitPython_ConnectionManager.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-connectionmanager))
 * [Adafruit CircuitPython CursorControl](https://github.com/adafruit/Adafruit_CircuitPython_CursorControl.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-cursorcontrol))
 * [Adafruit CircuitPython Dash Display](https://github.com/adafruit/Adafruit_CircuitPython_Dash_Display) ([PyPi](https://pypi.org/project/adafruit-circuitpython-dash-display))
 * [Adafruit CircuitPython Debouncer](https://github.com/adafruit/Adafruit_CircuitPython_Debouncer.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-debouncer))
