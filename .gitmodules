@@ -995,3 +995,6 @@
 [submodule "libraries/helpers/connection_manager"]
 	path = libraries/helpers/connection_manager
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ConnectionManager.git
+[submodule "libraries/helpers/usb_host_mass_storage"]
+	path = libraries/helpers/usb_host_mass_storage
+	url = https://github.com/adafruit/Adafruit_CircuitPython_USB_Host_Mass_Storage.git
