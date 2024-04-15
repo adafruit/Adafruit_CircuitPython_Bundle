@@ -995,3 +995,6 @@
 [submodule "libraries/helpers/connection_manager"]
 	path = libraries/helpers/connection_manager
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ConnectionManager.git
+[submodule "libraries/drivers/adg72x"]
+	path = libraries/drivers/adg72x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ADG72x.git
