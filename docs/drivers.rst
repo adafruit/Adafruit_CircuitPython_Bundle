@@ -552,6 +552,7 @@ Miscellaneous
     OV7670 Camera <https://docs.circuitpython.org/projects/ov7670/en/latest/>
     Pixelbuf <https://docs.circuitpython.org/projects/pixelbuf/en/latest/>
     RockBlock Iridium Satellite Modem <https://docs.circuitpython.org/projects/rockblock/en/latest/>
+    S-35710 Low-Power Wake Up Timer <https://docs.circuitpython.org/projects/s35710/en/latest/>
     Si4713 Stereo FM Transmitter <https://docs.circuitpython.org/projects/si4713/en/latest/>
     Si5351 Clock Generator <https://docs.circuitpython.org/projects/si5351/en/latest/>
     STMPE610 Resistive Touchscreen <https://docs.circuitpython.org/projects/stmpe610/en/latest/>
