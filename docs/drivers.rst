@@ -527,6 +527,7 @@ Miscellaneous
     AMG88xx Grid-Eye IR Camera <https://docs.circuitpython.org/projects/amg88xx/en/latest/>
     BD3491FS Audio Processor  <https://docs.circuitpython.org/projects/bd3491fs/en/latest/>
     CAP1188 8-Key Capacitive Touch <https://docs.circuitpython.org/projects/cap1188/en/latest/>
+    CH9328 UART to HID Keyboard <https://docs.circuitpython.org/projects/ch9328/en/latest/>
     DRV2605 Haptic Motor Controller <https://docs.circuitpython.org/projects/drv2605/en/latest/>
     DS1841 I2C Logarithmic Potentiometer <https://docs.circuitpython.org/projects/ds1841/en/latest/>
     DS3502 I2C Potentiometer <https://docs.circuitpython.org/projects/ds3502/en/latest/>

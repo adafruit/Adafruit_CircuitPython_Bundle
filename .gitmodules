@@ -1001,3 +1001,6 @@
 [submodule "libraries/drivers/s35710"]
 	path = libraries/drivers/s35710
 	url = https://github.com/adafruit/Adafruit_CircuitPython_S-35710.git
+[submodule "libraries/drivers/ch9328"]
+	path = libraries/drivers/ch9328
+	url = https://github.com/adafruit/Adafruit_CircuitPython_CH9328.git
