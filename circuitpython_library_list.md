@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 333 libraries available.
+There are 334 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -35,6 +35,7 @@ There are 333 libraries available.
 * [Adafruit CircuitPython BluefruitSPI](https://github.com/adafruit/Adafruit_CircuitPython_BluefruitSPI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bluefruitspi))
 * [Adafruit CircuitPython CAP1188](https://github.com/adafruit/Adafruit_CircuitPython_CAP1188.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-cap1188))
 * [Adafruit CircuitPython CCS811](https://github.com/adafruit/Adafruit_CircuitPython_CCS811.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ccs811))
+* [Adafruit CircuitPython CH9328](https://github.com/adafruit/Adafruit_CircuitPython_CH9328.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ch9328))
 * [Adafruit CircuitPython CLUE](https://github.com/adafruit/Adafruit_CircuitPython_CLUE.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-clue))
 * [Adafruit CircuitPython CST8XX](https://github.com/adafruit/Adafruit_CircuitPython_CST8XX.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-cst8xx))
 * [Adafruit CircuitPython CharLCD](https://github.com/adafruit/Adafruit_CircuitPython_CharLCD.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-charlcd))
