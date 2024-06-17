@@ -530,6 +530,7 @@ Miscellaneous
     CH9328 UART to HID Keyboard <https://docs.circuitpython.org/projects/ch9328/en/latest/>
     DRV2605 Haptic Motor Controller <https://docs.circuitpython.org/projects/drv2605/en/latest/>
     DS1841 I2C Logarithmic Potentiometer <https://docs.circuitpython.org/projects/ds1841/en/latest/>
+    DS248x 1-Wire to I2C <https://docs.circuitpython.org/projects/ds248x/en/latest/>
     DS3502 I2C Potentiometer <https://docs.circuitpython.org/projects/ds3502/en/latest/>
     Dymo Scale <https://docs.circuitpython.org/projects/dymoscale/en/latest/>
     Fingerprint Sensor <https://docs.circuitpython.org/projects/fingerprint/en/latest/>
