@@ -1004,3 +1004,6 @@
 [submodule "libraries/drivers/ch9328"]
 	path = libraries/drivers/ch9328
 	url = https://github.com/adafruit/Adafruit_CircuitPython_CH9328.git
+[submodule "libraries/drivers/ds248x"]
+	path = libraries/drivers/ds248x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DS248x.git
