@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 334 libraries available.
+There are 335 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -48,6 +48,7 @@ There are 334 libraries available.
 * [Adafruit CircuitPython DS1841](https://github.com/adafruit/Adafruit_CircuitPython_DS1841.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds1841))
 * [Adafruit CircuitPython DS18X20](https://github.com/adafruit/Adafruit_CircuitPython_DS18X20.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds18x20))
 * [Adafruit CircuitPython DS2413](https://github.com/adafruit/Adafruit_CircuitPython_DS2413.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds2413))
+* [Adafruit CircuitPython DS248x](https://github.com/adafruit/Adafruit_CircuitPython_DS248x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds248x))
 * [Adafruit CircuitPython DS3231](https://github.com/adafruit/Adafruit_CircuitPython_DS3231.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds3231))
 * [Adafruit CircuitPython DS3502](https://github.com/adafruit/Adafruit_CircuitPython_DS3502.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds3502))
 * [Adafruit CircuitPython DisplayIO SH1106](https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SH1106.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-displayio-sh1106))
