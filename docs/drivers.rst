@@ -497,6 +497,7 @@ These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``,
     CST8XX Capacitive Touch <https://docs.circuitpython.org/projects/cst8xx/en/latest/>
     DS2413 OneWire GPIO Expander <https://docs.circuitpython.org/projects/ds2413/en/latest/>
     FocalTech Capacitive Touch <https://docs.circuitpython.org/projects/focaltouch/en/latest/>
+    HX711 24-bit ADC <https://docs.circuitpython.org/projects/hx711/en/latest/>
     MCP2515 CAN bus controller <https://docs.circuitpython.org/projects/mcp2515/en/latest/>
     MCP230xx GPIO Expander <https://docs.circuitpython.org/projects/mcp230xx/en/latest/>
     MCP3xxx SPI ADC <https://docs.circuitpython.org/projects/mcp3xxx/en/latest/>
