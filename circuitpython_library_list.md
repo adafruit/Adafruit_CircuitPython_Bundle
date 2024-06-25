@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 335 libraries available.
+There are 336 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -78,6 +78,7 @@ There are 335 libraries available.
 * [Adafruit CircuitPython HTU21D](https://github.com/adafruit/Adafruit_CircuitPython_HTU21D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-htu21d))
 * [Adafruit CircuitPython HTU31D](https://github.com/adafruit/Adafruit_CircuitPython_HTU31D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-htu31d))
 * [Adafruit CircuitPython HUSB238](https://github.com/adafruit/Adafruit_CircuitPython_HUSB238.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-husb238))
+* [Adafruit CircuitPython HX711](https://github.com/adafruit/Adafruit_CircuitPython_HX711.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hx711))
 * [Adafruit CircuitPython HX8357](https://github.com/adafruit/Adafruit_CircuitPython_HX8357.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hx8357))
 * [Adafruit CircuitPython ICM20X](https://github.com/adafruit/Adafruit_CircuitPython_ICM20X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-icm20x))
 * [Adafruit CircuitPython IL0373](https://github.com/adafruit/Adafruit_CircuitPython_IL0373.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-il0373))
@@ -161,7 +162,7 @@ There are 335 libraries available.
 * [Adafruit CircuitPython RGB Display](https://github.com/adafruit/Adafruit_CircuitPython_RGB_Display.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rgb-display))
 * [Adafruit CircuitPython RPLIDAR](https://github.com/adafruit/Adafruit_CircuitPython_RPLIDAR.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rplidar))
 * [Adafruit CircuitPython RockBlock](https://github.com/adafruit/Adafruit_CircuitPython_RockBlock.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rockblock))
-* [Adafruit CircuitPython S-35710](https://github.com/adafruit/Adafruit_CircuitPython_S-35710.git)
+* [Adafruit CircuitPython S35710](https://github.com/adafruit/Adafruit_CircuitPython_S35710.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-s35710))
 * [Adafruit CircuitPython SCD30](https://github.com/adafruit/Adafruit_CircuitPython_SCD30.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-scd30))
 * [Adafruit CircuitPython SCD4X](https://github.com/adafruit/Adafruit_CircuitPython_SCD4X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-scd4x))
 * [Adafruit CircuitPython SD](https://github.com/adafruit/Adafruit_CircuitPython_SD.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sd))
