@@ -391,6 +391,7 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     DPS310 Precision Barometric Pressure / Altitude Sensor <https://docs.circuitpython.org/projects/dps310/en/latest/>
     DS18x20 Temperature <https://docs.circuitpython.org/projects/ds18x20/en/latest/>
     ENS160 (ScioSense) digital multi-gas sensor <https://docs.circuitpython.org/projects/ens160/en/latest/>
+    HDC302x Temperature and Humidity Sensor <https://docs.circuitpython.org/projects/hdc302x/en/latest/>
     HTS221 Temperature and Humidity Sensor <https://docs.circuitpython.org/projects/hts221/en/latest/>
     HTU21D Temperature and Humidity <https://docs.circuitpython.org/projects/htu21d/en/latest/>
     HTU31D Temperature and Humidity <https://docs.circuitpython.org/projects/htu31d/en/latest/>

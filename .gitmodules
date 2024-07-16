@@ -1010,3 +1010,6 @@
 [submodule "libraries/drivers/libraries/drivers/hx711"]
 	path = libraries/drivers/libraries/drivers/hx711
 	url = https://github.com/adafruit/Adafruit_CircuitPython_HX711.git
+[submodule "libraries/drivers/hdc302x"]
+	path = libraries/drivers/hdc302x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_HDC302x.git
