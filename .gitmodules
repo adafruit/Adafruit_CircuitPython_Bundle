@@ -1013,3 +1013,6 @@
 [submodule "libraries/drivers/hdc302x"]
 	path = libraries/drivers/hdc302x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_HDC302x.git
+[submodule "libraries/drivers/rfm"]
+	path = libraries/drivers/rfm
+	url = https://github.com/adafruit/Adafruit_CircuitPython_RFM.git
