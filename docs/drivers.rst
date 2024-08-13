@@ -477,6 +477,7 @@ These chips communicate to others over radio.
     AirLift Co-Processor Manager <https://docs.circuitpython.org/projects/airlift/en/latest/>
     ESP WiFi Co-Processor using AT Commands <https://docs.circuitpython.org/projects/esp-atcontrol/en/latest/>
     ESP32 WiFi Co-Processor over SPI <https://docs.circuitpython.org/projects/esp32spi/en/latest/>
+    RFM LoRa & Packet Radio <https://docs.circuitpython.org/projects/rfm/en/latest/>
     RFM9x LoRa <https://docs.circuitpython.org/projects/rfm9x/en/latest/>
     RFM69 Packet Radio <https://docs.circuitpython.org/projects/rfm69/en/latest/>
     PN532 NFC/RFID <https://docs.circuitpython.org/projects/pn532/en/latest/>
