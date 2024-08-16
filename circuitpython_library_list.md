@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 337 libraries available.
+There are 338 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -160,6 +160,7 @@ There are 337 libraries available.
 * [Adafruit CircuitPython RA8875](https://github.com/adafruit/Adafruit_CircuitPython_RA8875.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ra8875))
 * [Adafruit CircuitPython RFM69](https://github.com/adafruit/Adafruit_CircuitPython_RFM69.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rfm69))
 * [Adafruit CircuitPython RFM9x](https://github.com/adafruit/Adafruit_CircuitPython_RFM9x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rfm9x))
+* [Adafruit CircuitPython RFM](https://github.com/adafruit/Adafruit_CircuitPython_RFM.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rfm))
 * [Adafruit CircuitPython RGB Display](https://github.com/adafruit/Adafruit_CircuitPython_RGB_Display.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rgb-display))
 * [Adafruit CircuitPython RPLIDAR](https://github.com/adafruit/Adafruit_CircuitPython_RPLIDAR.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rplidar))
 * [Adafruit CircuitPython RockBlock](https://github.com/adafruit/Adafruit_CircuitPython_RockBlock.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rockblock))
