@@ -1007,8 +1007,8 @@
 [submodule "libraries/drivers/ds248x"]
 	path = libraries/drivers/ds248x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_DS248x.git
-[submodule "libraries/drivers/libraries/drivers/hx711"]
-	path = libraries/drivers/libraries/drivers/hx711
+[submodule "libraries/drivers/hx711"]
+	path = libraries/drivers/hx711
 	url = https://github.com/adafruit/Adafruit_CircuitPython_HX711.git
 [submodule "libraries/drivers/hdc302x"]
 	path = libraries/drivers/hdc302x
