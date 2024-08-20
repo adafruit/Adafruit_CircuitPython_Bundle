@@ -1016,3 +1016,6 @@
 [submodule "libraries/drivers/rfm"]
 	path = libraries/drivers/rfm
 	url = https://github.com/adafruit/Adafruit_CircuitPython_RFM.git
+[submodule "libraries/helpers/prompt_toolkit"]
+	path = libraries/helpers/prompt_toolkit
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Prompt_Toolkit.git
