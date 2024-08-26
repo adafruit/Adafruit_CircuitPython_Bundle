@@ -128,7 +128,7 @@ when an individual is representing the project or its community. As a community
 member, you are representing our community, and are expected to behave
 accordingly.
 
-## Attribution
+## Attributions
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/),
 version 1.4, available on [contributor-covenant.org](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html),
