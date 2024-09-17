@@ -48,7 +48,7 @@ There are 339 libraries available.
 * [Adafruit CircuitPython DS1841](https://github.com/adafruit/Adafruit_CircuitPython_DS1841.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds1841))
 * [Adafruit CircuitPython DS18X20](https://github.com/adafruit/Adafruit_CircuitPython_DS18X20.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds18x20))
 * [Adafruit CircuitPython DS2413](https://github.com/adafruit/Adafruit_CircuitPython_DS2413.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds2413))
-* [Adafruit CircuitPython DS248x](https://github.com/adafruit/Adafruit_CircuitPython_DS248x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds248x))
+* [Adafruit CircuitPython DS248x](https://github.com/adafruit/Adafruit_CircuitPython_DS248x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds248x)) \([Docs](https://adafruit-circuitpython-ds248x.readthedocs.io/en/latest/))
 * [Adafruit CircuitPython DS3231](https://github.com/adafruit/Adafruit_CircuitPython_DS3231.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds3231))
 * [Adafruit CircuitPython DS3502](https://github.com/adafruit/Adafruit_CircuitPython_DS3502.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ds3502))
 * [Adafruit CircuitPython DisplayIO SH1106](https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SH1106.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-displayio-sh1106))
