@@ -218,7 +218,8 @@ Miscellaneous Helpers
     NeoKey <https://docs.circuitpython.org/projects/neokey/en/latest/>
     OneWire <https://docs.circuitpython.org/projects/onewire/en/latest/>
     Pastebin services <https://docs.circuitpython.org/projects/pastebin/en/latest/>
-    PIOASM converter for RP2040 boards <https://docs.circuitpython.org/projects/pioasm/en/latest/>
+    PIOASM converter for RP2 boards <https://docs.circuitpython.org/projects/pioasm/en/latest/>
+    PIO UART <https://docs.circuitpython.org/projects/pio_uart/en/latest/>
     Prompt Toolkit <https://docs.circuitpython.org/projects/prompt_toolkit/en/latest/>
     Radial Controller <https://docs.circuitpython.org/projects/radial-controller/en/latest/>
     SD Card <https://docs.circuitpython.org/projects/sd/en/latest/>

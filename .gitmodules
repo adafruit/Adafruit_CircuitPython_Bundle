@@ -1019,3 +1019,6 @@
 [submodule "libraries/drivers/hx711"]
 	path = libraries/drivers/hx711
 	url = https://github.com/adafruit/Adafruit_CircuitPython_HX711.git
+[submodule "libraries/helpers/pio_uart"]
+	path = libraries/helpers/pio_uart
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PIO_UART.git
