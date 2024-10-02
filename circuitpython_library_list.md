@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 339 libraries available.
+There are 340 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -307,6 +307,7 @@ There are 339 libraries available.
 * [Adafruit CircuitPython NeoKey](https://github.com/adafruit/Adafruit_CircuitPython_NeoKey.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-neokey))
 * [Adafruit CircuitPython OAuth2](https://github.com/adafruit/Adafruit_CircuitPython_OAuth2.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-oauth2))
 * [Adafruit CircuitPython OneWire](https://github.com/adafruit/Adafruit_CircuitPython_OneWire.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-onewire))
+* [Adafruit CircuitPython PIO UART](https://github.com/adafruit/Adafruit_CircuitPython_PIO_UART.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pio-uart))
 * [Adafruit CircuitPython PIOASM](https://github.com/adafruit/Adafruit_CircuitPython_PIOASM.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pioasm))
 * [Adafruit CircuitPython PYOA](https://github.com/adafruit/Adafruit_CircuitPython_PYOA.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pyoa))
 * [Adafruit CircuitPython Pastebin](https://github.com/adafruit/Adafruit_CircuitPython_Pastebin.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pastebin))
