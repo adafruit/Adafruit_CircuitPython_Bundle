@@ -242,6 +242,7 @@ There are 340 libraries available.
 * [Adafruit CircuitPython AWS IOT](https://github.com/adafruit/Adafruit_CircuitPython_AWS_IOT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-aws-iot))
 * [Adafruit CircuitPython AdafruitIO](https://github.com/adafruit/Adafruit_CircuitPython_AdafruitIO.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-adafruitio))
 * [Adafruit CircuitPython AirLift](https://github.com/adafruit/Adafruit_CircuitPython_AirLift.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-airlift))
+* [Adafruit CircuitPython Anchored TileGrid](https://github.com/adafruit/Adafruit_CircuitPython_Anchored_TileGrid.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-anchored-tilegrid/))
 * [Adafruit CircuitPython AzureIoT](https://github.com/adafruit/Adafruit_CircuitPython_AzureIoT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-azureiot))
 * [Adafruit CircuitPython BLE Adafruit](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Adafruit.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-adafruit))
 * [Adafruit CircuitPython BLE Apple Media](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Apple_Media.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-apple-media))
