@@ -1022,3 +1022,6 @@
 [submodule "libraries/helpers/pio_uart"]
 	path = libraries/helpers/pio_uart
 	url = https://github.com/adafruit/Adafruit_CircuitPython_PIO_UART.git
+[submodule "libraries/helpers/anchored_tilegrid"]
+	path = libraries/helpers/anchored_tilegrid
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Anchored_TileGrid.git
