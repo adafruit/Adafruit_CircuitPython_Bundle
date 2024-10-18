@@ -1027,4 +1027,4 @@
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Anchored_TileGrid.git
 [submodule "libraries/drivers/tm1814"]
 	path = libraries/drivers/tm1814
-	url = https://github.com/adafruit/Adafruit_CircuitPython_tm1814.git
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TM1814.git
