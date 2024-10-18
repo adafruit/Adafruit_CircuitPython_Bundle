@@ -243,6 +243,7 @@ Multi-color LED drivers.
     NeoPxl8 <https://docs.circuitpython.org/projects/neopxl8/en/latest/>
     Pixie <https://docs.circuitpython.org/projects/pixie/en/latest/>
     RGB LED <https://docs.circuitpython.org/projects/rgbled/en/latest/>
+    TM1814 <https://docs.circuitpython.org/projects/tm1814/en/latest/>
     WS2801 <https://docs.circuitpython.org/projects/ws2801/en/latest/>
 
 Displays
