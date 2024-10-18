@@ -205,6 +205,7 @@ There are 341 libraries available.
 * [Adafruit CircuitPython TLC5947](https://github.com/adafruit/Adafruit_CircuitPython_TLC5947.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tlc5947))
 * [Adafruit CircuitPython TLC59711](https://github.com/adafruit/Adafruit_CircuitPython_TLC59711.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tlc59711))
 * [Adafruit CircuitPython TLV493D](https://github.com/adafruit/Adafruit_CircuitPython_TLV493D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tlv493d))
+* [Adafruit CircuitPython TM1814](https://github.com/adafruit/Adafruit_CircuitPython_TM1814.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tm1814))
 * [Adafruit CircuitPython TMP006](https://github.com/adafruit/Adafruit_CircuitPython_TMP006.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tmp006))
 * [Adafruit CircuitPython TMP007](https://github.com/adafruit/Adafruit_CircuitPython_TMP007.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tmp007))
 * [Adafruit CircuitPython TMP117](https://github.com/adafruit/Adafruit_CircuitPython_TMP117) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tmp117))
