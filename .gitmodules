@@ -1028,3 +1028,6 @@
 [submodule "libraries/drivers/tm1814"]
 	path = libraries/drivers/tm1814
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TM1814.git
+[submodule "libraries/helpers/usb_host_midi"]
+	path = libraries/helpers/usb_host_midi
+	url = https://github.com/adafruit/Adafruit_CircuitPython_USB_Host_MIDI.git
