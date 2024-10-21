@@ -229,6 +229,7 @@ Miscellaneous Helpers
     USB HID - Human Interface Device (Keyboard and Mouse) <https://docs.circuitpython.org/projects/hid/en/latest/>
     USB Host Descriptors <https://docs.circuitpython.org/projects/usb-host-descriptors/en/latest/>
     USB Host Mass Storage <https://docs.circuitpython.org/projects/usb-host-mass-storage/en/latest/>
+    USB Host MIDI <https://docs.circuitpython.org/projects/usb-host-midi/en/latest/>
     Ticks <https://docs.circuitpython.org/projects/ticks/en/latest/>
 
 Blinky
