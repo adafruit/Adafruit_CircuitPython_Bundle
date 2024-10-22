@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 342 libraries available.
+There are 344 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -337,6 +337,8 @@ There are 342 libraries available.
 * [Adafruit CircuitPython Ticks](https://github.com/adafruit/Adafruit_CircuitPython_Ticks.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ticks))
 * [Adafruit CircuitPython TinyLoRa](https://github.com/adafruit/Adafruit_CircuitPython_TinyLoRa.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tinylora))
 * [Adafruit CircuitPython USB Host Descriptors](https://github.com/adafruit/Adafruit_CircuitPython_USB_Host_Descriptors.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-usb-host-descriptors))
+* [Adafruit CircuitPython USB Host MIDI](https://github.com/adafruit/Adafruit_CircuitPython_USB_Host_MIDI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-usb-host-midi))
+* [Adafruit CircuitPython USB Host Mass Storage](https://github.com/adafruit/Adafruit_CircuitPython_USB_Host_Mass_Storage.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-usb-host-mass-storage))
 * [Adafruit CircuitPython WSGI](https://github.com/adafruit/Adafruit_CircuitPython_WSGI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wsgi))
 * [Adafruit CircuitPython Waveform](https://github.com/adafruit/Adafruit_CircuitPython_Waveform.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-waveform))
 * [Adafruit CircuitPython asyncio](https://github.com/adafruit/Adafruit_CircuitPython_asyncio.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-asyncio))
