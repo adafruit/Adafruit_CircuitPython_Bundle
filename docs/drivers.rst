@@ -549,6 +549,7 @@ Miscellaneous
     HUSB238 <https://docs.circuitpython.org/projects/husb238/en/latest/>
     INA219 High Side Current <https://docs.circuitpython.org/projects/ina219/en/latest/>
     INA260 Current and Power Monitor <https://docs.circuitpython.org/projects/ina260/en/latest/>
+    INA3221 Three Channel Amp Power Monitor <https://docs.circuitpython.org/projects/ina3221/en/latest/>
     LC709203F Fuel Gauge and Battery Monitor <https://docs.circuitpython.org/projects/lc709203f/en/latest/>
     Matrix Keypad <https://docs.circuitpython.org/projects/matrixkeypad/en/latest/>
     MAX1704x Fuel Gauge <https://docs.circuitpython.org/projects/max1704x/en/latest/>
