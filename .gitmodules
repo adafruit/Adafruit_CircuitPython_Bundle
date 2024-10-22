@@ -1034,3 +1034,6 @@
 [submodule "libraries/helpers/usb_host_midi"]
 	path = libraries/helpers/usb_host_midi
 	url = https://github.com/adafruit/Adafruit_CircuitPython_USB_Host_MIDI.git
+[submodule "libraries/drivers/ina3221"]
+	path = libraries/drivers/ina3221
+	url = https://github.com/adafruit/Adafruit_CircuitPython_INA3221.git
