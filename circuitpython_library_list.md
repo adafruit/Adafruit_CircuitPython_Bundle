@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 344 libraries available.
+There are 345 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -88,6 +88,7 @@ There are 344 libraries available.
 * [Adafruit CircuitPython ILI9341](https://github.com/adafruit/Adafruit_CircuitPython_ILI9341.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ili9341))
 * [Adafruit CircuitPython INA219](https://github.com/adafruit/Adafruit_CircuitPython_INA219.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ina219))
 * [Adafruit CircuitPython INA260](https://github.com/adafruit/Adafruit_CircuitPython_INA260.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ina260))
+* [Adafruit CircuitPython INA3221](https://github.com/adafruit/Adafruit_CircuitPython_INA3221.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ina3221))
 * [Adafruit CircuitPython IRRemote](https://github.com/adafruit/Adafruit_CircuitPython_IRRemote.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-irremote))
 * [Adafruit CircuitPython IS31FL3731](https://github.com/adafruit/Adafruit_CircuitPython_IS31FL3731.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-is31fl3731))
 * [Adafruit CircuitPython IS31FL3741](https://github.com/adafruit/Adafruit_CircuitPython_IS31FL3741.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-is31fl3741))
