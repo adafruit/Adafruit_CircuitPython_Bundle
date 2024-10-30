@@ -1037,3 +1037,6 @@
 [submodule "libraries/drivers/ina3221"]
 	path = libraries/drivers/ina3221
 	url = https://github.com/adafruit/Adafruit_CircuitPython_INA3221.git
+[submodule "libraries/drivers/vcnl4200"]
+	path = libraries/drivers/vcnl4200
+	url = https://github.com/adafruit/Adafruit_CircuitPython_VCNL4200.git
