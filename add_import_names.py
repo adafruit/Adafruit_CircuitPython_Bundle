@@ -5,8 +5,8 @@
 Creates updated_drivers.rst which includes import names for each module.
 """
 
-if __name__ == '__main__':
-    with open('docs/drivers.rst', 'r') as drivers_rst:
+if __name__ == "__main__":
+    with open("docs/drivers.rst", "r") as drivers_rst:
         with open("updated_drivers.rst", "w") as updated_drivers_rst:
             lines = drivers_rst.readlines()
 
@@ -14,14 +14,20 @@ if __name__ == '__main__':
 
                 if "<https://docs.circuitpython.org/" in line:
                     docs_url = line.split("<")[1].split(">")[0]
-                    #print(docs_url)
+                    # print(docs_url)
 
-                    short_name = line.split("https://docs.circuitpython.org/projects/")[1].split("/en/latest/")[0]
+                    short_name = line.split("https://docs.circuitpython.org/projects/")[
+                        1
+                    ].split("/en/latest/")[0]
                     insert_index = line.index("<") - 1
-                    #print(f"adafruit_{short_name} | {insert_index}")
+                    # print(f"adafruit_{short_name} | {insert_index}")
 
-                    modified = line[:insert_index] + f" (adafruit_{short_name})" + line[insert_index:]
-                    #print(modified)
+                    modified = (
+                        line[:insert_index]
+                        + f" (adafruit_{short_name})"
+                        + line[insert_index:]
+                    )
+                    # print(modified)
                     updated_drivers_rst.write(modified)
                 else:
                     updated_drivers_rst.write(line)
