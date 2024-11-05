@@ -576,3 +576,4 @@ Miscellaneous
     VS1053 Audio Codec <https://docs.circuitpython.org/projects/vs1053/en/latest/>
     Wii Classic <https://docs.circuitpython.org/projects/wii_classic/en/latest/>
     Wiznet5k Ethernet Module <https://docs.circuitpython.org/projects/wiznet5k/en/latest/>
+    WM8960 Audio Codec <https://docs.circuitpython.org/projects/wm8960/en/latest/>
