@@ -27,7 +27,7 @@ specific boards.
 
 .. toctree::
 
-    Adafruit CircuitPlayground <https://docs.circuitpython.org/projects/circuitplayground/en/latest/>
+    Adafruit CircuitPlayground (adafruit_circuitplayground)<https://docs.circuitpython.org/projects/circuitplayground/en/latest/>
     Adafruit CLUE <https://docs.circuitpython.org/projects/clue/en/latest/>
     Adafruit ESP32S2TFT <https://docs.circuitpython.org/projects/esp32s2tft/en/latest/>
     Adafruit FeatherWings <https://docs.circuitpython.org/projects/featherwing/en/latest/>
