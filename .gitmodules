@@ -1040,3 +1040,6 @@
 [submodule "libraries/drivers/vcnl4200"]
 	path = libraries/drivers/vcnl4200
 	url = https://github.com/adafruit/Adafruit_CircuitPython_VCNL4200.git
+[submodule "libraries/drivers/wm8960"]
+	path = libraries/drivers/wm8960
+	url = https://github.com/adafruit/Adafruit_CircuitPython_WM8960.git
