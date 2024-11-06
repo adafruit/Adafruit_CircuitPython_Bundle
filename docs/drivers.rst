@@ -182,7 +182,7 @@ modules may have a CircuitPython Core API implementation too.
 
 .. toctree::
 
-    asyncio (adafruit_asyncio) <https://docs.circuitpython.org/projects/asyncio/en/latest/>
+    asyncio (asyncio) <https://docs.circuitpython.org/projects/asyncio/en/latest/>
     binascii (adafruit_binascii) <https://docs.circuitpython.org/projects/binascii/en/latest/>
     datetime (adafruit_datetime) <https://docs.circuitpython.org/projects/datetime/en/latest/>
     IterTools (adafruit_itertools) <https://docs.circuitpython.org/projects/itertools/en/latest/>
@@ -209,7 +209,7 @@ Miscellaneous Helpers
     AVR programming (adafruit_avrprog) <https://docs.circuitpython.org/projects/avrprog/en/latest/>
     BitbangIO (adafruit_bitbangio) <https://docs.circuitpython.org/projects/bitbangio/en/latest/>
     Board Test Suite (adafruit_boardtest) <https://docs.circuitpython.org/projects/boardtest/en/latest/>
-    Colorsys (adafruit_colorsys) <https://docs.circuitpython.org/projects/colorsys/en/latest/>
+    Colorsys (colorsys) <https://docs.circuitpython.org/projects/colorsys/en/latest/>
     Debouncer (adafruit_debouncer) <https://docs.circuitpython.org/projects/debouncer/en/latest/>
     Debug I2C (adafruit_debug_i2c) <https://docs.circuitpython.org/projects/debug_i2c/en/latest/>
     Ducky (adafruit_ducky) <https://docs.circuitpython.org/projects/ducky/en/latest/>
@@ -223,7 +223,7 @@ Miscellaneous Helpers
     Prompt Toolkit (adafruit_prompt_toolkit) <https://docs.circuitpython.org/projects/prompt_toolkit/en/latest/>
     Radial Controller (adafruit_radial-controller) <https://docs.circuitpython.org/projects/radial-controller/en/latest/>
     SD Card (adafruit_sd) <https://docs.circuitpython.org/projects/sd/en/latest/>
-    SimpleIO (adafruit_simpleio) <https://docs.circuitpython.org/projects/simpleio/en/latest/>
+    SimpleIO (simpleio) <https://docs.circuitpython.org/projects/simpleio/en/latest/>
     SimpleMath (adafruit_simplemath) <https://docs.circuitpython.org/projects/simplemath/en/latest/>
     Test Repo (adafruit_testrepo) <https://docs.circuitpython.org/projects/testrepo/en/latest/>
     USB HID - Human Interface Device (Keyboard and Mouse) (adafruit_hid) <https://docs.circuitpython.org/projects/hid/en/latest/>
@@ -513,7 +513,7 @@ These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``,
     MCP4725 Digital-to-Analog Converter (adafruit_mcp4725) <https://docs.circuitpython.org/projects/mcp4725/en/latest/>
     MCP4728 4-Channel, 12-bit Digital-to-Analog Converter (adafruit_mcp4728) <https://docs.circuitpython.org/projects/mcp4728/en/latest/>
     MPR121 Capacitive Touch Sensor (adafruit_mpr121) <https://docs.circuitpython.org/projects/mpr121/en/latest/>
-    NAU7802 24-Bit ADC (adafruit_nau7802) <https://docs.circuitpython.org/projects/nau7802/en/latest/>
+    NAU7802 24-Bit ADC (cedargrove_nau7802) <https://docs.circuitpython.org/projects/nau7802/en/latest/>
     PCA9554 GPIO Expander (adafruit_pca9554) <https://docs.circuitpython.org/projects/pca9554/en/latest/>
     PCA9685 16 x 12-bit PWM Driver (adafruit_pca9685) <https://docs.circuitpython.org/projects/pca9685/en/latest/>
     PCF8574 GPIO Expander (adafruit_pcf8574) <https://docs.circuitpython.org/projects/pcf8574/en/latest/>
