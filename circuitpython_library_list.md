@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 346 libraries available.
+There are 347 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32))
@@ -234,6 +234,7 @@ There are 346 libraries available.
 * [Adafruit CircuitPython VL53L4CD](https://github.com/adafruit/Adafruit_CircuitPython_VL53L4CD.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vl53l4cd))
 * [Adafruit CircuitPython VL6180X](https://github.com/adafruit/Adafruit_CircuitPython_VL6180X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vl6180x))
 * [Adafruit CircuitPython VS1053](https://github.com/adafruit/Adafruit_CircuitPython_VS1053.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vs1053))
+* [Adafruit CircuitPython WM8960](https://github.com/adafruit/Adafruit_CircuitPython_WM8960.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wm8960))
 * [Adafruit CircuitPython WS2801](https://github.com/adafruit/Adafruit_CircuitPython_WS2801.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ws2801))
 * [Adafruit CircuitPython Wii Classic](https://github.com/adafruit/Adafruit_CircuitPython_Wii_Classic.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wii-classic))
 * [Adafruit CircuitPython Wiznet5k](https://github.com/adafruit/Adafruit_CircuitPython_Wiznet5k.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wiznet5k))
