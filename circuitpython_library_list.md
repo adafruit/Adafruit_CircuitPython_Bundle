@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 347 libraries available.
+There are 348 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -342,9 +342,9 @@ There are 347 libraries available.
 * [Adafruit CircuitPython USB Host Descriptors](https://github.com/adafruit/Adafruit_CircuitPython_USB_Host_Descriptors.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-usb-host-descriptors)) \([Docs](https://docs.circuitpython.org/projects/usb-host-descriptors/en/latest/))
 * [Adafruit CircuitPython USB Host MIDI](https://github.com/adafruit/Adafruit_CircuitPython_USB_Host_MIDI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-usb-host-midi)) \([Docs](https://docs.circuitpython.org/projects/usb-host-midi/en/latest/))
 * [Adafruit CircuitPython USB Host Mass Storage](https://github.com/adafruit/Adafruit_CircuitPython_USB_Host_Mass_Storage.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-usb-host-mass-storage)) \([Docs](https://docs.circuitpython.org/projects/usb-host-mass-storage/en/latest/))
-* [Adafruit_CircuitPython_Wiz](https://github.com/adafruit/Adafruit_CircuitPython_Wiz.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wiz/) \([Docs](https://docs.circuitpython.org/projects/wiz/en/latest/))
 * [Adafruit CircuitPython WSGI](https://github.com/adafruit/Adafruit_CircuitPython_WSGI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wsgi)) \([Docs](https://docs.circuitpython.org/projects/wsgi/en/latest/))
 * [Adafruit CircuitPython Waveform](https://github.com/adafruit/Adafruit_CircuitPython_Waveform.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-waveform)) \([Docs](https://docs.circuitpython.org/projects/waveform/en/latest/))
+* [Adafruit CircuitPython Wiz](https://github.com/adafruit/Adafruit_CircuitPython_Wiz.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wiz)) \([Docs](https://docs.circuitpython.org/projects/wiz/en/latest/))
 * [Adafruit CircuitPython asyncio](https://github.com/adafruit/Adafruit_CircuitPython_asyncio.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-asyncio)) \([Docs](https://docs.circuitpython.org/projects/asyncio/en/latest/))
 * [Adafruit CircuitPython binascii](https://github.com/adafruit/Adafruit_CircuitPython_binascii.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-binascii)) \([Docs](https://docs.circuitpython.org/projects/binascii/en/latest/))
 * [Adafruit CircuitPython datetime](https://github.com/adafruit/Adafruit_CircuitPython_datetime.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-datetime)) \([Docs](https://docs.circuitpython.org/projects/datetime/en/latest/))
