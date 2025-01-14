@@ -8,7 +8,7 @@ repos:
     hooks:
     - id: black
 -   repo: https://github.com/fsfe/reuse-tool
-    rev: v0.12.1
+    rev: v1.1.2
     hooks:
     - id: reuse
 -   repo: https://github.com/pre-commit/pre-commit-hooks
