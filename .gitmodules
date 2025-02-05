@@ -1046,3 +1046,6 @@
 [submodule "libraries/helpers/wiz"]
 	path = libraries/helpers/wiz
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Wiz.git
+[submodule "libraries/drivers/ina228"]
+	path = libraries/drivers/ina228
+	url = https://github.com/adafruit/Adafruit_CircuitPython_INA228.git
