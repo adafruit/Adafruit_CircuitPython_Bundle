@@ -1049,3 +1049,6 @@
 [submodule "libraries/drivers/ina228"]
 	path = libraries/drivers/ina228
 	url = https://github.com/adafruit/Adafruit_CircuitPython_INA228.git
+[submodule "libraries/drivers/gc9a01a"]
+	path = libraries/drivers/gc9a01a
+	url = https://github.com/adafruit/Adafruit_CircuitPython_GC9A01A.git
