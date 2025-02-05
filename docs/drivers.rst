@@ -266,6 +266,7 @@ Color TFT-LCD
 
 .. toctree::
 
+    GC9A01A (displayio) (adafruit_gc9a01a) <https://docs.circuitpython.org/projects/gc9a01a/en/latest/>
     HX8357 (displayio) (adafruit_hx8357) <https://docs.circuitpython.org/projects/hx8357/en/latest/>
     ILI9341 and ILI9340 (displayio) (adafruit_ili9341) <https://docs.circuitpython.org/projects/ili9341/en/latest/>
     ST7735 (displayio) (adafruit_st7735) <https://docs.circuitpython.org/projects/st7735/en/latest/>
