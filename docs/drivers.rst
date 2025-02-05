@@ -549,6 +549,7 @@ Miscellaneous
     Gizmo (adafruit_gizmo) <https://docs.circuitpython.org/projects/gizmo/en/latest/>
     HUSB238 (adafruit_husb238) <https://docs.circuitpython.org/projects/husb238/en/latest/>
     INA219 High Side Current (adafruit_ina219) <https://docs.circuitpython.org/projects/ina219/en/latest/>
+    INA228 High or Low Side Power Monitor (adafruit_ina228) <https://docs.circuitpython.org/projects/ina228/en/latest/>
     INA260 Current and Power Monitor (adafruit_ina260) <https://docs.circuitpython.org/projects/ina260/en/latest/>
     INA3221 Three Channel Amp Power Monitor (adafruit_ina3221) <https://docs.circuitpython.org/projects/ina3221/en/latest/>
     LC709203F Fuel Gauge and Battery Monitor (adafruit_lc709203f) <https://docs.circuitpython.org/projects/lc709203f/en/latest/>
