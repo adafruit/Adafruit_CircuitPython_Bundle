@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 348 libraries available.
+There are 350 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -70,6 +70,7 @@ There are 348 libraries available.
 * [Adafruit CircuitPython FXOS8700](https://github.com/adafruit/Adafruit_CircuitPython_FXOS8700.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fxos8700)) \([Docs](https://docs.circuitpython.org/projects/fxos8700/en/latest/))
 * [Adafruit CircuitPython Fingerprint](https://github.com/adafruit/Adafruit_CircuitPython_Fingerprint.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fingerprint)) \([Docs](https://docs.circuitpython.org/projects/fingerprint/en/latest/))
 * [Adafruit CircuitPython FocalTouch](https://github.com/adafruit/Adafruit_CircuitPython_FocalTouch.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-focaltouch)) \([Docs](https://docs.circuitpython.org/projects/focaltouch/en/latest/))
+* [Adafruit CircuitPython GC9A01A](https://github.com/adafruit/Adafruit_CircuitPython_GC9A01A.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-gc9a01a)) \([Docs](https://docs.circuitpython.org/projects/gc9a01a/en/latest/))
 * [Adafruit CircuitPython GPS](https://github.com/adafruit/Adafruit_CircuitPython_GPS.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-gps)) \([Docs](https://docs.circuitpython.org/projects/gps/en/latest/))
 * [Adafruit CircuitPython GUVX I2C](https://github.com/adafruit/Adafruit_CircuitPython_GUVX_I2C.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-guvx-i2c)) \([Docs](https://docs.circuitpython.org/projects/guvx_i2c/en/latest/))
 * [Adafruit CircuitPython HCSR04](https://github.com/adafruit/Adafruit_CircuitPython_HCSR04.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hcsr04)) \([Docs](https://docs.circuitpython.org/projects/hcsr04/en/latest/))
@@ -87,6 +88,7 @@ There are 348 libraries available.
 * [Adafruit CircuitPython IL91874](https://github.com/adafruit/Adafruit_CircuitPython_IL91874.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-il91874)) \([Docs](https://docs.circuitpython.org/projects/il91874/en/latest/))
 * [Adafruit CircuitPython ILI9341](https://github.com/adafruit/Adafruit_CircuitPython_ILI9341.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ili9341)) \([Docs](https://docs.circuitpython.org/projects/ili9341/en/latest/))
 * [Adafruit CircuitPython INA219](https://github.com/adafruit/Adafruit_CircuitPython_INA219.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ina219)) \([Docs](https://docs.circuitpython.org/projects/ina219/en/latest/))
+* [Adafruit CircuitPython INA228](https://github.com/adafruit/Adafruit_CircuitPython_INA228.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ina228)) \([Docs](https://docs.circuitpython.org/projects/ina228/en/latest/))
 * [Adafruit CircuitPython INA260](https://github.com/adafruit/Adafruit_CircuitPython_INA260.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ina260)) \([Docs](https://docs.circuitpython.org/projects/ina260/en/latest/))
 * [Adafruit CircuitPython INA3221](https://github.com/adafruit/Adafruit_CircuitPython_INA3221.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ina3221)) \([Docs](https://docs.circuitpython.org/projects/ina3221/en/latest/))
 * [Adafruit CircuitPython IRRemote](https://github.com/adafruit/Adafruit_CircuitPython_IRRemote.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-irremote)) \([Docs](https://docs.circuitpython.org/projects/irremote/en/latest/))
