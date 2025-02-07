@@ -1052,3 +1052,6 @@
 [submodule "libraries/drivers/gc9a01a"]
 	path = libraries/drivers/gc9a01a
 	url = https://github.com/adafruit/Adafruit_CircuitPython_GC9A01A.git
+[submodule "libraries/drivers/lps28"]
+	path = libraries/drivers/lps28
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LPS28.git

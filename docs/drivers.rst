@@ -402,6 +402,7 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     HTU21D Temperature and Humidity (adafruit_htu21d) <https://docs.circuitpython.org/projects/htu21d/en/latest/>
     HTU31D Temperature and Humidity (adafruit_htu31d) <https://docs.circuitpython.org/projects/htu31d/en/latest/>
     LPS2X Family of Barometric Pressure, Temperature Sensors (adafruit_lps2x) <https://docs.circuitpython.org/projects/lps2x/en/latest/>
+    LPS28 Pressure Sensor (adafruit_lps28) <https://docs.circuitpython.org/projects/lps28/en/latest/>
     LPS35HW Water Resistant Barometric Pressure, Temperature (adafruit_lps35hw) <https://docs.circuitpython.org/projects/lps35hw/en/latest/>
     SGP40 Air Quality Sensor (adafruit_sgp40) <https://docs.circuitpython.org/projects/sgp40/en/latest/>
     MAX31855 Thermocouple Amplifier, Temperature (adafruit_max31855) <https://docs.circuitpython.org/projects/max31855/en/latest/>
