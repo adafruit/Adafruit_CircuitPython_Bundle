@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 350 libraries available.
+There are 351 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -101,6 +101,7 @@ There are 350 libraries available.
 * [Adafruit CircuitPython LIS331](https://github.com/adafruit/Adafruit_CircuitPython_LIS331.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lis331)) \([Docs](https://docs.circuitpython.org/projects/lis331/en/latest/))
 * [Adafruit CircuitPython LIS3DH](https://github.com/adafruit/Adafruit_CircuitPython_LIS3DH.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lis3dh)) \([Docs](https://docs.circuitpython.org/projects/lis3dh/en/latest/))
 * [Adafruit CircuitPython LIS3MDL](https://github.com/adafruit/Adafruit_CircuitPython_LIS3MDL.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lis3mdl)) \([Docs](https://docs.circuitpython.org/projects/lis3mdl/en/latest/))
+* [Adafruit CircuitPython LPS28](https://github.com/adafruit/Adafruit_CircuitPython_LPS28.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lps28)) \([Docs](https://docs.circuitpython.org/projects/lps28/en/latest/))
 * [Adafruit CircuitPython LPS2X](https://github.com/adafruit/Adafruit_CircuitPython_LPS2X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lps2x)) \([Docs](https://docs.circuitpython.org/projects/lps2x/en/latest/))
 * [Adafruit CircuitPython LPS35HW](https://github.com/adafruit/Adafruit_CircuitPython_LPS35HW.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lps35hw)) \([Docs](https://docs.circuitpython.org/projects/lps35hw/en/latest/))
 * [Adafruit CircuitPython LSM303 Accel](https://github.com/adafruit/Adafruit_CircuitPython_LSM303_Accel.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm303-accel)) \([Docs](https://docs.circuitpython.org/projects/lsm303-accel/en/latest/))
