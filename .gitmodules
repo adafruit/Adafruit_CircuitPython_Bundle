@@ -1055,3 +1055,6 @@
 [submodule "libraries/drivers/lps28"]
 	path = libraries/drivers/lps28
 	url = https://github.com/adafruit/Adafruit_CircuitPython_LPS28.git
+[submodule "libraries/helpers/display_analogclock"]
+	path = libraries/helpers/display_analogclock
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Display_AnalogClock.git
