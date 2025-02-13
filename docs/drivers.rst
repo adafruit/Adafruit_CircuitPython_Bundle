@@ -68,6 +68,7 @@ Helpers for building graphical interfaces using the displayio core module and fr
     Cursor Control (adafruit_cursorcontrol) <https://docs.circuitpython.org/projects/cursorcontrol/en/latest/>
     Bitmap Font (adafruit_bitmap-font) <https://docs.circuitpython.org/projects/bitmap-font/en/latest/>
     Bitmap Saver (adafruit_bitmapsaver) <https://docs.circuitpython.org/projects/bitmapsaver/en/latest/>
+    Display AnalogClock (adafruit_display_analogclock) <https://docs.circuitpython.org/projects/display-analogclock/en/latest/>
     Display Button (adafruit_display-button) <https://docs.circuitpython.org/projects/display-button/en/latest//>
     Display Notification (adafruit_display_notification) <https://docs.circuitpython.org/projects/display_notification/en/latest/>
     Display Shapes (adafruit_display-shapes) <https://docs.circuitpython.org/projects/display-shapes/en/latest/>
