@@ -506,6 +506,7 @@ These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``,
     AW9523 GPIO expander and LED driver (adafruit_aw9523) <https://docs.circuitpython.org/projects/aw9523/en/latest/>
     Crickit Robotics Boards (adafruit_crickit) <https://docs.circuitpython.org/projects/crickit/en/latest/>
     CST8XX Capacitive Touch (adafruit_cst8xx) <https://docs.circuitpython.org/projects/cst8xx/en/latest/>
+    DACx578 8 x Channel 12-Bit DAC (adafruit_dacx578) <https://docs.circuitpython.org/projects/dacx578/en/latest/>
     DS2413 OneWire GPIO Expander (adafruit_ds2413) <https://docs.circuitpython.org/projects/ds2413/en/latest/>
     FocalTech Capacitive Touch (adafruit_focaltouch) <https://docs.circuitpython.org/projects/focaltouch/en/latest/>
     HX711 24-bit ADC (adafruit_hx711) <https://docs.circuitpython.org/projects/hx711/en/latest/>
