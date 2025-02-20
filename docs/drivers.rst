@@ -70,6 +70,7 @@ Helpers for building graphical interfaces using the displayio core module and fr
     Bitmap Saver (adafruit_bitmapsaver) <https://docs.circuitpython.org/projects/bitmapsaver/en/latest/>
     Display AnalogClock (adafruit_display_analogclock) <https://docs.circuitpython.org/projects/display-analogclock/en/latest/>
     Display Button (adafruit_display-button) <https://docs.circuitpython.org/projects/display-button/en/latest//>
+    Display Emoji Text (adafruit_display_emoji_text) <https://docs.circuitpython.org/projects/display_emoji_text/en/latest/>
     Display Notification (adafruit_display_notification) <https://docs.circuitpython.org/projects/display_notification/en/latest/>
     Display Shapes (adafruit_display-shapes) <https://docs.circuitpython.org/projects/display-shapes/en/latest/>
     Display Text (adafruit_display_text) <https://docs.circuitpython.org/projects/display_text/en/latest/>
