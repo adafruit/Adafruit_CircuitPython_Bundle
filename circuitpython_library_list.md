@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 352 libraries available.
+There are 353 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -41,6 +41,7 @@ There are 352 libraries available.
 * [Adafruit CircuitPython CharLCD](https://github.com/adafruit/Adafruit_CircuitPython_CharLCD.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-charlcd)) \([Docs](https://docs.circuitpython.org/projects/charlcd/en/latest/))
 * [Adafruit CircuitPython CircuitPlayground](https://github.com/adafruit/Adafruit_CircuitPython_CircuitPlayground.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-circuitplayground)) \([Docs](https://docs.circuitpython.org/projects/circuitplayground/en/latest/))
 * [Adafruit CircuitPython Crickit](https://github.com/adafruit/Adafruit_CircuitPython_Crickit.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-crickit)) \([Docs](https://docs.circuitpython.org/projects/crickit/en/latest/))
+* [Adafruit CircuitPython DACx578](https://github.com/adafruit/Adafruit_CircuitPython_DACx578.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-dacx578)) \([Docs](https://docs.circuitpython.org/projects/dacx578/en/latest/))
 * [Adafruit CircuitPython DHT](https://github.com/adafruit/Adafruit_CircuitPython_DHT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-dht)) \([Docs](https://docs.circuitpython.org/projects/dht/en/latest/))
 * [Adafruit CircuitPython DPS310](https://github.com/adafruit/Adafruit_CircuitPython_DPS310.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-dps310)) \([Docs](https://docs.circuitpython.org/projects/dps310/en/latest/))
 * [Adafruit CircuitPython DRV2605](https://github.com/adafruit/Adafruit_CircuitPython_DRV2605.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-drv2605)) \([Docs](https://docs.circuitpython.org/projects/drv2605/en/latest/))
