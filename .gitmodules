@@ -1061,3 +1061,6 @@
 [submodule "libraries/drivers/dacx578"]
 	path = libraries/drivers/dacx578
 	url = https://github.com/adafruit/Adafruit_CircuitPython_DACx578.git
+[submodule "libraries/helpers/display_emoji_text"]
+	path = libraries/helpers/display_emoji_text
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Display_Emoji_Text.git
