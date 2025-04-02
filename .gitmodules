@@ -1064,3 +1064,6 @@
 [submodule "libraries/helpers/display_emoji_text"]
 	path = libraries/helpers/display_emoji_text
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Display_Emoji_Text.git
+[submodule "libraries/drivers/tlv320"]
+	path = libraries/drivers/tlv320
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TLV320.git

@@ -574,6 +574,7 @@ Miscellaneous
     Si4713 Stereo FM Transmitter (adafruit_si4713) <https://docs.circuitpython.org/projects/si4713/en/latest/>
     Si5351 Clock Generator (adafruit_si5351) <https://docs.circuitpython.org/projects/si5351/en/latest/>
     STMPE610 Resistive Touchscreen (adafruit_stmpe610) <https://docs.circuitpython.org/projects/stmpe610/en/latest/>
+	TLV320DAC3100 I2S DAC (adafruit_tlv320) <https://docs.circuitpython.org/projects/tlv320/en/latest/>
     Touchscreen 4-Wire Resistive (adafruit_touchscreen) <https://docs.circuitpython.org/projects/touchscreen/en/latest/>
     TPA2016 Audio Amplifier with AGC (adafruit_tpa2016) <https://docs.circuitpython.org/projects/tpa2016/en/latest/>
     Trellis 4x4 Keypad (adafruit_trellis) <https://docs.circuitpython.org/projects/trellis/en/latest/>
