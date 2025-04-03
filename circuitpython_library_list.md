@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 354 libraries available.
+There are 355 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -209,6 +209,7 @@ There are 354 libraries available.
 * [Adafruit CircuitPython TLA202X](https://github.com/adafruit/Adafruit_CircuitPython_TLA202X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tla202x)) \([Docs](https://docs.circuitpython.org/projects/tla202x/en/latest/))
 * [Adafruit CircuitPython TLC5947](https://github.com/adafruit/Adafruit_CircuitPython_TLC5947.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tlc5947)) \([Docs](https://docs.circuitpython.org/projects/tlc5947/en/latest/))
 * [Adafruit CircuitPython TLC59711](https://github.com/adafruit/Adafruit_CircuitPython_TLC59711.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tlc59711)) \([Docs](https://docs.circuitpython.org/projects/tlc59711/en/latest/))
+* [Adafruit CircuitPython TLV320](https://github.com/adafruit/Adafruit_CircuitPython_TLV320.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tlv320)) \([Docs](https://docs.circuitpython.org/projects/tlv320/en/latest/))
 * [Adafruit CircuitPython TLV493D](https://github.com/adafruit/Adafruit_CircuitPython_TLV493D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tlv493d)) \([Docs](https://docs.circuitpython.org/projects/tlv493d/en/latest/))
 * [Adafruit CircuitPython TM1814](https://github.com/adafruit/Adafruit_CircuitPython_TM1814.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tm1814)) \([Docs](https://docs.circuitpython.org/projects/tm1814/en/latest/))
 * [Adafruit CircuitPython TMP006](https://github.com/adafruit/Adafruit_CircuitPython_TMP006.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tmp006)) \([Docs](https://docs.circuitpython.org/projects/tmp006/en/latest/))
