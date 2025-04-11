@@ -1067,3 +1067,6 @@
 [submodule "libraries/drivers/tlv320"]
 	path = libraries/drivers/tlv320
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TLV320.git
+[submodule "libraries/helpers/anchored_group"]
+	path = libraries/helpers/anchored_group
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Anchored_Group.git
