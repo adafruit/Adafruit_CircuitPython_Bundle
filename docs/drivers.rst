@@ -65,6 +65,8 @@ Helpers for building graphical interfaces using the displayio core module and fr
 
 .. toctree::
 
+    Anchored Group (adafruit_anchored_group) <https://docs.circuitpython.org/projects/anchored_group/en/latest/>
+    Anchored TileGrid (adafruit_anchored_tilegrid) <https://docs.circuitpython.org/projects/anchored_tilegrid/en/latest/>
     Cursor Control (adafruit_cursorcontrol) <https://docs.circuitpython.org/projects/cursorcontrol/en/latest/>
     Bitmap Font (adafruit_bitmap-font) <https://docs.circuitpython.org/projects/bitmap-font/en/latest/>
     Bitmap Saver (adafruit_bitmapsaver) <https://docs.circuitpython.org/projects/bitmapsaver/en/latest/>
