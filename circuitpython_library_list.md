@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 355 libraries available.
+There are 356 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -251,6 +251,7 @@ There are 355 libraries available.
 * [Adafruit CircuitPython AWS IOT](https://github.com/adafruit/Adafruit_CircuitPython_AWS_IOT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-aws-iot)) \([Docs](https://docs.circuitpython.org/projects/aws_iot/en/latest/))
 * [Adafruit CircuitPython AdafruitIO](https://github.com/adafruit/Adafruit_CircuitPython_AdafruitIO.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-adafruitio)) \([Docs](https://docs.circuitpython.org/projects/adafruitio/en/latest/))
 * [Adafruit CircuitPython AirLift](https://github.com/adafruit/Adafruit_CircuitPython_AirLift.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-airlift)) \([Docs](https://docs.circuitpython.org/projects/airlift/en/latest/))
+* [Adafruit CircuitPython Anchored Group](https://github.com/adafruit/Adafruit_CircuitPython_Anchored_Group.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-anchored-group)) \([Docs](https://docs.circuitpython.org/projects/anchored_group/en/latest/))
 * [Adafruit CircuitPython Anchored TileGrid](https://github.com/adafruit/Adafruit_CircuitPython_Anchored_TileGrid.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-anchored-tilegrid)) \([Docs](https://docs.circuitpython.org/projects/anchored_tilegrid/en/latest/))
 * [Adafruit CircuitPython AzureIoT](https://github.com/adafruit/Adafruit_CircuitPython_AzureIoT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-azureiot)) \([Docs](https://docs.circuitpython.org/projects/azureiot/en/latest/))
 * [Adafruit CircuitPython BLE Adafruit](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Adafruit.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ble-adafruit)) \([Docs](https://docs.circuitpython.org/projects/ble_adafruit/en/latest/))
