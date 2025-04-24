@@ -190,6 +190,7 @@ modules may have a CircuitPython Core API implementation too.
     binascii (adafruit_binascii) <https://docs.circuitpython.org/projects/binascii/en/latest/>
     datetime (adafruit_datetime) <https://docs.circuitpython.org/projects/datetime/en/latest/>
     IterTools (adafruit_itertools) <https://docs.circuitpython.org/projects/itertools/en/latest/>
+    pathlib (adafruit_pathlib) <https://docs.circuitpython.org/projects/pathlib/en/latest/>
     Logging  (adafruit_logging) <https://docs.circuitpython.org/projects/logging/en/latest/>
     hashlib (adafruit_hashlib) <https://docs.circuitpython.org/projects/hashlib/en/latest/>
 
