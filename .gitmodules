@@ -1073,3 +1073,6 @@
 [submodule "libraries/helpers/pathlib"]
 	path = libraries/helpers/pathlib
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Pathlib.git
+[submodule "libraries/helpers/fruitjam"]
+	path = libraries/helpers/fruitjam
+	url = https://github.com/adafruit/Adafruit_CircuitPython_FruitJam.git
