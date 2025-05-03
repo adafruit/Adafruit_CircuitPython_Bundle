@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 357 libraries available.
+There are 358 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -295,7 +295,7 @@ There are 357 libraries available.
 * [Adafruit CircuitPython FakeRequests](https://github.com/adafruit/Adafruit_CircuitPython_FakeRequests.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fakerequests)) \([Docs](https://docs.circuitpython.org/projects/fakerequests/en/latest/))
 * [Adafruit CircuitPython FancyLED](https://github.com/adafruit/Adafruit_CircuitPython_FancyLED.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fancyled)) \([Docs](https://docs.circuitpython.org/projects/fancyled/en/latest/))
 * [Adafruit CircuitPython FeatherWing](https://github.com/adafruit/Adafruit_CircuitPython_FeatherWing.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-featherwing)) \([Docs](https://docs.circuitpython.org/projects/featherwing/en/latest/))
-* [Adafruit CircuitPython FruitJam](https://github.com/adafruit/Adafruit_CircuitPython_FruitJam.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fruitjam/)) \([Docs](https://docs.circuitpython.org/projects/fruitjam/en/latest/))
+* [Adafruit CircuitPython FruitJam](https://github.com/adafruit/Adafruit_CircuitPython_FruitJam.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fruitjam)) \([Docs](https://docs.circuitpython.org/projects/fruitjam/en/latest/))
 * [Adafruit CircuitPython FunHouse](https://github.com/adafruit/Adafruit_CircuitPython_FunHouse.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-funhouse)) \([Docs](https://docs.circuitpython.org/projects/funhouse/en/latest/))
 * [Adafruit CircuitPython GC IOT Core](https://github.com/adafruit/Adafruit_CircuitPython_GC_IOT_Core.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-gc-iot-core)) \([Docs](https://docs.circuitpython.org/projects/gc_iot_core/en/latest/))
 * [Adafruit CircuitPython GFX](https://github.com/adafruit/Adafruit_CircuitPython_GFX.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-gfx)) \([Docs](https://docs.circuitpython.org/projects/gfx/en/latest/))
