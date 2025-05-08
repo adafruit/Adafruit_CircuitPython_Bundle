@@ -247,6 +247,7 @@ There are 358 libraries available.
 * [CircuitPython NAU7802](https://github.com/adafruit/CircuitPython_NAU7802.git)
 
 ## Helpers:
+* [Adafruit CircuitPython Argv_File](https://github.com/adafruit/Adafruit_CircuitPython_Argv_File.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-argv-file/)) \([Docs](https://docs.circuitpython.org/projects/argv_file/en/latest/))
 * [Adafruit CircuitPython AVRprog](https://github.com/adafruit/Adafruit_CircuitPython_AVRprog.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-avrprog)) \([Docs](https://docs.circuitpython.org/projects/avrprog/en/latest/))
 * [Adafruit CircuitPython AWS IOT](https://github.com/adafruit/Adafruit_CircuitPython_AWS_IOT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-aws-iot)) \([Docs](https://docs.circuitpython.org/projects/aws_iot/en/latest/))
 * [Adafruit CircuitPython AdafruitIO](https://github.com/adafruit/Adafruit_CircuitPython_AdafruitIO.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-adafruitio)) \([Docs](https://docs.circuitpython.org/projects/adafruitio/en/latest/))
@@ -352,6 +353,7 @@ There are 358 libraries available.
 * [Adafruit CircuitPython USB Host Descriptors](https://github.com/adafruit/Adafruit_CircuitPython_USB_Host_Descriptors.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-usb-host-descriptors)) \([Docs](https://docs.circuitpython.org/projects/usb-host-descriptors/en/latest/))
 * [Adafruit CircuitPython USB Host MIDI](https://github.com/adafruit/Adafruit_CircuitPython_USB_Host_MIDI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-usb-host-midi)) \([Docs](https://docs.circuitpython.org/projects/usb-host-midi/en/latest/))
 * [Adafruit CircuitPython USB Host Mass Storage](https://github.com/adafruit/Adafruit_CircuitPython_USB_Host_Mass_Storage.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-usb-host-mass-storage)) \([Docs](https://docs.circuitpython.org/projects/usb-host-mass-storage/en/latest/))
+* [Adafruit CircuitPython USB Host Mouse](https://github.com/adafruit/Adafruit_CircuitPython_USB_Host_Mouse.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-usb-host-mouse/)) \([Docs](https://docs.circuitpython.org/projects/usb_host_mouse/en/latest/))
 * [Adafruit CircuitPython WSGI](https://github.com/adafruit/Adafruit_CircuitPython_WSGI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wsgi)) \([Docs](https://docs.circuitpython.org/projects/wsgi/en/latest/))
 * [Adafruit CircuitPython Waveform](https://github.com/adafruit/Adafruit_CircuitPython_Waveform.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-waveform)) \([Docs](https://docs.circuitpython.org/projects/waveform/en/latest/))
 * [Adafruit CircuitPython Wiz](https://github.com/adafruit/Adafruit_CircuitPython_Wiz.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wiz)) \([Docs](https://docs.circuitpython.org/projects/wiz/en/latest/))
