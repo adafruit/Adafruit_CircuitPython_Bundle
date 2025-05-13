@@ -1082,3 +1082,9 @@
 [submodule "libraries/helpers/argv_file"]
 	path = libraries/helpers/argv_file
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Argv_File.git
+[submodule "librares/helpers/midi_parser"]
+	path = librares/helpers/midi_parser
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MIDI_Parser.git
+[submodule "libraries/helpers/midi_parser"]
+	path = libraries/helpers/midi_parser
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MIDI_Parser.git
