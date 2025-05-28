@@ -424,6 +424,7 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     PM25 Air Quality Sensor (adafruit_pm25) <https://docs.circuitpython.org/projects/pm25/en/latest/>
     SCD30 CO2, Temperature, and Humidity Sensor (adafruit_scd30) <https://docs.circuitpython.org/projects/scd30/en/latest/>
     SCD4x Temperature and Humidity Sensor (adafruit_scd4x) <https://docs.circuitpython.org/projects/scd4x/en/latest/>
+    SEN6x Environmental Sensor (adafruit_sen6x) <https://docs.circuitpython.org/projects/sen6x/en/latest/>
     SGP30 Air Quality (adafruit_sgp30) <https://docs.circuitpython.org/projects/sgp30/en/latest/>
     SHT31-D Temperature and Humidity (adafruit_sht31d) <https://docs.circuitpython.org/projects/sht31d/en/latest/>
     SHT4x Temperature and Humidity (adafruit_sht4x) <https://docs.circuitpython.org/projects/sht4x/en/latest/>
