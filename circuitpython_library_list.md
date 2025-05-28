@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 360 libraries available.
+There are 362 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -146,6 +146,7 @@ There are 360 libraries available.
 * [Adafruit CircuitPython NeoPxl8](https://github.com/adafruit/Adafruit_CircuitPython_NeoPxl8.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-neopxl8)) \([Docs](https://docs.circuitpython.org/projects/neopxl8/en/latest/))
 * [Adafruit CircuitPython NeoTrellis](https://github.com/adafruit/Adafruit_CircuitPython_NeoTrellis) ([PyPi](https://pypi.org/project/adafruit-circuitpython-neotrellis)) \([Docs](https://docs.circuitpython.org/projects/neotrellis/en/latest/))
 * [Adafruit CircuitPython Nunchuk](https://github.com/adafruit/Adafruit_CircuitPython_Nunchuk.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-nunchuk)) \([Docs](https://docs.circuitpython.org/projects/nunchuk/en/latest/))
+* [Adafruit CircuitPython OPT4048](https://github.com/adafruit/Adafruit_CircuitPython_OPT4048.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-opt4048)) \([Docs](https://docs.circuitpython.org/projects/opt4048/en/latest/))
 * [Adafruit CircuitPython OV2640](https://github.com/adafruit/Adafruit_CircuitPython_OV2640.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ov2640)) \([Docs](https://docs.circuitpython.org/projects/ov2640/en/latest/))
 * [Adafruit CircuitPython OV5640](https://github.com/adafruit/Adafruit_CircuitPython_OV5640.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ov5640)) \([Docs](https://docs.circuitpython.org/projects/ov5640/en/latest/))
 * [Adafruit CircuitPython OV7670](https://github.com/adafruit/Adafruit_CircuitPython_OV7670) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ov7670)) \([Docs](https://docs.circuitpython.org/projects/ov7670/en/latest/))
@@ -311,8 +312,8 @@ There are 360 libraries available.
 * [Adafruit CircuitPython LED Animation](https://github.com/adafruit/Adafruit_CircuitPython_LED_Animation.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-led-animation)) \([Docs](https://docs.circuitpython.org/projects/led-animation/en/latest/))
 * [Adafruit CircuitPython LIFX](https://github.com/adafruit/Adafruit_CircuitPython_LIFX.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lifx)) \([Docs](https://docs.circuitpython.org/projects/lifx/en/latest/))
 * [Adafruit CircuitPython Logging](https://github.com/adafruit/Adafruit_CircuitPython_Logging.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-logging)) \([Docs](https://docs.circuitpython.org/projects/logging/en/latest/))
-* [Adafruit CircuitPython MIDI](https://github.com/adafruit/Adafruit_CircuitPython_MIDI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-midi)) \([Docs](https://docs.circuitpython.org/projects/midi/en/latest/))
 * [Adafruit CircuitPython MIDI Parser](https://github.com/adafruit/Adafruit_CircuitPython_MIDI_Parser.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-midi-parser)) \([Docs](https://docs.circuitpython.org/projects/midi_parser/en/latest/))
+* [Adafruit CircuitPython MIDI](https://github.com/adafruit/Adafruit_CircuitPython_MIDI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-midi)) \([Docs](https://docs.circuitpython.org/projects/midi/en/latest/))
 * [Adafruit CircuitPython MacroPad](https://github.com/adafruit/Adafruit_CircuitPython_MacroPad.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-macropad)) \([Docs](https://docs.circuitpython.org/projects/macropad/en/latest/))
 * [Adafruit CircuitPython MagTag](https://github.com/adafruit/Adafruit_CircuitPython_MagTag.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-magtag)) \([Docs](https://docs.circuitpython.org/projects/magtag/en/latest/))
 * [Adafruit CircuitPython MatrixPortal](https://github.com/adafruit/Adafruit_CircuitPython_MatrixPortal.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-matrixportal)) \([Docs](https://docs.circuitpython.org/projects/matrixportal/en/latest/))

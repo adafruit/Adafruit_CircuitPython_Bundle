@@ -1085,6 +1085,9 @@
 [submodule "librares/helpers/midi_parser"]
 	path = libraries/helpers/midi_parser
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MIDI_Parser.git
+[submodule "libraries/drivers/opt4048"]
+	path = libraries/drivers/opt4048
+	url = https://github.com/adafruit/Adafruit_CircuitPython_OPT4048.git
 [submodule "libraries/drivers/sen6x"]
 	path = libraries/drivers/sen6x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SEN6x.git
