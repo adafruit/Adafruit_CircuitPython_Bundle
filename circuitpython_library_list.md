@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 362 libraries available.
+There are 363 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -174,6 +174,7 @@ There are 362 libraries available.
 * [Adafruit CircuitPython SCD30](https://github.com/adafruit/Adafruit_CircuitPython_SCD30.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-scd30)) \([Docs](https://docs.circuitpython.org/projects/scd30/en/latest/))
 * [Adafruit CircuitPython SCD4X](https://github.com/adafruit/Adafruit_CircuitPython_SCD4X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-scd4x)) \([Docs](https://docs.circuitpython.org/projects/scd4x/en/latest/))
 * [Adafruit CircuitPython SD](https://github.com/adafruit/Adafruit_CircuitPython_SD.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sd)) \([Docs](https://docs.circuitpython.org/projects/sd/en/latest/))
+* [Adafruit CircuitPython SEN6x](https://github.com/adafruit/Adafruit_CircuitPython_SEN6x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sen6x)) \([Docs](https://docs.circuitpython.org/projects/sen6x/en/latest/))
 * [Adafruit CircuitPython SGP30](https://github.com/adafruit/Adafruit_CircuitPython_SGP30.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sgp30)) \([Docs](https://docs.circuitpython.org/projects/sgp30/en/latest/))
 * [Adafruit CircuitPython SGP40](https://github.com/adafruit/Adafruit_CircuitPython_SGP40.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sgp40)) \([Docs](https://docs.circuitpython.org/projects/sgp40/en/latest/))
 * [Adafruit CircuitPython SHT31D](https://github.com/adafruit/Adafruit_CircuitPython_SHT31D.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sht31d)) \([Docs](https://docs.circuitpython.org/projects/sht31d/en/latest/))
