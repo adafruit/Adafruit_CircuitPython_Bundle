@@ -1091,3 +1091,6 @@
 [submodule "libraries/drivers/sen6x"]
 	path = libraries/drivers/sen6x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SEN6x.git
+[submodule "libraries/drivers/ina23x"]
+	path = libraries/drivers/ina23x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_INA23x.git
