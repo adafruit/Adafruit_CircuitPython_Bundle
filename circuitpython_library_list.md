@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 363 libraries available.
+There are 364 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -90,6 +90,7 @@ There are 363 libraries available.
 * [Adafruit CircuitPython ILI9341](https://github.com/adafruit/Adafruit_CircuitPython_ILI9341.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ili9341)) \([Docs](https://docs.circuitpython.org/projects/ili9341/en/latest/))
 * [Adafruit CircuitPython INA219](https://github.com/adafruit/Adafruit_CircuitPython_INA219.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ina219)) \([Docs](https://docs.circuitpython.org/projects/ina219/en/latest/))
 * [Adafruit CircuitPython INA228](https://github.com/adafruit/Adafruit_CircuitPython_INA228.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ina228)) \([Docs](https://docs.circuitpython.org/projects/ina228/en/latest/))
+* [Adafruit CircuitPython INA23x](https://github.com/adafruit/Adafruit_CircuitPython_INA23x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ina23x)) \([Docs](https://docs.circuitpython.org/projects/ina23x/en/latest/))
 * [Adafruit CircuitPython INA260](https://github.com/adafruit/Adafruit_CircuitPython_INA260.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ina260)) \([Docs](https://docs.circuitpython.org/projects/ina260/en/latest/))
 * [Adafruit CircuitPython INA3221](https://github.com/adafruit/Adafruit_CircuitPython_INA3221.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ina3221)) \([Docs](https://docs.circuitpython.org/projects/ina3221/en/latest/))
 * [Adafruit CircuitPython IRRemote](https://github.com/adafruit/Adafruit_CircuitPython_IRRemote.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-irremote)) \([Docs](https://docs.circuitpython.org/projects/irremote/en/latest/))
