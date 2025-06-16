@@ -101,6 +101,7 @@ Helpers for driving motors, servos, and steppers.
     EMC2101 Fan Controller and Temperature monitor (adafruit_emc2101) <https://docs.circuitpython.org/projects/emc2101/en/latest/>
     MotorKit (adafruit_motorkit) <https://docs.circuitpython.org/projects/motorkit/en/latest/>
     ServoKit (adafruit_servokit) <https://docs.circuitpython.org/projects/servokit/en/latest/>
+    STSPIN Stepper Motor Helper (adafruit_stspin) <https://docs.circuitpython.org/projects/stspin/en/latest/>
 
 Internet of Things Web Service Helpers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

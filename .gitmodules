@@ -1094,3 +1094,6 @@
 [submodule "libraries/drivers/ina23x"]
 	path = libraries/drivers/ina23x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_INA23x.git
+[submodule "libraries/helpers/stspin"]
+	path = libraries/helpers/stspin
+	url = https://github.com/adafruit/Adafruit_CircuitPython_STSPIN.git
