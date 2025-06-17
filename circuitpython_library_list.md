@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 364 libraries available.
+There are 365 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -346,6 +346,7 @@ There are 364 libraries available.
 * [Adafruit CircuitPython Radial Controller](https://github.com/adafruit/Adafruit_CircuitPython_Radial_Controller.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-radial-controller)) \([Docs](https://docs.circuitpython.org/projects/radial_controller/en/latest/))
 * [Adafruit CircuitPython Register](https://github.com/adafruit/Adafruit_CircuitPython_Register.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-register)) \([Docs](https://docs.circuitpython.org/projects/register/en/latest/))
 * [Adafruit CircuitPython Requests](https://github.com/adafruit/Adafruit_CircuitPython_Requests.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-requests)) \([Docs](https://docs.circuitpython.org/projects/requests/en/latest/))
+* [Adafruit CircuitPython STSPIN](https://github.com/adafruit/Adafruit_CircuitPython_STSPIN.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-stspin)) \([Docs](https://docs.circuitpython.org/projects/stspin/en/latest/))
 * [Adafruit CircuitPython ServoKit](https://github.com/adafruit/Adafruit_CircuitPython_ServoKit.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-servokit)) \([Docs](https://docs.circuitpython.org/projects/servokit/en/latest/))
 * [Adafruit CircuitPython Simple Text Display](https://github.com/adafruit/Adafruit_CircuitPython_Simple_Text_Display.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-simple-text-display)) \([Docs](https://docs.circuitpython.org/projects/simple-text-display/en/latest/))
 * [Adafruit CircuitPython SimpleIO](https://github.com/adafruit/Adafruit_CircuitPython_SimpleIO.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-simpleio)) \([Docs](https://docs.circuitpython.org/projects/simpleio/en/latest/))
