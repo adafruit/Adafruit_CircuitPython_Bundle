@@ -1097,3 +1097,6 @@
 [submodule "libraries/helpers/stspin"]
 	path = libraries/helpers/stspin
 	url = https://github.com/adafruit/Adafruit_CircuitPython_STSPIN.git
+[submodule "libraries/helpers/color_terminal"]
+	path = libraries/helpers/color_terminal
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Color_Terminal.git
