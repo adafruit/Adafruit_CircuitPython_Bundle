@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 365 libraries available.
+There are 366 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -280,6 +280,7 @@ There are 365 libraries available.
 * [Adafruit CircuitPython BluefruitConnect](https://github.com/adafruit/Adafruit_CircuitPython_BluefruitConnect.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bluefruitconnect)) \([Docs](https://docs.circuitpython.org/projects/bluefruitconnect/en/latest/))
 * [Adafruit CircuitPython BoardTest](https://github.com/adafruit/Adafruit_CircuitPython_BoardTest.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-boardtest)) \([Docs](https://docs.circuitpython.org/projects/boardtest/en/latest/))
 * [Adafruit CircuitPython BusDevice](https://github.com/adafruit/Adafruit_CircuitPython_BusDevice.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-busdevice)) \([Docs](https://docs.circuitpython.org/projects/busdevice/en/latest/))
+* [Adafruit CircuitPython Color Terminal](https://github.com/adafruit/Adafruit_CircuitPython_Color_Terminal.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-color-terminal)) \([Docs](https://docs.circuitpython.org/projects/color_terminal/en/latest/))
 * [Adafruit CircuitPython Colorsys](https://github.com/adafruit/Adafruit_CircuitPython_Colorsys.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-colorsys)) \([Docs](https://docs.circuitpython.org/projects/colorsys/en/latest/))
 * [Adafruit CircuitPython ConnectionManager](https://github.com/adafruit/Adafruit_CircuitPython_ConnectionManager.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-connectionmanager)) \([Docs](https://docs.circuitpython.org/projects/connectionmanager/en/latest/))
 * [Adafruit CircuitPython CursorControl](https://github.com/adafruit/Adafruit_CircuitPython_CursorControl.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-cursorcontrol)) \([Docs](https://docs.circuitpython.org/projects/cursorcontrol/en/latest/))
