@@ -1100,3 +1100,6 @@
 [submodule "libraries/helpers/color_terminal"]
 	path = libraries/helpers/color_terminal
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Color_Terminal.git
+[submodule "libraries/drivers/as5600"]
+	path = libraries/drivers/as5600
+	url = https://github.com/adafruit/Adafruit_CircuitPython_AS5600.git
