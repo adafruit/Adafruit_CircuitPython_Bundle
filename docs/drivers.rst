@@ -355,6 +355,7 @@ Motion relating sensing including ``acceleration``, ``magnetic``, ``gyro``, and 
 
     ADXL34x 3 Axis Accelerometer (adafruit_adxl34x) <https://docs.circuitpython.org/projects/adxl34x/en/latest/>
     ADXL37x 3 Axis Accelerometer (adafruit_adxl37x) <https://docs.circuitpython.org/projects/adxl37x/en/latest/>
+    AS5600 Magnetic Angle Sensor (adafruit_as5600) <https://docs.circuitpython.org/projects/as5600/en/latest/>
     BNO055 Accelerometer, Magnetometer, Gyroscope and Absolution Orientation (adafruit_bno055) <https://docs.circuitpython.org/projects/bno055/en/latest/>
     BNO08X  9 Axis Sensor Fusion IMU (adafruit_bno08x) <https://docs.circuitpython.org/projects/bno08x/en/latest/>
     BNO08X_RVC Simple UART Heading Library (adafruit_bno08x_rvc) <https://docs.circuitpython.org/projects/bno08x_rvc/en/latest/>
