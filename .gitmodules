@@ -1103,3 +1103,6 @@
 [submodule "libraries/drivers/as5600"]
 	path = libraries/drivers/as5600
 	url = https://github.com/adafruit/Adafruit_CircuitPython_AS5600.git
+[submodule "libraries/helpers/dang"]
+	path = libraries/helpers/dang
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Dang.git

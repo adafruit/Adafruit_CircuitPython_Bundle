@@ -217,6 +217,7 @@ Miscellaneous Helpers
     Board Test Suite (adafruit_boardtest) <https://docs.circuitpython.org/projects/boardtest/en/latest/>
     Colorsys (colorsys) <https://docs.circuitpython.org/projects/colorsys/en/latest/>
     Color Terminal (color_terminal) <https://docs.circuitpython.org/projects/color_terminal/en/latest/>
+    Dang (dang) <https://docs.circuitpython.org/projects/dang/en/latest/>
     Debouncer (adafruit_debouncer) <https://docs.circuitpython.org/projects/debouncer/en/latest/>
     Debug I2C (adafruit_debug_i2c) <https://docs.circuitpython.org/projects/debug_i2c/en/latest/>
     Ducky (adafruit_ducky) <https://docs.circuitpython.org/projects/ducky/en/latest/>
