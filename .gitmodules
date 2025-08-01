@@ -1106,3 +1106,6 @@
 [submodule "libraries/helpers/dang"]
 	path = libraries/helpers/dang
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Dang.git
+[submodule "libraries/drivers/jd79661"]
+	path = libraries/drivers/jd79661
+	url = https://github.com/adafruit/Adafruit_CircuitPython_JD79661.git
