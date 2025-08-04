@@ -310,6 +310,7 @@ E-Paper / E-Ink
     IL0373 (displayio) (adafruit_il0373) <https://docs.circuitpython.org/projects/il0373/en/latest/>
     IL0398 (displayio) (adafruit_il0398) <https://docs.circuitpython.org/projects/il0398/en/latest/>
     IL91874 (displayio) (adafruit_il91874) <https://docs.circuitpython.org/projects/il91874/en/latest/>
+    JD79661 (displayio) (adafruit_jd79661) <https://docs.circuitpython.org/projects/jd79661/en/latest/>
     SPD1656 (displayio) (adafruit_spd1656) <https://docs.circuitpython.org/projects/spd1656/en/latest/>
     SSD1608 (displayio) (adafruit_ssd1608) <https://docs.circuitpython.org/projects/ssd1608/en/latest/>
     SSD1675 (displayio) (adafruit_ssd1675) <https://docs.circuitpython.org/projects/ssd1675/en/latest/>
