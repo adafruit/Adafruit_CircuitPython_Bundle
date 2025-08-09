@@ -1109,3 +1109,6 @@
 [submodule "libraries/drivers/jd79661"]
 	path = libraries/drivers/jd79661
 	url = https://github.com/adafruit/Adafruit_CircuitPython_JD79661.git
+[submodule "libraries/drivers/qmc5883p"]
+	path = libraries/drivers/qmc5883p
+	url = https://github.com/adafruit/Adafruit_CircuitPython_QMC5883P.git
