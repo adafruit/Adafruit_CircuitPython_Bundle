@@ -1112,3 +1112,6 @@
 [submodule "libraries/drivers/qmc5883p"]
 	path = libraries/drivers/qmc5883p
 	url = https://github.com/adafruit/Adafruit_CircuitPython_QMC5883P.git
+[submodule "libraries/drivers/uc8253"]
+	path = libraries/drivers/uc8253
+	url = https://github.com/adafruit/Adafruit_CircuitPython_UC8253.git
