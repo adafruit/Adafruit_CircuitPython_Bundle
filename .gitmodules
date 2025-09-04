@@ -1118,6 +1118,3 @@
 [submodule "libraries/drivers/mlx90632"]
 	path = libraries/drivers/mlx90632
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MLX90632.git
-[submodule "libraries/drivers/bmp5xx"]
-	path = libraries/drivers/bmp5xx
-	url = https://github.com/adafruit/Adafruit_CircuitPython_BMP5xx.git

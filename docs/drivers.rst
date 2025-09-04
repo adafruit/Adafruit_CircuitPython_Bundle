@@ -403,7 +403,6 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     BME680 Temperature, Humidity, Pressure and Gas (adafruit_bme680) <https://docs.circuitpython.org/projects/bme680/en/latest/>
     BMP280 Barometric Pressure and Altitude (adafruit_bmp280) <https://docs.circuitpython.org/projects/bmp280/en/latest/>
     BMP3xx Barometric Pressure and Altimeter (adafruit_bmp3xx) <https://docs.circuitpython.org/projects/bmp3xx/en/latest/>
-    BMP5xx Barometric Pressure and Altimeter (adafruit_bmp5xx) <https://docs.circuitpython.org/projects/bmp5xx/en/latest/>
     CCS811 Air Quality (adafruit_ccs811) <https://docs.circuitpython.org/projects/ccs811/en/latest/>
     DHT Temperature and Humidity (adafruit_dht) <https://docs.circuitpython.org/projects/dht/en/latest/>
     DPS310 Precision Barometric Pressure / Altitude Sensor (adafruit_dps310) <https://docs.circuitpython.org/projects/dps310/en/latest/>
