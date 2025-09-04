@@ -1115,3 +1115,6 @@
 [submodule "libraries/drivers/uc8253"]
 	path = libraries/drivers/uc8253
 	url = https://github.com/adafruit/Adafruit_CircuitPython_UC8253.git
+[submodule "libraries/drivers/mlx90632"]
+	path = libraries/drivers/mlx90632
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MLX90632.git

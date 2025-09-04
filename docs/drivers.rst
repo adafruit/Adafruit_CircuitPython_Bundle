@@ -422,6 +422,7 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     MCP9600 Thermocouple Amplifier (adafruit_mcp9600) <https://docs.circuitpython.org/projects/mcp9600/en/latest/>
     MCP9808 Temperature (adafruit_mcp9808) <https://docs.circuitpython.org/projects/mcp9808/en/latest/>
     MLX90614 Contactless Temperature (adafruit_mlx90614) <https://docs.circuitpython.org/projects/mlx90614/en/latest/>
+    MLX90632 FIR Remote Thermal Temperature Sensor (adafruit_mlx90632) <https://docs.circuitpython.org/projects/mlx90632/en/latest/>
     MPL115A2 Barometric Pressure, Temperature (adafruit_mpl115a2) <https://docs.circuitpython.org/projects/mpl115a2/en/latest/>
     MPL3115A2 Barometric Pressure, Altitude and Temperature Sensor (adafruit_mpl3115a2) <https://docs.circuitpython.org/projects/mpl3115a2/en/latest/>
     MPRLS Ported Absolute Pressure (adafruit_mprls) <https://docs.circuitpython.org/projects/mprls/en/latest/>
