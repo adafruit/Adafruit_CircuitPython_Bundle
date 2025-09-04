@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 371 libraries available.
+There are 373 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -30,6 +30,7 @@ There are 371 libraries available.
 * [Adafruit CircuitPython BME680](https://github.com/adafruit/Adafruit_CircuitPython_BME680.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bme680)) \([Docs](https://docs.circuitpython.org/projects/bme680/en/latest/))
 * [Adafruit CircuitPython BMP280](https://github.com/adafruit/Adafruit_CircuitPython_BMP280.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bmp280)) \([Docs](https://docs.circuitpython.org/projects/bmp280/en/latest/))
 * [Adafruit CircuitPython BMP3XX](https://github.com/adafruit/Adafruit_CircuitPython_BMP3XX.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bmp3xx)) \([Docs](https://docs.circuitpython.org/projects/bmp3xx/en/latest/))
+* [Adafruit CircuitPython BMP5xx](https://github.com/adafruit/Adafruit_CircuitPython_BMP5xx.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bmp5xx)) \([Docs](https://docs.circuitpython.org/projects/bmp5xx/en/latest/))
 * [Adafruit CircuitPython BNO055](https://github.com/adafruit/Adafruit_CircuitPython_BNO055.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bno055)) \([Docs](https://docs.circuitpython.org/projects/bno055/en/latest/))
 * [Adafruit CircuitPython BNO08X RVC](https://github.com/adafruit/Adafruit_CircuitPython_BNO08X_RVC.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bno08x-rvc)) \([Docs](https://docs.circuitpython.org/projects/bno08x_rvc/en/latest/))
 * [Adafruit CircuitPython BNO08X](https://github.com/adafruit/Adafruit_CircuitPython_BNO08X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bno08x)) \([Docs](https://docs.circuitpython.org/projects/bno08x/en/latest/))
@@ -132,6 +133,7 @@ There are 371 libraries available.
 * [Adafruit CircuitPython MLX90393](https://github.com/adafruit/Adafruit_CircuitPython_MLX90393.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mlx90393)) \([Docs](https://docs.circuitpython.org/projects/mlx90393/en/latest/))
 * [Adafruit CircuitPython MLX90395](https://github.com/adafruit/Adafruit_CircuitPython_MLX90395.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mlx90395)) \([Docs](https://docs.circuitpython.org/projects/mlx90395/en/latest/))
 * [Adafruit CircuitPython MLX90614](https://github.com/adafruit/Adafruit_CircuitPython_MLX90614.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mlx90614)) \([Docs](https://docs.circuitpython.org/projects/mlx90614/en/latest/))
+* [Adafruit CircuitPython MLX90632](https://github.com/adafruit/Adafruit_CircuitPython_MLX90632.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mlx90632)) \([Docs](https://docs.circuitpython.org/projects/mlx90632/en/latest/))
 * [Adafruit CircuitPython MLX90640](https://github.com/adafruit/Adafruit_CircuitPython_MLX90640.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mlx90640)) \([Docs](https://docs.circuitpython.org/projects/mlx90640/en/latest/))
 * [Adafruit CircuitPython MMA8451](https://github.com/adafruit/Adafruit_CircuitPython_MMA8451.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mma8451)) \([Docs](https://docs.circuitpython.org/projects/mma8451/en/latest/))
 * [Adafruit CircuitPython MMC56x3](https://github.com/adafruit/Adafruit_CircuitPython_MMC56x3.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mmc56x3)) \([Docs](https://docs.circuitpython.org/projects/mmc56x3/en/latest/))
