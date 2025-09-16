@@ -1121,3 +1121,6 @@
 [submodule "libraries/drivers/bmp5xx"]
 	path = libraries/drivers/bmp5xx
 	url = https://github.com/adafruit/Adafruit_CircuitPython_BMP5xx.git
+[submodule "libraries/drivers/uc8179"]
+	path = libraries/drivers/uc8179
+	url = https://github.com/adafruit/Adafruit_CircuitPython_UC8179.git
