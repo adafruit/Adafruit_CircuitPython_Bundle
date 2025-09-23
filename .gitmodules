@@ -1124,3 +1124,6 @@
 [submodule "libraries/drivers/uc8179"]
 	path = libraries/drivers/uc8179
 	url = https://github.com/adafruit/Adafruit_CircuitPython_UC8179.git
+[submodule "libraries/drivers/spa06_003"]
+	path = libraries/drivers/spa06_003
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SPA06_003.git
