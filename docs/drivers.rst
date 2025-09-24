@@ -439,6 +439,7 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     SHT4x Temperature and Humidity (adafruit_sht4x) <https://docs.circuitpython.org/projects/sht4x/en/latest/>
     SHTC3 Temperature and Humidity (adafruit_shtc3) <https://docs.circuitpython.org/projects/shtc3/en/latest/>
     Si7021 Temperature and Humidity (adafruit_si7021) <https://docs.circuitpython.org/projects/si7021/en/latest/>
+    SPA06-003 Temperature and Pressure (adafruit_spa06_003) <https://docs.circuitpython.org/projects/spa06_003/en/latest/>
     TC74 Digital Temperature Sensor (adafruit_tc74) <https://docs.circuitpython.org/projects/tc74/en/latest/>
     TMP006 Contactless IR Thermopile Sensor (adafruit_tmp006) <https://docs.circuitpython.org/projects/tmp006/en/latest/>
     TMP007 Contactless Temperature (adafruit_tmp007) <https://docs.circuitpython.org/projects/tmp007/en/latest/>
