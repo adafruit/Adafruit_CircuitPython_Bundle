@@ -1127,3 +1127,6 @@
 [submodule "libraries/drivers/spa06_003"]
 	path = libraries/drivers/spa06_003
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SPA06_003.git
+[submodule "libraries/drivers/pcm51xx"]
+	path = libraries/drivers/pcm51xx
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PCM51xx.git
