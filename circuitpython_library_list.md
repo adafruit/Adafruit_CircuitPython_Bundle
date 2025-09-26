@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 375 libraries available.
+There are 376 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -163,6 +163,7 @@ There are 375 libraries available.
 * [Adafruit CircuitPython PCF8574](https://github.com/adafruit/Adafruit_CircuitPython_PCF8574.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pcf8574)) \([Docs](https://docs.circuitpython.org/projects/pcf8574/en/latest/))
 * [Adafruit CircuitPython PCF8575](https://github.com/adafruit/Adafruit_CircuitPython_PCF8575.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pcf8575)) \([Docs](https://docs.circuitpython.org/projects/pcf8575/en/latest/))
 * [Adafruit CircuitPython PCF8591](https://github.com/adafruit/Adafruit_CircuitPython_PCF8591.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pcf8591)) \([Docs](https://docs.circuitpython.org/projects/pcf8591/en/latest/))
+* [Adafruit CircuitPython PCM51xx](https://github.com/adafruit/Adafruit_CircuitPython_PCM51xx.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pcm51xx)) \([Docs](https://docs.circuitpython.org/projects/pcm51xx/en/latest/))
 * [Adafruit CircuitPython PCT2075](https://github.com/adafruit/Adafruit_CircuitPython_PCT2075.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pct2075)) \([Docs](https://docs.circuitpython.org/projects/pct2075/en/latest/))
 * [Adafruit CircuitPython PM25](https://github.com/adafruit/Adafruit_CircuitPython_PM25.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pm25)) \([Docs](https://docs.circuitpython.org/projects/pm25/en/latest/))
 * [Adafruit CircuitPython PN532](https://github.com/adafruit/Adafruit_CircuitPython_PN532.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pn532)) \([Docs](https://docs.circuitpython.org/projects/pn532/en/latest/))
