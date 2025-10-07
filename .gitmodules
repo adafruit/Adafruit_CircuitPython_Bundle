@@ -1130,9 +1130,9 @@
 [submodule "libraries/drivers/pcm51xx"]
 	path = libraries/drivers/pcm51xx
 	url = https://github.com/adafruit/Adafruit_CircuitPython_PCM51xx.git
-[submodule "libraries/driver/jd79667"]
-	path = libraries/driver/jd79667
+[submodule "libraries/drivers/jd79667"]
+	path = libraries/drivers/jd79667
 	url = https://github.com/adafruit/Adafruit_CircuitPython_JD79667.git
-[submodule "libraries/driver/ssd1683"]
-	path = libraries/driver/ssd1683
+[submodule "libraries/drivers/ssd1683"]
+	path = libraries/drivers/ssd1683
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1683.git
