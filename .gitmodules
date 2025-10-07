@@ -1133,3 +1133,6 @@
 [submodule "libraries/driver/jd79667"]
 	path = libraries/driver/jd79667
 	url = https://github.com/adafruit/Adafruit_CircuitPython_JD79667.git
+[submodule "libraries/driver/ssd1683"]
+	path = libraries/driver/ssd1683
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1683.git
