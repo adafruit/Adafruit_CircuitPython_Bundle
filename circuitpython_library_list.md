@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 376 libraries available.
+There are 378 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -99,6 +99,7 @@ There are 376 libraries available.
 * [Adafruit CircuitPython IS31FL3731](https://github.com/adafruit/Adafruit_CircuitPython_IS31FL3731.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-is31fl3731)) \([Docs](https://docs.circuitpython.org/projects/is31fl3731/en/latest/))
 * [Adafruit CircuitPython IS31FL3741](https://github.com/adafruit/Adafruit_CircuitPython_IS31FL3741.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-is31fl3741)) \([Docs](https://docs.circuitpython.org/projects/is31fl3741/en/latest/))
 * [Adafruit CircuitPython JD79661](https://github.com/adafruit/Adafruit_CircuitPython_JD79661.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-jd79661)) \([Docs](https://docs.circuitpython.org/projects/jd79661/en/latest/))
+* [Adafruit CircuitPython JD79667](https://github.com/adafruit/Adafruit_CircuitPython_JD79667.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-jd79667)) \([Docs](https://docs.circuitpython.org/projects/jd79667/en/latest/))
 * [Adafruit CircuitPython L3GD20](https://github.com/adafruit/Adafruit_CircuitPython_L3GD20.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-l3gd20)) \([Docs](https://docs.circuitpython.org/projects/l3gd20/en/latest/))
 * [Adafruit CircuitPython LC709203F](https://github.com/adafruit/Adafruit_CircuitPython_LC709203F.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lc709203f)) \([Docs](https://docs.circuitpython.org/projects/lc709203f/en/latest/))
 * [Adafruit CircuitPython LIDARLite](https://github.com/adafruit/Adafruit_CircuitPython_LIDARLite.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lidarlite)) \([Docs](https://docs.circuitpython.org/projects/lidarlite/en/latest/))
@@ -204,6 +205,7 @@ There are 376 libraries available.
 * [Adafruit CircuitPython SSD1675](https://github.com/adafruit/Adafruit_CircuitPython_SSD1675.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1675)) \([Docs](https://docs.circuitpython.org/projects/ssd1675/en/latest/))
 * [Adafruit CircuitPython SSD1680](https://github.com/adafruit/Adafruit_CircuitPython_SSD1680.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1680)) \([Docs](https://docs.circuitpython.org/projects/ssd1680/en/latest/))
 * [Adafruit CircuitPython SSD1681](https://github.com/adafruit/Adafruit_CircuitPython_SSD1681.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1681)) \([Docs](https://docs.circuitpython.org/projects/ssd1681/en/latest/))
+* [Adafruit CircuitPython SSD1683](https://github.com/adafruit/Adafruit_CircuitPython_SSD1683.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1683)) \([Docs](https://docs.circuitpython.org/projects/ssd1683/en/latest/))
 * [Adafruit CircuitPython ST7565](https://github.com/adafruit/Adafruit_CircuitPython_ST7565.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-st7565)) \([Docs](https://docs.circuitpython.org/projects/st7565/en/latest/))
 * [Adafruit CircuitPython ST7735R](https://github.com/adafruit/Adafruit_CircuitPython_ST7735R.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-st7735r)) \([Docs](https://docs.circuitpython.org/projects/st7735r/en/latest/))
 * [Adafruit CircuitPython ST7735](https://github.com/adafruit/Adafruit_CircuitPython_ST7735.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-st7735)) \([Docs](https://docs.circuitpython.org/projects/st7735/en/latest/))
