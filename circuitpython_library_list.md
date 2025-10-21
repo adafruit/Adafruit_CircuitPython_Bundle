@@ -258,7 +258,7 @@ There are 378 libraries available.
 * [Adafruit CircuitPython Wii Classic](https://github.com/adafruit/Adafruit_CircuitPython_Wii_Classic.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wii-classic)) \([Docs](https://docs.circuitpython.org/projects/wii_classic/en/latest/))
 * [Adafruit CircuitPython Wiznet5k](https://github.com/adafruit/Adafruit_CircuitPython_Wiznet5k.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wiznet5k)) \([Docs](https://docs.circuitpython.org/projects/wiznet5k/en/latest/))
 * [Adafruit CircuitPython floppy](https://github.com/adafruit/Adafruit_CircuitPython_floppy.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-floppy)) \([Docs](https://docs.circuitpython.org/projects/floppy/en/latest/))
-* [CircuitPython NAU7802](https://github.com/adafruit/CircuitPython_NAU7802.git)
+* [CircuitPython NAU7802](https://github.com/adafruit/CircuitPython_NAU7802.git) \([Docs](https://docs.circuitpython.org/projects/nau7802/en/latest/))
 
 ## Helpers:
 * [Adafruit CircuitPython AVRprog](https://github.com/adafruit/Adafruit_CircuitPython_AVRprog.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-avrprog)) \([Docs](https://docs.circuitpython.org/projects/avrprog/en/latest/))
