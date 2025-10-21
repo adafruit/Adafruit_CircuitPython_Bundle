@@ -386,6 +386,7 @@ Motion relating sensing including ``acceleration``, ``magnetic``, ``gyro``, and 
     MMC56X3 Magnetometers (adafruit_mmc56x3) <https://docs.circuitpython.org/projects/mmc56x3/en/latest/>
     MPU6050 Accelerometer, Gyroscope, and Temperature Sensor (adafruit_mpu6050) <https://docs.circuitpython.org/projects/mpu6050/en/latest/>
     MSA301 3 Axis Accelerometer (adafruit_msa301) <https://docs.circuitpython.org/projects/msa301/en/latest/>
+    STHS34PF80 IR Presence / Motion Sensor (adafruit_sths34pf80) <https://docs.circuitpython.org/projects/sths34pf80/en/latest/>
     TLV493D 3 Axis Magnetometer (adafruit_tlv493d) <https://docs.circuitpython.org/projects/tlv493d/en/latest/>
 
 Environmental Sensors
