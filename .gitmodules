@@ -1136,3 +1136,6 @@
 [submodule "libraries/drivers/ssd1683"]
 	path = libraries/drivers/ssd1683
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1683.git
+[submodule "libraries/drivers/sths34pf80"]
+	path = libraries/drivers/sths34pf80
+	url = https://github.com/adafruit/Adafruit_CircuitPython_STHS34PF80.git
