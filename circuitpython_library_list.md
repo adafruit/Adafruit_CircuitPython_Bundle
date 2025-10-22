@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 378 libraries available.
+There are 379 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -210,6 +210,7 @@ There are 378 libraries available.
 * [Adafruit CircuitPython ST7735R](https://github.com/adafruit/Adafruit_CircuitPython_ST7735R.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-st7735r)) \([Docs](https://docs.circuitpython.org/projects/st7735r/en/latest/))
 * [Adafruit CircuitPython ST7735](https://github.com/adafruit/Adafruit_CircuitPython_ST7735.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-st7735)) \([Docs](https://docs.circuitpython.org/projects/st7735/en/latest/))
 * [Adafruit CircuitPython ST7789](https://github.com/adafruit/Adafruit_CircuitPython_ST7789.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-st7789)) \([Docs](https://docs.circuitpython.org/projects/st7789/en/latest/))
+* [Adafruit CircuitPython STHS34PF80](https://github.com/adafruit/Adafruit_CircuitPython_STHS34PF80.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sths34pf80)) \([Docs](https://docs.circuitpython.org/projects/sths34pf80/en/latest/))
 * [Adafruit CircuitPython STMPE610](https://github.com/adafruit/Adafruit_CircuitPython_STMPE610.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-stmpe610)) \([Docs](https://docs.circuitpython.org/projects/stmpe610/en/latest/))
 * [Adafruit CircuitPython Seesaw](https://github.com/adafruit/Adafruit_CircuitPython_Seesaw.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-seesaw)) \([Docs](https://docs.circuitpython.org/projects/seesaw/en/latest/))
 * [Adafruit CircuitPython SharpMemoryDisplay](https://github.com/adafruit/Adafruit_CircuitPython_SharpMemoryDisplay.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sharpmemorydisplay)) \([Docs](https://docs.circuitpython.org/projects/sharpmemorydisplay/en/latest/))
