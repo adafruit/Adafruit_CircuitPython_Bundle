@@ -67,9 +67,10 @@ Helpers for building graphical interfaces using the displayio core module and fr
 
     Anchored Group (adafruit_anchored_group) <https://docs.circuitpython.org/projects/anchored_group/en/latest/>
     Anchored TileGrid (adafruit_anchored_tilegrid) <https://docs.circuitpython.org/projects/anchored_tilegrid/en/latest/>
-    Cursor Control (adafruit_cursorcontrol) <https://docs.circuitpython.org/projects/cursorcontrol/en/latest/>
     Bitmap Font (adafruit_bitmap-font) <https://docs.circuitpython.org/projects/bitmap-font/en/latest/>
     Bitmap Saver (adafruit_bitmapsaver) <https://docs.circuitpython.org/projects/bitmapsaver/en/latest/>
+    CheckBox (adafruit_checkbox) <https://docs.circuitpython.org/projects/checkbox/en/latest/>
+    Cursor Control (adafruit_cursorcontrol) <https://docs.circuitpython.org/projects/cursorcontrol/en/latest/>
     Display AnalogClock (adafruit_display_analogclock) <https://docs.circuitpython.org/projects/display-analogclock/en/latest/>
     Display Button (adafruit_display-button) <https://docs.circuitpython.org/projects/display-button/en/latest//>
     Display Emoji Text (adafruit_display_emoji_text) <https://docs.circuitpython.org/projects/display_emoji_text/en/latest/>
