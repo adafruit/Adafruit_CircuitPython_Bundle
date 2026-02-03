@@ -1142,3 +1142,6 @@
 [submodule "libraries/helpers/checkbox"]
 	path = libraries/helpers/checkbox
 	url = https://github.com/adafruit/Adafruit_CircuitPython_CheckBox.git
+[submodule "libraries/helpers/yotoplayer"]
+	path = libraries/helpers/yotoplayer
+	url = https://github.com/adafruit/Adafruit_CircuitPython_YotoPlayer.git
