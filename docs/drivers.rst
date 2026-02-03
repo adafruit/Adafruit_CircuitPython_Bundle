@@ -41,6 +41,7 @@ specific boards.
     Adafruit Qualia S3 (adafruit_qualia) <https://docs.circuitpython.org/projects/qualia/en/latest/>
     PyBadger (PyBadge and PyGamer) (adafruit_pybadger) <https://docs.circuitpython.org/projects/pybadger/en/latest/>
     MatrixPortal (Metro M4 Airlift + RGB Shield) (adafruit_matrixportal) <https://docs.circuitpython.org/projects/matrixportal/en/latest/>
+    YotoPlayer (adafruit_yotoplayer) <https://docs.circuitpython.org/projects/yotoplayer/en/latest/>
 
 Helper Libraries
 -----------------
