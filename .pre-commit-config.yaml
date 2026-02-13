@@ -8,11 +8,11 @@ repos:
     hooks:
     - id: black
 -   repo: https://github.com/fsfe/reuse-tool
-    rev: v1.1.2
+    rev: v3.0.1
     hooks:
     - id: reuse
 -   repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v3.0.1
+    rev: v2.3.0
     hooks:
     -   id: check-yaml
     -   id: end-of-file-fixer
