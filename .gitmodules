@@ -1145,3 +1145,6 @@
 [submodule "libraries/helpers/yotoplayer"]
 	path = libraries/helpers/yotoplayer
 	url = https://github.com/adafruit/Adafruit_CircuitPython_YotoPlayer.git
+[submodule "libraries/drivers/sgp41"]
+	path = libraries/drivers/sgp41
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SGP41.git

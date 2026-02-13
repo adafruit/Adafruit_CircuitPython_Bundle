@@ -423,6 +423,7 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     LPS28 Pressure Sensor (adafruit_lps28) <https://docs.circuitpython.org/projects/lps28/en/latest/>
     LPS35HW Water Resistant Barometric Pressure, Temperature (adafruit_lps35hw) <https://docs.circuitpython.org/projects/lps35hw/en/latest/>
     SGP40 Air Quality Sensor (adafruit_sgp40) <https://docs.circuitpython.org/projects/sgp40/en/latest/>
+    SGP41 Multi-Pixel Gas Sensor (adafruit_sgp41) <https://docs.circuitpython.org/projects/sgp41/en/latest/>
     MAX31855 Thermocouple Amplifier, Temperature (adafruit_max31855) <https://docs.circuitpython.org/projects/max31855/en/latest/>
     MAX31856 Thermocouple Amplifier, Temperature (adafruit_max31856) <https://docs.circuitpython.org/projects/max31856/en/latest/>
     MAX31865 Thermocouple Amplifier, Temperature (adafruit_max31865) <https://docs.circuitpython.org/projects/max31865/en/latest/>
