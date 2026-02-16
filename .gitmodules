@@ -1148,3 +1148,6 @@
 [submodule "libraries/drivers/sgp41"]
 	path = libraries/drivers/sgp41
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SGP41.git
+[submodule "libraries/helpers/thingsboard_client_sdk"]
+	path = libraries/helpers/thingsboard_client_sdk
+	url = https://github.com/thingsboard/CircuitPython_thingsboard-client-sdk.git
