@@ -1148,3 +1148,6 @@
 [submodule "libraries/drivers/sgp41"]
 	path = libraries/drivers/sgp41
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SGP41.git
+[submodule "libraries/helpers/xteink_x4"]
+	path = libraries/helpers/xteink_x4
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Xteink_X4.git
