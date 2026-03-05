@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 382 libraries available.
+There are 383 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -378,6 +378,7 @@ There are 382 libraries available.
 * [Adafruit CircuitPython WSGI](https://github.com/adafruit/Adafruit_CircuitPython_WSGI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wsgi)) \([Docs](https://docs.circuitpython.org/projects/wsgi/en/latest/))
 * [Adafruit CircuitPython Waveform](https://github.com/adafruit/Adafruit_CircuitPython_Waveform.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-waveform)) \([Docs](https://docs.circuitpython.org/projects/waveform/en/latest/))
 * [Adafruit CircuitPython Wiz](https://github.com/adafruit/Adafruit_CircuitPython_Wiz.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wiz)) \([Docs](https://docs.circuitpython.org/projects/wiz/en/latest/))
+* [Adafruit CircuitPython Xteink X4](https://github.com/adafruit/Adafruit_CircuitPython_Xteink_X4.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-xteink-x4)) \([Docs](https://docs.circuitpython.org/projects/xteink_x4/en/latest/))
 * [Adafruit CircuitPython YotoPlayer](https://github.com/adafruit/Adafruit_CircuitPython_YotoPlayer.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-yotoplayer)) \([Docs](https://docs.circuitpython.org/projects/yotoplayer/en/latest/))
 * [Adafruit CircuitPython asyncio](https://github.com/adafruit/Adafruit_CircuitPython_asyncio.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-asyncio)) \([Docs](https://docs.circuitpython.org/projects/asyncio/en/latest/))
 * [Adafruit CircuitPython binascii](https://github.com/adafruit/Adafruit_CircuitPython_binascii.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-binascii)) \([Docs](https://docs.circuitpython.org/projects/binascii/en/latest/))
