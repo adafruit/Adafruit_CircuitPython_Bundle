@@ -1151,3 +1151,6 @@
 [submodule "libraries/helpers/xteink_x4"]
 	path = libraries/helpers/xteink_x4
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Xteink_X4.git
+[submodule "libraries/drivers/ssd1677"]
+	path = libraries/drivers/ssd1677
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1677.git

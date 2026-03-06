@@ -318,6 +318,7 @@ E-Paper / E-Ink
     SPD1656 (displayio) (adafruit_spd1656) <https://docs.circuitpython.org/projects/spd1656/en/latest/>
     SSD1608 (displayio) (adafruit_ssd1608) <https://docs.circuitpython.org/projects/ssd1608/en/latest/>
     SSD1675 (displayio) (adafruit_ssd1675) <https://docs.circuitpython.org/projects/ssd1675/en/latest/>
+    SSD1677 (displayio) (adafruit_ssd1677) <https://docs.circuitpython.org/projects/ssd1677/en/latest/>
     SSD1680 (displayio) (adafruit_ssd1680) <https://docs.circuitpython.org/projects/ssd1680/en/latest/>
     SSD1681 (displayio) (adafruit_ssd1681) <https://docs.circuitpython.org/projects/ssd1681/en/latest/>
     SSD1683 (displayio) (adafruit_ssd1683) <https://docs.circuitpython.org/projects/ssd1683/en/latest/>
