@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 383 libraries available.
+There are 384 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -204,6 +204,7 @@ There are 383 libraries available.
 * [Adafruit CircuitPython SSD1351](https://github.com/adafruit/Adafruit_CircuitPython_SSD1351.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1351)) \([Docs](https://docs.circuitpython.org/projects/ssd1351/en/latest/))
 * [Adafruit CircuitPython SSD1608](https://github.com/adafruit/Adafruit_CircuitPython_SSD1608.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1608)) \([Docs](https://docs.circuitpython.org/projects/ssd1608/en/latest/))
 * [Adafruit CircuitPython SSD1675](https://github.com/adafruit/Adafruit_CircuitPython_SSD1675.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1675)) \([Docs](https://docs.circuitpython.org/projects/ssd1675/en/latest/))
+* [Adafruit CircuitPython SSD1677](https://github.com/adafruit/Adafruit_CircuitPython_SSD1677.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1677)) \([Docs](https://docs.circuitpython.org/projects/ssd1677/en/latest/))
 * [Adafruit CircuitPython SSD1680](https://github.com/adafruit/Adafruit_CircuitPython_SSD1680.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1680)) \([Docs](https://docs.circuitpython.org/projects/ssd1680/en/latest/))
 * [Adafruit CircuitPython SSD1681](https://github.com/adafruit/Adafruit_CircuitPython_SSD1681.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1681)) \([Docs](https://docs.circuitpython.org/projects/ssd1681/en/latest/))
 * [Adafruit CircuitPython SSD1683](https://github.com/adafruit/Adafruit_CircuitPython_SSD1683.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ssd1683)) \([Docs](https://docs.circuitpython.org/projects/ssd1683/en/latest/))
