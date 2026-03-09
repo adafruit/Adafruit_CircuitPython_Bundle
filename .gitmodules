@@ -1154,3 +1154,6 @@
 [submodule "libraries/drivers/ssd1677"]
 	path = libraries/drivers/ssd1677
 	url = https://github.com/adafruit/Adafruit_CircuitPython_SSD1677.git
+[submodule "libraries/drivers/as7331"]
+	path = libraries/drivers/as7331
+	url = https://github.com/adafruit/Adafruit_CircuitPython_AS7331.git
