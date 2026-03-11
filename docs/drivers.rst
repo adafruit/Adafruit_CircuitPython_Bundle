@@ -466,6 +466,7 @@ These sensors detect light related attributes such as ``color``, ``light`` (unit
     AS726x Color Spectrum Sensor (adafruit_as726x) <https://docs.circuitpython.org/projects/as726x/en/latest/>
     AS7331 UV / UVA / UVB / UVC Sensor (adafruit_as7331) <https://docs.circuitpython.org/projects/as7331/en/latest/>
     AS7341 11-Channel Multi-Spectral Digital Sensor (adafruit_as7341) <https://docs.circuitpython.org/projects/as7341/en/latest/>
+    AS7343 14-Channel Multi-Spectral Digital Sensor (adafruit_as7343) <https://docs.circuitpython.org/projects/as7343/en/latest/>
     BH1750 Ambient Light (adafruit_bh1750) <https://docs.circuitpython.org/projects/bh1750/en/latest/>
     GUVx I2C UV Light Sensors (adafruit_guvx-i2c) <https://docs.circuitpython.org/projects/guvx-i2c/en/latest/>
     LTR329 LTR303 Light Sensors (adafruit_ltr329-ltr303) <https://docs.circuitpython.org/projects/ltr329-ltr303/en/latest/>
