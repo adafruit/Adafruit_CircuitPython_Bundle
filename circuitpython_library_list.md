@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 384 libraries available.
+There are 386 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -19,8 +19,10 @@ There are 384 libraries available.
 * [Adafruit CircuitPython AM2320](https://github.com/adafruit/Adafruit_CircuitPython_AM2320.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-am2320)) \([Docs](https://docs.circuitpython.org/projects/am2320/en/latest/))
 * [Adafruit CircuitPython AMG88xx](https://github.com/adafruit/Adafruit_CircuitPython_AMG88xx.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-amg88xx)) \([Docs](https://docs.circuitpython.org/projects/amg88xx/en/latest/))
 * [Adafruit CircuitPython APDS9960](https://github.com/adafruit/Adafruit_CircuitPython_APDS9960.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-apds9960)) \([Docs](https://docs.circuitpython.org/projects/apds9960/en/latest/))
+* [Adafruit CircuitPython APDS9999](https://github.com/adafruit/Adafruit_CircuitPython_APDS9999.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-apds9999)) \([Docs](https://docs.circuitpython.org/projects/apds9999/en/latest/))
 * [Adafruit CircuitPython AS5600](https://github.com/adafruit/Adafruit_CircuitPython_AS5600.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-as5600)) \([Docs](https://docs.circuitpython.org/projects/as5600/en/latest/))
 * [Adafruit CircuitPython AS726x](https://github.com/adafruit/Adafruit_CircuitPython_AS726x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-as726x)) \([Docs](https://docs.circuitpython.org/projects/as726x/en/latest/))
+* [Adafruit CircuitPython AS7331](https://github.com/adafruit/Adafruit_CircuitPython_AS7331.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-as7331)) \([Docs](https://docs.circuitpython.org/projects/as7331/en/latest/))
 * [Adafruit CircuitPython AS7341](https://github.com/adafruit/Adafruit_CircuitPython_AS7341.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-as7341)) \([Docs](https://docs.circuitpython.org/projects/as7341/en/latest/))
 * [Adafruit CircuitPython ATECC](https://github.com/adafruit/Adafruit_CircuitPython_ATECC.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-atecc)) \([Docs](https://docs.circuitpython.org/projects/atecc/en/latest/))
 * [Adafruit CircuitPython AW9523](https://github.com/adafruit/Adafruit_CircuitPython_AW9523.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-aw9523)) \([Docs](https://docs.circuitpython.org/projects/aw9523/en/latest/))

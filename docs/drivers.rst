@@ -463,6 +463,7 @@ These sensors detect light related attributes such as ``color``, ``light`` (unit
 .. toctree::
 
     APDS9960 Proximity, Light, RGB, and Gesture (adafruit_apds9960) <https://docs.circuitpython.org/projects/apds9960/en/latest/>
+    APDS9999 Proximity, Light, RGB, and IR  (adafruit_apds9999) <https://docs.circuitpython.org/projects/apds9999/en/latest/>
     AS726x Color Spectrum Sensor (adafruit_as726x) <https://docs.circuitpython.org/projects/as726x/en/latest/>
     AS7331 UV / UVA / UVB / UVC Sensor (adafruit_as7331) <https://docs.circuitpython.org/projects/as7331/en/latest/>
     AS7341 11-Channel Multi-Spectral Digital Sensor (adafruit_as7341) <https://docs.circuitpython.org/projects/as7341/en/latest/>
