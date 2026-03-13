@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 386 libraries available.
+There are 387 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -24,6 +24,7 @@ There are 386 libraries available.
 * [Adafruit CircuitPython AS726x](https://github.com/adafruit/Adafruit_CircuitPython_AS726x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-as726x)) \([Docs](https://docs.circuitpython.org/projects/as726x/en/latest/))
 * [Adafruit CircuitPython AS7331](https://github.com/adafruit/Adafruit_CircuitPython_AS7331.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-as7331)) \([Docs](https://docs.circuitpython.org/projects/as7331/en/latest/))
 * [Adafruit CircuitPython AS7341](https://github.com/adafruit/Adafruit_CircuitPython_AS7341.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-as7341)) \([Docs](https://docs.circuitpython.org/projects/as7341/en/latest/))
+* [Adafruit CircuitPython AS7343](https://github.com/adafruit/Adafruit_CircuitPython_AS7343.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-as7343)) \([Docs](https://docs.circuitpython.org/projects/as7343/en/latest/))
 * [Adafruit CircuitPython ATECC](https://github.com/adafruit/Adafruit_CircuitPython_ATECC.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-atecc)) \([Docs](https://docs.circuitpython.org/projects/atecc/en/latest/))
 * [Adafruit CircuitPython AW9523](https://github.com/adafruit/Adafruit_CircuitPython_AW9523.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-aw9523)) \([Docs](https://docs.circuitpython.org/projects/aw9523/en/latest/))
 * [Adafruit CircuitPython BD3491FS](https://github.com/adafruit/Adafruit_CircuitPython_BD3491FS.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-bd3491fs)) \([Docs](https://docs.circuitpython.org/projects/bd3491fs/en/latest/))
