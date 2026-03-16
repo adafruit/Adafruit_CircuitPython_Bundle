@@ -424,8 +424,6 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     LPS2X Family of Barometric Pressure, Temperature Sensors (adafruit_lps2x) <https://docs.circuitpython.org/projects/lps2x/en/latest/>
     LPS28 Pressure Sensor (adafruit_lps28) <https://docs.circuitpython.org/projects/lps28/en/latest/>
     LPS35HW Water Resistant Barometric Pressure, Temperature (adafruit_lps35hw) <https://docs.circuitpython.org/projects/lps35hw/en/latest/>
-    SGP40 Air Quality Sensor (adafruit_sgp40) <https://docs.circuitpython.org/projects/sgp40/en/latest/>
-    SGP41 Multi-Pixel Gas Sensor (adafruit_sgp41) <https://docs.circuitpython.org/projects/sgp41/en/latest/>
     MAX31855 Thermocouple Amplifier, Temperature (adafruit_max31855) <https://docs.circuitpython.org/projects/max31855/en/latest/>
     MAX31856 Thermocouple Amplifier, Temperature (adafruit_max31856) <https://docs.circuitpython.org/projects/max31856/en/latest/>
     MAX31865 Thermocouple Amplifier, Temperature (adafruit_max31865) <https://docs.circuitpython.org/projects/max31865/en/latest/>
@@ -443,10 +441,13 @@ equivalent carbon dioxide (``eco2`` / ``eCO2``), and total volatile organic comp
     SCD4x Temperature and Humidity Sensor (adafruit_scd4x) <https://docs.circuitpython.org/projects/scd4x/en/latest/>
     SEN6x Environmental Sensor (adafruit_sen6x) <https://docs.circuitpython.org/projects/sen6x/en/latest/>
     SGP30 Air Quality (adafruit_sgp30) <https://docs.circuitpython.org/projects/sgp30/en/latest/>
+    SGP40 Air Quality Sensor (adafruit_sgp40) <https://docs.circuitpython.org/projects/sgp40/en/latest/>
+    SGP41 Multi-Pixel Gas Sensor (adafruit_sgp41) <https://docs.circuitpython.org/projects/sgp41/en/latest/>
     SHT31-D Temperature and Humidity (adafruit_sht31d) <https://docs.circuitpython.org/projects/sht31d/en/latest/>
     SHT4x Temperature and Humidity (adafruit_sht4x) <https://docs.circuitpython.org/projects/sht4x/en/latest/>
     SHTC3 Temperature and Humidity (adafruit_shtc3) <https://docs.circuitpython.org/projects/shtc3/en/latest/>
     Si7021 Temperature and Humidity (adafruit_si7021) <https://docs.circuitpython.org/projects/si7021/en/latest/>
+    STCC4 and SHT41 CO2, Temperature and Humidity Sensor (adafruit_stcc4) <https://docs.circuitpython.org/projects/stcc4/en/latest/>
     SPA06-003 Temperature and Pressure (adafruit_spa06_003) <https://docs.circuitpython.org/projects/spa06_003/en/latest/>
     TC74 Digital Temperature Sensor (adafruit_tc74) <https://docs.circuitpython.org/projects/tc74/en/latest/>
     TMP006 Contactless IR Thermopile Sensor (adafruit_tmp006) <https://docs.circuitpython.org/projects/tmp006/en/latest/>

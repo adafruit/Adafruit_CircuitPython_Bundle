@@ -1163,3 +1163,6 @@
 [submodule "libraries/drivers/as7343"]
 	path = libraries/drivers/as7343
 	url = https://github.com/adafruit/Adafruit_CircuitPython_AS7343.git
+[submodule "libraries/drivers/stcc4"]
+	path = libraries/drivers/stcc4
+	url = https://github.com/adafruit/Adafruit_CircuitPython_STCC4.git
