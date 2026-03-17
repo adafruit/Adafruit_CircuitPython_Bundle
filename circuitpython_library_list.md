@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 387 libraries available.
+There are 389 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) \([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -215,6 +215,7 @@ There are 387 libraries available.
 * [Adafruit CircuitPython ST7735R](https://github.com/adafruit/Adafruit_CircuitPython_ST7735R.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-st7735r)) \([Docs](https://docs.circuitpython.org/projects/st7735r/en/latest/))
 * [Adafruit CircuitPython ST7735](https://github.com/adafruit/Adafruit_CircuitPython_ST7735.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-st7735)) \([Docs](https://docs.circuitpython.org/projects/st7735/en/latest/))
 * [Adafruit CircuitPython ST7789](https://github.com/adafruit/Adafruit_CircuitPython_ST7789.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-st7789)) \([Docs](https://docs.circuitpython.org/projects/st7789/en/latest/))
+* [Adafruit CircuitPython STCC4](https://github.com/adafruit/Adafruit_CircuitPython_STCC4.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-stcc4)) \([Docs](https://docs.circuitpython.org/projects/stcc4/en/latest/))
 * [Adafruit CircuitPython STHS34PF80](https://github.com/adafruit/Adafruit_CircuitPython_STHS34PF80.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-sths34pf80)) \([Docs](https://docs.circuitpython.org/projects/sths34pf80/en/latest/))
 * [Adafruit CircuitPython STMPE610](https://github.com/adafruit/Adafruit_CircuitPython_STMPE610.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-stmpe610)) \([Docs](https://docs.circuitpython.org/projects/stmpe610/en/latest/))
 * [Adafruit CircuitPython Seesaw](https://github.com/adafruit/Adafruit_CircuitPython_Seesaw.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-seesaw)) \([Docs](https://docs.circuitpython.org/projects/seesaw/en/latest/))
@@ -222,6 +223,7 @@ There are 387 libraries available.
 * [Adafruit CircuitPython TC74](https://github.com/adafruit/Adafruit_CircuitPython_TC74.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tc74)) \([Docs](https://docs.circuitpython.org/projects/tc74/en/latest/))
 * [Adafruit CircuitPython TCA8418](https://github.com/adafruit/Adafruit_CircuitPython_TCA8418.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tca8418)) \([Docs](https://docs.circuitpython.org/projects/tca8418/en/latest/))
 * [Adafruit CircuitPython TCA9548A](https://github.com/adafruit/Adafruit_CircuitPython_TCA9548A.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tca9548a)) \([Docs](https://docs.circuitpython.org/projects/tca9548a/en/latest/))
+* [Adafruit CircuitPython TCS3430](https://github.com/adafruit/Adafruit_CircuitPython_TCS3430.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tcs3430)) \([Docs](https://docs.circuitpython.org/projects/tcs3430/en/latest/))
 * [Adafruit CircuitPython TCS34725](https://github.com/adafruit/Adafruit_CircuitPython_TCS34725.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tcs34725)) \([Docs](https://docs.circuitpython.org/projects/tcs34725/en/latest/))
 * [Adafruit CircuitPython TFmini](https://github.com/adafruit/Adafruit_CircuitPython_TFmini.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tfmini)) \([Docs](https://docs.circuitpython.org/projects/tfmini/en/latest/))
 * [Adafruit CircuitPython TLA202X](https://github.com/adafruit/Adafruit_CircuitPython_TLA202X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tla202x)) \([Docs](https://docs.circuitpython.org/projects/tla202x/en/latest/))
