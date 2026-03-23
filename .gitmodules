@@ -1169,3 +1169,6 @@
 [submodule "libraries/drivers/tcs3430"]
 	path = libraries/drivers/tcs3430
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TCS3430.git
+[submodule "libraries/drivers/tmag5273"]
+	path = libraries/drivers/tmag5273
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TMAG5273.git

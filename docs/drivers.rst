@@ -392,6 +392,7 @@ Motion relating sensing including ``acceleration``, ``magnetic``, ``gyro``, and 
     MSA301 3 Axis Accelerometer (adafruit_msa301) <https://docs.circuitpython.org/projects/msa301/en/latest/>
     STHS34PF80 IR Presence / Motion Sensor (adafruit_sths34pf80) <https://docs.circuitpython.org/projects/sths34pf80/en/latest/>
     TLV493D 3 Axis Magnetometer (adafruit_tlv493d) <https://docs.circuitpython.org/projects/tlv493d/en/latest/>
+    TMAG5273 3D Hall Effect Magnetometer (adafruit_tmag5273) <https://docs.circuitpython.org/projects/tmag5273/en/latest/>
 
 Environmental Sensors
 ----------------------
