@@ -481,6 +481,7 @@ These sensors detect light related attributes such as ``color``, ``light`` (unit
     TSL2591 High Dynamic Range Light Sensor (adafruit_tsl2591) <https://docs.circuitpython.org/projects/tsl2591/en/latest/>
     VCNL4010 Proximity and Light (adafruit_vcnl4010) <https://docs.circuitpython.org/projects/vcnl4010/en/latest/>
     VCNL4020 Proximity and Light (adafruit_vcnl4020) <https://docs.circuitpython.org/projects/vcnl4020/en/latest/>
+    VCNL4030 Proximity and Light (adafruit_vcnl4030) <https://docs.circuitpython.org/projects/vcnl4030/en/latest/>
     VCNL4040 Proximity and Light (adafruit_vcnl4040) <https://docs.circuitpython.org/projects/vcnl4040/en/latest/>
     VCNL4200 Proximity and Light (adafruit_vcnl4200) <https://docs.circuitpython.org/projects/vcnl4200/en/latest/>
     VEML6070 UV Index (adafruit_veml6070) <https://docs.circuitpython.org/projects/veml6070/en/latest/>
