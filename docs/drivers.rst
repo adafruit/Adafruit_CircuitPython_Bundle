@@ -533,6 +533,7 @@ These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``,
     Adafruit SeeSaw (adafruit_seesaw) <https://docs.circuitpython.org/projects/seesaw/en/latest/>
     ADG72x Analog Matrix Switches (adafruit_adg72x) <https://docs.circuitpython.org/projects/adg72x/en/latest/>
     ADS1x15 Analog-to-Digital Converter  (adafruit_ads1x15) <https://docs.circuitpython.org/projects/ads1x15/en/latest/>
+    ADS122C04 24-Bit ADC (adafruit_ads122c04) <https://docs.circuitpython.org/projects/ads122c04/en/latest/>
     ADS7830 8-Channel 8-Bit ADC (adafruit_ads7830) <https://docs.circuitpython.org/projects/ads7830/en/latest/>
     AW9523 GPIO expander and LED driver (adafruit_aw9523) <https://docs.circuitpython.org/projects/aw9523/en/latest/>
     Crickit Robotics Boards (adafruit_crickit) <https://docs.circuitpython.org/projects/crickit/en/latest/>
