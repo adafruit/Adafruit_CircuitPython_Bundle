@@ -1172,3 +1172,6 @@
 [submodule "libraries/drivers/tmag5273"]
 	path = libraries/drivers/tmag5273
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TMAG5273.git
+[submodule "libraries/drivers/vcnl4030"]
+	path = libraries/drivers/vcnl4030
+	url = https://github.com/adafruit/Adafruit_CircuitPython_VCNL4030.git
