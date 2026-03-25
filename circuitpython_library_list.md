@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 390 libraries available.
+There are 392 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) ([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -9,6 +9,7 @@ There are 390 libraries available.
 * [Adafruit CircuitPython ACeP7In](https://github.com/adafruit/Adafruit_CircuitPython_ACeP7In.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-acep7in)) ([Docs](https://docs.circuitpython.org/projects/acep7in/en/latest/))
 * [Adafruit CircuitPython AD569x](https://github.com/adafruit/Adafruit_CircuitPython_AD569x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ad569x)) ([Docs](https://docs.circuitpython.org/projects/ad569x/en/latest/))
 * [Adafruit CircuitPython ADG72x](https://github.com/adafruit/Adafruit_CircuitPython_ADG72x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-adg72x)) ([Docs](https://docs.circuitpython.org/projects/adg72x/en/latest/))
+* [Adafruit CircuitPython ADS122C04](https://github.com/adafruit/Adafruit_CircuitPython_ADS122C04.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ads122c04)) ([Docs](https://docs.circuitpython.org/projects/ads122c04/en/latest/))
 * [Adafruit CircuitPython ADS1x15](https://github.com/adafruit/Adafruit_CircuitPython_ADS1x15.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ads1x15)) ([Docs](https://docs.circuitpython.org/projects/ads1x15/en/latest/))
 * [Adafruit CircuitPython ADS7830](https://github.com/adafruit/Adafruit_CircuitPython_ADS7830.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ads7830)) ([Docs](https://docs.circuitpython.org/projects/ads7830/en/latest/))
 * [Adafruit CircuitPython ADT7410](https://github.com/adafruit/Adafruit_CircuitPython_ADT7410.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-adt7410)) ([Docs](https://docs.circuitpython.org/projects/adt7410/en/latest/))
@@ -252,6 +253,7 @@ There are 390 libraries available.
 * [Adafruit CircuitPython VC0706](https://github.com/adafruit/Adafruit_CircuitPython_VC0706.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vc0706)) ([Docs](https://docs.circuitpython.org/projects/vc0706/en/latest/))
 * [Adafruit CircuitPython VCNL4010](https://github.com/adafruit/Adafruit_CircuitPython_VCNL4010.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vcnl4010)) ([Docs](https://docs.circuitpython.org/projects/vcnl4010/en/latest/))
 * [Adafruit CircuitPython VCNL4020](https://github.com/adafruit/Adafruit_CircuitPython_VCNL4020.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vcnl4020)) ([Docs](https://docs.circuitpython.org/projects/vcnl4020/en/latest/))
+* [Adafruit CircuitPython VCNL4030](https://github.com/adafruit/Adafruit_CircuitPython_VCNL4030.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vcnl4030)) ([Docs](https://docs.circuitpython.org/projects/vcnl4030/en/latest/))
 * [Adafruit CircuitPython VCNL4040](https://github.com/adafruit/Adafruit_CircuitPython_VCNL4040.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vcnl4040)) ([Docs](https://docs.circuitpython.org/projects/vcnl4040/en/latest/))
 * [Adafruit CircuitPython VCNL4200](https://github.com/adafruit/Adafruit_CircuitPython_VCNL4200.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vcnl4200)) ([Docs](https://docs.circuitpython.org/projects/vcnl4200/en/latest/))
 * [Adafruit CircuitPython VEML6070](https://github.com/adafruit/Adafruit_CircuitPython_VEML6070.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-veml6070)) ([Docs](https://docs.circuitpython.org/projects/veml6070/en/latest/))
