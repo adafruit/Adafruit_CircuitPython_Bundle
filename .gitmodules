@@ -1181,3 +1181,6 @@
 [submodule "libraries/drivers/max44009"]
 	path = libraries/drivers/max44009
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MAX44009.git
+[submodule "libraries/helpers/ay8912"]
+	path = libraries/helpers/ay8912
+	url = https://github.com/adafruit/Adafruit_CircuitPython_AY8912.git

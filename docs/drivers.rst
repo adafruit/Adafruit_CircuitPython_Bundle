@@ -205,6 +205,7 @@ Music, noisemakers, and more.
 
 .. toctree::
 
+    AY8912 Emulator (adafruit_ay8912) <https://docs.circuitpython.org/projects/ay8912/en/latest/>
     MIDI (adafruit_midi) <https://docs.circuitpython.org/projects/midi/en/latest/>
     Ring Tone Text Transfer Language (RTTTL) (adafruit_rtttl) <https://docs.circuitpython.org/projects/rtttl/en/latest/>
     Waveform Generation (adafruit_waveform) <https://docs.circuitpython.org/projects/waveform/en/latest/>
