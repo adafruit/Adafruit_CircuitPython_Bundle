@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 393 libraries available.
+There are 394 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) ([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -275,6 +275,7 @@ There are 393 libraries available.
 ## Helpers:
 * [Adafruit CircuitPython AVRprog](https://github.com/adafruit/Adafruit_CircuitPython_AVRprog.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-avrprog)) ([Docs](https://docs.circuitpython.org/projects/avrprog/en/latest/))
 * [Adafruit CircuitPython AWS IOT](https://github.com/adafruit/Adafruit_CircuitPython_AWS_IOT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-aws-iot)) ([Docs](https://docs.circuitpython.org/projects/aws_iot/en/latest/))
+* [Adafruit CircuitPython AY8912](https://github.com/adafruit/Adafruit_CircuitPython_AY8912.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ay8912)) ([Docs](https://docs.circuitpython.org/projects/ay8912/en/latest/))
 * [Adafruit CircuitPython AdafruitIO](https://github.com/adafruit/Adafruit_CircuitPython_AdafruitIO.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-adafruitio)) ([Docs](https://docs.circuitpython.org/projects/adafruitio/en/latest/))
 * [Adafruit CircuitPython AirLift](https://github.com/adafruit/Adafruit_CircuitPython_AirLift.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-airlift)) ([Docs](https://docs.circuitpython.org/projects/airlift/en/latest/))
 * [Adafruit CircuitPython Anchored Group](https://github.com/adafruit/Adafruit_CircuitPython_Anchored_Group.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-anchored-group)) ([Docs](https://docs.circuitpython.org/projects/anchored_group/en/latest/))
