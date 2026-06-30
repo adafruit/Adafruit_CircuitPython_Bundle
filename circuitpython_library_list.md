@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 394 libraries available.
+There are 395 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) ([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -11,6 +11,7 @@ There are 394 libraries available.
 * [Adafruit CircuitPython ADG72x](https://github.com/adafruit/Adafruit_CircuitPython_ADG72x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-adg72x)) ([Docs](https://docs.circuitpython.org/projects/adg72x/en/latest/))
 * [Adafruit CircuitPython ADS122C04](https://github.com/adafruit/Adafruit_CircuitPython_ADS122C04.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ads122c04)) ([Docs](https://docs.circuitpython.org/projects/ads122c04/en/latest/))
 * [Adafruit CircuitPython ADS1x15](https://github.com/adafruit/Adafruit_CircuitPython_ADS1x15.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ads1x15)) ([Docs](https://docs.circuitpython.org/projects/ads1x15/en/latest/))
+* [Adafruit CircuitPython ADS7128](https://github.com/adafruit/Adafruit_CircuitPython_ADS7128.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ads7128)) ([Docs](https://docs.circuitpython.org/projects/ads7128/en/latest/))
 * [Adafruit CircuitPython ADS7830](https://github.com/adafruit/Adafruit_CircuitPython_ADS7830.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ads7830)) ([Docs](https://docs.circuitpython.org/projects/ads7830/en/latest/))
 * [Adafruit CircuitPython ADT7410](https://github.com/adafruit/Adafruit_CircuitPython_ADT7410.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-adt7410)) ([Docs](https://docs.circuitpython.org/projects/adt7410/en/latest/))
 * [Adafruit CircuitPython ADXL34x](https://github.com/adafruit/Adafruit_CircuitPython_ADXL34x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-adxl34x)) ([Docs](https://docs.circuitpython.org/projects/adxl34x/en/latest/))
