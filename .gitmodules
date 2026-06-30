@@ -1184,3 +1184,6 @@
 [submodule "libraries/helpers/ay8912"]
 	path = libraries/helpers/ay8912
 	url = https://github.com/adafruit/Adafruit_CircuitPython_AY8912.git
+[submodule "libraries/drivers/ads7128"]
+	path = libraries/drivers/ads7128
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ADS7128.git
