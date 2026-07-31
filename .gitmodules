@@ -1187,3 +1187,6 @@
 [submodule "libraries/drivers/ads7128"]
 	path = libraries/drivers/ads7128
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ADS7128.git
+[submodule "libraries/drivers/nau88l21"]
+	path = libraries/drivers/nau88l21
+	url = https://github.com/adafruit/Adafruit_CircuitPython_NAU88L21.git
