@@ -597,6 +597,7 @@ Miscellaneous
     MAX1704x Fuel Gauge (adafruit_max1704x) <https://docs.circuitpython.org/projects/max1704x/en/latest/>
     MAX9744 Audio Amplifier  (adafruit_max9744) <https://docs.circuitpython.org/projects/max9744/en/latest/>
     MLX90640 Thermal Camera (adafruit_mlx90640) <https://docs.circuitpython.org/projects/mlx90640/en/latest/>
+    NAU88L21 I2S Audio CODEC (adafruit_nau88l21) <https://docs.circuitpython.org/projects/nau88l21/en/latest/>
     NeoTrellis 4x4 Keypad (adafruit_neotrellis) <https://docs.circuitpython.org/projects/neotrellis/en/latest/>
     NeoTrellis M4 4x8 Keypad (adafruit_trellism4) <https://docs.circuitpython.org/projects/trellism4/en/latest/>
     Nunchuk (adafruit_nunchuk) <https://docs.circuitpython.org/projects/nunchuk/en/latest/>
