@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 395 libraries available.
+There are 396 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) ([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -153,6 +153,7 @@ There are 395 libraries available.
 * [Adafruit CircuitPython MS8607](https://github.com/adafruit/Adafruit_CircuitPython_MS8607.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ms8607)) ([Docs](https://docs.circuitpython.org/projects/ms8607/en/latest/))
 * [Adafruit CircuitPython MSA301](https://github.com/adafruit/Adafruit_CircuitPython_MSA301.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-msa301)) ([Docs](https://docs.circuitpython.org/projects/msa301/en/latest/))
 * [Adafruit CircuitPython MatrixKeypad](https://github.com/adafruit/Adafruit_CircuitPython_MatrixKeypad.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-matrixkeypad)) ([Docs](https://docs.circuitpython.org/projects/matrixkeypad/en/latest/))
+* [Adafruit CircuitPython NAU88L21](https://github.com/adafruit/Adafruit_CircuitPython_NAU88L21.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-nau88l21)) ([Docs](https://docs.circuitpython.org/projects/nau88l21/en/latest/))
 * [Adafruit CircuitPython NeoPixel SPI](https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel_SPI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-neopixel-spi)) ([Docs](https://docs.circuitpython.org/projects/neopixel_spi/en/latest/))
 * [Adafruit CircuitPython NeoPixel](https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-neopixel)) ([Docs](https://docs.circuitpython.org/projects/neopixel/en/latest/))
 * [Adafruit CircuitPython NeoPxl8](https://github.com/adafruit/Adafruit_CircuitPython_NeoPxl8.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-neopxl8)) ([Docs](https://docs.circuitpython.org/projects/neopxl8/en/latest/))
