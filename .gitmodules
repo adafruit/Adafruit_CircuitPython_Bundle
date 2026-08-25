@@ -1190,3 +1190,9 @@
 [submodule "libraries/drivers/nau88l21"]
 	path = libraries/drivers/nau88l21
 	url = https://github.com/adafruit/Adafruit_CircuitPython_NAU88L21.git
+[submodule "libraries/drivers/tas2505"]
+	path = libraries/drivers/tas2505
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TAS2505.git
+[submodule "libraries/drivers/cs42l42"]
+	path = libraries/drivers/cs42l42
+	url = https://github.com/adafruit/Adafruit_CircuitPython_CS42L42.git
