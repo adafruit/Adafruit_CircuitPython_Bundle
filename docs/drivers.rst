@@ -544,6 +544,7 @@ These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``,
     DACx578 8 x Channel 12-Bit DAC (adafruit_dacx578) <https://docs.circuitpython.org/projects/dacx578/en/latest/>
     DS2413 OneWire GPIO Expander (adafruit_ds2413) <https://docs.circuitpython.org/projects/ds2413/en/latest/>
     FocalTech Capacitive Touch (adafruit_focaltouch) <https://docs.circuitpython.org/projects/focaltouch/en/latest/>
+	GP8403 2-Channel 12-bit DAC (adafruit_gp8403) <https://docs.circuitpython.org/projects/gp8403/en/latest/>
     HX711 24-bit ADC (adafruit_hx711) <https://docs.circuitpython.org/projects/hx711/en/latest/>
     MCP2515 CAN bus controller (adafruit_mcp2515) <https://docs.circuitpython.org/projects/mcp2515/en/latest/>
     MCP230xx GPIO Expander (adafruit_mcp230xx) <https://docs.circuitpython.org/projects/mcp230xx/en/latest/>
