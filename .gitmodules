@@ -1196,3 +1196,6 @@
 [submodule "libraries/drivers/cs42l42"]
 	path = libraries/drivers/cs42l42
 	url = https://github.com/adafruit/Adafruit_CircuitPython_CS42L42.git
+[submodule "libraries/drivers/gp8403"]
+	path = libraries/drivers/gp8403
+	url = https://github.com/adafruit/Adafruit_CircuitPython_GP8403.git
