@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 396 libraries available.
+There are 399 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) ([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -80,6 +80,7 @@ There are 396 libraries available.
 * [Adafruit CircuitPython Fingerprint](https://github.com/adafruit/Adafruit_CircuitPython_Fingerprint.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fingerprint)) ([Docs](https://docs.circuitpython.org/projects/fingerprint/en/latest/))
 * [Adafruit CircuitPython FocalTouch](https://github.com/adafruit/Adafruit_CircuitPython_FocalTouch.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-focaltouch)) ([Docs](https://docs.circuitpython.org/projects/focaltouch/en/latest/))
 * [Adafruit CircuitPython GC9A01A](https://github.com/adafruit/Adafruit_CircuitPython_GC9A01A.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-gc9a01a)) ([Docs](https://docs.circuitpython.org/projects/gc9a01a/en/latest/))
+* [Adafruit CircuitPython GP8403](https://github.com/adafruit/Adafruit_CircuitPython_GP8403.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-gp8403)) ([Docs](https://docs.circuitpython.org/projects/gp8403/en/latest/))
 * [Adafruit CircuitPython GPS](https://github.com/adafruit/Adafruit_CircuitPython_GPS.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-gps)) ([Docs](https://docs.circuitpython.org/projects/gps/en/latest/))
 * [Adafruit CircuitPython GUVX I2C](https://github.com/adafruit/Adafruit_CircuitPython_GUVX_I2C.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-guvx-i2c)) ([Docs](https://docs.circuitpython.org/projects/guvx_i2c/en/latest/))
 * [Adafruit CircuitPython HCSR04](https://github.com/adafruit/Adafruit_CircuitPython_HCSR04.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-hcsr04)) ([Docs](https://docs.circuitpython.org/projects/hcsr04/en/latest/))
