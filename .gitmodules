@@ -1199,3 +1199,6 @@
 [submodule "libraries/drivers/gp8403"]
 	path = libraries/drivers/gp8403
 	url = https://github.com/adafruit/Adafruit_CircuitPython_GP8403.git
+[submodule "libraries/drivers/tmf8801"]
+	path = libraries/drivers/tmf8801
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TMF8801.git
