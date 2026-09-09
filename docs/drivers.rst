@@ -503,6 +503,7 @@ These sensors measure the ``distance`` to another object and may also measure li
     Slamtech RPLidar (adafruit_rplidar) <https://docs.circuitpython.org/projects/rplidar/en/latest/>
     TFmini IR Time of Flight ~30cm - 12m (adafruit_tfmini) <https://docs.circuitpython.org/projects/tfmini/en/latest/>
     TMF8801 Time of Flight Distance Sensor - 20mm to 2.5m (adafruit_tmf8801) <https://docs.circuitpython.org/projects/tmf8801/en/latest/>
+    TMF8806 Time of Flight Distance Sensor - 10mm to 5m (adafruit_tmf8806) <https://docs.circuitpython.org/projects/tmf8806/en/latest/>
     US-100 Ultrasonic Distance Sensor (adafruit_us100) <https://docs.circuitpython.org/projects/us100/en/latest/>
     VL6180x 5 - 100 mm (adafruit_vl6180x) <https://docs.circuitpython.org/projects/vl6180x/en/latest/>
     VL53L0x ~30 - 1000 mm (adafruit_vl53l0x) <https://docs.circuitpython.org/projects/vl53l0x/en/latest/>
