@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 400 libraries available.
+There are 401 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) ([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -241,6 +241,7 @@ There are 400 libraries available.
 * [Adafruit CircuitPython TM1814](https://github.com/adafruit/Adafruit_CircuitPython_TM1814.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tm1814)) ([Docs](https://docs.circuitpython.org/projects/tm1814/en/latest/))
 * [Adafruit CircuitPython TMAG5273](https://github.com/adafruit/Adafruit_CircuitPython_TMAG5273.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tmag5273)) ([Docs](https://docs.circuitpython.org/projects/tmag5273/en/latest/))
 * [Adafruit CircuitPython TMF8801](https://github.com/adafruit/Adafruit_CircuitPython_TMF8801.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tmf8801)) ([Docs](https://docs.circuitpython.org/projects/tmf8801/en/latest/))
+* [Adafruit CircuitPython TMF8806](https://github.com/adafruit/Adafruit_CircuitPython_TMF8806.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tmf8806)) ([Docs](https://docs.circuitpython.org/projects/tmf8806/en/latest/))
 * [Adafruit CircuitPython TMP006](https://github.com/adafruit/Adafruit_CircuitPython_TMP006.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tmp006)) ([Docs](https://docs.circuitpython.org/projects/tmp006/en/latest/))
 * [Adafruit CircuitPython TMP007](https://github.com/adafruit/Adafruit_CircuitPython_TMP007.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tmp007)) ([Docs](https://docs.circuitpython.org/projects/tmp007/en/latest/))
 * [Adafruit CircuitPython TMP117](https://github.com/adafruit/Adafruit_CircuitPython_TMP117) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tmp117)) ([Docs](https://docs.circuitpython.org/projects/tmp117/en/latest/))
