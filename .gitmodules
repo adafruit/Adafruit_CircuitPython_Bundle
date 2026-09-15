@@ -1205,3 +1205,6 @@
 [submodule "libraries/drivers/tmf8806"]
 	path = libraries/drivers/tmf8806
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TMF8806.git
+[submodule "libraries/drivers/tsl2585"]
+	path = libraries/drivers/tsl2585
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TSL2585.git

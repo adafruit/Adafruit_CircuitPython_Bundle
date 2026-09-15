@@ -480,6 +480,7 @@ These sensors detect light related attributes such as ``color``, ``light`` (unit
     TCS3430/TCS34303 Tri-Stimulus XYZ Color Sensor (adafruit_tcs3430) <https://docs.circuitpython.org/projects/tcs3430/en/latest/>
     TCS34725 Color Sensor (adafruit_tcs34725) <https://docs.circuitpython.org/projects/tcs34725/en/latest/>
     TSL2561 Light Sensor (adafruit_tsl2561) <https://docs.circuitpython.org/projects/tsl2561/en/latest/>
+    TSL2585 Digital UVA and Ambient Light Sensor (adafruit_tsl2585) <https://docs.circuitpython.org/projects/tsl2585/en/latest/>
     TSL2591 High Dynamic Range Light Sensor (adafruit_tsl2591) <https://docs.circuitpython.org/projects/tsl2591/en/latest/>
     VCNL4010 Proximity and Light (adafruit_vcnl4010) <https://docs.circuitpython.org/projects/vcnl4010/en/latest/>
     VCNL4020 Proximity and Light (adafruit_vcnl4020) <https://docs.circuitpython.org/projects/vcnl4020/en/latest/>
