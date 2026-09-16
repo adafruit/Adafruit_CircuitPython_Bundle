@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 401 libraries available.
+There are 402 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) ([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -248,6 +248,7 @@ There are 401 libraries available.
 * [Adafruit CircuitPython TPA2016](https://github.com/adafruit/Adafruit_CircuitPython_TPA2016.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tpa2016)) ([Docs](https://docs.circuitpython.org/projects/tpa2016/en/latest/))
 * [Adafruit CircuitPython TSC2007](https://github.com/adafruit/Adafruit_CircuitPython_TSC2007.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tsc2007)) ([Docs](https://docs.circuitpython.org/projects/tsc2007/en/latest/))
 * [Adafruit CircuitPython TSL2561](https://github.com/adafruit/Adafruit_CircuitPython_TSL2561.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tsl2561)) ([Docs](https://docs.circuitpython.org/projects/tsl2561/en/latest/))
+* [Adafruit CircuitPython TSL2585](https://github.com/adafruit/Adafruit_CircuitPython_TSL2585.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tsl2585)) ([Docs](https://docs.circuitpython.org/projects/tsl2585/en/latest/))
 * [Adafruit CircuitPython TSL2591](https://github.com/adafruit/Adafruit_CircuitPython_TSL2591.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tsl2591)) ([Docs](https://docs.circuitpython.org/projects/tsl2591/en/latest/))
 * [Adafruit CircuitPython TT21100](https://github.com/adafruit/Adafruit_CircuitPython_TT21100.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tt21100)) ([Docs](https://docs.circuitpython.org/projects/tt21100/en/latest/))
 * [Adafruit CircuitPython Thermistor](https://github.com/adafruit/Adafruit_CircuitPython_Thermistor.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-thermistor)) ([Docs](https://docs.circuitpython.org/projects/thermistor/en/latest/))
