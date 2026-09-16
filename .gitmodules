@@ -1208,3 +1208,6 @@
 [submodule "libraries/drivers/tsl2585"]
 	path = libraries/drivers/tsl2585
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TSL2585.git
+[submodule "libraries/helpers/meshfruit"]
+	path = libraries/helpers/meshfruit
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Meshfruit.git
