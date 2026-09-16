@@ -171,6 +171,7 @@ Helpers for wireless communication via LoRa.
 
 .. toctree::
 
+    Meshfruit Meshtastic-Compatible Helper (adafruit_meshfruit) <https://docs.circuitpython.org/projects/meshfruit/en/latest/>
     TinyLoRa TTN Helper (LoRaWAN) (adafruit_tinylora) <https://docs.circuitpython.org/projects/tinylora/en/latest/>
 
 Cryptography Helpers
