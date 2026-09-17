@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 402 libraries available.
+There are 403 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) ([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -354,6 +354,7 @@ There are 402 libraries available.
 * [Adafruit CircuitPython MacroPad](https://github.com/adafruit/Adafruit_CircuitPython_MacroPad.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-macropad)) ([Docs](https://docs.circuitpython.org/projects/macropad/en/latest/))
 * [Adafruit CircuitPython MagTag](https://github.com/adafruit/Adafruit_CircuitPython_MagTag.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-magtag)) ([Docs](https://docs.circuitpython.org/projects/magtag/en/latest/))
 * [Adafruit CircuitPython MatrixPortal](https://github.com/adafruit/Adafruit_CircuitPython_MatrixPortal.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-matrixportal)) ([Docs](https://docs.circuitpython.org/projects/matrixportal/en/latest/))
+* [Adafruit CircuitPython Meshfruit](https://github.com/adafruit/Adafruit_CircuitPython_Meshfruit.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-meshfruit)) ([Docs](https://docs.circuitpython.org/projects/meshfruit/en/latest/))
 * [Adafruit CircuitPython MiniMQTT](https://github.com/adafruit/Adafruit_CircuitPython_MiniMQTT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-minimqtt)) ([Docs](https://docs.circuitpython.org/projects/minimqtt/en/latest/))
 * [Adafruit CircuitPython MotorKit](https://github.com/adafruit/Adafruit_CircuitPython_MotorKit.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-motorkit)) ([Docs](https://docs.circuitpython.org/projects/motorkit/en/latest/))
 * [Adafruit CircuitPython Motor](https://github.com/adafruit/Adafruit_CircuitPython_Motor.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-motor)) ([Docs](https://docs.circuitpython.org/projects/motor/en/latest/))
