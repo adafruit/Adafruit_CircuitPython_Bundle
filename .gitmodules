@@ -1211,3 +1211,6 @@
 [submodule "libraries/helpers/meshfruit"]
 	path = libraries/helpers/meshfruit
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Meshfruit.git
+[submodule "libraries/drivers/tcs3448"]
+	path = libraries/drivers/tcs3448
+	url = https://github.com/adafruit/Adafruit_CircuitPython_TCS3448.git

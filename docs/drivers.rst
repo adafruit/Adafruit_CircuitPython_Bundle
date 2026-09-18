@@ -479,6 +479,7 @@ These sensors detect light related attributes such as ``color``, ``light`` (unit
     MAX44009 Wide-range Lux Light Sensor (adafruit_max44009) <https://docs.circuitpython.org/projects/max44009/en/latest/>
     OPT4048 Tri-Stimulus XYZ Color and Lux Sensor <https://docs.circuitpython.org/projects/opt4048/en/latest/>
     TCS3430/TCS34303 Tri-Stimulus XYZ Color Sensor (adafruit_tcs3430) <https://docs.circuitpython.org/projects/tcs3430/en/latest/>
+    TCS3448 14-Channel Light / Color Sensor (adafruit_tcs3448) <https://docs.circuitpython.org/projects/tcs3448/en/latest/>
     TCS34725 Color Sensor (adafruit_tcs34725) <https://docs.circuitpython.org/projects/tcs34725/en/latest/>
     TSL2561 Light Sensor (adafruit_tsl2561) <https://docs.circuitpython.org/projects/tsl2561/en/latest/>
     TSL2585 Digital UVA and Ambient Light Sensor (adafruit_tsl2585) <https://docs.circuitpython.org/projects/tsl2585/en/latest/>
