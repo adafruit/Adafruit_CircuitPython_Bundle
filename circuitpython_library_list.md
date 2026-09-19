@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 403 libraries available.
+There are 404 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) ([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -231,6 +231,7 @@ There are 403 libraries available.
 * [Adafruit CircuitPython TCA8418](https://github.com/adafruit/Adafruit_CircuitPython_TCA8418.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tca8418)) ([Docs](https://docs.circuitpython.org/projects/tca8418/en/latest/))
 * [Adafruit CircuitPython TCA9548A](https://github.com/adafruit/Adafruit_CircuitPython_TCA9548A.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tca9548a)) ([Docs](https://docs.circuitpython.org/projects/tca9548a/en/latest/))
 * [Adafruit CircuitPython TCS3430](https://github.com/adafruit/Adafruit_CircuitPython_TCS3430.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tcs3430)) ([Docs](https://docs.circuitpython.org/projects/tcs3430/en/latest/))
+* [Adafruit CircuitPython TCS3448](https://github.com/adafruit/Adafruit_CircuitPython_TCS3448.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tcs3448)) ([Docs](https://docs.circuitpython.org/projects/tcs3448/en/latest/))
 * [Adafruit CircuitPython TCS34725](https://github.com/adafruit/Adafruit_CircuitPython_TCS34725.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tcs34725)) ([Docs](https://docs.circuitpython.org/projects/tcs34725/en/latest/))
 * [Adafruit CircuitPython TFmini](https://github.com/adafruit/Adafruit_CircuitPython_TFmini.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tfmini)) ([Docs](https://docs.circuitpython.org/projects/tfmini/en/latest/))
 * [Adafruit CircuitPython TLA202X](https://github.com/adafruit/Adafruit_CircuitPython_TLA202X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tla202x)) ([Docs](https://docs.circuitpython.org/projects/tla202x/en/latest/))
