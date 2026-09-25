@@ -240,6 +240,7 @@ Miscellaneous Helpers
     SimpleMath (adafruit_simplemath) <https://docs.circuitpython.org/projects/simplemath/en/latest/>
     Test Repo (adafruit_testrepo) <https://docs.circuitpython.org/projects/testrepo/en/latest/>
     USB HID - Human Interface Device (Keyboard and Mouse) (adafruit_hid) <https://docs.circuitpython.org/projects/hid/en/latest/>
+    USB Host Camera (adafruit_usb_host_camera) <https://docs.circuitpython.org/projects/usb_host_camera/en/latest/>
     USB Host Descriptors (adafruit_usb-host-descriptors) <https://docs.circuitpython.org/projects/usb-host-descriptors/en/latest/>
     USB Host Mass Storage (adafruit_usb-host-mass-storage) <https://docs.circuitpython.org/projects/usb-host-mass-storage/en/latest/>
     USB Host MIDI (adafruit_usb-host-midi) <https://docs.circuitpython.org/projects/usb-host-midi/en/latest/>
