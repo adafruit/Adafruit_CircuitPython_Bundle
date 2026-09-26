@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 404 libraries available.
+There are 405 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) ([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -392,6 +392,7 @@ There are 404 libraries available.
 * [Adafruit CircuitPython TemplateEngine](https://github.com/adafruit/Adafruit_CircuitPython_TemplateEngine.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-templateengine)) ([Docs](https://docs.circuitpython.org/projects/templateengine/en/latest/))
 * [Adafruit CircuitPython Ticks](https://github.com/adafruit/Adafruit_CircuitPython_Ticks.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ticks)) ([Docs](https://docs.circuitpython.org/projects/ticks/en/latest/))
 * [Adafruit CircuitPython TinyLoRa](https://github.com/adafruit/Adafruit_CircuitPython_TinyLoRa.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-tinylora)) ([Docs](https://docs.circuitpython.org/projects/tinylora/en/latest/))
+* [Adafruit CircuitPython USB Host Camera](https://github.com/adafruit/Adafruit_CircuitPython_USB_Host_Camera.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-usb-host-camera)) ([Docs](https://docs.circuitpython.org/projects/usb_host_camera/en/latest/))
 * [Adafruit CircuitPython USB Host Descriptors](https://github.com/adafruit/Adafruit_CircuitPython_USB_Host_Descriptors.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-usb-host-descriptors)) ([Docs](https://docs.circuitpython.org/projects/usb-host-descriptors/en/latest/))
 * [Adafruit CircuitPython USB Host MIDI](https://github.com/adafruit/Adafruit_CircuitPython_USB_Host_MIDI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-usb-host-midi)) ([Docs](https://docs.circuitpython.org/projects/usb-host-midi/en/latest/))
 * [Adafruit CircuitPython USB Host Mass Storage](https://github.com/adafruit/Adafruit_CircuitPython_USB_Host_Mass_Storage.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-usb-host-mass-storage)) ([Docs](https://docs.circuitpython.org/projects/usb-host-mass-storage/en/latest/))
