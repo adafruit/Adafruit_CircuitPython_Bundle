@@ -1217,3 +1217,6 @@
 [submodule "libraries/helpers/usb_host_camera"]
 	path = libraries/helpers/usb_host_camera
 	url = https://github.com/adafruit/Adafruit_CircuitPython_USB_Host_Camera.git
+[submodule "libraries/helpers/moonshine_klatt"]
+	path = libraries/helpers/moonshine_klatt
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Moonshine_Klatt.git
