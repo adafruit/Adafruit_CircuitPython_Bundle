@@ -1220,3 +1220,6 @@
 [submodule "libraries/helpers/moonshine_klatt"]
 	path = libraries/helpers/moonshine_klatt
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Moonshine_Klatt.git
+[submodule "libraries/helpers/picotts"]
+	path = libraries/helpers/picotts
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PicoTTS.git
