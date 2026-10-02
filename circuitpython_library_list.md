@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 405 libraries available.
+There are 407 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) ([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -357,6 +357,7 @@ There are 405 libraries available.
 * [Adafruit CircuitPython MatrixPortal](https://github.com/adafruit/Adafruit_CircuitPython_MatrixPortal.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-matrixportal)) ([Docs](https://docs.circuitpython.org/projects/matrixportal/en/latest/))
 * [Adafruit CircuitPython Meshfruit](https://github.com/adafruit/Adafruit_CircuitPython_Meshfruit.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-meshfruit)) ([Docs](https://docs.circuitpython.org/projects/meshfruit/en/latest/))
 * [Adafruit CircuitPython MiniMQTT](https://github.com/adafruit/Adafruit_CircuitPython_MiniMQTT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-minimqtt)) ([Docs](https://docs.circuitpython.org/projects/minimqtt/en/latest/))
+* [Adafruit CircuitPython Moonshine Klatt](https://github.com/adafruit/Adafruit_CircuitPython_Moonshine_Klatt.git) ([Docs](https://docs.circuitpython.org/projects/moonshine-klatt/en/latest/))
 * [Adafruit CircuitPython MotorKit](https://github.com/adafruit/Adafruit_CircuitPython_MotorKit.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-motorkit)) ([Docs](https://docs.circuitpython.org/projects/motorkit/en/latest/))
 * [Adafruit CircuitPython Motor](https://github.com/adafruit/Adafruit_CircuitPython_Motor.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-motor)) ([Docs](https://docs.circuitpython.org/projects/motor/en/latest/))
 * [Adafruit CircuitPython NTP](https://github.com/adafruit/Adafruit_CircuitPython_NTP.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ntp)) ([Docs](https://docs.circuitpython.org/projects/ntp/en/latest/))
@@ -368,6 +369,7 @@ There are 405 libraries available.
 * [Adafruit CircuitPython PYOA](https://github.com/adafruit/Adafruit_CircuitPython_PYOA.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pyoa)) ([Docs](https://docs.circuitpython.org/projects/pyoa/en/latest/))
 * [Adafruit CircuitPython Pastebin](https://github.com/adafruit/Adafruit_CircuitPython_Pastebin.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pastebin)) ([Docs](https://docs.circuitpython.org/projects/pastebin/en/latest/))
 * [Adafruit CircuitPython Pathlib](https://github.com/adafruit/Adafruit_CircuitPython_Pathlib.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pathlib)) ([Docs](https://docs.circuitpython.org/projects/pathlib/en/latest/))
+* [Adafruit CircuitPython PicoTTS](https://github.com/adafruit/Adafruit_CircuitPython_PicoTTS.git) ([Docs](https://docs.circuitpython.org/projects/picotts/en/latest/))
 * [Adafruit CircuitPython Pixel Framebuf](https://github.com/adafruit/Adafruit_CircuitPython_Pixel_Framebuf.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pixel-framebuf)) ([Docs](https://docs.circuitpython.org/projects/pixel_framebuf/en/latest/))
 * [Adafruit CircuitPython PixelMap](https://github.com/adafruit/Adafruit_CircuitPython_PixelMap.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pixelmap)) ([Docs](https://docs.circuitpython.org/projects/pixelmap/en/latest/))
 * [Adafruit CircuitPython Pixelbuf](https://github.com/adafruit/Adafruit_CircuitPython_Pixelbuf.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pixelbuf)) ([Docs](https://docs.circuitpython.org/projects/pixelbuf/en/latest/))
