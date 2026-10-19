@@ -1223,3 +1223,9 @@
 [submodule "libraries/helpers/picotts"]
 	path = libraries/helpers/picotts
 	url = https://github.com/adafruit/Adafruit_CircuitPython_PicoTTS.git
+[submodule "libraries/helpers/flac"]
+	path = libraries/helpers/flac
+	url = https://github.com/adafruit/Adafruit_CircuitPython_FLAC.git
+[submodule "libraries/helpers/ogg"]
+	path = libraries/helpers/ogg
+	url = https://github.com/adafruit/Adafruit_CircuitPython_OGG.git
