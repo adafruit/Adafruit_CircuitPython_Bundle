@@ -207,8 +207,10 @@ Music, noisemakers, and more.
 .. toctree::
 
     AY8912 Emulator (adafruit_ay8912) <https://docs.circuitpython.org/projects/ay8912/en/latest/>
+    FLAC Audio Decoder (adafruit_flac) <https://docs.circuitpython.org/projects/flac/en/latest/>
     MIDI (adafruit_midi) <https://docs.circuitpython.org/projects/midi/en/latest/>
     Moonshine Klatt Text to Speech (adafruit_moonshine_klatt) <https://docs.circuitpython.org/projects/moonshine-klatt/en/latest/>
+    Ogg Vorbis Audio Decoder (adafruit_ogg) <https://docs.circuitpython.org/projects/ogg/en/latest/>
     PicoTTS Text to Speech (adafruit_picotts) <https://docs.circuitpython.org/projects/picotts/en/latest/>
     Ring Tone Text Transfer Language (RTTTL) (adafruit_rtttl) <https://docs.circuitpython.org/projects/rtttl/en/latest/>
     Waveform Generation (adafruit_waveform) <https://docs.circuitpython.org/projects/waveform/en/latest/>
