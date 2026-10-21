@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 407 libraries available.
+There are 409 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) ([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -332,6 +332,7 @@ There are 407 libraries available.
 * [Adafruit CircuitPython DisplayIO Layout](https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_Layout.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-displayio-layout)) ([Docs](https://docs.circuitpython.org/projects/displayio-layout/en/latest/))
 * [Adafruit CircuitPython Ducky](https://github.com/adafruit/Adafruit_CircuitPython_Ducky.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ducky)) ([Docs](https://docs.circuitpython.org/projects/ducky/en/latest/))
 * [Adafruit CircuitPython ESP32S2TFT](https://github.com/adafruit/Adafruit_CircuitPython_ESP32S2TFT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-esp32s2tft)) ([Docs](https://docs.circuitpython.org/projects/esp32s2tft/en/latest/))
+* [Adafruit CircuitPython FLAC](https://github.com/adafruit/Adafruit_CircuitPython_FLAC.git) ([Docs](https://docs.circuitpython.org/projects/flac/en/latest/))
 * [Adafruit CircuitPython FakeRequests](https://github.com/adafruit/Adafruit_CircuitPython_FakeRequests.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fakerequests)) ([Docs](https://docs.circuitpython.org/projects/fakerequests/en/latest/))
 * [Adafruit CircuitPython FancyLED](https://github.com/adafruit/Adafruit_CircuitPython_FancyLED.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-fancyled)) ([Docs](https://docs.circuitpython.org/projects/fancyled/en/latest/))
 * [Adafruit CircuitPython FeatherWing](https://github.com/adafruit/Adafruit_CircuitPython_FeatherWing.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-featherwing)) ([Docs](https://docs.circuitpython.org/projects/featherwing/en/latest/))
@@ -363,6 +364,7 @@ There are 407 libraries available.
 * [Adafruit CircuitPython NTP](https://github.com/adafruit/Adafruit_CircuitPython_NTP.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ntp)) ([Docs](https://docs.circuitpython.org/projects/ntp/en/latest/))
 * [Adafruit CircuitPython NeoKey](https://github.com/adafruit/Adafruit_CircuitPython_NeoKey.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-neokey)) ([Docs](https://docs.circuitpython.org/projects/neokey/en/latest/))
 * [Adafruit CircuitPython OAuth2](https://github.com/adafruit/Adafruit_CircuitPython_OAuth2.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-oauth2)) ([Docs](https://docs.circuitpython.org/projects/oauth2/en/latest/))
+* [Adafruit CircuitPython OGG](https://github.com/adafruit/Adafruit_CircuitPython_OGG.git) ([Docs](https://docs.circuitpython.org/projects/ogg/en/latest/))
 * [Adafruit CircuitPython OneWire](https://github.com/adafruit/Adafruit_CircuitPython_OneWire.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-onewire)) ([Docs](https://docs.circuitpython.org/projects/onewire/en/latest/))
 * [Adafruit CircuitPython PIO UART](https://github.com/adafruit/Adafruit_CircuitPython_PIO_UART.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pio-uart)) ([Docs](https://docs.circuitpython.org/projects/pio-uart/en/latest/))
 * [Adafruit CircuitPython PIOASM](https://github.com/adafruit/Adafruit_CircuitPython_PIOASM.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pioasm)) ([Docs](https://docs.circuitpython.org/projects/pioasm/en/latest/))
