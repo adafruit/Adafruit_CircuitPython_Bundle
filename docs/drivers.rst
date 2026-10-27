@@ -83,6 +83,7 @@ Helpers for building graphical interfaces using the displayio core module and fr
     GFX (framebuf) (adafruit_gfx) <https://docs.circuitpython.org/projects/gfx/en/latest/>
     Image Load (adafruit_imageload) <https://docs.circuitpython.org/projects/imageload/en/latest/>
     miniQR Non-hardware QR code generator (adafruit_miniqr) <https://docs.circuitpython.org/projects/miniqr/en/latest/>
+    Map Tiles (adafruit_maptiles) <https://docs.circuitpython.org/projects/maptiles/en/latest/>
     Pixel Framebuf Module (adafruit_pixel_framebuf) <https://docs.circuitpython.org/projects/pixel_framebuf/en/latest/>
     ProgressBar (adafruit_progressbar) <https://docs.circuitpython.org/projects/progressbar/en/latest/>
     PYOA (adafruit_pyoa) <https://docs.circuitpython.org/projects/pyoa/en/latest/>

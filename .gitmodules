@@ -1229,3 +1229,6 @@
 [submodule "libraries/helpers/ogg"]
 	path = libraries/helpers/ogg
 	url = https://github.com/adafruit/Adafruit_CircuitPython_OGG.git
+[submodule "libraries/helpers/maptiles"]
+	path = libraries/helpers/maptiles
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MapTiles.git
