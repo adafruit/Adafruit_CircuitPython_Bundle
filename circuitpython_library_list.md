@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 409 libraries available.
+There are 410 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) ([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -355,6 +355,7 @@ There are 409 libraries available.
 * [Adafruit CircuitPython MIDI](https://github.com/adafruit/Adafruit_CircuitPython_MIDI.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-midi)) ([Docs](https://docs.circuitpython.org/projects/midi/en/latest/))
 * [Adafruit CircuitPython MacroPad](https://github.com/adafruit/Adafruit_CircuitPython_MacroPad.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-macropad)) ([Docs](https://docs.circuitpython.org/projects/macropad/en/latest/))
 * [Adafruit CircuitPython MagTag](https://github.com/adafruit/Adafruit_CircuitPython_MagTag.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-magtag)) ([Docs](https://docs.circuitpython.org/projects/magtag/en/latest/))
+* [Adafruit CircuitPython MapTiles](https://github.com/adafruit/Adafruit_CircuitPython_MapTiles.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-maptiles)) ([Docs](https://docs.circuitpython.org/projects/maptiles/en/latest/))
 * [Adafruit CircuitPython MatrixPortal](https://github.com/adafruit/Adafruit_CircuitPython_MatrixPortal.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-matrixportal)) ([Docs](https://docs.circuitpython.org/projects/matrixportal/en/latest/))
 * [Adafruit CircuitPython Meshfruit](https://github.com/adafruit/Adafruit_CircuitPython_Meshfruit.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-meshfruit)) ([Docs](https://docs.circuitpython.org/projects/meshfruit/en/latest/))
 * [Adafruit CircuitPython MiniMQTT](https://github.com/adafruit/Adafruit_CircuitPython_MiniMQTT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-minimqtt)) ([Docs](https://docs.circuitpython.org/projects/minimqtt/en/latest/))
