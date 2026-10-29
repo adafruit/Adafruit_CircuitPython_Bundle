@@ -363,6 +363,7 @@ through ``datetime``.
     DS3231 Real-time Clock (Precision RTC) (adafruit_ds3231) <https://docs.circuitpython.org/projects/ds3231/en/latest/>
     PCF8523 Real-time Clock (Adalogger RTC) (adafruit_pcf8523) <https://docs.circuitpython.org/projects/pcf8523/en/latest/>
     PCF8563 Real-time Clock (adafruit_pcf8563) <https://docs.circuitpython.org/projects/pcf8563/en/latest/>
+    RV-8803 High Accuracy Real-time Clock (adafruit_rv8803) <https://docs.circuitpython.org/projects/rv8803/en/latest/>
 
 Motion Sensors
 ----------------
