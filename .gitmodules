@@ -1232,3 +1232,6 @@
 [submodule "libraries/helpers/maptiles"]
 	path = libraries/helpers/maptiles
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MapTiles.git
+[submodule "libraries/helpers/jampacked"]
+	path = libraries/helpers/jampacked
+	url = https://github.com/adafruit/Adafruit_CircuitPython_JamPacked.git

@@ -232,6 +232,7 @@ Miscellaneous Helpers
     Debug I2C (adafruit_debug_i2c) <https://docs.circuitpython.org/projects/debug_i2c/en/latest/>
     Ducky (adafruit_ducky) <https://docs.circuitpython.org/projects/ducky/en/latest/>
     InfraRed Remote (adafruit_irremote) <https://docs.circuitpython.org/projects/irremote/en/latest/>
+    JamPacked Sensor Data Packing (adafruit_jampacked) <https://docs.circuitpython.org/projects/jampacked/en/latest/>
     Mini ESP Tool (ESP chips loader) (adafruit_miniesptool) <https://docs.circuitpython.org/projects/miniesptool/en/latest/>
     NeoKey (adafruit_neokey) <https://docs.circuitpython.org/projects/neokey/en/latest/>
     OneWire (adafruit_onewire) <https://docs.circuitpython.org/projects/onewire/en/latest/>
