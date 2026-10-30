@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 410 libraries available.
+There are 411 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) ([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -186,6 +186,7 @@ There are 410 libraries available.
 * [Adafruit CircuitPython RFM](https://github.com/adafruit/Adafruit_CircuitPython_RFM.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rfm)) ([Docs](https://docs.circuitpython.org/projects/rfm/en/latest/))
 * [Adafruit CircuitPython RGB Display](https://github.com/adafruit/Adafruit_CircuitPython_RGB_Display.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rgb-display)) ([Docs](https://docs.circuitpython.org/projects/rgb_display/en/latest/))
 * [Adafruit CircuitPython RPLIDAR](https://github.com/adafruit/Adafruit_CircuitPython_RPLIDAR.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rplidar)) ([Docs](https://docs.circuitpython.org/projects/rplidar/en/latest/))
+* [Adafruit CircuitPython RV8803](https://github.com/adafruit/Adafruit_CircuitPython_RV8803.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rv8803)) ([Docs](https://docs.circuitpython.org/projects/rv8803/en/latest/))
 * [Adafruit CircuitPython RockBlock](https://github.com/adafruit/Adafruit_CircuitPython_RockBlock.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-rockblock)) ([Docs](https://docs.circuitpython.org/projects/rockblock/en/latest/))
 * [Adafruit CircuitPython S35710](https://github.com/adafruit/Adafruit_CircuitPython_S35710.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-s35710)) ([Docs](https://docs.circuitpython.org/projects/s35710/en/latest/))
 * [Adafruit CircuitPython SCD30](https://github.com/adafruit/Adafruit_CircuitPython_SCD30.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-scd30)) ([Docs](https://docs.circuitpython.org/projects/scd30/en/latest/))
