@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 411 libraries available.
+There are 412 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) ([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -349,6 +349,7 @@ There are 411 libraries available.
 * [Adafruit CircuitPython IterTools](https://github.com/adafruit/Adafruit_CircuitPython_IterTools.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-itertools)) ([Docs](https://docs.circuitpython.org/projects/itertools/en/latest/))
 * [Adafruit CircuitPython JSON Stream](https://github.com/adafruit/Adafruit_CircuitPython_JSON_Stream.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-json-stream)) ([Docs](https://docs.circuitpython.org/projects/json_stream/en/latest/))
 * [Adafruit CircuitPython JWT](https://github.com/adafruit/Adafruit_CircuitPython_JWT.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-jwt)) ([Docs](https://docs.circuitpython.org/projects/jwt/en/latest/))
+* [Adafruit CircuitPython JamPacked](https://github.com/adafruit/Adafruit_CircuitPython_JamPacked.git) ([Docs](https://docs.circuitpython.org/projects/jampacked/en/latest/))
 * [Adafruit CircuitPython LED Animation](https://github.com/adafruit/Adafruit_CircuitPython_LED_Animation.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-led-animation)) ([Docs](https://docs.circuitpython.org/projects/led-animation/en/latest/))
 * [Adafruit CircuitPython LIFX](https://github.com/adafruit/Adafruit_CircuitPython_LIFX.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lifx)) ([Docs](https://docs.circuitpython.org/projects/lifx/en/latest/))
 * [Adafruit CircuitPython Logging](https://github.com/adafruit/Adafruit_CircuitPython_Logging.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-logging)) ([Docs](https://docs.circuitpython.org/projects/logging/en/latest/))
