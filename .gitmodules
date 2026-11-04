@@ -1238,3 +1238,6 @@
 [submodule "libraries/drivers/rv8803"]
 	path = libraries/drivers/rv8803
 	url = https://github.com/adafruit/Adafruit_CircuitPython_RV8803.git
+[submodule "libraries/drivers/ov5647"]
+	path = libraries/drivers/ov5647
+	url = https://github.com/adafruit/Adafruit_CircuitPython_OV5647.git
