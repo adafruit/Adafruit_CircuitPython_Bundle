@@ -617,6 +617,7 @@ Miscellaneous
     Nunchuk (adafruit_nunchuk) <https://docs.circuitpython.org/projects/nunchuk/en/latest/>
     OV2640 Camera (adafruit_ov2640) <https://docs.circuitpython.org/projects/ov2640/en/latest/>
     OV5640 Camera (adafruit_ov5640) <https://docs.circuitpython.org/projects/ov5640/en/latest/>
+    OV5647 Camera (adafruit_over5647) <https://docs.circuitpython.org/projects/ov5647/en/latest/>
     OV7670 Camera (adafruit_ov7670) <https://docs.circuitpython.org/projects/ov7670/en/latest/>
     PCM51xx I2S DAC (adafruit_pcm51xx) <https://docs.circuitpython.org/projects/pcm51xx/en/latest/>
     Pixelbuf (adafruit_pixelbuf) <https://docs.circuitpython.org/projects/pixelbuf/en/latest/>
