@@ -1241,3 +1241,6 @@
 [submodule "libraries/drivers/ov5647"]
 	path = libraries/drivers/ov5647
 	url = https://github.com/adafruit/Adafruit_CircuitPython_OV5647.git
+[submodule "libraries/drivers/gt911"]
+	path = libraries/drivers/gt911
+	url = https://github.com/adafruit/Adafruit_CircuitPython_GT911.git
