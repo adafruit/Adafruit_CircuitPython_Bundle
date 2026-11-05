@@ -1244,3 +1244,6 @@
 [submodule "libraries/drivers/gt911"]
 	path = libraries/drivers/gt911
 	url = https://github.com/adafruit/Adafruit_CircuitPython_GT911.git
+[submodule "libraries/drivers/ili9881"]
+	path = libraries/drivers/ili9881
+	url = https://github.com/adafruit/Adafruit_CircuitPython_ILI9881.git

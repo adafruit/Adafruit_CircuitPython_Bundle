@@ -344,6 +344,7 @@ Other
     FT5336 Capacitive Touch Screen Driver (adafruit_ft5336) <https://docs.circuitpython.org/projects/ft5336/en/latest/>
     GT911 Capacitive Touch Screen Driver (adafruit_gt911) <https://docs.circuitpython.org/projects/gt911/en/latest/>
     HT16K33 LED Matrices and Segment Displays (adafruit_ht16k33) <https://docs.circuitpython.org/projects/ht16k33/en/latest/>
+    ILI9881 MIPI DSI Panel Driver (adafruit_ili9881) <https://docs.circuitpython.org/projects/ili9881/en/latest/>
     IS31FL3731 Charlieplexed LED Matrix (adafruit_is31fl3731) <https://docs.circuitpython.org/projects/is31fl3731/en/latest/>
     IS31FL3741 RGB LED Matrix driver (adafruit_is31fl3741) <https://docs.circuitpython.org/projects/is31fl3741/en/latest/>
     MAX7219 LED Matrix (adafruit_max7219) <https://docs.circuitpython.org/projects/max7219/en/latest/>
