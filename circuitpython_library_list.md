@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 412 libraries available.
+There are 413 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) ([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -164,6 +164,7 @@ There are 412 libraries available.
 * [Adafruit CircuitPython OPT4048](https://github.com/adafruit/Adafruit_CircuitPython_OPT4048.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-opt4048)) ([Docs](https://docs.circuitpython.org/projects/opt4048/en/latest/))
 * [Adafruit CircuitPython OV2640](https://github.com/adafruit/Adafruit_CircuitPython_OV2640.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ov2640)) ([Docs](https://docs.circuitpython.org/projects/ov2640/en/latest/))
 * [Adafruit CircuitPython OV5640](https://github.com/adafruit/Adafruit_CircuitPython_OV5640.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ov5640)) ([Docs](https://docs.circuitpython.org/projects/ov5640/en/latest/))
+* [Adafruit CircuitPython OV5647](https://github.com/adafruit/Adafruit_CircuitPython_OV5647.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ov5647)) ([Docs](https://docs.circuitpython.org/projects/ov5647/en/latest/))
 * [Adafruit CircuitPython OV7670](https://github.com/adafruit/Adafruit_CircuitPython_OV7670) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ov7670)) ([Docs](https://docs.circuitpython.org/projects/ov7670/en/latest/))
 * [Adafruit CircuitPython PCA9554](https://github.com/adafruit/Adafruit_CircuitPython_PCA9554.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pca9554)) ([Docs](https://docs.circuitpython.org/projects/pca9554/en/latest/))
 * [Adafruit CircuitPython PCA9685](https://github.com/adafruit/Adafruit_CircuitPython_PCA9685.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-pca9685)) ([Docs](https://docs.circuitpython.org/projects/pca9685/en/latest/))
