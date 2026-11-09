@@ -1247,3 +1247,6 @@
 [submodule "libraries/drivers/ili9881"]
 	path = libraries/drivers/ili9881
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ILI9881.git
+[submodule "libraries/helpers/musicplayer"]
+	path = libraries/helpers/musicplayer
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MusicPlayer.git
