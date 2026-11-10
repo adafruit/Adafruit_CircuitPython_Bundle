@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 415 libraries available.
+There are 416 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) ([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -367,6 +367,7 @@ There are 415 libraries available.
 * [Adafruit CircuitPython Moonshine Klatt](https://github.com/adafruit/Adafruit_CircuitPython_Moonshine_Klatt.git) ([Docs](https://docs.circuitpython.org/projects/moonshine-klatt/en/latest/))
 * [Adafruit CircuitPython MotorKit](https://github.com/adafruit/Adafruit_CircuitPython_MotorKit.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-motorkit)) ([Docs](https://docs.circuitpython.org/projects/motorkit/en/latest/))
 * [Adafruit CircuitPython Motor](https://github.com/adafruit/Adafruit_CircuitPython_Motor.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-motor)) ([Docs](https://docs.circuitpython.org/projects/motor/en/latest/))
+* [Adafruit CircuitPython MusicPlayer](https://github.com/adafruit/Adafruit_CircuitPython_MusicPlayer.git)
 * [Adafruit CircuitPython NTP](https://github.com/adafruit/Adafruit_CircuitPython_NTP.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ntp)) ([Docs](https://docs.circuitpython.org/projects/ntp/en/latest/))
 * [Adafruit CircuitPython NeoKey](https://github.com/adafruit/Adafruit_CircuitPython_NeoKey.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-neokey)) ([Docs](https://docs.circuitpython.org/projects/neokey/en/latest/))
 * [Adafruit CircuitPython OAuth2](https://github.com/adafruit/Adafruit_CircuitPython_OAuth2.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-oauth2)) ([Docs](https://docs.circuitpython.org/projects/oauth2/en/latest/))
