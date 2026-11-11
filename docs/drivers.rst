@@ -348,6 +348,7 @@ Other
     ILI9881 MIPI DSI Panel Driver (adafruit_ili9881) <https://docs.circuitpython.org/projects/ili9881/en/latest/>
     IS31FL3731 Charlieplexed LED Matrix (adafruit_is31fl3731) <https://docs.circuitpython.org/projects/is31fl3731/en/latest/>
     IS31FL3741 RGB LED Matrix driver (adafruit_is31fl3741) <https://docs.circuitpython.org/projects/is31fl3741/en/latest/>
+    LT8912B DSI to DVI Converter (adafruit_lt8912b) <https://docs.circuitpython.org/projects/lt8912b/en/latest/>
     MAX7219 LED Matrix (adafruit_max7219) <https://docs.circuitpython.org/projects/max7219/en/latest/>
     Nokia PCD8544 Display (adafruit_pcd8544) <https://docs.circuitpython.org/projects/pcd8544/en/latest/>
     RA8875 40-Pin Display Driver (adafruit_ra8875) <https://docs.circuitpython.org/projects/ra8875/en/latest/>
