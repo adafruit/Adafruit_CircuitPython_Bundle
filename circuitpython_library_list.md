@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 416 libraries available.
+There are 417 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) ([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -124,6 +124,7 @@ There are 416 libraries available.
 * [Adafruit CircuitPython LSM6DS](https://github.com/adafruit/Adafruit_CircuitPython_LSM6DS.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm6ds)) ([Docs](https://docs.circuitpython.org/projects/lsm6dsox/en/latest/))
 * [Adafruit CircuitPython LSM9DS0](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS0.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm9ds0)) ([Docs](https://docs.circuitpython.org/projects/lsm9ds0/en/latest/))
 * [Adafruit CircuitPython LSM9DS1](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS1.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lsm9ds1)) ([Docs](https://docs.circuitpython.org/projects/lsm9ds1/en/latest/))
+* [Adafruit CircuitPython LT8912B](https://github.com/adafruit/Adafruit_CircuitPython_LT8912B.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-lt8912b)) ([Docs](https://docs.circuitpython.org/projects/lt8912b/en/latest/))
 * [Adafruit CircuitPython LTR329 LTR303](https://github.com/adafruit/Adafruit_CircuitPython_LTR329_LTR303.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ltr329-ltr303)) ([Docs](https://docs.circuitpython.org/projects/ltr329-ltr303/en/latest/))
 * [Adafruit CircuitPython LTR390](https://github.com/adafruit/Adafruit_CircuitPython_LTR390.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-ltr390)) ([Docs](https://docs.circuitpython.org/projects/ltr390/en/latest/))
 * [Adafruit CircuitPython MAX1704x](https://github.com/adafruit/Adafruit_CircuitPython_MAX1704x.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-max1704x)) ([Docs](https://docs.circuitpython.org/projects/max1704x/en/latest/))
