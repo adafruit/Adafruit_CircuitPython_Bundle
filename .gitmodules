@@ -1253,3 +1253,6 @@
 [submodule "libraries/drivers/lt8912b"]
 	path = libraries/drivers/lt8912b
 	url = https://github.com/adafruit/Adafruit_CircuitPython_LT8912B.git
+[submodule "libraries/drivers/vl53l5cx"]
+	path = libraries/drivers/vl53l5cx
+	url = https://github.com/adafruit/Adafruit_CircuitPython_VL53L5CX.git
