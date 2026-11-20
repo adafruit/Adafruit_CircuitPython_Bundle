@@ -524,6 +524,7 @@ These sensors measure the ``distance`` to another object and may also measure li
     VL53L0x ~30 - 1000 mm (adafruit_vl53l0x) <https://docs.circuitpython.org/projects/vl53l0x/en/latest/>
     VL53L1X ~30 - 4000 mm (adafruit_vl53l1x) <https://docs.circuitpython.org/projects/vl53l1x/en/latest/>
     VL53L4CD Time of Flight (adafruit_vl53l4cd) <https://docs.circuitpython.org/projects/vl53l4cd/en/latest/>
+    VL53L5CX Time-of-Flight Distance 8x8 Pixel Camera (adafruit_vl53l5cx) <https://docs.circuitpython.org/projects/vl53l5cx/en/latest/>
 
 Radio
 --------
