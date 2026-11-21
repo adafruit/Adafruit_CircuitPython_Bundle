@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 417 libraries available.
+There are 418 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) ([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -277,6 +277,7 @@ There are 417 libraries available.
 * [Adafruit CircuitPython VL53L0X](https://github.com/adafruit/Adafruit_CircuitPython_VL53L0X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vl53l0x)) ([Docs](https://docs.circuitpython.org/projects/vl53l0x/en/latest/))
 * [Adafruit CircuitPython VL53L1X](https://github.com/adafruit/Adafruit_CircuitPython_VL53L1X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vl53l1x)) ([Docs](https://docs.circuitpython.org/projects/vl53l1x/en/latest/))
 * [Adafruit CircuitPython VL53L4CD](https://github.com/adafruit/Adafruit_CircuitPython_VL53L4CD.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vl53l4cd)) ([Docs](https://docs.circuitpython.org/projects/vl53l4cd/en/latest/))
+* [Adafruit CircuitPython VL53L5CX](https://github.com/adafruit/Adafruit_CircuitPython_VL53L5CX.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vl53l5cx)) ([Docs](https://docs.circuitpython.org/projects/vl53l5cx/en/latest/))
 * [Adafruit CircuitPython VL6180X](https://github.com/adafruit/Adafruit_CircuitPython_VL6180X.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vl6180x)) ([Docs](https://docs.circuitpython.org/projects/vl6180x/en/latest/))
 * [Adafruit CircuitPython VS1053](https://github.com/adafruit/Adafruit_CircuitPython_VS1053.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-vs1053)) ([Docs](https://docs.circuitpython.org/projects/vs1053/en/latest/))
 * [Adafruit CircuitPython WM8960](https://github.com/adafruit/Adafruit_CircuitPython_WM8960.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-wm8960)) ([Docs](https://docs.circuitpython.org/projects/wm8960/en/latest/))
